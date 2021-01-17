@@ -28,7 +28,7 @@ https://streams.wilmaa.com/m3u8/get?channelId=nove_it
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20_Mediaset" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/20_mediaset.png" group-title="Italy",20 Mediaset (IT)
 https://streams.wilmaa.com/m3u8/get?channelId=20_mediaset_it
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20_Mediaset" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/20_mediaset.png" group-title="Italy",20 Mediaset (IT) (Opz.2)
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+https://link.theplatform.eu/s/PR1GhC/jMAFh1mSmJsJ
 #EXTINF:-1 tvg-id="Boing.ir" tvg-name="Boing_I" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/boing.png" group-title="Italy",Boing (IT)
 https://streams.wilmaa.com/m3u8/get?channelId=boing
 #EXTINF:-1 tvg-id="CanaleItalia.it" tvg-name="Canale_Italia" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/canale_italia.png" group-title="Italy",Canale Italia (IT)
@@ -83,12 +83,6 @@ https://streams.wilmaa.com/m3u8/get?channelId=rai_storia
 https://streams.wilmaa.com/m3u8/get?channelId=rai_yoyo
 #EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real_Time" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/real_time.png" group-title="Italy",Real Time (IT)
 https://streams.wilmaa.com/m3u8/get?channelId=real_time_it
-#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete_4" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rete4.png" group-title="Italy",Rete4 HD (IT)
-https://streams.wilmaa.com/m3u8/get?channelId=rete_4_hd
-#EXTINF:-1 tvg-id="RSILa1.ch" tvg-name="RSI_La1_HD" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rsi_la1_hd.png" group-title="Italy",RSI La 1 HD (IT)
-https://streams.wilmaa.com/m3u8/get?channelId=rsi_la_1_original_hd
-#EXTINF:-1 tvg-id="RSILa2.ch" tvg-name="RSI_La2_HD" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rsi_la2_hd.png" group-title="Italy",RSI La 2 HD (IT)
-https://streams.wilmaa.com/m3u8/get?channelId=rsi_la_2_original_hd
 #EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-name="RTL_102.5_TV_HD" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rtl1025.png" group-title="Italy",RTL 102.5 TV (IT)
 https://streams.wilmaa.com/m3u8/get?channelId=rtl_1025_tv
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="sky_TG_24" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/sky_tg24.png" group-title="Italy",Sky TG24 (IT)
