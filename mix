@@ -249,7 +249,12 @@ http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/world_fashion.png" group-title="TOP ITALIA",World Fashion International HD
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="https://vialogue.files.wordpress.com/2008/04/discovery-channel-discoveryfeature300.jpg" group-title="TOP ITALIA",Discovery HD
+http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108004
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Sci HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/800px-Discovery_Science_2017_Logo.svg.png" group-title="TOP ITALIA",Discovery Sci HD
+http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108001
+#EXTINF:-1 tvg-id="" tvg-name="National Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/800px-Natgeologo.svg.png" group-title="TOP ITALIA",National Geo HD
+http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107998
 #EXTINF:-1 group-title="TOP ITALIA",Radio 24
 https://tivustream.website/urls/radio24
 #EXTINF:-1 " group-title="TOP ITALIA",Tg Norba 24
@@ -523,17 +528,17 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 #EXTINF:-1 " group-title="SPORT",Feed Sport 2 Mediaset 
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b2)/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Serie A" tvg-name="Sky  Sport Serie A HD" tvg-logo="https://www.osteriacapri.it/wp-content/uploads/2019/11/sky-sport-serie-a-thumb.png" group-title="SPORT",Sky  Sport Serie A HD
-http://misterxiptv.ddns.net:80/aWgcegyi9m/FZsZukKIpH/99414
+http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107891
 #EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="Sky Sport Uno HD" tvg-logo="https://static.sky.it/images/skyit/ext/rf/benvenuto/sky-digitale-terrestre-txt/img/11_skysportunohd.png" group-title="SPORT",Sky Sport Uno HD
-http://misterxiptv.ddns.net:80/aWgcegyi9m/FZsZukKIpH/99338
+http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107970
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="SPORT",DAZN 1 HD
-http://misterxiptv.ddns.net:80/aWgcegyi9m/FZsZukKIpH/166779
+http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107917
 #EXTINF:-1 tvg-id="Inter Channel" tvg-name="Inter Channel" tvg-logo="https://www.vi-so.com/wp-content/uploads/2017/10/interchannel.jpg" group-title="SPORT",Inter Channel
-http://misterxiptv.ddns.net:80/aWgcegyi9m/FZsZukKIpH/99350
+http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107866
 #EXTINF:-1 " group-title="SPORT",EUROSPORT 1
-http://mags.vip:2086/live/miriam/miriam123/94204.ts
+http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107940
 #EXTINF:-1 " group-title="SPORT",EUROSPORT 2
-http://mags.vip:2086/live/miriam/miriam123/94203.ts
+http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107937
 #EXTINF:-1 " group-title="SPORT",China-1
 http://livecdn.fptplay.net/italyfootball/seriea01_4000.stream/chunklist.m3u8
 #EXTINF:-1 " group-title="SPORT",China-2
@@ -1806,6 +1811,8 @@ https://endemol-tele-crimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
 https://endemol-tele-drama-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Shows" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="Vari",TV Shows
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8 
+ 
+ 
  
  
  
