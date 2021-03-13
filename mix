@@ -17,9 +17,16 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 #EXTINF:-1 tvg-id="Sky Uno HD" tvg-name="Sky Uno HD" tvg-logo="https://imbt.ga/P2A71tpUMX" group-title="TOP ITALIA",Sky Uno HD
 http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108052
+#EXTINF:-1 tvg-id="Sky Atlantic" tvg-name="Sky Atlantic HD" tvg-logo="https://imbt.ga/vufT3tK1pk" group-title="TOP ITALIA",Sky Atlantic HD
+http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108044
 #EXTINF:-1 tvg-id="" tvg-name="Pesca e Caccia HD" tvg-logo="https://www.pescaecaccia.com/wp-content/uploads/2016/10/logo-rov2.png" group-title="TOP ITALIA",Pesca e Caccia HD
 http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108011
-
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="https://vialogue.files.wordpress.com/2008/04/discovery-channel-discoveryfeature300.jpg" group-title="TOP ITALIA",Discovery HD
+http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108004
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Sci HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/800px-Discovery_Science_2017_Logo.svg.png" group-title="TOP ITALIA",Discovery Sci HD
+http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108001
+#EXTINF:-1 tvg-id="" tvg-name="National Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/800px-Natgeologo.svg.png" group-title="TOP ITALIA",National Geo HD
+http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107998
 
 
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai1hd.png" group-title="TOP ITALIA",Rai 1
@@ -381,6 +388,8 @@ https://rakuten-comedymovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-spotlight-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Shows" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="SAMSUNG TV PLUS",Rakuten TV Shows
 https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Family Movies" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="SAMSUNG TV PLUS",Rakuten Family Movies
+https://rakuten-family-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Drama Movies" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="SAMSUNG TV PLUS",Rakuten Drama Movies
 https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u
 EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="SAMSUNG TV PLUS",Sophia TV (720p)
@@ -1555,6 +1564,9 @@ http://camsecure.co/HLS/ilfracombe2.m3u8
 http://camsecure.co/HLS/ilfracombe1.m3u8
 #EXTINF:-1 tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" group-title="TRAVEL",WEBCAM UK: London (Abbey Road)
 https://videos3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/chunklist_w1096421812.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name=" Bruessel - Grote Markt
+" tvg-logo="" group-title="TRAVEL", WEBCAM BELGIO Bruessel - Grote Markt
+http://stream.brucity.be/BXLCAM/CAM-GrandePlace.stream/chunklist_w1289707571.m3u8
 #EXTINF:-1 tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" group-title="TRAVEL",WEBCAM ITALIA Venezia (Ponte di Rialto)
 https://cdn-001.whatsupcams.com/hls/it_venezia01.m3u8
 #EXTINF:-1 tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" group-title="TRAVEL",WEBCAM - Italia - Veneto - Bibione
@@ -1812,6 +1824,7 @@ https://endemol-tele-drama-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Shows" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="Vari",TV Shows
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8 
  
+
  
  
  
