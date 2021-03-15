@@ -199,22 +199,6 @@ http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 https://odmsto.com/scripi/yt.php?search=Fanpage.itLive!Lenotiziedioggiindiretta,live
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/tv2000.png" group-title="TOP ITALIA",Tv 2000
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/V/vatican-media-reduced-logo-BA4C1272D1-seeklogo.com.png" group-title="TOP ITALIA",Vatican Media
-https://tivustream.website/urls/vaticanmedialive
-#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/1135673/sanctuaires-notre-dame-de-lourdes-squarelogo-1456834408012.png" group-title="TOP ITALIA",Lourdes Live
-https://tivustream.website/urls/lourdes
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/tele_radio_padre_pio200.png" group-title="TOP ITALIA",Tele Padre Pio HD
-http://apps.summview.com/index-live-12-0-0.m3u8
-#EXTINF:-1 tvg-name="Fatima Tv" tvg-logo="https://www.tvdream.net/img/fatimatv.png" tvg-shift="0" group-title="TOP ITALIA",Fatima Tv
-http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
-#EXTINF:-1 tvg-name="Giovanni Paolo Tv" tvg-logo="https://www.tvdream.net/immagini/giovanni-paolo-tv.jpg" group-title="TOP ITALIA",Giovanni Paolo Tv	
-https://5e60b0449be90.streamlock.net/giovannipaolotv/web/chunklist_w498992435.m3u8
-#EXTINF:-1 tvg-name="Chiesa Tv" tvg-logo="https://www.tvdream.net/immagini/chiesa-tv.jpg" group-title="TOP ITALIA",Chiesa Tv
-http://cldwz.glauco.it/HLS/Chiesadimilanoaac/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/telepace.jpg" group-title="TOP ITALIA",Tele Pace
-http://live-fs.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/CatholicTV_logo.png/220px-CatholicTV_logo.png" group-title="TOP ITALIA",Catholic Tv HD
-http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/history-lab.jpg" group-title="TOP ITALIA",History Lab
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/KOPER.png" group-title="TOP ITALIA",Tv Koper Capodistria
@@ -243,12 +227,7 @@ http://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.davidemaggio.it/pics3/2020/04/Alma-Tv.jpg" group-title="TOP ITALIA",Alma Tv
 http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.utdstc.com/icons/fashiontv-android.png:240" group-title="TOP ITALIA",Fashion Tv
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/02/Network_Fashion_Lifestyle_1280x720-520x293.jpg" group-title="TOP ITALIA",HD Fashion Lifestyle Tv
-http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/world_fashion.png" group-title="TOP ITALIA",World Fashion International HD
-http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="https://vialogue.files.wordpress.com/2008/04/discovery-channel-discoveryfeature300.jpg" group-title="TOP ITALIA",Discovery HD
 http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108004
@@ -719,7 +698,7 @@ http://59253971be783.streamlock.net/KKMulti/livestream_600p/playlist.m3u8
 #EXTINF:-1 tvg-name="Kiss Kiss Italia Tv" tvg-logo="https://www.tvdream.net/immagini/kiss-kiss-italia-tv.jpg" tvg-shift="0" group-title="MUSICA",Kiss Kiss Italia Tv
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Kiss Kiss Napoli Tv" tvg-logo="https://www.tvdream.net/immagini/kiss-kiss-napoli-tv.jpg" tvg-shift="0" group-title="MUSICA",Kiss Kiss Napoli Tv
-http://wma05.fluidstream.net/KKTVNapoli/livestream/playlist.m3u8
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/5/35075.v4.png" tvg-shift="0" group-title="MUSICA",Kool London Tv
 http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ritsatv.ru/files/poster/medium/600622.png" tvg-shift="0" group-title="MUSICA",Kronehit HD
@@ -783,7 +762,7 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-name="OL3 Radio Tv" tvg-logo="https://www.tvdream.net/immagini/ol3radio.jpg" tvg-shift="0" group-title="MUSICA",OL3 Radio Tv
 https://5c389faa13be3.streamlock.net:9553/ol3radio/ol3radio/chunklist_w1433439357.m3u8
 #EXTINF:-1 tvg-name="Onda Radio Web Tv" tvg-logo="http://occhioallartistamagazine.it/wp-content/uploads/2018/06/ondaweb.jpg" tvg-shift="0" group-title="MUSICA",Onda Radio Web Tv
-https://57068da1deb21.streamlock.net/ondaradioweb/ondaradioweb/playlist.m3u8
+https://stream.ondaweb.tv:4433/hls/ondaweb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lv0mnMF.png" group-title="MUSICA",Onda TV 10
 http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSICA",Otto Fm Tv
@@ -926,8 +905,8 @@ http://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
 http://185.202.128.1:1935/LunaTV/lunaTv_ok.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Manbassa Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3958308d-d640-409a-8acf-b427bdc0d296-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Manbassa Tv
 https://tivustream.website/urls/manbassatv
-#EXTINF:-1 group-title="MUSICA",Radio Marte Tv
-http://flash7.streaming.xdevel.com/martecam/martecam/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Marte Tv" tvg-logo="https://www.radiomarte.it/marte/wp-content/uploads/2019/04/RadioMarteLogo.png" tvg-shift="0" group-title="MUSICA",Radio Marte Tv
+https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",Radio Maxima 70 80 90
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",Radio Millenium Tv
@@ -988,6 +967,8 @@ http://5e73cf528f404.streamlock.net/RTR99TV/livestream/playlist.m3u8
 https://5b38ce71f1f00.streamlock.net/8288/8288/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",Radio Sanborja (Pe)
 https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Sicilia Web Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/98133204-4a31-44ed-822e-b68dc1718594-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Sicilia Web Tv
+http://napolinelquore.ns0.it:25461/live/FacebookRadio/UEiVoAJKSd/2.m3u8
 #EXTINF:-1 group-title="MUSICA",Radio Sorriso Tv
 http://56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",Radio Splash Tv
@@ -1000,6 +981,8 @@ https://tivustream.website/urls/radiostudioone
 https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Studio Piu' Tv" tvg-logo="https://www.studiopiu.net/wp-content/uploads/2017/07/LOGO_S_rosso-300x235.png" tvg-shift="0" group-title="MUSICA",Radio Studio Piu' Tv
 https://stream1.xdevel.com/video1s975757-316/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Tv Oltre Limite" tvg-logo="https://radiotvoltrelimite.it/wp-content/uploads/2020/07/logo_definitivo_v2-1024x263.png" tvg-shift="0" group-title="MUSICA",Radio Tv Oltre Limite  
+https://585b674743bbb.streamlock.net/9068/9068/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Taormina Tv" tvg-logo="https://www.radiotaormina.it/wp-content/uploads/2019/09/logo_radio_taormia_header.png" tvg-shift="0" group-title="MUSICA",Radio Taormina Tv
 http://stream2.xdevel.com/video1s3-7/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Radio Telecolor" tvg-logo="https://nilcorporation.it/wp-content/uploads/2019/07/RADIO-TELECOLOR.jpg" tvg-shift="0" group-title="MUSICA",Radio Telecolor
@@ -1546,6 +1529,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
 #EXTINF:-1 tvg-name="Lakes Live" tvg-logo="https://i.imgur.com/ijurD8t.png" group-title="TRAVEL",Lakes Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+#EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://i.imgur.com/AzOvgkV.png" group-title="TRAVEL",Love Nature 4K
+https://d27r4t30huw0iy.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" group-title="TRAVEL",WEBCAM Brazil: Rio (Copacabana Beach)
 https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Brazil - Rio 2"group-title="TRAVEL",WEBCAM Brazil - Rio 2
@@ -1828,6 +1813,8 @@ https://endemol-tele-crimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
 https://endemol-tele-drama-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Shows" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="Vari",TV Shows
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8 
+ 
+ 
  
  
  
