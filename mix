@@ -16,7 +16,7 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 #EXTINF:-1 tvg-id="" tvg-name="Rai News 24" " group-title="TOP ITALIA",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 #EXTINF:-1 tvg-id="Sky Uno HD" tvg-name="Sky Uno HD" tvg-logo="https://imbt.ga/P2A71tpUMX" group-title="TOP ITALIA",Sky Uno HD
-http://newlook.to:45212/131_312788/7148156/234.ts
+http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108052
 #EXTINF:-1 tvg-id="Sky Atlantic" tvg-name="Sky Atlantic HD" tvg-logo="https://imbt.ga/vufT3tK1pk" group-title="TOP ITALIA",Sky Atlantic HD
 http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108044
 #EXTINF:-1 tvg-id="" tvg-name="Pesca e Caccia HD" tvg-logo="https://www.pescaecaccia.com/wp-content/uploads/2016/10/logo-rov2.png" group-title="TOP ITALIA",Pesca e Caccia HD
@@ -332,6 +332,8 @@ https://jukin-peopleareawesome-2-it.samsung.wurl.com/manifest/playlist.m3u8
 https://endemol-top-serie-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Top Crimine" tvg-id="" group-title="SAMSUNG TV PLUS" tvg-logo="https://i.imgur.com/MLCYwWD.png",Top Crimine
 https://endemol-top-criminie-1-it.samsung.wurl.com/manifest/playlist.m3u8
+EXTINF:-1 tvg-id="" tvg-name="Atres Series" tvg-logo="https://i.imgur.com/g5iBSq4.png" group-title="SAMSUNG TV PLUS",Atres Series
+https://atresmedia-atreseries-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/mma-tv.png" group-title="SAMSUNG TV PLUS",MMA TV (Samsung Channel)
 https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/motor-1-tv.png" group-title="SAMSUNG TV PLUS",Motor 1 TV (Samsung Channel)
@@ -376,6 +378,8 @@ https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8
 https://dhx-teletubbies-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Amuse Animation" tvg-logo="https://i.imgur.com/H7GtB0T.jpg" group-title="SAMSUNG TV PLUS",Amuse Animation
 https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://i.imgur.com/Qw8x6Os.png" group-title="SAMSUNG TV PLUS",Duck TV
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Mondo Kids" tvg-logo="https://i.imgur.com/AeHlXnK.jpg" group-title="SAMSUNG TV PLUS",Mondo Kids
 https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -582,7 +586,7 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1 " group-title="MUSICA", RADIO M2O TV 
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1 group-title="MUSICA", RADIO RTL 102.5 TV
-https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/playlist.m3u8
+https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:-1 " group-title="MUSICA",, DEEJAY TV 
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 #EXTINF:-1 " group-title="MUSICA", RADIO FRECCIA 
