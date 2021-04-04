@@ -615,6 +615,10 @@ https://053155d1274848ed85106dbf20adc283.mediatailor.us-east-1.amazonaws.com/v1/
 https://5580b04771d94e5eb245830c5975eb77.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHipHop/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA", MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/180px-MTV_Live_HD_2017_logo.svg.png" tvg-shift="0" group-title="MUSICA",MTV LIVE
+https://origin-02.nxplay.com.br/MTVNI_HD_NX/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 group-title="MUSICA",Portal Fox Mix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MFbbITI.jpg" group-title="MUSICA",80s Party
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gMj1BQR.jpg" group-title="MUSICA",Only 90s
@@ -623,6 +627,8 @@ https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/258-2582037_cmc-usa-graphic-design-hd-png-download.png" tvg-shift="0" group-title="MUSICA",California Music Channel USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+#EXTINF:-1 tvg-name="30A Music (US)" tvg-id="30a-tv.com" group-title="MUSICA" tvg-logo="https://i.imgur.com/gNWg9tl.png",30A Music (US)
+http://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-name="VEVO 80's (US)" tvg-logo="http://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="MUSICA",VEVO 80's (US)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="VEVO 90's (US)" tvg-logo="http://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="MUSICA",VEVO 90's (US)
@@ -1797,7 +1803,19 @@ https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
 http://5.135.92.133:52841/out/u/115_1.m3u8
 #EXTINF:-1 tvg-id="RT2.DE" tvg-logo="http://static.epg.best/de/RTL2.de.png" group-title="Vari",RTL Zwei
 http://5.135.92.133:52841/out/u/119_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/Sat1.de.png" group-title="Vari",Sab 1 
+#EXTINF:-1 tvg-id="RTLGold.de" tvg-name="RTL Gold" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="",RTL Gold
+https://stream.y5.hu/stream/stream_rtlgold/stream.m3u8
+#EXTINF:-1 tvg-id="RTLIIHD.de" tvg-name="RTL II HD" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="",RTL II HD
+https://stream.y5.hu/stream/stream_rtl2/hls0/stream.m3u8
+#EXTINF:-1 tvg-id="RTLIIHD.de" tvg-name="RTL II HD" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="",RTL II HD
+https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
+#EXTINF:-1 tvg-id="RTLKlub.de" tvg-name="RTL Klub" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="",RTL Klub
+https://stream.y5.hu/stream/stream_rtlklub/hls0/stream.m3u8
+#EXTINF:-1 tvg-id="RTLKlub.de" tvg-name="RTL Klub" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="",RTL Klub
+https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
+#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL+" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="",RTL+
+https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/Sat1.de.png" group-title="Vari",Sat 1 
 http://178.132.3.162:88/SAT_1/video.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/Kabel1.de.png" group-title="Vari",Kabel Eins
 http://178.132.3.162:88/Kabel_1/video.m3u8?token=test
@@ -1854,6 +1872,7 @@ https://rakuten-spotlight-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Shows" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="Vari",TV Shows
 https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Vari",Action Movies
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Big Name" tvg-logo="https://i.imgur.com/hChduSn.png" group-title="Vari",Big Name
