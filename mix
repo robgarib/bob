@@ -25,54 +25,30 @@ http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108052
 http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108044
 #EXTINF:-1 tvg-id="" tvg-name="Pesca e Caccia HD" tvg-logo="https://www.pescaecaccia.com/wp-content/uploads/2016/10/logo-rov2.png" group-title="TOP ITALIA",Pesca e Caccia HD
 http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108011
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai1hd.png" group-title="TOP ITALIA",Rai 4K
+https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai1hd.png" group-title="TOP ITALIA",Rai 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai1hd.png" group-title="TOP ITALIA",Rai 1 (Estero)
-https://tivustream.website/urls/rai1estero
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai2hd.png" group-title="TOP ITALIA",Rai 2
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai2hd.png" group-title="TOP ITALIA",Rai 2 (Estero)
-https://tivustream.website/urls/rai2estero
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai3hd.png" group-title="TOP ITALIA",Rai 3
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai3hd.png" group-title="TOP ITALIA",Rai 3 (Opz 2)
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai3hd.png" group-title="TOP ITALIA",Rai 3 (Estero)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Italy/ca815800948fd11.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rete4hd.png" group-title="TOP ITALIA",Rete 4
-https://link.theplatform.eu/s/PR1GhC/_VvNg2UvGj4r
+https://link.theplatform.eu/s/PR1GhC/kFE4DvC7iR3B
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rete4hd.png" group-title="TOP ITALIA",Rete 4 (Opz.2)
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rete4hd.png" group-title="TOP ITALIA",Rete 4
-http://5.135.92.133:52841/out/u/433_1.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rete4hd.png" group-title="TOP ITALIA",Rete 4
-http://5.135.92.133:52841/out/u/434_1.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rete4hd.png" group-title="TOP ITALIA",Rete 4
-http://5.135.92.133:52841/out/u/435_1.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/canale5.png" group-title="TOP ITALIA",Canale 5
-https://link.theplatform.eu/s/PR1GhC/juxmCfbJGxNe
+https://link.theplatform.eu/s/PR1GhC/Mn1eiaF9qA51
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/canale5.png" group-title="TOP ITALIA",Canale 5 (Opz.2)
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/canale5.png" group-title="TOP ITALIA",Canale 5
-http://5.135.92.133:52841/out/u/422_1.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/canale5.png" group-title="TOP ITALIA",Canale 5
-http://5.135.92.133:52841/out/u/423_1.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/canale5.png" group-title="TOP ITALIA",Canale 5
-http://5.135.92.133:52841/out/u/424_1.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/canale5.png" group-title="TOP ITALIA",Canale 5
-http://5.135.92.133:52841/out/u/425_1.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/italia1.png" group-title="TOP ITALIA",Italia 1
-https://link.theplatform.eu/s/PR1GhC/tLTET8gDdRgh
+https://link.theplatform.eu/s/PR1GhC/zvKjcHLjKGot
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/italia1.png" group-title="TOP ITALIA",Italia 1 (Opz.2)
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/italia1.png" group-title="TOP ITALIA",Italia 1
-http://5.135.92.133:52841/out/u/51_1.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/italia1.png" group-title="TOP ITALIA",Italia 1
-http://5.135.92.133:52841/out/u/52_1.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/italia1.png" group-title="TOP ITALIA",Italia 1
-http://5.135.92.133:52841/out/u/53_1.m3u8
 #EXTINF:-1 tvg-logo="http://patbuweb.com/tivustream/chanlogoz/ita/la7.png" group-title="TOP ITALIA",LA 7 (Test)
 http://tivustream.website/urls/la72
 #EXTINF:-1 tvg-logo="http://patbuweb.com/tivustream/chanlogoz/ita/la7.png" group-title="TOP ITALIA",LA 7
@@ -130,7 +106,7 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/giallo.png" group-title="TOP ITALIA",Giallo (opz 2)
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/Focus.png" group-title="TOP ITALIA",Focus
-https://link.theplatform.eu/s/PR1GhC/WxOa6HLO1_5T
+https://link.theplatform.eu/s/PR1GhC/zGuRrwj2Zi_Y
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/Focus.png" group-title="TOP ITALIA",Focus (Opz.2)
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/dmax.png" group-title="TOP ITALIA",Dmax HD
@@ -138,31 +114,31 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Bike_%28TV_channel%29_logo.png/250px-Bike_%28TV_channel%29_logo.png" group-title="TOP ITALIA",Bike Smart Mobilty
 https://backup.superstreaming.inaria.me/BikeSmartMobilityDTT/index.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/topcrime.png" group-title="TOP ITALIA",Top Crime
-https://link.theplatform.eu/s/PR1GhC/NKL__pIA0lsi
+https://link.theplatform.eu/s/PR1GhC/kNAbXXKwWGCk
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/topcrime.png" group-title="TOP ITALIA",Top Crime(Opz.2)
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/mediasetextra.png" group-title="TOP ITALIA",Mediaset Extra
-https://link.theplatform.eu/s/PR1GhC/i1ixCGv2cEbc
+https://link.theplatform.eu/s/PR1GhC/TPLnrGYwjROh
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/mediasetextra.png" group-title="TOP ITALIA",Mediaset Extra (Opz.2)
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/italia%202giusto.png" group-title="TOP ITALIA",Italia 2
-https://link.theplatform.eu/s/PR1GhC/zdwOoU7nF7Y3
+https://link.theplatform.eu/s/PR1GhC/_eL2X_8s5MNT
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/italia%202giusto.png" group-title="TOP ITALIA",Italia 2 (Opz.2)
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Logo_Iris_TV.png/260px-Logo_Iris_TV.png" group-title="TOP ITALIA",Iris
-https://link.theplatform.eu/s/PR1GhC/v1x_uEfqb8NR
+https://link.theplatform.eu/s/PR1GhC/eaWvCwBtylG5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Logo_Iris_TV.png/260px-Logo_Iris_TV.png" group-title="TOP ITALIA",Iris (Opz.2)
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/20.png" group-title="TOP ITALIA",20 Mediaset
-https://link.theplatform.eu/s/PR1GhC/jMAFh1mSmJsJ
+https://link.theplatform.eu/s/PR1GhC/1b62rIdZKUGl
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/20.png" group-title="TOP ITALIA",20 Mediaset (Opz.2)
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/64/La5_Italy.svg/260px-La5_Italy.svg.png" group-title="TOP ITALIA",La 5
-https://link.theplatform.eu/s/PR1GhC/FwTXttD8uPIo
+https://link.theplatform.eu/s/PR1GhC/e2pGSqVwoZlg
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/64/La5_Italy.svg/260px-La5_Italy.svg.png" group-title="TOP ITALIA",La 5 (Opz.2)
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/260px-Cine34_logo.svg.png" group-title="TOP ITALIA",Cine 34 Mediaset
-https://link.theplatform.eu/s/PR1GhC/Tp5a9YEUz198
+https://link.theplatform.eu/s/PR1GhC/sVf_w7YvBGsE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/260px-Cine34_logo.svg.png" group-title="TOP ITALIA",Cine 34 Mediaset (Opz. 2)
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raiita.png" group-title="TOP ITALIA",Rai Italia
@@ -175,12 +151,6 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
 #EXTINF:-1 tvg-logo="https://toppng.com/public/uploads/preview/real-time-logo-11550719165qfvn6ve4qi.png" group-title="TOP ITALIA",Real Time HD
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
-#EXTINF:-1 tvg-logo="https://toppng.com/public/uploads/preview/real-time-logo-11550719165qfvn6ve4qi.png" group-title="TOP ITALIA",Real Time
-http://5.135.92.133:52841/out/u/111_1.m3u8
-#EXTINF:-1 tvg-logo="https://toppng.com/public/uploads/preview/real-time-logo-11550719165qfvn6ve4qi.png" group-title="TOP ITALIA",Real Time
-http://5.135.92.133:52841/out/u/112_1.m3u8
-#EXTINF:-1 tvg-logo="https://toppng.com/public/uploads/preview/real-time-logo-11550719165qfvn6ve4qi.png" group-title="TOP ITALIA",Real Time
-http://5.135.92.133:52841/out/u/113_1.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/paramountchannelhd.png" group-title="TOP ITALIA",Paramount Channel
 http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raimoviehd.png" group-title="TOP ITALIA",Rai Movie
@@ -198,11 +168,11 @@ https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/duke-tv.png" group-title="TOP ITALIA",Duck Tv (Samsung Channel)
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/b/b2/Boing_logo_2020.png/260px-Boing_logo_2020.png" group-title="TOP ITALIA",Boing
-https://link.theplatform.eu/s/PR1GhC/tjkkRaHZdA19
+https://link.theplatform.eu/s/PR1GhC/_tKQTvuwOiTb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/b/b2/Boing_logo_2020.png/260px-Boing_logo_2020.png" group-title="TOP ITALIA",Boing (opz 2)
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/f/f0/Cartoonito_Logo_2017.png/260px-Cartoonito_Logo_2017.png" group-title="TOP ITALIA",Cartoonito
-https://link.theplatform.eu/s/PR1GhC/u9yLHp6oUpSv
+https://link.theplatform.eu/s/PR1GhC/ETC4vWPrRI_W
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/f/f0/Cartoonito_Logo_2017.png/260px-Cartoonito_Logo_2017.png" group-title="TOP ITALIA",Cartoonito (Opz.2)
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/9a/FRISBEE_LOGO_2015.png/260px-FRISBEE_LOGO_2015.png" group-title="TOP ITALIA",Frisbee
@@ -211,12 +181,6 @@ https://mytivu.it/Application/Channels/Frisbee.php
 http://92.246.85.95:8115
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raigulphd.png" group-title="TOP ITALIA",Rai Gulp
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raigulphd.png" group-title="TOP ITALIA",Rai Gulp
-http://5.135.92.133:52841/out/u/442_1.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raigulphd.png" group-title="TOP ITALIA",Rai Gulp
-http://5.135.92.133:52841/out/u/443_1.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raigulphd.png" group-title="TOP ITALIA",Rai Gulp
-http://5.135.92.133:52841/out/u/444_1.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raiyoyohd.png" group-title="TOP ITALIA",Rai YoYo
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Supertv-logo-2015.png" group-title="TOP ITALIA",Super !
@@ -1239,6 +1203,8 @@ http://51.52.156.22:8888/http/005
 http://51.52.156.22:8888/http/006
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV4.uk.png" group-title="UK",ITV 4
 http://51.52.156.22:8888/http/007
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="UK",BBC 1
+http://51.52.156.22:8888/http/011
 #EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="UK",BBC 2
 http://51.52.156.23:8888/http/012
 #EXTINF:-1 tvg-id="BB4.UK" tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="UK",BBC 2
