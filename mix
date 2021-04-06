@@ -541,6 +541,206 @@ http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107866
 http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107940
 #EXTINF:-1 " group-title="SPORT",EUROSPORT 2
 http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107937
+
+#EXTINF:-1 " group-title="SPORT",Stream 1 (02_SPORTTV_1_720p)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 2 (02_SPORTTV_2_720p)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",,Stream 3 (02_SPORTTV_3_720p)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 4 (02_SPORTTV_4_720p)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 5 (02_SPORTTV_5_720p)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 6 (live)
+#EXTVLCOPT:http-user-agent=fake_UA
+http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 7 (playlist720bp.m3u8)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 8 (s41)
+#EXTVLCOPT:http-user-agent=fake_UA
+http://92.43.140.200/s41/04.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 9 (02_nbahd_720p)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 10 (amagi_hls_data_imgAAA2AA-edgesports)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 11 (stream)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 12 (02_PremierHD1_720p)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 13 (02_PremierHD2_720p)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 14 (02_2sporthd1_720p)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 15 (02_2sporthd2_720p)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 16 (02_2sporthd3_720p)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",,Stream 17 (02_sport5_480p)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 18 (02_sport6_480p)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 19 (02_sport7_480p)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 20 (linear)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 21 (sport)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 22 (ls01)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 23 (02_TennisHD_720p)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 24 (sport)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 25 (03_skynetsporthd_720p)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 26 (hls)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 27 (Content)
+#EXTVLCOPT:http-user-agent=fake_UA
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 28 (hls)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 29 (80D1627)
+#EXTVLCOPT:http-user-agent=fake_UA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 30 (hls)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 31 (fs2.m3u8)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 32 (hls)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 33 (live)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 34 (hls)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 35 (stream)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 36 (hls)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 37 (smc4sportslive)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 38 (sstvlinear)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 39 (hls)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 40 ()
+#EXTVLCOPT:http-user-agent=fake_UA
+
+#EXTINF:-1 " group-title="SPORT",Stream 41 (uq2663)
+#EXTVLCOPT:http-user-agent=fake_UA
+http://210.210.155.35:80/uq2663/h/h05/01.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 42 (02_golfhd_720p)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 43 (s81)
+#EXTVLCOPT:http-user-agent=fake_UA
+http://ott-cdn.ucom.am/s81/03.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 44 (s82)
+#EXTVLCOPT:http-user-agent=fake_UA
+http://ott-cdn.ucom.am/s82/03.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 45 (astrakhanrusporthd)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 46 (hls)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_360p/index.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 47 (live)
+#EXTVLCOPT:http-user-agent=fake_UA
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 48 (00688-cacheliveedge0)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 49 (Origin02)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 50 (02_foxsport_720p)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 51 (02_FoxSport2_TH_720p)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 52 (02_FoxSport3_TH_720p)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 53 (playout)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 54 (playout)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 55 (sec.m3u8)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://gma2.blab.email/sec.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 56 (acc.m3u8)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://gma2.blab.email/acc.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 57 (espn2.m3u8)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 58 (espnu.m3u8)
+#EXTVLCOPT:http-user-agent=fake_UA
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 59 (astrakhanrusporthd)
+#EXTVLCOPT:http-user-agent=fake_UA
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1 " group-title="SPORT",Stream 60 ()
+#EXTVLCOPT:http-user-agent=fake_UA
+
+#EXTINF:-1 " group-title="SPORT",Stream 61 ()
+#EXTVLCOPT:http-user-agent=fake_UA
+
+#EXTINF:-1 " group-title="SPORT",Stream 62 ()
+#EXTVLCOPT:http-user-agent=fake_UA
+
+#EXTINF:-1 " group-title="SPORT",Stream 63 ()
+#EXTVLCOPT:http-user-agent=fake_UA
+
+#EXTINF:-1 " group-title="SPORT",Stream 64 ()
+#EXTVLCOPT:http-user-agent=fake_UA
+
+#EXTINF:-1 " group-title="SPORT",Stream 65 ()
+#EXTVLCOPT:http-user-agent=fake_UA
+
+#EXTINF:-1 " group-title="SPORT",Stream 66 ()
+#EXTVLCOPT:http-user-agent=fake_UA
+
+
 #EXTINF:-1 " group-title="SPORT",China-1
 http://livecdn.fptplay.net/italyfootball/seriea01_4000.stream/chunklist.m3u8
 #EXTINF:-1 " group-title="SPORT",China-2
