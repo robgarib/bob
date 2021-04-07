@@ -329,9 +329,10 @@ https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-family-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/drama.jpg" group-title="SAMSUNG TV PLUS",Rakuten Drama Movie
 https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="SAMSUNG TV PLUS",Sofy TV (Italy)
+https://sofytv-samsungit.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="SAMSUNG TV PLUS",Sophia TV (720p)
 https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sofy TV" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="SAMSUNG TV PLUS",Sofy TV
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/big-name.png" group-title="SAMSUNG TV PLUS",Big Name
 https://alchimie-big-names-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/cg-entertainment.png" group-title="SAMSUNG TV PLUS",CG Entertainment 
@@ -363,11 +364,17 @@ https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Motorvision TV (en)" tvg-id="" tvg-logo="https://i.imgur.com/zcFYJLu.png" group-title="SAMSUNG TV PLUS",Motorvision TV (en)
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
 #EXTINF:-1 tvg-id="Fuel TV" tvg-name="" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="SAMSUNG TV PLUS",Fuel TV
-https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
+https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Sportoutdoor.tv" tvg-name="" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="SAMSUNG TV PLUS",Sportoutdoor.tv (Italy)
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MMA TV" tvg-name="" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="SAMSUNG TV PLUS",MMA TV (Italy)
+https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="FTF (en)" tvg-name="" tvg-logo="https://i.imgur.com/Db8nWyW.png" group-title="SAMSUNG TV PLUS",FTF (en)
 https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Samsung Wildlife TV" tvg-logo="https://i.imgur.com/x06npU2.png" group-title="SAMSUNG TV PLUS",Samsung Wildlife TV
 https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PBS" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="SAMSUNG TV PLUS"PBS America uk source
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="SAMSUNG TV PLUS",Travel XP
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Brindia Mo" tvg-logo="https://i.imgur.com/iSNhxeD.png" group-title="SAMSUNG TV PLUS",Brindia Mo
@@ -400,6 +407,10 @@ https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Mondo Kids" tvg-logo="https://i.imgur.com/AeHlXnK.jpg" group-title="SAMSUNG TV PLUS",Mondo Kids
 https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yamato" tvg-logo="https://i.imgur.com/Qw8x6Os.png" group-title="SAMSUNG TV PLUS",Yamato Animation (Italy)
+https://yamatovideo-yamatoanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pet" tvg-logo="https://i.imgur.com/Qw8x6Os.png" group-title="SAMSUNG TV PLUS",The Pet Collective (Italy)
+https://the-pet-collective-international-it.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1" group-title="SPORT",Sky sport 24 
@@ -719,27 +730,6 @@ https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 " group-title="SPORT",Stream 59 (astrakhanrusporthd)
 #EXTVLCOPT:http-user-agent=fake_UA
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 60 ()
-#EXTVLCOPT:http-user-agent=fake_UA
-
-#EXTINF:-1 " group-title="SPORT",Stream 61 ()
-#EXTVLCOPT:http-user-agent=fake_UA
-
-#EXTINF:-1 " group-title="SPORT",Stream 62 ()
-#EXTVLCOPT:http-user-agent=fake_UA
-
-#EXTINF:-1 " group-title="SPORT",Stream 63 ()
-#EXTVLCOPT:http-user-agent=fake_UA
-
-#EXTINF:-1 " group-title="SPORT",Stream 64 ()
-#EXTVLCOPT:http-user-agent=fake_UA
-
-#EXTINF:-1 " group-title="SPORT",Stream 65 ()
-#EXTVLCOPT:http-user-agent=fake_UA
-
-#EXTINF:-1 " group-title="SPORT",Stream 66 ()
-#EXTVLCOPT:http-user-agent=fake_UA
-
 
 #EXTINF:-1 " group-title="SPORT",China-1
 http://livecdn.fptplay.net/italyfootball/seriea01_4000.stream/chunklist.m3u8
