@@ -353,8 +353,6 @@ https://endemol-top-serie-1-it.samsung.wurl.com/manifest/playlist.m3u8
 https://endemol-top-criminie-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Atres Series" tvg-logo="https://i.imgur.com/g5iBSq4.png" group-title="SAMSUNG TV PLUS",Atres Series
 https://atresmedia-atreseries-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/mma-tv.png" group-title="SAMSUNG TV PLUS",MMA TV
-https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/motor-1-tv.png" group-title="SAMSUNG TV PLUS",Motor 1 TV 
 https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/my-surf-tv.png" group-title="SAMSUNG TV PLUS",My Surf TV
@@ -1959,17 +1957,17 @@ https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
 http://5.135.92.133:52841/out/u/115_1.m3u8
 #EXTINF:-1 tvg-id="RT2.DE" tvg-logo="http://static.epg.best/de/RTL2.de.png" group-title="Vari",RTL Zwei
 http://5.135.92.133:52841/out/u/119_1.m3u8
-#EXTINF:-1 tvg-id="RTLGold.de" tvg-name="RTL Gold" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="",RTL Gold
+#EXTINF:-1 tvg-id="RTLGold.de" tvg-name="RTL Gold" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="Vari",RTL Gold
 https://stream.y5.hu/stream/stream_rtlgold/stream.m3u8
-#EXTINF:-1 tvg-id="RTLIIHD.de" tvg-name="RTL II HD" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="",RTL II HD
+#EXTINF:-1 tvg-id="RTLIIHD.de" tvg-name="RTL II HD" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="Vari",RTL II HD
 https://stream.y5.hu/stream/stream_rtl2/hls0/stream.m3u8
-#EXTINF:-1 tvg-id="RTLIIHD.de" tvg-name="RTL II HD" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="",RTL II HD
+#EXTINF:-1 tvg-id="RTLIIHD.de" tvg-name="RTL II HD" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="Vari",RTL II HD
 https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
-#EXTINF:-1 tvg-id="RTLKlub.de" tvg-name="RTL Klub" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="",RTL Klub
+#EXTINF:-1 tvg-id="RTLKlub.de" tvg-name="RTL Klub" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="Vari",RTL Klub
 https://stream.y5.hu/stream/stream_rtlklub/hls0/stream.m3u8
-#EXTINF:-1 tvg-id="RTLKlub.de" tvg-name="RTL Klub" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="",RTL Klub
+#EXTINF:-1 tvg-id="RTLKlub.de" tvg-name="RTL Klub" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="Vari",RTL Klub
 https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
-#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL+" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="",RTL+
+#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL+" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="Vari",RTL+
 https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/Sat1.de.png" group-title="Vari",Sat 1 
 http://178.132.3.162:88/SAT_1/video.m3u8?token=test
