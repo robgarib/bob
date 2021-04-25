@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 17-04-2021---[/COLOR]
+#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 25-04-2021---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="" tvg-name="RSI LA 1" tvg-logo="http://company-dwl.dyndns.org/picon/4097_0_19_36E3_6A4_13E_820000_0_0_0.png" group-title="TOP ITALIA",RSI LA 1
 http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108140
@@ -31,7 +31,7 @@ https://link.theplatform.eu/s/PR1GhC/2V0yPT90BkFc
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai1hd.png" group-title="TOP ITALIA",Rai 1
+EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai1hd.png" group-title="TOP ITALIA",Rai 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai2hd.png" group-title="TOP ITALIA",Rai 2
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
@@ -140,7 +140,9 @@ https://link.theplatform.eu/s/PR1GhC/sVf_w7YvBGsE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/260px-Cine34_logo.svg.png" group-title="TOP ITALIA",Cine 34 Mediaset (opz. 2)
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raiita.png" group-title="TOP ITALIA",Rai Italia
-http://210.210.155.69/s/s63/S4/mnf.m3u8
+http://200.115.190.211:8000/play/g8nvqYfMa2tkU5em/index.m3u8
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raiita.png" group-title="TOP ITALIA",Rai Italia (opt2)
+http://181.114.59.146:8000/play/g8nvqYfMa2tkU5em/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/260px-Rai_4K_-_Logo_2017.svg.png" group-title="TOP ITALIA",Rai 4K
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rai_Radio_2_-_Logo_2017.svg/260px-Rai_Radio_2_-_Logo_2017.svg.png" group-title="TOP ITALIA",Rai Radio 2
@@ -236,7 +238,9 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.davidemaggio.it/pics3/2020/04/Alma-Tv.jpg" group-title="TOP ITALIA",Alma Tv
 http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.utdstc.com/icons/fashiontv-android.png:240" group-title="TOP ITALIA",Fashion Tv
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 tvg-logo="https://img.utdstc.com/icons/fashiontv-android.png:240" group-title="TOP ITALIA",Fashion Tv 2
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/02/Network_Fashion_Lifestyle_1280x720-520x293.jpg" group-title="TOP ITALIA",HD Fashion Lifestyle Tv
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/world_fashion.png" group-title="TOP ITALIA",World Fashion International HD
@@ -503,6 +507,20 @@ http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107891
 http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107970
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="SPORT",DAZN 1 HD
 http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107917
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sky_Sport_Arena_-_Logo_2018.svg/512px-Sky_Sport_Arena_-_Logo_2018.svg.png" group-title="SPORT",Sky Sport Arena HD
+http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107966
+#EXTINF:-1 tvg-id="SkySportFootball.it" tvg-name="Sky Sport Football HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/512px-Sky_Sport_Football_-_Logo_2018.svg.png" group-title="SPORT",Sky Sport Football HD
+http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107962
+#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/512px-Sky_Calcio_-_Logo_2015.svg.png" group-title="SPORT",Sky Calcio 1 HD
+http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107887
+#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/512px-Sky_Calcio_-_Logo_2015.svg.png" group-title="SPORT",Sky Calcio 2 HD
+http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107884
+#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/512px-Sky_Calcio_-_Logo_2015.svg.png" group-title="SPORT",Sky Calcio 3 HD
+http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107881
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sky_Sport_F1_-_Logo_2015.svg/512px-Sky_Sport_F1_-_Logo_2015.svg.png" group-title="SPORT",Sky Sport F1 HD
+http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107944
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport MotoGP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sky_Sport_MotoGP_-_Logo_2015.svg/512px-Sky_Sport_MotoGP_-_Logo_2015.svg.png" group-title="SPORT",Sky Sport MotoGP HD
+http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107958
 #EXTINF:-1 tvg-id="Inter Channel" tvg-name="Inter Channel" tvg-logo="https://www.vi-so.com/wp-content/uploads/2017/10/interchannel.jpg" group-title="SPORT",Inter Channel
 http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107866
 #EXTINF:-1 " group-title="SPORT",EUROSPORT 1
