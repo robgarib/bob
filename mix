@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 30-04-2021---[/COLOR]  
+#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 02-05-2021---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="" tvg-name="RSI LA 1" tvg-logo="http://company-dwl.dyndns.org/picon/4097_0_19_36E3_6A4_13E_820000_0_0_0.png" group-title="TOP ITALIA",RSI LA 1
 http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108140
@@ -1394,10 +1394,6 @@ http://51.52.156.22:8888/http/005
 http://51.52.156.22:8888/http/006
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV4.uk.png" group-title="UK",ITV 4
 http://51.52.156.22:8888/http/007
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="UK",Bbc 1 HD
-http://sdorfijsdfcvx.cabelstream.net:8080/xFI02iPN9q/iUaHmr8qY5/15478
-#EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="UK",Bbc 2 HD
-http://sdorfijsdfcvx.cabelstream.net:8080/xFI02iPN9q/iUaHmr8qY5/15477
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="UK",BBC 1
 http://51.52.156.22:8888/http/011
 #EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="UK",BBC 2
@@ -1865,15 +1861,15 @@ https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
 #EXTINF:-1" group-title="Vari",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-1" group-title="Vari",France 2
-http://178.132.3.162:88/france2/index.m3u8?token=test
+https://mmsiptv.com/live/france2/playlist.m3u8
 #EXTINF:-1" group-title="Vari",France 3
-http://178.132.3.162:88/france3/index.m3u8?token=test
+https://mmsiptv.com/live/france3/playlist.m3u8
 #EXTINF:-1" group-title="Vari" tvg-id="" tvg-logo="http://static.epg.best/fr/France4.fr.png",France 4
-http://178.132.3.162:88/france4/index.m3u8?token=test
+https://mmsiptv.com/live/france4/playlist.m3u8
 #EXTINF:-1" group-title="Vari" tvg-id="" tvg-logo="http://static.epg.best/fr/France5.fr.png",France 5
-http://178.132.3.162:88/france5/index.m3u8?token=test
+https://mmsiptv.com/live/france5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Vari",M6
-http://178.132.3.162:88/M6/index.m3u8?token=test
+https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Vari",M6
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="Vari",RTS Couleur 3
@@ -1885,7 +1881,7 @@ https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 #EXTINF:-1" group-title="Vari",TMC
 https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 #EXTINF:-1" group-title="Vari" tvg-id="" tvg-logo="http://static.epg.best/fr/W9.fr.png",W9
-http://178.132.3.162:88/W9/index.m3u8?token=test
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Teva.fr.png" group-title="Vari",Téva
 http://178.132.3.162:88/Teva/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://photos.abweb.com/shared_ressources/logos/logo-rtl9.png" group-title="Vari",RTL9
@@ -1986,6 +1982,16 @@ http://178.132.3.162:88/SAT_1/video.m3u8?token=test
 http://178.132.3.162:88/Kabel_1/video.m3u8?token=test
 #EXTINF:-1 tvg-id="VOX.DE" tvg-logo="http://static.epg.best/de/Vox.de.png" group-title="Vari",VOX
 http://5.135.92.133:52841/out/u/123_1.m3u8
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ORF1_logo.svg/1280px-ORF1_logo.svg.png" tvg-url="" group-title="Vari",ORF 1 (540p)
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
+#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/1280px-ORF2_logo_n.svg.png" tvg-url="" group-title="Vari",ORF 2 (720p)
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/at/ORF2.at.png" group-title="Vari",ORF 2
+https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
+#EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_III_Logo.png" tvg-url="" group-title="Vari",ORF 3 (720p)
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
+#EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-name="ORF Sport +" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/1200px-ORF_Sport%2B.svg.png" tvg-url="" group-title="Vari",ORF Sport + (540p)
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/at/ORF2.at.png" group-title="Vari",ORF 2
 https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/Cinemax.pl.png" group-title="Vari",Cinemax
@@ -2070,7 +2076,5 @@ https://endemol-tele-crimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
 https://endemol-tele-drama-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Shows" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="Vari",TV Shows
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8 
- 
- 
  
  
