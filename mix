@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 06-05-2021---[/COLOR]  
+#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 08-05-2021---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="" tvg-name="RSI LA 1" tvg-logo="http://company-dwl.dyndns.org/picon/4097_0_19_36E3_6A4_13E_820000_0_0_0.png" group-title="TOP ITALIA",RSI LA 1
 http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108140
@@ -36,7 +36,6 @@ https://link.theplatform.eu/s/PR1GhC/2V0yPT90BkFc
 #EXTINF:-1 tvg-id="" tvg-name="Rai News 24" " group-title="TOP ITALIA",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai1hd.png" group-title="TOP ITALIA",Rai 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai2hd.png" group-title="TOP ITALIA",Rai 2
@@ -67,6 +66,8 @@ https://tivustream.website/urls/nove
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/action-movies.jpg" group-title="TOP ITALIA",Action Movies (Samsung Channel)
 https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/documentaries.png" group-title="TOP ITALIA",Documentaries (Samsung Channel)
+https://rakuten-documentaries-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/big-name.png" group-title="TOP ITALIA",Big Name (Samsung Channel)
 https://alchimie-big-names-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ndD8tcp.png" group-title="TOP ITALIA",The Boat Show
@@ -95,6 +96,8 @@ https://jukin-peopleareawesome-2-it.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-spotlight-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/top-series.jpg" group-title="TOP ITALIA",Top Series (Samsung Channel)
 https://endemol-top-serie-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/europa.png" group-title="TOP ITALIA",Canale Europa (Samsung Channel)
+https://canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1
 http://194.76.186.69:8000/play/a0r5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1 opz 2
@@ -339,9 +342,9 @@ https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-family-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/drama.jpg" group-title="SAMSUNG TV PLUS",Rakuten Drama Movie
 https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="Documentaries" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="SAMSUNG TV PLUS"Rakuten Documentaries (Italy)
+#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/documentaries.png" group-title="SAMSUNG TV PLUS",Rakuten Documentaries
 https://rakuten-documentaries-6-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="Canale Europa" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="SAMSUNG TV PLUS",Canale Europa (Italy)
+#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/europa.png" group-title="SAMSUNG TV PLUS",Canale Europa (Italy)
 https://canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="SAMSUNG TV PLUS",Sofy TV (Italy)
 https://sofytv-samsungit.amagi.tv/playlist.m3u8
@@ -1453,6 +1456,8 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http
 https://uk.easyview.eu/hls/4seven.m3u8|Referer=https://easyview.eu/watch.php?stream=4seven
 #EXTINF:-1 tvg-id="5ST.UK" tvg-logo="https://static.epg.best/gb/5star.uk.png" group-title="UK",5 Star
 http://51.52.156.24:8888/http/007
+#EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-logo="" tvg-shift="0" group-title="UK", Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/SkyNews.uk.png" group-title="UK",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1 tvg-name="Sky News Extra" tvg-id="SkyNews.uk" group-title="UK" tvg-logo="https://i.imgur.com/vfqWSHv.png",Sky News Extra
