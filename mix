@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 19-05-2021---[/COLOR]  
+#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 30-05-2021---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
-#EXTINF:-1 tvg-id="" tvg-name="RSI LA 1" tvg-logo="http://company-dwl.dyndns.org/picon/4097_0_19_36E3_6A4_13E_820000_0_0_0.png" group-title="TOP ITALIA",RSI LA 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1
 http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108140
-#EXTINF:-1 tvg-id="" tvg-name="RSI LA 2" tvg-logo="http://company-dwl.dyndns.org/picon/4097_0_19_36E4_6A4_13E_820000_0_0_0.png" group-title="TOP ITALIA",RSI LA 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2
 http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108138
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai1hd.png" group-title="TOP ITALIA",Rai 4K
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
@@ -780,6 +780,8 @@ https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
 https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2018/02/NOW-90s.png" tvg-shift="0" group-title="MUSICA",Now 90's
 https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVVH1IClassic.us" tvg-name="Pluto TV VH1 Classics" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="MUSICA",VH1 Classics
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-ID="PLEX.TV.Loop.80's" tvg-name="Loop 80's" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-80s.png" group-title="MUSICA",Loop 80's
 https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s/playlist.m3u8
 #EXTINF:-1 tvg-ID="PLEX.TV.Loop.90's" tvg-name="Loop 90's" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-90s.png" group-title="MUSICA",Loop 90's
