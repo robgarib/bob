@@ -1,10 +1,11 @@
+
 #EXTM3U
-#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 30-05-2021---[/COLOR]  
+#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 05-06-2021---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108140
+http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/108140
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108138
+http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/108138
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai1hd.png" group-title="TOP ITALIA",Rai 4K
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/Clarity_4K_190x190_Circle.png?raw=true" group-title="TOP ITALIA",Clarity 4k
@@ -14,15 +15,15 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="TOP ITALIA",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Sky Uno HD" tvg-name="Sky Uno HD" tvg-logo="https://imbt.ga/P2A71tpUMX" group-title="TOP ITALIA",Sky Uno HD
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108052
+http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/108052
 #EXTINF:-1 tvg-id="Sky Atlantic" tvg-name="Sky Atlantic HD" tvg-logo="https://imbt.ga/vufT3tK1pk" group-title="TOP ITALIA",Sky Atlantic HD
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108044
+http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/108044
 #EXTINF:-1 tvg-id="" tvg-name="Pesca e Caccia HD" tvg-logo="https://www.pescaecaccia.com/wp-content/uploads/2016/10/logo-rov2.png" group-title="TOP ITALIA",Pesca e Caccia HD
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108011
+http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/108011
 #EXTINF:-1 tvg-logo="http://patbuweb.com/tivustream/chanlogoz/ita/la7.png" group-title="TOP ITALIA",LA 7 HD
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108195
+http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/108195
 #EXTINF:-1 tvg-logo="http://patbuweb.com/tivustream/chanlogoz/ita/la7.png" group-title="TOP ITALIA",La 7 D HD
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108162
+http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/108162
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="TOP ITALIA",TV8 
 https://www.mytivu.it/Application/Channels/TV8.php
 #EXTINF:-1 tvg-id="" tvg-name="Cielo" " group-title="TOP ITALIA",Cielo
@@ -38,30 +39,44 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_18
 
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai1hd.png" group-title="TOP ITALIA",Rai 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai1hd.png" group-title="TOP ITALIA",Rai 1 (Opz.2)
+http://194.76.186.69:8000/play/a0d1
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai2hd.png" group-title="TOP ITALIA",Rai 2
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai2hd.png" group-title="TOP ITALIA",Rai 2 (Opz.2)
+http://194.76.186.69:8000/play/a0d2
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai3hd.png" group-title="TOP ITALIA",Rai 3
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai3hd.png" group-title="TOP ITALIA",Rai 3 (Opz.2)
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai3hd.png" group-title="TOP ITALIA",Rai 3 (Opz.3)
+http://194.76.186.69:8000/play/a0d3 
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rete4hd.png" group-title="TOP ITALIA",Rete 4
 https://link.theplatform.eu/s/PR1GhC/kFE4DvC7iR3B
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rete4hd.png" group-title="TOP ITALIA",Rete 4 (Opz.2)
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rete4hd.png" group-title="TOP ITALIA",Rete 4 (Opz.3)
+http://194.76.186.69:8000/play/a0dp
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/canale5.png" group-title="TOP ITALIA",Canale 5
 https://link.theplatform.eu/s/PR1GhC/Mn1eiaF9qA51
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/canale5.png" group-title="TOP ITALIA",Canale 5 (Opz.2)
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/canale5.png" group-title="TOP ITALIA",Canale 5 (Opz.3)
+http://194.76.186.69:8000/play/a00f
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/italia1.png" group-title="TOP ITALIA",Italia 1
 https://link.theplatform.eu/s/PR1GhC/zvKjcHLjKGot
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/italia1.png" group-title="TOP ITALIA",Italia 1 (Opz.2)
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/italia1.png" group-title="TOP ITALIA",Italia 1 (Opz.3)
+http://194.76.186.69:8000/play/a0py 
 #EXTINF:-1 tvg-logo="http://patbuweb.com/tivustream/chanlogoz/ita/la7.png" group-title="TOP ITALIA",LA 7
 https://tivustream.website/urls/la7
 #EXTINF:-1 tvg-logo="http://patbuweb.com/tivustream/chanlogoz/ita/la7.png" group-title="TOP ITALIA",LA 7d
 http://tivustream.website/urls/la7d
 #EXTINF:-1 tvg-logo="http://patbuweb.com/tivustream/chanlogoz/ita/nove.png" group-title="TOP ITALIA",Nove HD
-https://tivustream.website/urls/nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1 tvg-logo="http://patbuweb.com/tivustream/chanlogoz/ita/nove.png" group-title="TOP ITALIA",Nove HD (Opz.2)
+http://194.76.186.69:8000/play/a0fh 
 #EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/Yamato.png" group-title="TOP ITALIA",Yamato Animation (Samsung Channel)
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/action-movies.jpg" group-title="TOP ITALIA",Action Movies (Samsung Channel)
@@ -110,11 +125,11 @@ https://canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/poptv/poptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1
 http://194.76.186.69:8000/play/a0r5
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1 opz 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1 (opz 2)
 http://188.35.9.5:10007/stolen/236r/parasite.install
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2
 http://194.76.186.69:8000/play/a0fk
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2 opz 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2 (opz 2)
 http://188.35.9.5:10007/stolen/237p/parasite.install
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2 opz 3
 https://tivustream.website/urls/rsila2
@@ -150,6 +165,8 @@ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/
 https://link.theplatform.eu/s/PR1GhC/1b62rIdZKUGl
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/20.png" group-title="TOP ITALIA",20 Mediaset (Opz.2)
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/20.png" group-title="TOP ITALIA",20 Mediaset (Opz.3)
+http://194.76.186.69:8000/play/a00d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/64/La5_Italy.svg/260px-La5_Italy.svg.png" group-title="TOP ITALIA",La 5
 https://link.theplatform.eu/s/PR1GhC/e2pGSqVwoZlg
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/64/La5_Italy.svg/260px-La5_Italy.svg.png" group-title="TOP ITALIA",La 5 (opz.2)
@@ -170,16 +187,26 @@ https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/play
 https://raievent9-live.akamaized.net/hls/live/619188/raievent9/raievent9/raievent9_2400/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai4hd.png" group-title="TOP ITALIA",Rai 4
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai4hd.png" group-title="TOP ITALIA",Rai 4 (Opz.2)
+http://194.76.186.69:8000/play/a0pm
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai5hd.png" group-title="TOP ITALIA",Rai 5
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai5hd.png" group-title="TOP ITALIA",Rai 5 (Opz.2)
+http://194.76.186.69:8000/play/a0pl
 #EXTINF:-1 tvg-logo="https://toppng.com/public/uploads/preview/real-time-logo-11550719165qfvn6ve4qi.png" group-title="TOP ITALIA",Real Time HD
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/paramountchannelhd.png" group-title="TOP ITALIA",Paramount Channel
 http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/paramountchannelhd.png" group-title="TOP ITALIA",Paramount Channel (Opz.2)
+http://194.76.186.69:8000/play/a0r9
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raimoviehd.png" group-title="TOP ITALIA",Rai Movie
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raimoviehd.png" group-title="TOP ITALIA",Rai Movie (Opz.2)
+http://194.76.186.69:8000/play/a0po
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raipremiumhd.png" group-title="TOP ITALIA",Rai Premium
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raipremiumhd.png" group-title="TOP ITALIA",Rai Premium (Opz.2)
+http://194.76.186.69:8000/play/a038
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AeHlXnK.jpg" group-title="TOP ITALIA",Mondo Kids
 https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="TOP ITALIA",Supertoons TV
@@ -204,8 +231,12 @@ https://mytivu.it/Application/Channels/Frisbee.php
 http://92.246.85.95:8115
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raigulphd.png" group-title="TOP ITALIA",Rai Gulp
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raigulphd.png" group-title="TOP ITALIA",Rai Gulp (Opz.2)
+http://194.76.186.69:8000/play/a00q
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raiyoyohd.png" group-title="TOP ITALIA",Rai YoYo
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raiyoyohd.png" group-title="TOP ITALIA",Rai YoYo (Opz.2)
+http://194.76.186.69:8000/play/a00r
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Supertv-logo-2015.png" group-title="TOP ITALIA",Super !
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/index_2500_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.dtti.it/wp-content/uploads/2019/12/bi-190606-magentatv-hgtv.jpg" group-title="TOP ITALIA",HGTV HD
@@ -216,8 +247,12 @@ https://tivustream.website/urls/hearttv
 https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge0/cdnedge/HicYJzEAB5E/playlist.m3u8?token=EAIY6wE49ImRMUCIHUgF.CgdlYXJ0aHR2EAEyC0hpY1lKeTZBQjVBOgtIaWNZSnpFQUI1RQ.OLHrUsWQdtPFfyiYL20EHCpDhLQpYr-1tcrt46bq2ezfFKXKVQHiyybIFKX3EuXTlFP-6zmPstPlr31_ttFOyw&domain=www.earthtv.com
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raistoriahd.png" group-title="TOP ITALIA",Rai Storia
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raistoriahd.png" group-title="TOP ITALIA",Rai Storia (Opz.2)
+http://194.76.186.69:8000/play/a0pq
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raiscuolahd.png" group-title="TOP ITALIA",Rai Scuola
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24268
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raiscuolahd.png" group-title="TOP ITALIA",Rai Scuola (Opz.2)
+http://194.76.186.69:8000/play/a00s
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3d/Rai_Südtirol.svg-0.png" group-title="TOP ITALIA",Rai Sudtirol
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/MOTOR.png" group-title="TOP ITALIA",Motor Trend HD
@@ -267,13 +302,12 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/world_fashion.png" group-title="TOP ITALIA",World Fashion International HD
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="https://vialogue.files.wordpress.com/2008/04/discovery-channel-discoveryfeature300.jpg" group-title="TOP ITALIA",Discovery HD
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108004
+http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/108004
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Sci HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/800px-Discovery_Science_2017_Logo.svg.png" group-title="TOP ITALIA",Discovery Sci HD
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/108001
+http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/108001
 #EXTINF:-1 tvg-id="" tvg-name="National Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/800px-Natgeologo.svg.png" group-title="TOP ITALIA",National Geo HD
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107998
+http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/107998
 #EXTINF:-1 group-title="TOP ITALIA",Radio 24
 https://tivustream.website/urls/radio24
 #EXTINF:-1 " group-title="TOP ITALIA",Tg Norba 24
@@ -456,16 +490,15 @@ https://5e73cf528f404.streamlock.net/GR_sport/livestream/chunklist_w1501899689.m
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
 #EXTINF:-1 group-title="SPORT",Sport2U Tv
 http://live.sport2u.tv:1935/EvoLive/myStream/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Sport Italia
+#EXTINF:-1 tvg-name="Sport Italia" tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Sport Italia
 https://www.mytivu.it/Application/Channels/SI.php
-#EXTINF:-1 " group-title="SPORT",Sport Italia 24 LIVE
+#EXTINF:-1 tvg-name="Sport Italia Live 24" tvg-logo="https://www.tvdream.net/immagini/si-live-24.jpg" tvg-shift="0" group-title="SPORT",Sport Italia Live 24
 https://www.mytivu.it/Application/Channels/SILive24.php
-#EXTINF:-1 " group-title="SPORT",Sport Italia CALCIO
+#EXTINF:-1 tvg-name="Sport Italia Calcio" tvg-logo="https://www.tvdream.net/immagini/si-solocalcio-sportitalia.jpg" tvg-shift="0" group-title="SPORT",Sport Italia Calcio
 https://www.mytivu.it/Application/Channels/SISoloCalcio.php
-#EXTINF:-1 " group-title="SPORT",Sport Italia MOTORI
+#EXTINF:-1 tvg-name="Sport Italia Motori" tvg-logo="https://www.tvdream.net/immagini/si-motori-sportitalia.jpg" tvg-shift="0" group-title="SPORT",Sport Italia Motori
 https://www.mytivu.it/Application/Channels/SIMotori.php
-http://live.sport2u.tv:1935/EvoLive/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Motor TV" tvg-logo="https://i.imgur.com/muS5HF5.jpg" group-title="SPORT",Motor TV
+#EXTINF:-1 tvg-id="" tvg-name="Motor TV" tvg-logo="https://i.imgur.com/muS5HF5.jpg" group-title="SPORT",Motor 1 TV
 https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/MOTOR.png" group-title="SPORT",MotorTrend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
@@ -538,31 +571,23 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 " group-title="SPORT",FOX Sports 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Serie A" tvg-name="Sky  Sport Serie A HD" tvg-logo="https://www.osteriacapri.it/wp-content/uploads/2019/11/sky-sport-serie-a-thumb.png" group-title="SPORT",Sky  Sport Serie A HD
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107891
+http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/107892
 #EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="Sky Sport Uno HD" tvg-logo="https://static.sky.it/images/skyit/ext/rf/benvenuto/sky-digitale-terrestre-txt/img/11_skysportunohd.png" group-title="SPORT",Sky Sport Uno HD
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107970
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="SPORT",DAZN 1 HD
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107917
+http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/107970
 #EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sky_Sport_Arena_-_Logo_2018.svg/512px-Sky_Sport_Arena_-_Logo_2018.svg.png" group-title="SPORT",Sky Sport Arena HD
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107966
+http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/107966
 #EXTINF:-1 tvg-id="SkySportFootball.it" tvg-name="Sky Sport Football HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/512px-Sky_Sport_Football_-_Logo_2018.svg.png" group-title="SPORT",Sky Sport Football HD
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107962
-#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/512px-Sky_Calcio_-_Logo_2015.svg.png" group-title="SPORT",Sky Calcio 1 HD
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107887
-#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/512px-Sky_Calcio_-_Logo_2015.svg.png" group-title="SPORT",Sky Calcio 2 HD
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107884
-#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/512px-Sky_Calcio_-_Logo_2015.svg.png" group-title="SPORT",Sky Calcio 3 HD
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107881
+http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/107962
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sky_Sport_F1_-_Logo_2015.svg/512px-Sky_Sport_F1_-_Logo_2015.svg.png" group-title="SPORT",Sky Sport F1 HD
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107944
+http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/107944
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport MotoGP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sky_Sport_MotoGP_-_Logo_2015.svg/512px-Sky_Sport_MotoGP_-_Logo_2015.svg.png" group-title="SPORT",Sky Sport MotoGP HD
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107958
+http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/107958
 #EXTINF:-1 tvg-id="Inter Channel" tvg-name="Inter Channel" tvg-logo="https://www.vi-so.com/wp-content/uploads/2017/10/interchannel.jpg" group-title="SPORT",Inter Channel
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107866
+http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/107866
 #EXTINF:-1 " group-title="SPORT",EUROSPORT 1
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107940
+http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/107940
 #EXTINF:-1 " group-title="SPORT",EUROSPORT 2
-http://private.ip-tv.in:80/mauroperani/ortVpt43sD/107937
+http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/107937
 
 #EXTINF:-1 " group-title="SPORT",Stream 1 (02_SPORTTV_1_720p)
 #EXTVLCOPT:http-user-agent=fake_UA
@@ -2054,6 +2079,20 @@ http://digitalxpress.gcdn.co/live1/hbopolska/index.m3u8
 http://digitalxpress.gcdn.co/live1/hbo2polska/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/HBO3.pl.png" group-title="Vari",HBO 3 Polska
 http://digitalxpress.gcdn.co/live1/hbo3polska/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo1-dark-bg.png" group-title="Vari",Slovenija 1 Tv
+https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/chunklist_b2328000_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo2-dark-bg.png" group-title="Vari",Slovenija 2 Tv
+https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo3-dark-bg.png" group-title="Vari",Slovenija 3 Tv
+https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+#EXTINF:-0 tvg-id="htv1.hr" tvg-name="HTV1" tvg-language="Croatian" tvg-logo="https://i.imgur.com/W3FBVwT.png" tvg-country="HR" tvg-url="http://tvprofil.net/xmltv/data/epg_tvprofil.net.xml" group-title="Vari",Hrvatska 1 Tv
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:-0 tvg-id="htv2.hr" tvg-name="HTV2" tvg-language="Croatian" tvg-logo="https://i.imgur.com/7swOkC3.png" tvg-country="HR" tvg-url="http://tvprofil.net/xmltv/data/epg_tvprofil.net.xml" group-title="Vari",Hrvatska 2 Tv
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:0- tvg-id="htv3.hr" tvg-name="HTV3" tvg-language="Croatian" tvg-logo="https://i.imgur.com/0hrv92c.png" tvg-country="HR" tvg-url="http://tvprofil.net/xmltv/data/epg_tvprofil.net.xml" group-title="Vari",Hrvatska 3 Tv
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+#EXTINF:-0 tvg-id="htv4.hr" tvg-name="HTV4" tvg-language="Croatian" tvg-logo="https://i.imgur.com/UVFs4zA.png" tvg-country="HR" tvg-url="http://tvprofil.net/xmltv/data/epg_tvprofil.net.xml" group-title="Vari",Hrvatska 4 Tv
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="Vari",Comedy Movies
 https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Vari",Action Movies
@@ -2124,5 +2163,6 @@ https://endemol-tele-crimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
 https://endemol-tele-drama-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Shows" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="Vari",TV Shows
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8 
+
  
  
