@@ -13,7 +13,7 @@ https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Love_Nature_4K_190x190_circle.png?raw=true" group-title="TOP ITALIA",Love Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Love_Nature_4K_190x190_circle.png?raw=true" group-title="TOP ITALIA",Love Nature
-https://bamus-eng-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-usa/CDN/playlist.m3u8
+https://bamus-eng-roku.amagi.tv/playlist.m3u8?l1br3LO0511
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="TOP ITALIA",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Sky Uno HD" tvg-name="Sky Uno HD" tvg-logo="https://imbt.ga/P2A71tpUMX" group-title="TOP ITALIA",Sky Uno HD
@@ -444,6 +444,8 @@ https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
 https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PBS America uk source" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="SAMSUNG TV PLUS",PBS America uk source
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyODMwNjBf/DarkMatterTV_218x218.png" group-title="SAMSUNG TV PLUS",Dark Matter TV | HD
+https://dmtv-plex.amagi.tv/playlist.m3u8?l1br3DM0501
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="SAMSUNG TV PLUS",Travel XP
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Brindia Mo" tvg-logo="https://i.imgur.com/iSNhxeD.png" group-title="SAMSUNG TV PLUS",Brindia Mo
