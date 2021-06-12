@@ -1,11 +1,11 @@
 
 #EXTM3U
-#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 05-06-2021---[/COLOR]  
+#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 12-06-2021---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1
-http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/108140
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/108140
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2
-http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/108138
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/108138
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai1hd.png" group-title="TOP ITALIA",Rai 4K
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/Clarity_4K_190x190_Circle.png?raw=true" group-title="TOP ITALIA",Clarity 4k
@@ -15,15 +15,15 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="TOP ITALIA",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Sky Uno HD" tvg-name="Sky Uno HD" tvg-logo="https://imbt.ga/P2A71tpUMX" group-title="TOP ITALIA",Sky Uno HD
-http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/108052
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/108052
 #EXTINF:-1 tvg-id="Sky Atlantic" tvg-name="Sky Atlantic HD" tvg-logo="https://imbt.ga/vufT3tK1pk" group-title="TOP ITALIA",Sky Atlantic HD
-http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/108044
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/108044
 #EXTINF:-1 tvg-id="" tvg-name="Pesca e Caccia HD" tvg-logo="https://www.pescaecaccia.com/wp-content/uploads/2016/10/logo-rov2.png" group-title="TOP ITALIA",Pesca e Caccia HD
-http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/108011
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/108011
 #EXTINF:-1 tvg-logo="http://patbuweb.com/tivustream/chanlogoz/ita/la7.png" group-title="TOP ITALIA",LA 7 HD
-http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/108195
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/108195
 #EXTINF:-1 tvg-logo="http://patbuweb.com/tivustream/chanlogoz/ita/la7.png" group-title="TOP ITALIA",La 7 D HD
-http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/108162
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/108162
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="TOP ITALIA",TV8 
 https://www.mytivu.it/Application/Channels/TV8.php
 #EXTINF:-1 tvg-id="" tvg-name="Cielo" " group-title="TOP ITALIA",Cielo
@@ -175,8 +175,8 @@ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/
 https://link.theplatform.eu/s/PR1GhC/sVf_w7YvBGsE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/260px-Cine34_logo.svg.png" group-title="TOP ITALIA",Cine 34 Mediaset (opz. 2)
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raiita.png" group-title="TOP ITALIA",Rai Italia
-http://200.115.190.211:8000/play/g8nvqYfMa2tkU5em/index.m3u8
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raiita.png" group-title="TOP ITALIA",Rai Italia (America)
+http://177.52.221.214:8000/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raiita.png" group-title="TOP ITALIA",Rai Italia (opt2)
 http://181.114.59.146:8000/play/g8nvqYfMa2tkU5em/index.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raiita.png" group-title="TOP ITALIA",Rai Italia (opt3)
@@ -184,7 +184,7 @@ http://210.210.155.69/s/s63/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/260px-Rai_4K_-_Logo_2017.svg.png" group-title="TOP ITALIA",Rai 4K
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rai_Radio_2_-_Logo_2017.svg/260px-Rai_Radio_2_-_Logo_2017.svg.png" group-title="TOP ITALIA",Rai Radio 2
-https://raievent9-live.akamaized.net/hls/live/619188/raievent9/raievent9/raievent9_2400/chunklist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai4hd.png" group-title="TOP ITALIA",Rai 4
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai4hd.png" group-title="TOP ITALIA",Rai 4 (Opz.2)
@@ -303,11 +303,11 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="https://vialogue.files.wordpress.com/2008/04/discovery-channel-discoveryfeature300.jpg" group-title="TOP ITALIA",Discovery HD
-http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/108004
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/108004
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Sci HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/800px-Discovery_Science_2017_Logo.svg.png" group-title="TOP ITALIA",Discovery Sci HD
-http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/108001
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/108001
 #EXTINF:-1 tvg-id="" tvg-name="National Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/800px-Natgeologo.svg.png" group-title="TOP ITALIA",National Geo HD
-http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/107998
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107998
 #EXTINF:-1 group-title="TOP ITALIA",Radio 24
 https://tivustream.website/urls/radio24
 #EXTINF:-1 " group-title="TOP ITALIA",Tg Norba 24
@@ -491,13 +491,13 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
 #EXTINF:-1 group-title="SPORT",Sport2U Tv
 http://live.sport2u.tv:1935/EvoLive/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Sport Italia" tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Sport Italia
-https://www.mytivu.it/Application/Channels/SI.php
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sport Italia Live 24" tvg-logo="https://www.tvdream.net/immagini/si-live-24.jpg" tvg-shift="0" group-title="SPORT",Sport Italia Live 24
-https://www.mytivu.it/Application/Channels/SILive24.php
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sport Italia Calcio" tvg-logo="https://www.tvdream.net/immagini/si-solocalcio-sportitalia.jpg" tvg-shift="0" group-title="SPORT",Sport Italia Calcio
-https://www.mytivu.it/Application/Channels/SISoloCalcio.php
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sport Italia Motori" tvg-logo="https://www.tvdream.net/immagini/si-motori-sportitalia.jpg" tvg-shift="0" group-title="SPORT",Sport Italia Motori
-https://www.mytivu.it/Application/Channels/SIMotori.php
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Motor TV" tvg-logo="https://i.imgur.com/muS5HF5.jpg" group-title="SPORT",Motor 1 TV
 https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/MOTOR.png" group-title="SPORT",MotorTrend
@@ -571,23 +571,47 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 " group-title="SPORT",FOX Sports 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Serie A" tvg-name="Sky  Sport Serie A HD" tvg-logo="https://www.osteriacapri.it/wp-content/uploads/2019/11/sky-sport-serie-a-thumb.png" group-title="SPORT",Sky  Sport Serie A HD
-http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/107892
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107891
 #EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="Sky Sport Uno HD" tvg-logo="https://static.sky.it/images/skyit/ext/rf/benvenuto/sky-digitale-terrestre-txt/img/11_skysportunohd.png" group-title="SPORT",Sky Sport Uno HD
-http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/107970
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107970
 #EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sky_Sport_Arena_-_Logo_2018.svg/512px-Sky_Sport_Arena_-_Logo_2018.svg.png" group-title="SPORT",Sky Sport Arena HD
-http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/107966
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107966
 #EXTINF:-1 tvg-id="SkySportFootball.it" tvg-name="Sky Sport Football HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/512px-Sky_Sport_Football_-_Logo_2018.svg.png" group-title="SPORT",Sky Sport Football HD
-http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/107962
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107962
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sky_Sport_F1_-_Logo_2015.svg/512px-Sky_Sport_F1_-_Logo_2015.svg.png" group-title="SPORT",Sky Sport F1 HD
-http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/107944
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107944
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport MotoGP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sky_Sport_MotoGP_-_Logo_2015.svg/512px-Sky_Sport_MotoGP_-_Logo_2015.svg.png" group-title="SPORT",Sky Sport MotoGP HD
-http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/107958
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107958
 #EXTINF:-1 tvg-id="Inter Channel" tvg-name="Inter Channel" tvg-logo="https://www.vi-so.com/wp-content/uploads/2017/10/interchannel.jpg" group-title="SPORT",Inter Channel
-http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/107866
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107866
 #EXTINF:-1 " group-title="SPORT",EUROSPORT 1
-http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/107940
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107940
 #EXTINF:-1 " group-title="SPORT",EUROSPORT 2
-http://unrealiptv.ddns.net:80/7X0vriVEd8/Ciccio/107937
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107937
+EXTINF:-1 tvg-id="" tvg-name="DAZN 1  FULL HD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 1  FULL HD
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107913
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2  FULL HD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 2  FULL HD
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107910
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 FULL HD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 3 FULL HD
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107908
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 FULL HD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 4 FULL HD
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107906
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 FULL HD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 5 FULL HD
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107904
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 FULL HD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 6 FULL HD
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107902
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 7 HD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 7 HD
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107900
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 FHD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 8 FHD
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107899
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 FHD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 9 FHD
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107898
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 HD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 10 HD
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107897
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 11 HD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 11 HD
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107896
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 12 HD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 12 HD
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107895
 
 #EXTINF:-1 " group-title="SPORT",Stream 1 (02_SPORTTV_1_720p)
 #EXTVLCOPT:http-user-agent=fake_UA
