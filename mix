@@ -12,6 +12,8 @@ https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/play
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Love_Nature_4K_190x190_circle.png?raw=true" group-title="TOP ITALIA",Love Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Love_Nature_4K_190x190_circle.png?raw=true" group-title="TOP ITALIA",Love Nature
+https://bamus-eng-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-usa/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="TOP ITALIA",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Sky Uno HD" tvg-name="Sky Uno HD" tvg-logo="https://imbt.ga/P2A71tpUMX" group-title="TOP ITALIA",Sky Uno HD
@@ -325,7 +327,7 @@ http://api.new.livestream.com/accounts/245066/events/3063596/live.m3u8
 #EXTINF:-1 tvg-name="Antenna 2 Bergamo" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/antenna2.png" tvg-shift="0" group-title="TOP ITALIA",Antenna 2 Bergamo
 https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Clusone Bergamo" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/TELECLUSONE.png" tvg-shift="0" group-title="TOP ITALIA",Tele Clusone Bergamo
-https://video1.getstreamhosting.com:1936/8124/8124/playlist.m3u8
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/207127
 #EXTINF:-1 tvg-name="Seila Tv Bergamo" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/SEILATV.png" tvg-shift="0" group-title="TOP ITALIA",Seila Tv Bergamo
 https://585b674743bbb.streamlock.net/9060/9060/playlist.m3u8
 #EXTINF:-1 nome-tvg="Tele Color Lombardia" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/gelecollor.jpg" tvg-shift="0" group-title="TOP ITALIA",Tele Color Lombardia 
@@ -588,30 +590,9 @@ http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107866
 http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107940
 #EXTINF:-1 " group-title="SPORT",EUROSPORT 2
 http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107937
-EXTINF:-1 tvg-id="" tvg-name="DAZN 1  FULL HD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 1  FULL HD
-http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107913
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2  FULL HD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 2  FULL HD
-http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107910
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 FULL HD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 3 FULL HD
-http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107908
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 FULL HD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 4 FULL HD
-http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107906
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 FULL HD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 5 FULL HD
-http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107904
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 FULL HD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 6 FULL HD
-http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107902
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 7 HD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 7 HD
-http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107900
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 FHD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 8 FHD
-http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107899
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 FHD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 9 FHD
-http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107898
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 HD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 10 HD
-http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107897
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 11 HD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 11 HD
-http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107896
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 12 HD" tvg-logo="https://i1.wp.com/www.calciotoscano.it/wp-content/uploads/2019/02/dazn.png" group-title="SPORT",DAZN 12 HD
-http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107895
+#EXTINF:-1 tvg-id="" tvg-name="SKY DAZN SAT FULL HD LOCALE" tvg-logo="https://images.daznservices.com/di/library/GOAL/36/3d/sky-dazn_cxtna0802atl1g83jgcz8war2.png?t=1283253604&quality=60&w=700" group-title="SPORT",SKY DAZN SAT FULL HD LOCALE
+http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/107918
+
 
 #EXTINF:-1 " group-title="SPORT",Stream 1 (02_SPORTTV_1_720p)
 #EXTVLCOPT:http-user-agent=fake_UA
