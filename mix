@@ -1,6 +1,6 @@
 
 #EXTM3U
-#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 13-06-2021---[/COLOR]  
+#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 19-06-2021---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1
 http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/108140
@@ -20,7 +20,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pesca e Caccia HD" tvg-logo="https://www.pescaecaccia.com/wp-content/uploads/2016/10/logo-rov2.png" group-title="TOP ITALIA",Pesca e Caccia HD
 http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/108011
-#EXTINF:-1 tvg-id="" tvg-name="Pesca e Caccia HD" tvg-logo="https://www.pescaecaccia.com/wp-content/uploads/2016/10/logo-rov2.png" group-title="TOP ITALIA",Italian Fishing TV
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italian-fishing-tv.jpg" group-title="TOP ITALIA",Italian Fishing TV 
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="https://vialogue.files.wordpress.com/2008/04/discovery-channel-discoveryfeature300.jpg" group-title="TOP ITALIA",Discovery HD
 http://sprintteam.ddns.net:80/paololavatrice/PjvqDVMmYK/108004
@@ -89,6 +89,10 @@ http://tivustream.website/urls/la7d
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1 tvg-logo="http://patbuweb.com/tivustream/chanlogoz/ita/nove.png" group-title="TOP ITALIA",Nove HD (Opz.2)
 http://194.76.186.69:8000/play/a0fh 
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dark-matter-italy.png" group-title="TOP ITALIA",Dark Matter (Samsung Channel)
+https://amg00434-tricoast-darkmatter-italy-samsunguk-lvse1.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/fail-army-italy.png" group-title="TOP ITALIA",Fail Army (Samsung Channel)
+https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/Yamato.png" group-title="TOP ITALIA",Yamato Animation (Samsung Channel)
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/action-movies.jpg" group-title="TOP ITALIA",Action Movies (Samsung Channel)
@@ -219,11 +223,13 @@ http://194.76.186.69:8000/play/a0po
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raipremiumhd.png" group-title="TOP ITALIA",Rai Premium (Opz.2)
 http://194.76.186.69:8000/play/a038
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AeHlXnK.jpg" group-title="TOP ITALIA",Mondo Kids
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/planeta-junior.jpg" group-title="TOP ITALIA",Planeta Junior (Samsung Channel)
+https://deaplaneta-planetakidz-2-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AeHlXnK.jpg" group-title="TOP ITALIA",Mondo Kids (Samsung Channel)
 https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="TOP ITALIA",Supertoons TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="TOP ITALIA",Supertoons TV (Samsung Channel)
 https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="TOP ITALIA",Teletubbies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="TOP ITALIA",Teletubbies (Samsung Channel)
 https://dhx-teletubbies-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H7GtB0T.jpg" group-title="TOP ITALIA",Amuse Animation
 https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
@@ -277,6 +283,24 @@ http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 https://tivustream.website/urls/fanpage
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/tv2000.png" group-title="TOP ITALIA",Tv 2000
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/V/vatican-media-reduced-logo-BA4C1272D1-seeklogo.com.png" group-title="TOP ITALIA",Vatican Media
+https://tivustream.website/urls/vatmedia
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/1135673/sanctuaires-notre-dame-de-lourdes-squarelogo-1456834408012.png" group-title="TOP ITALIA",Lourdes Live
+https://tivustream.website/urls/lourdes
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/tele_radio_padre_pio200.png" group-title="TOP ITALIA",Tele Padre Pio HD
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Fatima Tv" tvg-logo="https://www.tvdream.net/img/fatimatv.png" tvg-shift="0" group-title="TOP ITALIA",Fatima Tv
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/FedeTv.png" tvg-shift="0" group-title="TOP ITALIA",Fede Tv
+https://59bb40cf810aa.streamlock.net:4443/canale3/canale3/playlist.m3u8
+#EXTINF:-1 tvg-name="Giovanni Paolo Tv" tvg-logo="https://www.tvdream.net/immagini/giovanni-paolo-tv.jpg" group-title="TOP ITALIA",Giovanni Paolo Tv	
+https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
+#EXTINF:-1 tvg-name="Chiesa Tv" tvg-logo="https://www.tvdream.net/immagini/chiesa-tv.jpg" group-title="TOP ITALIA",Chiesa Tv
+http://cldwz.glauco.it/HLS/Chiesadimilanoaac/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/telepace.jpg" group-title="TOP ITALIA",Tele Pace
+http://live-fs.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/CatholicTV_logo.png/220px-CatholicTV_logo.png" group-title="TOP ITALIA",Catholic Tv HD
+http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/history-lab.jpg" group-title="TOP ITALIA",History Lab
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/KOPER.png" group-title="TOP ITALIA",Tv Koper Capodistria
@@ -313,6 +337,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/world_fashion.png" group-title="TOP ITALIA",World Fashion International HD
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+
 
 #EXTINF:-1 group-title="TOP ITALIA",Radio 24
 https://tivustream.website/urls/radio24
@@ -434,7 +459,7 @@ https://endemol-top-criminie-1-it.samsung.wurl.com/manifest/playlist.m3u8
 https://atresmedia-atreseries-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/motor-1-tv.png" group-title="SAMSUNG TV PLUS",Motor 1 TV 
 https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pesca e Caccia HD" tvg-logo="https://www.pescaecaccia.com/wp-content/uploads/2016/10/logo-rov2.png" group-title="SAMSUNG TV PLUS",Italian Fishing TV
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italian-fishing-tv.jpg" group-title="SAMSUNG TV PLUS",Italian Fishing TV 
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/my-surf-tv.png" group-title="SAMSUNG TV PLUS",My Surf TV
 https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8
@@ -450,11 +475,11 @@ https://gto2000-sportoutdoortv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="FTF (en)" tvg-name="" tvg-logo="https://i.imgur.com/Db8nWyW.png" group-title="SAMSUNG TV PLUS",FTF (en)
 https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyODMwNjBf/DarkMatterTV_218x218.png" group-title="SAMSUNG TV PLUS",Failarmy (Italy)
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/fail-army-italy.png" group-title="SAMSUNG TV PLUS",Fail Army 
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PBS America uk source" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="SAMSUNG TV PLUS",PBS America uk source
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyODMwNjBf/DarkMatterTV_218x218.png" group-title="SAMSUNG TV PLUS",Darkmatter (Italy)
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dark-matter-italy.png" group-title="SAMSUNG TV PLUS",Dark Matter
 https://amg00434-tricoast-darkmatter-italy-samsunguk-lvse1.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="SAMSUNG TV PLUS",Travel XP
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -1006,6 +1031,8 @@ https://www.m24.ru/trans/moscowcity/trans.m3u8
 http://flash5.xdevel.com/ciccioricciocam/smil:ciccioricciocam.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.citymusic.be/images/CityMusiclogo.png" tvg-shift="0" group-title="MUSICA",City Music Tv
 https://highvolume102.streampartner.nl/citytv/citytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle-150x150-1.png" tvg-shift="0" group-title="MUSICA",Clubbing Tv 
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1511462947_colosal-tv.png" tvg-shift="0" group-title="MUSICA",Colosal Tv HD
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.trendcomunicazione.com/wp-content/uploads/2018/11/20180416-logo-tv-bokka-300x155.png" tvg-shift="0" group-title="MUSICA",Company Tv
