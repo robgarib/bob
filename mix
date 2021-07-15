@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 11-07-2021---[/COLOR]  
+#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 15-07-2021---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1
 http://nostrasalus.dontexist.net:80/BGb7MuLkVK/dlHBeQxeig/46
@@ -13,8 +13,6 @@ https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Love_Nature_4K_190x190_circle.png?raw=true" group-title="TOP ITALIA",Love Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveNature4K.us" tvg-name="Love Nature 4K" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AzOvgkV.png" group-title="TOP ITALIA",Love Nature 4K opt.2
-https://d27r4t30huw0iy.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Love_Nature_4K_190x190_circle.png?raw=true" group-title="TOP ITALIA",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8?l1br3LO0511
 #EXTINF:-1 tvg-id="LoveNature.us" tvg-name="Love Nature" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AzOvgkV.png" group-title="TOP ITALIA",Love Nature (1080p)
@@ -431,7 +429,16 @@ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b4)/
 #EXTINF:-1" group-title="TOP ITALIA", DIRETTA MEDIASET 2
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b4)/index.m3u8
 
-
+#EXTINF:-1," group-title="SAMSUNG TV PLUS",Donna tv 
+https://promosrl-donnatv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1," group-title="SAMSUNG TV PLUS",Alma TV Travel
+https://promosrl-almatvtravel-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1," group-title="SAMSUNG TV PLUS",Alma TV Food 
+https://promosrl-almatvfood-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1," group-title="SAMSUNG TV PLUS",Radio Italia Trend(Italy)
+https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
+#EXTINF:-1," group-title="SAMSUNG TV PLUS",Shorts 
+https://amg00784-shortsinternati-shortstv-fast-italy-samsungit-3i2cq.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="SAMSUNG TV PLUS",Rakuten Action Movies
 https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="SAMSUNG TV PLUS",Rakuten Comedy Movies
@@ -2228,5 +2235,7 @@ https://endemol-tele-crimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
 https://endemol-tele-drama-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Shows" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="Vari",TV Shows
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8 
+
+ 
 
  
