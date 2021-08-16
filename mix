@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 15/08/2021---[/COLOR]  
+#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 16/08/2021---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="RSI La 1 HD" tvg-name="RSI LA 1 HD" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Imaggini/picons/TvItalia/RsiLa1.png" group-title="TOP ITALIA",RSI LA 1 HD
 http://skyitalia.hopto.org:8000/Salvatore1/Salvatore1/296305
@@ -43,9 +43,8 @@ http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 nome-tvg-"Red Bull TV" tvg-id "Red Bull TV" logo tvg "https://i.imgur.com/TvmeXd.png" group-title="TOP ITALIA", Red Bull TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pesca e Caccia HD" tvg-logo="https://www.pescaecaccia.com/wp-content/uploads/2016/10/logo-rov2.png" group-title="TOP ITALIA",Pesca e Caccia HD
-http://nostrasalus.dontexist.net:80/7Dm872xXmY/2JKfvNIZx9/142
-#EXTINF:-1 tvg-id="" tvg-name="Pesca e Caccia HD" tvg-logo="https://www.pescaecaccia.com/wp-content/uploads/2016/10/logo-rov2.png" group-title="TOP ITALIA",Pesca e Caccia HD OPT. 2
+#EXTINF:-1 tvg-id="" tvg-name="PESCA HD" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Imaggini/picons/SkySport/SkySportPesca.png" group-title="TOP ITALIA",PESCA HD
+http://skyitalia.hopto.org:8000/Salvatore1/Salvatore1/296703
 http://campioni2021.mywire.org:80/NrmFNyhekA/72uX94DpFP/142
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italian-fishing-tv.jpg" group-title="TOP ITALIA",Italian Fishing TV 
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
