@@ -1,6 +1,6 @@
 
 #EXTM3U
-#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 11/09/2021---[/COLOR]  
+#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 13/09/2021---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1 HD
 https://list.iptvcat.com/my_list/s/dfd389b0516d74b00f4d8405ea5b830c.m3u8
@@ -852,27 +852,37 @@ https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 " group-title="SPORT",Stream 59 (astrakhanrusporthd)
 #EXTVLCOPT:http-user-agent=fake_UA
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1 " group-title="SPORT",China-1
-http://livecdn.fptplay.net/italyfootball/seriea01_4000.stream/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",China-2
-http://livecdn.fptplay.net/italyfootball/seriea02_4000.stream/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",China-3
-http://livecdn.fptplay.net/italyfootball/seriea03_4000.stream/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",China-4
-http://livecdn.fptplay.net/italyfootball/seriea04_4000.stream/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",China-5
-http://livecdn.fptplay.net/italyfootball/seriea05_4000.stream/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",China-6
-http://livecdn.fptplay.net/italyfootball/seriea06_4000.stream/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",China-7
-http://livecdn.fptplay.net/italyfootball/seriea07_4000.stream/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",China-8
-http://livecdn.fptplay.net/italyfootball/seriea08_4000.stream/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",China-9
-http://livecdn.fptplay.net/italyfootball/seriea09_4000.stream/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",China-10
-http://livecdn.fptplay.net/italyfootball/seriea10_4000.stream/chunklist.m3u8
-https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Match! Futball 1
+https://bal.varcdn1.ru/lb/m1/index.m3u8
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Match! Futball 2
+https://bal.varcdn1.ru/lb/m2/index.m3u8
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Match! Futball 3
+https://bal.varcdn1.ru/lb/m3/index.m3u8
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",UA Futball 1
+https://bal.varcdn1.ru/lb/ua1/index.m3u8
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",UA Futball 2
+https://bal.varcdn1.ru/lb/ua2/index.m3u8
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",UA Futball 3
+https://bal.varcdn1.ru/lb/ua3/index.m3u8
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Setanta
+https://bal.varcdn1.ru/lb/setanta1/index.m3u8
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Setanta Plus
+https://bal.varcdn1.ru/lb/setantaplusukraina/index.m3u8
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Match!
+https://bal.varcdn1.ru/lb/match/index.m3u8
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Eurosport 1
+https://bal.varcdn1.ru/lb/Eurosport1/index.m3u8
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Eurosport 2
+https://bal.varcdn1.ru/lb/Eurosport2/index.m3u8 
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Match! Arena
+https://bal.varcdn1.ru/lb/marena/index.m3u8
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Match! Premier
+https://bal.varcdn1.ru/lb/mp/index.m3u8
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Match! Box
+https://bal.varcdn1.ru/lb/matchboec/index.m3u8
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Belarus 5
+https://bal.varcdn1.ru/lb/b5/index.m3u8
+
 #EXTINF:-1" group-title="SPORT", DIRETTA MEDIASET 1
 https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(b2)/index.m3u8
 #EXTINF:-1" group-title="SPORT", DIRETTA MEDIASET 2
