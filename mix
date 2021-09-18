@@ -1,6 +1,6 @@
 
 #EXTM3U
-#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 16/09/2021---[/COLOR]  
+#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 18/09/2021---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1 HD
 http://89.163.224.48:8000/kJctUlB50Z/Sn3Bik7Dy1/296305
@@ -881,6 +881,94 @@ https://bal.varcdn1.ru/lb/mp/index.m3u8
 https://bal.varcdn1.ru/lb/matchboec/index.m3u8
 #EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Belarus 5
 https://bal.varcdn1.ru/lb/b5/index.m3u8
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",BEIN SPORTS 1
+http://46.105.112.116/?watch=EX/bein1hd-ar&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",BEIN SPORTS 2
+http://46.105.112.116/?watch=EX/bein2hd-ar&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",BEIN SPORTS 3
+http://46.105.112.116/?watch=EX/bein3hd-ar&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",BEIN SPORTS 4
+http://46.105.112.116/?watch=EX/bein4hd-ar&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",BEIN SPORTS 5
+http://46.105.112.116/?watch=EX/bein5hd-ar&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",BEIN SPORTS 6
+http://46.105.112.116/?watch=EX/bein6hd-ar&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",BEIN SPORTS 7
+http://46.105.112.116/?watch=EX/bein7hd-ar&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",BEIN SPORTS 1 PREMIUM
+http://46.105.112.116/?watch=EX/bein8hd-ar&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",BEIN SPORTS 2 PREMIUM
+http://46.105.112.116/?watch=EX/bein9hd-ar&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",BEIN SPORTS 3 PREMIUM
+http://46.105.112.116/?watch=EX/bein10hd-ar&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",BEIN SPORTS 1 ENG
+http://46.105.112.116/?watch=EX/bein11hd-ar&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",BEIN SPORTS 2 ENG
+http://46.105.112.116/?watch=EX/bein12hd-ar&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",BEIN SPORTS 1 FRA
+http://46.105.112.116/?watch=EX/bein14hd-ar&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",BEIN SPORTS 2 FRA
+http://46.105.112.116/?watch=EX/bein15hd-ar&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",RMC SPORT 1
+http://46.105.112.116/?watch=EX/FR_RMC_SPORT1_HD-fr&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",RMC SPORT 2
+http://46.105.112.116/?watch=EX/FR_RMC_SPORT2_HD-fr&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",RMC SPORT 3
+http://46.105.112.116/?watch=EX/FR_RMC_SPORT3_HD-fr&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",RMC SPORT 4
+http://46.105.112.116/?watch=EX/FR_RMC_SPORT4_HD-fr&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",RMC SPORT 5
+http://46.105.112.116/?watch=EX/FR_RMC_SPORT5_HD-fr&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",RMC SPORT 6
+http://46.105.112.116/?watch=EX/FR_RMC_SPORT6_HD-fr&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",RMC SPORT
+http://46.105.112.116/?watch=EX/FR_RMC_SPORT7_HD-fr&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",RMC SPORT
+http://46.105.112.116/?watch=EX/FR_RMC_SPORT8_HD-fr&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",RMC SPORT
+http://46.105.112.116/?watch=EX/FR_RMC_SPORT9_HD-fr&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",RMC SPORT
+http://46.105.112.116/?watch=EX/FR_RMC_SPORT10_HD-fr&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",RMC SPORT
+http://46.105.112.116/?watch=EX/FR_RMC_SPORT11_HD-fr&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",BT SPORT 1
+http://46.105.112.116/?watch=EX/BT_Sport_1_HD-uk&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",BT SPORT 2
+http://46.105.112.116/?watch=EX/BT_Sport_2_HD-uk&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",BT SPORT 3
+http://46.105.112.116/?watch=EX/BT_Sport_3_HD-uk&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",BT SPORT ESPN
+http://46.105.112.116/?watch=EX/BT_Sport_ESPN_HD-uk&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",PREMIERE CLUBES
+http://46.105.112.116/?watch=BR/Premiere_Clubes_HD-br&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",SPORT TV 1
+http://46.105.112.116/?watch=BR/Sportv_HD-br&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",SPORT TV 2
+http://46.105.112.116/?watch=BR/Sportv_2_HD-br&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",SPORT TV 3
+http://46.105.112.116/?watch=BR/Sportv_3_HD-br&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",FOX SPORTS 1
+http://46.105.112.116/?watch=BR/Fox_Sports_HD-br&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",FOX SPORTS 2
+http://46.105.112.116/?watch=BR/Fox_Sports_2_HD-br&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",SPORTS TEN 1
+http://46.105.112.116/?watch=R-EX/SPORTS_TEN_1_HD-in&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",SPORTS TEN 2
+http://46.105.112.116/?watch=R-EX/SPORTS_TEN_2_HD-in&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",SPORTS TEN 3
+http://46.105.112.116/?watch=R-EX/SPORTS_TEN_3_HD-in&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",SPORTS SONY SIX
+http://46.105.112.116/?watch=R-EX/SPORTS_SONY_SIX_HD-in&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",STAR SPORTS 1
+http://46.105.112.116/?watch=R-EX/STAR_SPORTSHINDI_HD_1-in&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",STAR SPORTS 2
+http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_2_HD-in&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",STAR SPORTS 3
+http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_3_-in&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",STAR SPORTS SELECT 1
+http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in&token=
+#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",STAR SPORTS SELECT 2
+http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in&token=
 
 #EXTINF:-1" group-title="SPORT", DIRETTA MEDIASET 1
 https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(b2)/index.m3u8
