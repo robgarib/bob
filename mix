@@ -1,11 +1,18 @@
-
 #EXTM3U
-#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 18/09/2021---[/COLOR]  
+#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 20/09/2021---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1 HD
 http://89.163.224.48:8000/kJctUlB50Z/Sn3Bik7Dy1/296305
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2 HD
 http://89.163.224.48:8000/kJctUlB50Z/Sn3Bik7Dy1/296304
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1 HD opt 2
+http://astreaming.ddns.net:80/gS6EJJbXCD/dc0ky2fvzg/46
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2 HD opt 2
+http://astreaming.ddns.net:80/gS6EJJbXCD/dc0ky2fvzg/47
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1 HD opt 3
+http://corona2.ddns.net:80/cmeld9NT8B/50jxWtFELq/46
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2 HD opt 3
+http://corona2.ddns.net:80/cmeld9NT8B/50jxWtFELq/47
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai1hd.png" group-title="TOP ITALIA",Rai 4K
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/Clarity_4K_190x190_Circle.png?raw=true" group-title="TOP ITALIA",Clarity 4k
@@ -2276,6 +2283,15 @@ https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
 https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/at/ORF2.at.png" group-title="Vari",ORF 2
 https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ORF1_logo.svg/1280px-ORF1_logo.svg.png" tvg-url="" group-title="Vari",AT:ORF 1 HD
+http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/95639
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/at/ORF2.at.png" group-title="Vari",AT:ORF 2 HD
+http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/95640
+#EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_III_Logo.png" tvg-url="" group-title="Vari",AT: ORF 3 HD
+http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/95641
+#EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-name="ORF Sport +" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/1200px-ORF_Sport%2B.svg.png" tvg-url="" group-title="Vari",AT: ORF SPORT  HD
+http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/95642
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/Cinemax.pl.png" group-title="Vari",Cinemax
 http://digitalxpress.gcdn.co/live1/cinemaxpolska/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/BabyTV.tr.png" group-title="Vari",Baby TV polska
@@ -2372,7 +2388,6 @@ https://endemol-tele-crimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
 https://endemol-tele-drama-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Shows" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="Vari",TV Shows
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8 
-
  
 
  
