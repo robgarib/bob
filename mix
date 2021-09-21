@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 20/09/2021---[/COLOR]  
+#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 21/09/2021---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1 HD
 http://89.163.224.48:8000/kJctUlB50Z/Sn3Bik7Dy1/296305
@@ -396,6 +396,12 @@ https://585b674743bbb.streamlock.net/9060/9060/playlist.m3u8
 http://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8
 #EXTINF:-1 tvg-name="Azzurra Tv Vco" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/AzzurraTV.png" tvg-shift="0" group-title="TOP ITALIA",Azzurra Tv Vco
 http://sb.top-ix.org:1935/avtvlive/streaming/chunklist_w1605488247.m3u8
+#EXTINF:-1 tvg-name="Primocanale" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/primocanale.png" tvg-shift="0" group-title="TOP ITALIA",Primocanale Genova
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Top Calcio 24" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-top-calcio-24-7160-300x225.jpg" tvg-shift="0" group-title="TOP ITALIA",Top Calcio 24
+https://bit.ly/38QRMom
+#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/vallassina.png" tvg-name="Televallassina" group-title="TOP ITALIA",Televallassina
+http://tivustream.website/urls/televallassina
 #EXTINF:-1 nome-tvg="Tsn Lecco" tvg-logo="https://i.postimg.cc/Bb8VDP12/index.jpg" tvg-shift="0" group-title="TOP ITALIA",Tsn Lecco 
 http://59d8c0cee6f3d.streamlock.net/tsn2/tsn2_mobile/playlist.m3u8
 #EXTINF:-1 nome-tv="Videostar Tv Lombardia" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/videostar.jpg" tvg-shift="0" group-title="TOP ITALIA",Videostar Tv Lombardia 
@@ -406,6 +412,8 @@ http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
 http://api.new.livestream.com/accounts/17114188/events/4902226/live.m3u8
 #EXTINF:-1 nome-tvg="Tele Boario" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/TeleBoario.png" tvg-shift="0" group-title="TOP ITALIA",Tele Boario 
 http://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Tutto" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/teletutto.png" tvg-shift="0" group-title="TOP ITALIA",Tele Tutto
+https://600f07e114306.streamlock.net/TT_TELETUTTO/smil:TT.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Tutto 2" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/teletutto2.png" tvg-shift="0" group-title="TOP ITALIA",Tele Tutto 2
 https://600f07e114306.streamlock.net/TT2_TELETUTTO/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Tutto 24" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/teletutto24.png" tvg-shift="0" group-title="TOP ITALIA",Tele Tutto 24
@@ -436,6 +444,10 @@ rtmp://213.187.12.18/telepn/telepn
 https://streamtechglobal.akamaized.net/hls/live/2024685/telefriuli/Group01/2024685-telefriuli/chunklist.m3u8
 #EXTINF:-1 nome-tvg="Tele Quattro Trieste" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/Tele_Quattro.png" tvg-shift="0" group-title="TOP ITALIA",Tele Quattro Trieste 
 http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w1388066579.m3u8
+#EXTINF:-1 tvg-name="Tele Romagna" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/TELEROMAGNA.png" tvg-shift="0" group-title="TOP ITALIA",Tele Romagna
+http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1 tvg-name="TRC Santeramo" tvg-logo="https://www.tvdream.net/immagini/trc-santeramo.jpg " tvg-shift="0" group-title="TOP ITALIA",TRC SanterNo
+https://59d7d6f47d7fc.streamlock.net/trc/trc/playlist.m3u8
 #EXTINF:-1 tvg-name="Rtv 38 Toscana" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rtv38.png" tvg-shift="0" group-title="TOP ITALIA",Rtv 38 Toscana
 http://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/live/S12268608/CXHH7K39hg9K/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-M8cLGVaWdCw/YMIXLJRrCzI/AAAAAAAAABc/SfK2B2BR1kAT7EvLprdpDDK4ssLxLrD3gCK4BGAYYCw/s1600/Iunior_TV-940%2Bx%2B335.png" tvg-shift="0" group-title="TOP ITALIA",Iunior Tv
@@ -573,6 +585,8 @@ https://5e73cf528f404.streamlock.net/GR_sport/livestream/chunklist_w1501899689.m
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
 #EXTINF:-1 group-title="SPORT",Sport2U Tv
 http://live.sport2u.tv:1935/EvoLive/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="Top Calcio 24" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-top-calcio-24-7160-300x225.jpg" tvg-shift="0" group-title="SPORT",Top Calcio 24
+https://bit.ly/38QRMom
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Sport Italia HD
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/si-live-24.jpg" tvg-shift="0" group-title="SPORT",Sport Italia Live 24
@@ -2388,6 +2402,3 @@ https://endemol-tele-crimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
 https://endemol-tele-drama-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Shows" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="Vari",TV Shows
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8 
- 
-
- 
