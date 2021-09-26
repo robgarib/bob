@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 21/09/2021---[/COLOR]  
+#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 26/09/2021---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1 HD
 http://89.163.224.48:8000/kJctUlB50Z/Sn3Bik7Dy1/296305
@@ -465,10 +465,8 @@ https://promosrl-donnatv-1-it.samsung.wurl.tv/playlist.m3u8
 https://promosrl-almatvtravel-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1," group-title="SAMSUNG TV PLUS",Alma TV Food 
 https://promosrl-almatvfood-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1," group-title="SAMSUNG TV PLUS",Radio Italia Trend(Italy)
-https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
-#EXTINF:-1," group-title="SAMSUNG TV PLUS",Shorts 
-https://amg00784-shortsinternati-shortstv-fast-italy-samsungit-3i2cq.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ITBA2200010O1" tvg-chno="4054" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/49/ITBA2200010O1_20210811T022121.png" group-title="SAMSUNG TV PLUS",Sportitalia
+https://sportsitalia-samsungitaly.amagi.tv/hls/amagi_hls_data_sportital-sportitalia-samsung-italy/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26tc_string%3D%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="SAMSUNG TV PLUS",Rakuten Action Movies
 https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="SAMSUNG TV PLUS",Rakuten Comedy Movies
@@ -503,6 +501,8 @@ https://alchimie-humanity-3-it.samsung.wurl.com/manifest/playlist.m3u8
 https://minerva-cinemasegreto-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/minerva-bizzarro-movies.png" group-title="SAMSUNG TV PLUS",Minerva Bizzarro Movies
 https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ITBB20000072M" tvg-chno="4501" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/28/ITBB20000072M_20210908T010329.png" group-title="SAMSUNG TV PLUS",WP
+https://1d1ed0dfb4a94f9ea120ff72ce028e9c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_WP/playlist.m3u8?ads.wurl_channel%3D933%26ads.wurl_name%3DWP%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/people-are-awesome.png" group-title="SAMSUNG TV PLUS",People are Awesome
 https://jukin-peopleareawesome-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/top-series.jpg" group-title="SAMSUNG TV PLUS",Top Series 
@@ -511,9 +511,9 @@ https://endemol-top-serie-1-it.samsung.wurl.com/manifest/playlist.m3u8
 https://endemol-top-criminie-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Atres Series" tvg-logo="https://i.imgur.com/g5iBSq4.png" group-title="SAMSUNG TV PLUS",Atres Series
 https://atresmedia-atreseries-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/motor-1-tv.png" group-title="SAMSUNG TV PLUS",Motor 1 TV 
+#EXTINF:-1 tvg-id="ITAJ4500024DT" tvg-chno="4053" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/36/ITAJ4500024DT_20210609T004847.png" group-title="SAMSUNG TV PLUS",Motor 1 TV 
 https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italian-fishing-tv.jpg" group-title="SAMSUNG TV PLUS",Italian Fishing TV 
+#EXTINF:-1 tvg-id="ITBB2000001QB" tvg-chno="4074" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/39/ITBB2000001QB_20210714T000818.png" group-title="SAMSUNG TV PLUS",Italian Fishing TV 
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/my-surf-tv.png" group-title="SAMSUNG TV PLUS",My Surf TV
 https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8
@@ -531,10 +531,16 @@ https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/fail-army-italy.png" group-title="SAMSUNG TV PLUS",Fail Army 
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ITBA2200009R7" tvg-chno="4512" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/68/ITBA2200009R7_20210714T000920.png" group-title="SAMSUNG TV PLUS",Shorts
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00784-shortsinternati-shortstv-fast-italy-samsungit/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D1%26tc_string%3D%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="" tvg-name="PBS America uk source" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="SAMSUNG TV PLUS",PBS America uk source
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dark-matter-italy.png" group-title="SAMSUNG TV PLUS",Dark Matter
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00434-tricoast-darkmatter-italy-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="ITBA3300040O8" tvg-chno="4355" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/46/ITBA3300040O8_20210811T021919.png" group-title="SAMSUNG TV PLUS",Museum TV Free
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="ITBA33000399U" tvg-chno="4356" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/99/ITBA33000399U_20210811T021942.png" group-title="SAMSUNG TV PLUS",My Zen TV Free
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="SAMSUNG TV PLUS",Travel XP
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Brindia Mo" tvg-logo="https://i.imgur.com/iSNhxeD.png" group-title="SAMSUNG TV PLUS",Brindia Mo
@@ -551,12 +557,24 @@ https://alchimie-luxe-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://alchimie-moods-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Qello Concerts by Stingray" tvg-logo="https://i.imgur.com/IVUgJPY.png" group-title="SAMSUNG TV PLUS",Qello Concerts by Stingray
 https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="QUEST TV Jazz and Beyond (en)" tvg-logo="https://i.imgur.com/bhSrOea.jpg" group-title="SAMSUNG TV PLUS",QUEST TV Jazz and Beyond (en)
-https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="QUEST TV Classical (en)" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="SAMSUNG TV PLUS",QUEST TV Classical (en)
-https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="QUEST TV MIX (en)" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="SAMSUNG TV PLUS",QUEST TV MIX (en)
-https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
+56.png" group-title="Musica",Vevo Pop
+https://601820eb2b971a000104f40a-samsung.eu.ssai.zype.com/601820eb2b971a000104f40a_samsung_eu/manifest.m3u8?sitesection_id%3Dvevo_linear%3A_samsungtvplus%26sitesection_network_id%3D516283%26sitesection_fallback_id%3D15346233%26device_id%3D%7BPSID%7D%26target_option%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26app_domain%3D%7BAPP_DOMAIN%7D
+#EXTINF:-1 tvg-id="ITBA3900002G0" tvg-chno="4451" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/23/ITBA3900002G0_20210811T022116.png" group-title="SAMSUNG TV PLUS",Vevo '90s & '00s
+https://60d0ea8ca0368900012b7df9-samsung.eu.ssai.zype.com/60d0ea8ca0368900012b7df9_samsung_eu/manifest.m3u8?sitesection_id%3Dvevo_linear%3A_samsungtvplus%26sitesection_network_id%3D516283%26sitesection_fallback_id%3D15346233%26device_id%3D%7BPSID%7D%26target_option%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26app_domain%3D%7BAPP_DOMAIN%7D%26TC_STRING%3D%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ITBA1500001R6" tvg-chno="4453" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/22/ITBA1500001R6_20210609T004630.png" group-title="SAMSUNG TV PLUS",Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8?uid%3D%7BPSID%7D%26optout%3D%7BTARGETOPT%7D%26country%3DIT%26vendor%3Dsamsung%26ads%3Aapp_domain%3D%7BAPP_DOMAIN%7D%26ads%3Aapp_name%3D%7BAPP_NAME%7D%26coppa%3D1%26ads%3Atcf%3D%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ITBA22000037I" tvg-chno="4454" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/24/ITBA22000037I_20210209T093440.png" group-title="SAMSUNG TV PLUS",Qwest TV Mix
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.coppa%3D0
+#EXTINF:-1 tvg-id="ITBA22000022U" tvg-chno="4455" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/34/ITBA22000022U_20210209T093429.png" group-title="SAMSUNG TV PLUS",Qwest TV Classical
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.coppa%3D0
+#EXTINF:-1 tvg-id="ITBA2200001BV" tvg-chno="4456" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/71/ITBA2200001BV_20210209T093436.png" group-title="SAMSUNG TV PLUS",Qwest TV Jazz and Beyond
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.coppa%3D0
+#EXTINF:-1 tvg-id="ITBA2200008IM" tvg-chno="4457" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/30/ITBA2200008IM_20210714T000941.png" group-title="SAMSUNG TV PLUS",RADIO ITALIA TREND
+https://radioitalia-samsungitaly.amagi.tv/hls/amagi_hls_data_radioital-radioitaly-samsung-italy/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="ITBA3300042HE" tvg-chno="4459" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/74/ITBA3300042HE_20210811T022129.png" group-title="SAMSUNG TV PLUS",Trace Latina
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.coppa%3D0
+#EXTINF:-1 tvg-id="ITBA3300041LY" tvg-chno="4460" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/41/ITBA3300041LY_20210811T022013.png" group-title="SAMSUNG TV PLUS",Trace Urban
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.coppa%3D0
 #EXTINF:-1 tvg-id="" tvg-name="Supertoons TV" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="SAMSUNG TV PLUS",Supertoons TV
 https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Teletubbies" tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="SAMSUNG TV PLUS",Teletubbies
