@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 12/10/2021---[/COLOR]  
+#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 13/10/2021---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1 HD
 http://89.163.224.48:8000/kJctUlB50Z/Sn3Bik7Dy1/296305
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2 HD
 http://89.163.224.48:8000/kJctUlB50Z/Sn3Bik7Dy1/296304
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1 HD opt 2
-http://astreaming.ddns.net:80/gS6EJJbXCD/dc0ky2fvzg/46
+http://sigario.ddns.net:8080/vittoriocaivanip/decoderamikoE2/96434
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2 HD opt 2
-http://astreaming.ddns.net:80/gS6EJJbXCD/dc0ky2fvzg/47
+http://sigario.ddns.net:8080/vittoriocaivanip/decoderamikoE2/96435
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1 HD opt 3
-http://corona2.ddns.net:80/cmeld9NT8B/50jxWtFELq/46
+http://srv.webnet.icu:8080/oenhfjud/Nxth61H9v5/46269
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2 HD opt 3
-http://corona2.ddns.net:80/cmeld9NT8B/50jxWtFELq/47
+http://srv.webnet.icu:8080/oenhfjud/Nxth61H9v5/46268
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai1hd.png" group-title="TOP ITALIA",Rai 4K
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/Clarity_4K_190x190_Circle.png?raw=true" group-title="TOP ITALIA",Clarity 4k
@@ -52,7 +52,7 @@ https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 nome-tvg-"Red Bull TV" tvg-id "Red Bull TV" logo tvg "https://i.imgur.com/TvmeXd.png" group-title="TOP ITALIA", Red Bull TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PESCA HD" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Imaggini/picons/SkySport/SkySportPesca.png" group-title="TOP ITALIA",PESCA HD
-http://89.163.224.48:8000/kJctUlB50Z/Sn3Bik7Dy1/296703
+http://srv.webnet.icu:8080/oenhfjud/Nxth61H9v5/46024
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italian-fishing-tv.jpg" group-title="TOP ITALIA",Italian Fishing TV 
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="TOP ITALIA",TV8 
@@ -1883,40 +1883,6 @@ http://51.52.156.22:8888/http/005
 http://51.52.156.22:8888/http/006
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV4.uk.png" group-title="UK",ITV 4
 http://51.52.156.22:8888/http/007
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="UK",BBC 1
-http://51.52.156.22:8888/http/011
-#EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="UK",BBC 2
-http://51.52.156.23:8888/http/012
-#EXTINF:-1 tvg-id="BB4.UK" tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="UK",BBC 2
-http://51.52.156.22:8888/http/003
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCOneScotland.uk.png" group-title="UK",BBC One Scotland
-http://51.52.156.21:8888/http/005
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBC4.uk.png" group-title="UK",BBC 4
-https://uk.easyview.eu/hls/bbc-four.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-four
-#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="UK",BBC News
-http://51.52.156.22:8888/http/004
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCParliament.uk.png" group-title="UK",BBC Parliament
-http://51.52.156.24:8888/http/009
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCAlba.uk.png" group-title="UK",BBC Alba
-http://51.52.156.21:8888/http/001
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" group-title="UK",BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="UK",BBC Lifestyle
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="CBB.UK" tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="UK",CBBC
-http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="UK",CBeebies
-http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id-"BBC Scotland" nome tvg "BBC Scotland" nome-tvg "https://i.imgur.com/rt-xGzr.png" group-title="UK",BBC Scotland 
-http://51.52.156.22:8888/http/001
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCOneScotland.uk.png" group-title="UK",BBC One Scotland
-https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="UK",BBC 4/CBeebies
-http://51.52.156.22:8888/http/003
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" group-title="UK",BBC Earth
-http://sdorfijsdfcvx.cabelstream.net:8080/xFI02iPN9q/iUaHmr8qY5/15447
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="UK",BBC Lifestyle
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PBS America" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="UK",PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1" group-title="UK" ,Canale 4 
