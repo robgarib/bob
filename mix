@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 14/10/2021---[/COLOR]  
+#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 30/10/2021---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1 HD
 http://89.163.224.48:8000/kJctUlB50Z/Sn3Bik7Dy1/296305
@@ -196,13 +196,9 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1 tvg-logo="http://patbuweb.com/tivustream/chanlogoz/ita/nove.png" group-title="TOP ITALIA",Nove HD (Opz.2)
 http://194.76.186.69:8000/play/a0fh 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1
-http://194.76.186.69:8000/play/a0r5
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1 (opz 2)
-http://188.35.9.5:10007/stolen/236r/parasite.install
+http://188.155.8.185:3280/play/a03t/72892834.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2
-http://194.76.186.69:8000/play/a0fk
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2 (opz 2)
-http://188.35.9.5:10007/stolen/237p/parasite.install
+http://188.155.8.185:3280/play/a03u/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2 opz 3
 https://tivustream.website/urls/rsila2
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/giallo.png" group-title="TOP ITALIA",Giallo HD
@@ -217,8 +213,6 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/paramountchannelhd.png" group-title="TOP ITALIA",Paramount Channel (Opz.2)
 http://194.76.186.69:8000/play/a0r9
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0a5e3115-8e85-4f25-84e5-7656b9177443-profile_image-70x70.png" group-title="TOP ITALIA",Anime Live
-https://tivustream.website/urls/animelivemania
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/9a/FRISBEE_LOGO_2015.png/260px-FRISBEE_LOGO_2015.png" group-title="TOP ITALIA",Frisbee
 https://mytivu.it/Application/Channels/Frisbee.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/7/70/K2_logo_%282013%29.svg/113px-K2_logo_%282013%29.svg.png" group-title="TOP ITALIA",K2
@@ -229,6 +223,8 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/index_2500_av-b.m3u
 http://92.246.85.95:8138
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/earthtv.png" group-title="TOP ITALIA",Earth Tv
 https://tivustream.website/urls/hearttv
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/earthtv.png" group-title="TOP ITALIA",Earth Tv opz 2
+https://iptv-all.lanesh4d0w.codes/germany/earth-tv
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/MOTOR.png" group-title="TOP ITALIA",Motor Trend HD
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/spike.png" group-title="TOP ITALIA",Spike
@@ -272,6 +268,8 @@ https://hse24it.akamaized.net/hls/live/2006598/hse24it/master_576_1p25.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/winechannel.png" group-title="TOP ITALIA",Wine Channel
 http://212.43.97.35:1935/winechannel/winechannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/cnbc.png" group-title="TOP ITALIA",Class CNBC
+https%3a//streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/cnbc.png" group-title="TOP ITALIA",Class CNBC opz 2
 https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.investireconsuccesso.com/guide/wp-content/uploads/2020/08/finanza-now.png" group-title="TOP ITALIA",Finanza Now
 https://dcunilive268-lh.akamaihd.net/i/dclive_1@425604/index_150_av-p.m3u8?sd=10&rebase=on
@@ -299,6 +297,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-luxeuk-samsunguk/pla
 https://59d7d6f47d7fc.streamlock.net/welltv/welltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/world_fashion.png" group-title="TOP ITALIA",World Fashion International HD
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+
 #EXTINF:-1 group-title="TOP ITALIA",Radio 24
 https://tivustream.website/urls/radio24
 #EXTINF:-1 " group-title="TOP ITALIA",Tg Norba 24
@@ -394,6 +393,69 @@ https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="TOP ITALIA",Euronews
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16 Anni Incinta" tvg-logo="https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/featuredImage.jpg" group-title="PLUTO TV",16 Anni Incinta
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Andromeda" tvg-logo="https://images.pluto.tv/channels/60802d37ee238e0007c94e64/featuredImage.jpg" group-title="PLUTO TV",Andromeda
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802d37ee238e0007c94e64/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anime" tvg-logo="https://images.pluto.tv/channels/612375086abc84000738fc03/featuredImage.jpg" group-title="PLUTO TV",Anime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Catfish" tvg-logo="https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/featuredImage.jpg" group-title="PLUTO TV",Catfish
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f9ed2c75660007322bb7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema Italiano" tvg-logo="https://images.pluto.tv/channels/608aa7d8359b270007861489/featuredImage.jpg" group-title="PLUTO TV",Cinema Italiano
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Consulenze Illegali" tvg-logo="https://images.pluto.tv/channels/60b9dc99521a1400079bdfba/featuredImage.jpg" group-title="PLUTO TV",Consulenze Illegali
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9dc99521a1400079bdfba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Crime" tvg-logo="https://images.pluto.tv/channels/608aa777b907770007e5d05d/featuredImage.jpg" group-title="PLUTO TV",Crime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa777b907770007e5d05d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dating" tvg-logo="https://images.pluto.tv/channels/6094071be159e00007e860fa/featuredImage.jpg" group-title="PLUTO TV",Dating
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6094071be159e00007e860fa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Documentari" tvg-logo="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/featuredImage.jpg" group-title="PLUTO TV",Documentari
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex On The Beach" tvg-logo="https://images.pluto.tv/channels/60940ebad67fd900072382db/featuredImage.jpg" group-title="PLUTO TV",Ex On The Beach
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940ebad67fd900072382db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Azione" tvg-logo="https://images.pluto.tv/channels/608aa20a2e7f270007c4878d/featuredImage.jpg" group-title="PLUTO TV",Film Azione
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FIlm Classici" tvg-logo="https://images.pluto.tv/channels/608aa3c446d73500075f0e24/featuredImage.jpg" group-title="PLUTO TV",FIlm Classici
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e24/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Commedia" tvg-logo="https://images.pluto.tv/channels/608aa512d67fd900072323db/featuredImage.jpg" group-title="PLUTO TV",Film Commedia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Drama" tvg-logo="https://images.pluto.tv/channels/608aa42b5c2b8f0007197529/featuredImage.jpg" group-title="PLUTO TV",Film Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Romantici" tvg-logo="https://images.pluto.tv/channels/608aa4a4cc92820007b663af/featuredImage.jpg" group-title="PLUTO TV",Film Romantici
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Thriller" tvg-logo="https://images.pluto.tv/channels/608aa5e995132a00075f7005/featuredImage.jpg" group-title="PLUTO TV",Film Thriller
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Il Banco dei Pugni" tvg-logo="https://images.pluto.tv/channels/60e4507a06171800072339a3/featuredImage.jpg" group-title="PLUTO TV",Il Banco dei Pugni
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Le sorelle McLeod" tvg-logo="https://images.pluto.tv/channels/60a2837f8154ab0007c4dcdf/featuredImage.jpg" group-title="PLUTO TV",Le sorelle McLeod
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mutant-X" tvg-logo="https://images.pluto.tv/channels/60802c209a26320007c92ad5/featuredImage.jpg" group-title="PLUTO TV",Mutant-X
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802c209a26320007c92ad5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Natura" tvg-logo="https://images.pluto.tv/channels/60802b37709d6b0007b0c549/featuredImage.jpg" group-title="PLUTO TV",Natura
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluto Film" tvg-logo="https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/featuredImage.jpg" group-title="PLUTO TV",Pluto Film
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Life" tvg-logo="https://images.pluto.tv/channels/60801976f92a750007a0699c/featuredImage.jpg" group-title="PLUTO TV",Real Life
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801976f92a750007a0699c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Scherzi e Risate" tvg-logo="https://images.pluto.tv/channels/609404b0a8ec810007d8de9d/featuredImage.jpg" group-title="PLUTO TV",Scherzi e Risate
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Serie" tvg-logo="https://images.pluto.tv/channels/60b9ff2722bfa400072676ef/featuredImage.jpg" group-title="PLUTO TV",Serie
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Serie Teen" tvg-logo="https://images.pluto.tv/channels/60940639add5910008c0cdd1/featuredImage.jpg" group-title="PLUTO TV",Serie Teen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940639add5910008c0cdd1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super! Eroi" tvg-logo="https://images.pluto.tv/channels/6093f5ab128c2b00070ebd51/featuredImage.jpg" group-title="PLUTO TV",Super! Eroi
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f5ab128c2b00070ebd51/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super! iCarli" tvg-logo="https://images.pluto.tv/channels/609401db8cf51c00084b592e/featuredImage.jpg" group-title="PLUTO TV",Super! iCarli
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609401db8cf51c00084b592e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super! Pop" tvg-logo="https://images.pluto.tv/channels/6093f7b5bb49b90007cecaad/featuredImage.jpg" group-title="PLUTO TV",Super! Pop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super! SpongeBob" tvg-logo="https://images.pluto.tv/channels/6093f9281db477000759fce0/featuredImage.jpg" group-title="PLUTO TV",Super! SpongeBob
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f9281db477000759fce0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super! Star" tvg-logo="https://images.pluto.tv/channels/6093f6f8351eb0000754afb8/featuredImage.jpg" group-title="PLUTO TV",Super! Star
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Young & Fabulous" tvg-logo="https://images.pluto.tv/channels/60a7c62ee90dd20007637411/featuredImage.jpg" group-title="PLUTO TV",Young & Fabulous
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a7c62ee90dd20007637411/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Action Movies" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/15/ITAJ45000188Z_20210923T010833.png" group-title="SAMSUNG CHANNELS",Action Movies
 https://8355c6b6739745309af5484182dab133.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_RakutenActionMovies/playlist.m3u8
@@ -1801,21 +1863,21 @@ https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rmc101.it/wp-content/uploads/2020/05/Logo_rmc-1.png" tvg-shift="0" group-title="MUSICA",RMC 101 Tv
 https://5db313b643fd8.streamlock.net/RMC101TV/RMC101TV/playlist.m3u8
 #EXTINF:-1 tvg-name="RTL 102.5 Tv" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-jjffs.png" tvg-shift="0" group-title="MUSICA",RTL 102.5 Tv
-https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
+https://streamcdng9-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b2816000.m3u8
 #EXTINF:-1 tvg-name="RTL 102.5 Best" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-best-tujiw.png" tvg-shift="0" group-title="MUSICA",RTL 102.5 Best
-https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8
+https://streamcdng43-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/chunklist_b2816000.m3u8
 #EXTINF:-1 tvg-name="RTL 102.5 Napule'" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-napula-tttj6.png" tvg-shift="0" group-title="MUSICA",RTL 102.5 Napule'
-https://rtl-video5-stream.thron.com/live-video/video5/ngrp:video5/playlist.m3u8
+https://streamcdng10-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/chunklist_b2816000.m3u8
 #EXTINF:-1 tvg-name="RTL 102.5 Doc" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-doc-wr8oc.png" tvg-shift="0" group-title="MUSICA",RTL 102.5 Doc
-https://rtl-video6-stream.thron.com/live-video/video6/ngrp:video6/playlist.m3u8
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/chunklist_b2816000.m3u8
 #EXTINF:-1 tvg-name="RTL 102.5 News" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-news-pqxh1.png" tvg-shift="0" group-title="MUSICA",RTL 102.5 News
-https://rtl-video7-stream.thron.com/live-video/video7/ngrp:video7/playlist.m3u8
+https://streamcdng65-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/chunklist_b2816000.m3u8
 #EXTINF:-1 tvg-name="RTL 102.5 Bro Sis" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-bro-and-sis-otukj.png" tvg-shift="0" group-title="MUSICA",RTL 102.5 Bros Sis
-https://rtl-video8-stream.thron.com/live-video/video8/ngrp:video8/playlist.m3u8
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/chunklist_b2816000.m3u8
 #EXTINF:-1 tvg-name="RTL 102.5 Romeo Juliet" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-romeo-and-juliet-uhcec.png" tvg-shift="0" group-title="MUSICA",RTL 102.5 Romeo Juliet
-https://rtl-video9-stream.thron.com/live-video/video9/ngrp:video9/playlist.m3u8
+https://streamcdng7-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/chunklist_b2816000.m3u8
 #EXTINF:-1 tvg-name="RTL 102.5 Guardia Costiera" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-guardia-costiera-qyizp.png" tvg-shift="0" group-title="MUSICA",RTL 102.5 Guardia Costiera
-https://rtl-video11-stream.thron.com/live-video/video11/ngrp:video11/playlist.m3u8
+https://streamcdng21-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S74387724/i1n4kZcs4Ah8/chunklist_b2816000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9BK5VE0.png" group-title="MUSICA",RTL Belgio
 http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-name="Russian Music Box" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ru-music-box-russia-7738-300x225.jpg" tvg-shift="0" group-title="MUSICA",Russian Music Box 
