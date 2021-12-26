@@ -1,18 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 20/10/2021---[/COLOR]  
+#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 26/12/2021---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1 HD
 http://89.163.224.48:8000/kJctUlB50Z/Sn3Bik7Dy1/296305
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2 HD
 http://89.163.224.48:8000/kJctUlB50Z/Sn3Bik7Dy1/296304
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1 HD opt 2
-http://sigario.ddns.net:8080/vittoriocaivanip/decoderamikoE2/96434
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2 HD opt 2
-http://sigario.ddns.net:8080/vittoriocaivanip/decoderamikoE2/96435
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1 HD opt 3
-http://srv.webnet.icu:8080/oenhfjud/Nxth61H9v5/46269
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2 HD opt 3
-http://srv.webnet.icu:8080/oenhfjud/Nxth61H9v5/46268
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rai_Radio_2_-_Logo_2017.svg/260px-Rai_Radio_2_-_Logo_2017.svg.png" group-title="TOP ITALIA",Rai Radio 2
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai1hd.png" group-title="TOP ITALIA",Rai 4K
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/Clarity_4K_190x190_Circle.png?raw=true" group-title="TOP ITALIA",Clarity 4k
@@ -48,11 +41,11 @@ https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" group-title="TOP ITALIA" ,Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/motor-1-tv.png" group-title="TOP ITALIA",Motor 1 TV 
-https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+https://b87f4ca7d206491eb1e66c08df063cf7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Motor1TV/playlist.m3u8
 #EXTINF:-1 nome-tvg-"Red Bull TV" tvg-id "Red Bull TV" logo tvg "https://i.imgur.com/TvmeXd.png" group-title="TOP ITALIA", Red Bull TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PESCA HD" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Imaggini/picons/SkySport/SkySportPesca.png" group-title="TOP ITALIA",PESCA HD
-http://srv.webnet.icu:8080/oenhfjud/Nxth61H9v5/46024
+http://89.163.224.48:8000/kJctUlB50Z/Sn3Bik7Dy1/296703
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italian-fishing-tv.jpg" group-title="TOP ITALIA",Italian Fishing TV 
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="TOP ITALIA",TV8 
@@ -65,125 +58,32 @@ https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Tgcom24.it.png" group-title="TOP ITALIA",TGCom 24
 https://link.theplatform.eu/s/PR1GhC/2V0yPT90BkFc
-#EXTINF:-1 tvg-id="" tvg-name="Rai News 24" " group-title="TOP ITALIA",Rai News 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai1hd.png" group-title="TOP ITALIA",Rai 1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai1hd.png" group-title="TOP ITALIA",Rai 1 (Opz.2)
-http://194.76.186.69:8000/play/a0d1
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai2hd.png" group-title="TOP ITALIA",Rai 2
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai2hd.png" group-title="TOP ITALIA",Rai 2 (Opz.2)
-http://194.76.186.69:8000/play/a0d2
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai3hd.png" group-title="TOP ITALIA",Rai 3
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai3hd.png" group-title="TOP ITALIA",Rai 3 (Opz.2)
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai3hd.png" group-title="TOP ITALIA",Rai 3 (Opz.3)
-http://194.76.186.69:8000/play/a0d3 
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rete4hd.png" group-title="TOP ITALIA",Rete 4
-https://link.theplatform.eu/s/PR1GhC/kFE4DvC7iR3B
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rete4hd.png" group-title="TOP ITALIA",Rete 4 (Opz.2)
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rete4hd.png" group-title="TOP ITALIA",Rete 4 (Opz.3)
-http://194.76.186.69:8000/play/a0dp
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/canale5.png" group-title="TOP ITALIA",Canale 5
-https://link.theplatform.eu/s/PR1GhC/Mn1eiaF9qA51
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/canale5.png" group-title="TOP ITALIA",Canale 5 (Opz.2)
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/canale5.png" group-title="TOP ITALIA",Canale 5 (Opz.3)
-http://194.76.186.69:8000/play/a00f
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/italia1.png" group-title="TOP ITALIA",Italia 1
-https://link.theplatform.eu/s/PR1GhC/zvKjcHLjKGot
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/italia1.png" group-title="TOP ITALIA",Italia 1 (Opz.2)
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/italia1.png" group-title="TOP ITALIA",Italia 1 (Opz.3)
-http://194.76.186.69:8000/play/a0py 
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/Focus.png" group-title="TOP ITALIA",Focus
-https://link.theplatform.eu/s/PR1GhC/zGuRrwj2Zi_Y
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/Focus.png" group-title="TOP ITALIA",Focus (opz.2)
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/topcrime.png" group-title="TOP ITALIA",Top Crime
-https://link.theplatform.eu/s/PR1GhC/kNAbXXKwWGCk
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/topcrime.png" group-title="TOP ITALIA",Top Crime(Opz.2)
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/mediasetextra.png" group-title="TOP ITALIA",Mediaset Extra
-https://link.theplatform.eu/s/PR1GhC/TPLnrGYwjROh
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/mediasetextra.png" group-title="TOP ITALIA",Mediaset Extra (opz.2)
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/italia%202giusto.png" group-title="TOP ITALIA",Italia 2
-https://link.theplatform.eu/s/PR1GhC/_eL2X_8s5MNT
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/italia%202giusto.png" group-title="TOP ITALIA",Italia 2 (Opz.2)
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Logo_Iris_TV.png/260px-Logo_Iris_TV.png" group-title="TOP ITALIA",Iris
-https://link.theplatform.eu/s/PR1GhC/eaWvCwBtylG5
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Logo_Iris_TV.png/260px-Logo_Iris_TV.png" group-title="TOP ITALIA",Iris (Opz.2)
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/20.png" group-title="TOP ITALIA",20 Mediaset
-https://link.theplatform.eu/s/PR1GhC/1b62rIdZKUGl
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/20.png" group-title="TOP ITALIA",20 Mediaset (Opz.2)
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/20.png" group-title="TOP ITALIA",20 Mediaset (Opz.3)
-http://194.76.186.69:8000/play/a00d
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/64/La5_Italy.svg/260px-La5_Italy.svg.png" group-title="TOP ITALIA",La 5
-https://link.theplatform.eu/s/PR1GhC/e2pGSqVwoZlg
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/64/La5_Italy.svg/260px-La5_Italy.svg.png" group-title="TOP ITALIA",La 5 (opz.2)
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/260px-Cine34_logo.svg.png" group-title="TOP ITALIA",Cine 34 Mediaset
-https://link.theplatform.eu/s/PR1GhC/sVf_w7YvBGsE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/260px-Cine34_logo.svg.png" group-title="TOP ITALIA",Cine 34 Mediaset (opz. 2)
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raiita.png" group-title="TOP ITALIA",Rai Italia (America)
-http://89.163.224.48:8000/kJctUlB50Z/Sn3Bik7Dy1/296347
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raiita.png" group-title="TOP ITALIA",Rai Italia (opt2)
-http://181.114.59.146:8000/play/g8nvqYfMa2tkU5em/index.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raiita.png" group-title="TOP ITALIA",Rai Italia (opt3)
-http://210.210.155.69/s/s63/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/260px-Rai_4K_-_Logo_2017.svg.png" group-title="TOP ITALIA",Rai 4K
-https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rai_Radio_2_-_Logo_2017.svg/260px-Rai_Radio_2_-_Logo_2017.svg.png" group-title="TOP ITALIA",Rai Radio 2
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai4hd.png" group-title="TOP ITALIA",Rai 4
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai4hd.png" group-title="TOP ITALIA",Rai 4 (Opz.2)
-http://194.76.186.69:8000/play/a0pm
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai5hd.png" group-title="TOP ITALIA",Rai 5
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai5hd.png" group-title="TOP ITALIA",Rai 5 (Opz.2)
-http://194.76.186.69:8000/play/a0pl
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raimoviehd.png" group-title="TOP ITALIA",Rai Movie
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raimoviehd.png" group-title="TOP ITALIA",Rai Movie (Opz.2)
-http://194.76.186.69:8000/play/a0po
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raipremiumhd.png" group-title="TOP ITALIA",Rai Premium
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raipremiumhd.png" group-title="TOP ITALIA",Rai Premium (Opz.2)
-http://194.76.186.69:8000/play/a038
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/b/b2/Boing_logo_2020.png/260px-Boing_logo_2020.png" group-title="TOP ITALIA",Boing
-https://link.theplatform.eu/s/PR1GhC/_tKQTvuwOiTb
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/b/b2/Boing_logo_2020.png/260px-Boing_logo_2020.png" group-title="TOP ITALIA",Boing (opz.2)
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/f/f0/Cartoonito_Logo_2017.png/260px-Cartoonito_Logo_2017.png" group-title="TOP ITALIA",Cartoonito
-https://link.theplatform.eu/s/PR1GhC/ETC4vWPrRI_W
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/f/f0/Cartoonito_Logo_2017.png/260px-Cartoonito_Logo_2017.png" group-title="TOP ITALIA",Cartoonito (opz.2)
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raigulphd.png" group-title="TOP ITALIA",Rai Gulp
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raigulphd.png" group-title="TOP ITALIA",Rai Gulp (Opz.2)
-http://194.76.186.69:8000/play/a00q
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raiyoyohd.png" group-title="TOP ITALIA",Rai YoYo
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raiyoyohd.png" group-title="TOP ITALIA",Rai YoYo (Opz.2)
-http://194.76.186.69:8000/play/a00r
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raistoriahd.png" group-title="TOP ITALIA",Rai Storia
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raistoriahd.png" group-title="TOP ITALIA",Rai Storia (Opz.2)
-http://194.76.186.69:8000/play/a0pq
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raiscuolahd.png" group-title="TOP ITALIA",Rai Scuola
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24268
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/raiscuolahd.png" group-title="TOP ITALIA",Rai Scuola (Opz.2)
-http://194.76.186.69:8000/play/a00s
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3d/Rai_Südtirol.svg-0.png" group-title="TOP ITALIA",Rai Sudtirol
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="biketv.it" tvg-name="Supertennis" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/BikeTv.png" group-title="Sport",Bike TV
+https://it.fms2.premio.link/bike/index.m3u8
+#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia MOTORI" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Go-Tv.png" group-title="Sport", Go-Tv
+https://play.cdn.enetres.net/79CE6A0C6AF94F7EB0F93BD0DE2949EF029/02116/playlist.m3u8
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Supertennis" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Supertennis.png" group-title="Sport",Supertennis HD
+https://streamcdnm19-33796764e4294a99a78b7b8b8239c0e2.msvdn.net/fitdefault/d4647546-f787-4cd1-a0a1-9d9c492c5bc0/f60ccca6-cca6-4bf8-b65d-47ceb9b3bbe9.ism/manifest(format=m3u8-aapl)
+#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia HD Plus" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/SportitaliaHD.png" group-title="Sport",Sport Italia HD 
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia 24 LIVE" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/SportitaliaLive24.png" group-title="Sport",Sport Italia 24 LIVE
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia CALCIO" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/SportitaliaSoloCalcio.png" group-title="Sport",Sport Italia  CALCIO
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia MOTORI" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/SportitaliaMotori.png" group-title="Sport",Sport Italia MOTORI
+https://di-j5ubq4zi.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia MOTORI" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/TopCalcio.png" group-title="Sport",Top Calcio
+https://www.youtube.com/watch?v=TJDc7BbqLMU
+#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia MOTORI" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/TopPlanet.png" group-title="Sport",Top Planet
+https://www.youtube.com/watch?v=FgXxo7yebBY
+#EXTINF:-1 tvg-id="7gold.it" tvg-name="7Gold" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/7Gold.jpg" group-title="Sport",7 Gold
+https://stream3.xdevel.com/video0s86-368/stream/playlist_dvr.m3u8
+
 
 #EXTINF:-1 group-title="TOP ITALIA",Radio 24
 https://tivustream.website/urls/radio24
@@ -280,8 +180,125 @@ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b4)/
 #EXTINF:-1" group-title="TOP ITALIA", DIRETTA MEDIASET 2
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b4)/index.m3u8
 
+
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiNews.png" group-title="RAI",Rai News
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai4k.png" group-title="RAI",Rai 4k (non stabile)
+https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai1.png" group-title="RAI",Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai2.png" group-title="RAI",Rai 2 
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai3.png" group-title="RAI",Rai 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai3.png" group-title="RAI",Rai 3 (b)
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai4.png"group-title="RAI",Rai 4
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai5.png" group-title="RAI",Rai 5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+
+#EXTINF:-1 tvg-id="Raimovie.it" tvg-name="Rai Movie" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiMovie.png" group-title="RAI",Rai Movie
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiPremium.png" group-title="RAI",Rai Premium
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
+
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiGulp.png" group-title="RAI",Rai Gulp
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Yoyo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiYoyo.png" group-title="RAI",Rai Yoyo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiSport.png" group-title="RAI",Rai Sport
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiStoria.png" group-title="RAI",Rai Storia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Scuola" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiScuola.png" group-title="RAI",Rai Scuola
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+
+
+
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Gf.png" group-title="MEDIASET",GF Regia 1
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b7)/index.m3u8
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Gf.png" group-title="MEDIASET",GF Regia 2
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b8)/index.m3u8
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Gf.png" group-title="MEDIASET",GF Un'ora fa
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b9)/index.m3u8
+#EXTINF:-1 tvg-id="Tgcom.it" tvg-name="Tgcom24" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Tgcom24.png" group-title="MEDIASET",TG COM
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Italia1.png" group-title="MEDIASET",Italia 1
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(i1)/manifest.mpd
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia2" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Italia2.png" group-title="MEDIASET",Italia 2
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(i2)/manifest.mpd
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rete4.png" group-title="MEDIASET",Rete 4
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(r4)/manifest.mpd
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale5" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Canale5.png" group-title="MEDIASET",Canale 5
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(c5)/manifest.mpd
+#EXTINF:-1 tvg-id="topcrime.it" tvg-name="Top crime" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Topcrime.png" group-title="MEDIASET",TOPcrime
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(lt)/manifest.mpd
+#EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Iris.png" group-title="MEDIASET",Iris
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ki)/manifest.mpd
+#EXTINF:-1 tvg-id="iris.it" tvg-name="La5 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://www.easysite.one/img/La5.png" group-title="MEDIASET",La 5
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ka)/manifest.mpd
+#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine34" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Cine34.png" group-title="MEDIASET",Cine 34
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b6)/manifest.mpd
+#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="mediaset Extra" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/MediasetExtra.png" group-title="MEDIASET",Med. Extra
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Focus.png" group-title="MEDIASET",Focus
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(fu)/manifest.mpd
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Boing.png" group-title="MEDIASET",Boing
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kb)/manifest.mpd
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Cartoonito.png" group-title="MEDIASET",Cartoonito
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Nove.png" group-title="DISCOVERY",Nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1 tvg-id="Dmax.it" tvg-name="Dmax" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Dmax.png" group-title="DISCOVERY",Dmax
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8?sd=10&rebase=on&mux_audio=true
+#EXTINF:-1 tvg-id="Realtime.it" tvg-name="Real Time" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Realtime.png" group-title="DISCOVERY",Realtime
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Giallo.png" group-title="DISCOVERY",Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+#EXTINF:-1 tvg-id="Motortrend.it" tvg-name="Motortrend" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/MotorTrend.png" group-title="DISCOVERY",Motor Trend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1 tvg-id="FoodNetowrk.it" tvg-name="Foodnetwork" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/FoodNetwork.png" group-title="DISCOVERY",Food Network
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?sd=10&rebase=on&mux_audio=true
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/LogoTv.png" group-title="Altre Tv",Test 1
+https://www.mytivu.it/Application/Channels/Cielo.php
+#EXTINF:-1 tvg-id="Tv8.it" tvg-name="Tv 8" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/LogoTv.png" group-title="Altre Tv",Test 2
+https://www.mytivu.it/Application/Channels/TV8.php
+#EXTINF:-1 tvg-id="SkyTg24.it" tvg-name="SkyTg24" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/LogoTv.png" group-title="Altre Tv",Test 3
+https://www.mytivu.it/Application/Channels/SkyTG24.php
+#EXTINF:-1 tvg-id="la7.it" tvg-name="La7" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/La7.png" group-title="Altre Tv",La 7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+#EXTINF:-1 tvg-id="la7d.it" tvg-name="La7d" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/La7d.png" group-title="Altre Tv",La 7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Paramount Channel" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/ParamountChannel.png" group-title="Altre Tv",Paramount Network
+http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-id="Spike.it" tvg-name="Spike" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Spike.png" group-title="Altre Tv",Spike
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-id="Rsila2.it" tvg-name="Rsi La 2" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RsiLa2.png" group-title="Altre Tv",Rsi La 2
+http://188.155.8.185:3280/play/a03u/index.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2rr827OYMVc/YMHyInS64mI/AAAAAAAAACU/2h1u3d3XcT8WoQXOCZsF4G0IrI-jBr8MgCK4BGAYYCw/s1600/EURO%2BTV-LOGO-960.png" tvg-shift="0" group-title="Altre Tv",Euro Tv
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Super.it" tvg-name="Super" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Super.png" group-title="Altre Tv",Super
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
+#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Alma Tv" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/AlmaTv.png" group-title="Altre Tv",Alma Tv
+https://5f11919dca3bd.streamlock.net/AlmaTv/AlmaTv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/77/ITBB20000035L_20210714T000906.png" group-title="Altre Tv",Alma Tv Travel
+https://00791af53d174795819a600b092d0b5e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_AlmaTVTravel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/33/ITBB2000002SV_20210714T000904.png" group-title="Altre Tv",Alma Tv Food
+https://5dc8dd4cf0b5427eabbefe95b3ddfbf0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_AlmaTVFood/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/01/ITBB2000004QF_20210714T000907.png" group-title="Altre Tv",Donna Tv
+https://9251e494298342b485e24b8e1349d1d5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_DonnaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://easysite.one/img/PianaTv.png" group-title="Altre Tv",Piana Tv
+https://playerssl.telemia.tv/fileadmin/hls/PianaTV/pianatv_mediachunks.m3u8
+#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Tv 2000" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Tv2000.png" group-title="Altre Tv",Tv 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Tv 2000" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61YjddCsu6L.png" group-title="Altre Tv",Parole di Vita
+https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/7-gold.jpg" group-title="Altri Canali Nazionali",7 Gold
-https://stream2.xdevel.com/video0s86-21/stream/playlist_dvr.m3u8
+https://stream6.xdevel.com/video0s86-1159/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/alma-tv.png" group-title="Altri Canali Nazionali",Alma Tv
 http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/bike-smart-mobilty-bike-tv.png" group-title="Altri Canali Nazionali",Bike Smart Mobilty (Bike Tv)
@@ -294,6 +311,8 @@ http://ovp-live.akamaized.net/ac024_live/video1/chunklist.m3u8?accessToken=51c35
 http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/chiesa-tv.png" group-title="Altri Canali Nazionali",Chiesa Tv
 http://cldwz.glauco.it/HLS/Chiesadimilanoaac/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ciao-usa.jpg" group-title="Altri Canali Nazionali",Ciao USA
+http://joe.livebox.co.in/iotieviTVhls/CIAOUSA.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="Altri Canali Nazionali",Dmax HD
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/euro-tv.jpg" group-title="Altri Canali Nazionali",Euro Tv
@@ -314,16 +333,18 @@ http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8
 http://194.76.186.69:8000/play/a0q7
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/history-lab.jpg" group-title="Altri Canali Nazionali",History Lab
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/it-channel.png" group-title="Altri Canali Nazionali",IT Channel
+https://whoptv.on-the-web.tv:4430/diretta/direttats/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italia-7.jpg" group-title="Altri Canali Nazionali",Italia 7
 https://streaming.softwarecreation.it/Italia7/Italia7/chunklist_w1969623802.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/iunior-tv.png" group-title="Altri Canali Nazionali",Iunior Tv
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la-7.png" group-title="Altri Canali Nazionali",La 7
-https://tivustream.website/urls/la7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la-fornace-tv.jpg" group-title="Altri Canali Nazionali",La Fornace Tv
 https://tivustream.website/urls/lafornacetv
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la7d.png" group-title="Altri Canali Nazionali",La7d
-https://tivustream.website/urls/la7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/lourdes-live.png" group-title="Altri Canali Nazionali",Lourdes Live
 https://tivustream.website/urls/lourdes
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/medjugorje-tv-italia.jpg" group-title="Altri Canali Nazionali",Medjugorje Tv Italia 
@@ -367,11 +388,13 @@ https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlis
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-pace.png" group-title="Altri Canali Nazionali",Tele Pace
 http://live-fs.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-padre-pio-hd.png" group-title="Altri Canali Nazionali",Tele Padre Pio HD
-https://padrepio-stream.summview.com/live/index-live-12-0-0.m3u8
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tv-2000.png" group-title="Altri Canali Nazionali",Tv 2000
-http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tv-koper-capodistria.png" group-title="Altri Canali Nazionali",Tv Koper Capodistria
 https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/uninettuno-tv.png" group-title="Altri Canali Nazionali",Tv Uninettuno TV
+https://stream6-rai-it.akamaized.net/live/uninettuno/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/vh1-italia.png" group-title="Altri Canali Nazionali",VH1 Italia
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/vatican-media.png" group-title="Altri Canali Nazionali",Vatican Media
@@ -382,8 +405,8 @@ https://59d7d6f47d7fc.streamlock.net/welltv/welltv/playlist.m3u8
 http://212.43.97.35:1935/winechannel/winechannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/world-fashion-international-hd.png" group-title="Altri Canali Nazionali",World Fashion International HD
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/icon.png" group-title="PlutoTV",=== PlutoTV===
+http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/16-anni-incinta.jpg" group-title="PlutoTV",16 Anni Incinta
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/andromeda.jpg" group-title="PlutoTV",Andromeda
@@ -424,6 +447,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f00071975
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/film-thriller.jpg" group-title="PlutoTV",Film Thriller
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/fuel-tv-x7fks6fmbkc5.png" group-title="PlutoTV",Fuel Tv
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9dbea1f19550007dd0dfa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ign.png" group-title="PlutoTV",IGN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608015ea48a6e800076f0f2f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/il-banco-dei-pugni.jpg" group-title="PlutoTV",Il Banco dei Pugni
@@ -444,6 +469,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/610a9ebe8c2ac200073477
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608017cbe375e400070cc981/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/pluto-film.jpg" group-title="PlutoTV",Pluto Film
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/pluto-tv-celebration.png" group-title="PlutoTV",Pluto TV Celebration
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612cde2edd516f0007e102ad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/pluto-tv-christmas.png" group-title="PlutoTV",Pluto TV Christmas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612e05b885183d0007958101/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/pluto-tv-cucina.png" group-title="PlutoTV",Pluto TV Cucina
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa718a8ec810007d87fee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/pluto-tv-family.png" group-title="PlutoTV",Pluto TV Family
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6123742451cce0000789fc7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/pluto-tv-fireplace.png" group-title="PlutoTV",Pluto TV Fireplace
@@ -476,9 +507,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801317a0ccef00072aaf
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/young-fabulous.jpg" group-title="PlutoTV",Young & Fabulous
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a7c62ee90dd20007637411/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
-
-
-
+#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/icon.png" group-title="Samsung Channels ",=== Samsung Channels ===
+http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/alma-tv-food.png" group-title="Samsung Channels ",Alma TV Food
 https://5dc8dd4cf0b5427eabbefe95b3ddfbf0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_AlmaTVFood/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/alma-tv-travel.jpg" group-title="Samsung Channels ",Alma TV Travel
@@ -513,7 +543,7 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://9251e494298342b485e24b8e1349d1d5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_DonnaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/duck-tv.jpg" group-title="Samsung Channels ",Duck Tv
 https://384f5c8c6d4d42f8b03474c05acfda89.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_DuckTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/euronews-italia.png" group-title="Samsung Channels ",Euronews Italia 
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/euronews-italia.png" group-title="Samsung Channels ",EuroNews Italia 
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/failarmy.jpg" group-title="Samsung Channels ",Failarmy
 https://1c22f8b96aa546b6b49261186cf7b8e5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_RakutenFamily/playlist.m3u8
@@ -597,6 +627,8 @@ https://1d1ed0dfb4a94f9ea120ff72ce028e9c.mediatailor.us-east-1.amazonaws.com/v1/
 https://974af218bde94c20be135ae1375e2018.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_WorldPokerTour/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/yamato-video-animation.png" group-title="Samsung Channels ",Yamato Video Animation
 https://4e2e58758a334de4b01b25ab2e5f89c7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_YamatoAnimation/playlist.m3u8
+
+
 #EXTINF:-1" group-title="SPORT",Sky sport 24 
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/grtv.jpg" group-title="SPORT",Giornale Radio Tv Sport
@@ -1235,502 +1267,520 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
 #EXTINF:-1 tvg-id="" nome-tvg="" tvg-language="" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="MUSICA",STIRR Music 
 https://dai.google.com/linear/hls/event/_e1csFnJR6W6y056PyiG6A/master.m3u8
- 
- 
 #EXTINF:-1 tvg-logo="https://www.zerounotv.it/wp-content/uploads/2019/03/Logo-quadrato-per-facebook.png" tvg-shift="0" group-title="MUSICA",01 Zerouno Tv Taormina
 https://5db313b643fd8.streamlock.net:443/ZerounoTV/ZerounoTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c59VWgF.jpg" tvg-shift="0" group-title="MUSICA",4FUN TV
+
+
+
+#EXTINF:-1 tvg-logo="https://www.zerounotv.it/wp-content/uploads/2019/03/Logo-quadrato-per-facebook.png" tvg-shift="0" group-title="Musica",01 Zerouno Tv Taormina
+https://5db313b643fd8.streamlock.net:443/ZerounoTV/ZerounoTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c59VWgF.jpg" tvg-shift="0" group-title="Musica",4FUN TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0SrZD5r.png" tvg-shift="0" group-title="MUSICA",88 Stereo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SrZD5r.png" tvg-shift="0" group-title="Musica",88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ritsatv.ru/files/poster/medium/900126.png" tvg-shift="0" group-title="MUSICA",91 NRG
+#EXTINF:-1 tvg-logo="http://ritsatv.ru/files/poster/medium/900126.png" tvg-shift="0" group-title="Musica",91 NRG
 http://tv.nrg91.gr:1935/onweb/live/index.m3u8
-#EXTINF:-1 tvg-name="675 Tv Toscana" tvg-logo="https://www.tvdream.net/immagini/radio-675-tv.jpg" tvg-shift="0" group-title="MUSICA",675 Tv Toscana
+#EXTINF:-1 tvg-name="675 Tv Toscana" tvg-logo="https://www.tvdream.net/immagini/radio-675-tv.jpg" tvg-shift="0" group-title="Musica",675 Tv Toscana
 https://5926fc9c7c5b2.streamlock.net/9026/9026/playlist.m3u8
-#EXTINF:-1 tvg-name="Amica Radio Veneta" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3bac71aa-871a-4ccb-ac1d-23b0fe9fb988-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Amica Radio Veneta
+#EXTINF:-1 tvg-name="Amica Radio Veneta" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3bac71aa-871a-4ccb-ac1d-23b0fe9fb988-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Amica Radio Veneta
 https://tivustream.website/urls/amicaradioveneta
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HL7fwzt.png" tvg-shift="0" group-title="MUSICA",Afrobeats
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HL7fwzt.png" tvg-shift="0" group-title="Musica",Afrobeats
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" tvg-shift="0" group-title="MUSICA",B4U Music
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" tvg-shift="0" group-title="Musica",B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-name="Babayaga Tv Radio" tvg-logo="https://www.babayaga.fun/uploads/1/2/8/7/128771604/babayaga-rosso.png" tvg-shift="0" group-title="MUSICA",Babayaga Tv Radio
+#EXTINF:-1 tvg-name="Babayaga Tv Radio" tvg-logo="https://www.babayaga.fun/uploads/1/2/8/7/128771604/babayaga-rosso.png" tvg-shift="0" group-title="Musica",Babayaga Tv Radio
 https://stream1.xdevel.com/video0s975770-326/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://barazaradio.com/wp-content/uploads/2019/10/logo-300x300.png" tvg-shift="0" group-title="MUSICA",Baraza HD Music Tv
+#EXTINF:-1 tvg-logo="https://barazaradio.com/wp-content/uploads/2019/10/logo-300x300.png" tvg-shift="0" group-title="Musica",Baraza HD Music Tv
 https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1 tvg-name="Bella Radio Tv" tvg-logo="https://i1.wp.com/www.bellaradio.it/wp-content/uploads/2020/01/Bella-2020-3.png?resize=150%2C150&ssl=1" tvg-shift="0" group-title="MUSICA",Bella Radio Tv
+#EXTINF:-1 tvg-name="Bella Radio Tv" tvg-logo="https://i1.wp.com/www.bellaradio.it/wp-content/uploads/2020/01/Bella-2020-3.png?resize=150%2C150&ssl=1" tvg-shift="0" group-title="Musica",Bella Radio Tv
 https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
-#EXTINF:-1 tvg-name="BlowUp Tv" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/blowuptv.png" tvg-shift="0" group-title="MUSICA",BlowUp Tv
+#EXTINF:-1 tvg-name="BlowUp Tv" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/blowuptv.png" tvg-shift="0" group-title="Musica",BlowUp Tv
 https://w1.mediastreaming.it/blowuptv/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.bonaotv.com/images/bonao_logo_pb_500sm.png" tvg-shift="0" group-title="MUSICA",Bonao Music Tv
+#EXTINF:-1 tvg-logo="http://www.bonaotv.com/images/bonao_logo_pb_500sm.png" tvg-shift="0" group-title="Musica",Bonao Music Tv
 https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ru-bridge-tv-3528.jpg" tvg-shift="0" group-title="MUSICA",Bridge TV
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ru-bridge-tv-3528.jpg" tvg-shift="0" group-title="Musica",Bridge TV
 http://91.206.19.123:4022/udp/225.0.55.216:1234 
-#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/bridge-tv-classic.png" tvg-shift="0" group-title="MUSICA",Bridge TV Classic
+#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/bridge-tv-classic.png" tvg-shift="0" group-title="Musica",Bridge TV Classic
 http://91.206.19.123:4022/udp/225.0.55.197:1234
-#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/bso.png" tvg-shift="0" group-title="MUSICA",BSO Channel
+#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/bso.png" tvg-shift="0" group-title="Musica",BSO Channel
 https://57068da1deb21.streamlock.net/bwr/bwr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/California_Music_Channel_Logo.png/220px-California_Music_Channel_Logo.png" tvg-shift="0" group-title="MUSICA",California Music Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/California_Music_Channel_Logo.png/220px-California_Music_Channel_Logo.png" tvg-shift="0" group-title="Musica",California Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/258-2582037_cmc-usa-graphic-design-hd-png-download.png" tvg-shift="0" group-title="MUSICA",California Music Channel USA
+#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/258-2582037_cmc-usa-graphic-design-hd-png-download.png" tvg-shift="0" group-title="Musica",California Music Channel USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s197948g.png" tvg-shift="0" group-title="MUSICA",Capital FM Moscow (Ru)
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s197948g.png" tvg-shift="0" group-title="Musica",Capital FM Moscow (Ru)
 https://www.m24.ru/trans/moscowcity/trans.m3u8
-#EXTINF:-1 tvg-name="Ciccio Riccio Tv" tvg-logo="https://ciccioriccio.it/wp-content/uploads/2020/05/cropped-logo-ciccioriccio.png" tvg-shift="0" group-title="MUSICA",Ciccio Riccio Tv
+#EXTINF:-1 tvg-name="Ciccio Riccio Tv" tvg-logo="https://ciccioriccio.it/wp-content/uploads/2020/05/cropped-logo-ciccioriccio.png" tvg-shift="0" group-title="Musica",Ciccio Riccio Tv
 https://stream6.xdevel.com/video0s975942-892/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.citymusic.be/images/CityMusiclogo.png" tvg-shift="0" group-title="MUSICA",City Music Tv
+#EXTINF:-1 tvg-logo="https://www.citymusic.be/images/CityMusiclogo.png" tvg-shift="0" group-title="Musica",City Music Tv
 https://highvolume102.streampartner.nl/citytv/citytv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle-150x150-1.png" tvg-shift="0" group-title="MUSICA",Clubbing Tv 
+#EXTINF:-1 tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle-150x150-1.png" tvg-shift="0" group-title="Musica",Clubbing Tv 
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1511462947_colosal-tv.png" tvg-shift="0" group-title="MUSICA",Colosal Tv HD
+#EXTINF:-1 tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1511462947_colosal-tv.png" tvg-shift="0" group-title="Musica",Colosal Tv HD
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.trendcomunicazione.com/wp-content/uploads/2018/11/20180416-logo-tv-bokka-300x155.png" tvg-shift="0" group-title="MUSICA",Company Tv
+#EXTINF:-1 tvg-logo="https://www.trendcomunicazione.com/wp-content/uploads/2018/11/20180416-logo-tv-bokka-300x155.png" tvg-shift="0" group-title="Musica",Company Tv
 http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aL4DvbN.png" tvg-shift="0" group-title="MUSICA",Country Music 4U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aL4DvbN.png" tvg-shift="0" group-title="Musica",Country Music 4U
 https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm-150x150.png" tvg-shift="0" group-title="MUSICA",DBM Tv
+#EXTINF:-1 tvg-logo="https://dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm-150x150.png" tvg-shift="0" group-title="Musica",DBM Tv
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SztpK9s.png" tvg-shift="0" group-title="MUSICA",Deutsches Musik Fernsehen
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SztpK9s.png" tvg-shift="0" group-title="Musica",Deutsches Musik Fernsehen
 https://tv.artcom-venture.de/dmf/tv_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MLqDkEz.png" tvg-shift="0" group-title="MUSICA",Ditty TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLqDkEz.png" tvg-shift="0" group-title="Musica",Ditty TV
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.rvt.it/layout/extra/rvt/img/logo.png" tvg-shift="0" group-title="MUSICA",Errevuti' Tv 
+#EXTINF:-1 tvg-logo="https://www.rvt.it/layout/extra/rvt/img/logo.png" tvg-shift="0" group-title="Musica",Errevuti' Tv 
 https://flash8.xdevel.com/errevutitv/errevutitv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ritsatv.ru/files/poster/medium/700809.png" tvg-shift="0" group-title="MUSICA",Eurodance 90
+#EXTINF:-1 tvg-logo="http://ritsatv.ru/files/poster/medium/700809.png" tvg-shift="0" group-title="Musica",Eurodance 90
 https://eurodance.catcast.tv/content/36987/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s265119/images/logoq.png?t=154643" tvg-shift="0" group-title="MUSICA",Euro Indie Music Chart
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s265119/images/logoq.png?t=154643" tvg-shift="0" group-title="Musica",Euro Indie Music Chart
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/fabric-music-live-tv.png" tvg-shift="0" group-title="MUSICA",Fabric Music Live Tv
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/fabric-music-live-tv.png" tvg-shift="0" group-title="Musica",Fabric Music Live Tv
 https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
-#EXTINF:-1 tvg-name="FM Italia Tv" tvg-logo="https://streamsolution1.xdevel.com/services-logos/nvQDblX3jWlnt0Ll0KhPgBFHZ8YjQl9svO1WtyQ7-400x400.png" tvg-shift="0" group-title="MUSICA",FM Italia Tv
+#EXTINF:-1 tvg-name="FM Italia Tv" tvg-logo="https://streamsolution1.xdevel.com/services-logos/nvQDblX3jWlnt0Ll0KhPgBFHZ8YjQl9svO1WtyQ7-400x400.png" tvg-shift="0" group-title="Musica",FM Italia Tv
 https://stream7.xdevel.com/video0s975817-411/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.fmodia.com.br/manaus/files/2020/04/logo-fm-o-dia-manaus.png" tvg-shift="0" group-title="MUSICA",Fm-o-dia (Br)
+#EXTINF:-1 tvg-logo="http://www.fmodia.com.br/manaus/files/2020/04/logo-fm-o-dia-manaus.png" tvg-shift="0" group-title="Musica",Fm-o-dia (Br)
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b498304.m3u8
-#EXTINF:-1 tvg-name="Fun Radio Tv" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/9c/41/7219/1/c175.png" tvg-shift="0" group-title="MUSICA",Fun Radio Tv
+#EXTINF:-1 tvg-name="Fun Radio Tv" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/9c/41/7219/1/c175.png" tvg-shift="0" group-title="Musica",Fun Radio Tv
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-mkbc-UuK1RQ/UpkI5YmKsnI/AAAAAAAAcyE/Nxaf9ngZGqA/s320/Globtv.png" tvg-shift="0" group-title="MUSICA",Globo Music Tv
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-mkbc-UuK1RQ/UpkI5YmKsnI/AAAAAAAAcyE/Nxaf9ngZGqA/s320/Globtv.png" tvg-shift="0" group-title="Musica",Globo Music Tv
 https://59c5c86e10038.streamlock.net/8122/8122/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dzfjea6.png" tvg-shift="0" group-title="MUSICA",GO-RTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dzfjea6.png" tvg-shift="0" group-title="Musica",GO-RTV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/x0aEfqvO-9phR6GXcjbe6BSQvED0rp7nu6MAxrOEfrEfqduRWq60kpBQUIANIAy7dpsUaeluGttXnn4B9Fw=w133-h99" tvg-shift="0" group-title="MUSICA",Happy Radio Tv
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/x0aEfqvO-9phR6GXcjbe6BSQvED0rp7nu6MAxrOEfrEfqduRWq60kpBQUIANIAy7dpsUaeluGttXnn4B9Fw=w133-h99" tvg-shift="0" group-title="Musica",Happy Radio Tv
 http://185.202.128.1:1935/Facebook-Happy/Happy/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ro-ht-music-channel-3244-300x225.jpg" tvg-shift="0" group-title="MUSICA",HIT MUSIC
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ro-ht-music-channel-3244-300x225.jpg" tvg-shift="0" group-title="Musica",HIT MUSIC
 http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:-1 tvg-name="Hit FM Tv" tvg-logo="https://radiohitfm.it/wp-content/uploads/2020/09/Hit-FM-homepage-ok.png" tvg-shift="0" group-title="MUSICA",Hit FM Tv
+#EXTINF:-1 tvg-name="Hit FM Tv" tvg-logo="https://radiohitfm.it/wp-content/uploads/2020/09/Hit-FM-homepage-ok.png" tvg-shift="0" group-title="Musica",Hit FM Tv
 https://5db313b643fd8.streamlock.net:443/HITTV/HITTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/hubtv.png" tvg-shift="0" group-title="MUSICA",HUB Tv
+#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/hubtv.png" tvg-shift="0" group-title="Musica",HUB Tv
 https://5c483b9d1019c.streamlock.net/8004/8004/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ibizaglobal.tv/wp-content/uploads/2017/03/logo_tv-180x60.png" tvg-shift="0" group-title="MUSICA",Ibiza Global Tv
+#EXTINF:-1 tvg-logo="https://ibizaglobal.tv/wp-content/uploads/2017/03/logo_tv-180x60.png" tvg-shift="0" group-title="Musica",Ibiza Global Tv
 https://nodo06-cloud01.streaming-pro.com/ibgrtv/hls/ibgrlive_1.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/59870e13-735f-4672-a1f8-0ea255032d57-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",In Canto di Napoli Tv
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/59870e13-735f-4672-a1f8-0ea255032d57-profile_image-300x300.png" tvg-shift="0" group-title="Musica",In Canto di Napoli Tv
 https://tivustream.website/urls/incantodinapolitv
-#EXTINF:-1 tvg-name="JukeBox Tv" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/JukeBoxTv.png" tvg-shift="0" group-title="MUSICA",JukeBox Tv
+#EXTINF:-1 tvg-name="JukeBox Tv" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/JukeBoxTv.png" tvg-shift="0" group-title="Musica",JukeBox Tv
 https://5db313b643fd8.streamlock.net:443/RadioJukeBoxTV/RadioJukeBoxTV/playlist.m3u8
-#EXTINF:-1 tvg-name="JukeBox Tv Piemonte" tvg-logo="https://www.tvdream.net/immagini/jukebox-tv.jpg" tvg-shift="0" group-title="MUSICA",JukeBox Tv Piemonte
+#EXTINF:-1 tvg-name="JukeBox Tv Piemonte" tvg-logo="https://www.tvdream.net/immagini/jukebox-tv.jpg" tvg-shift="0" group-title="Musica",JukeBox Tv Piemonte
 https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
-#EXTINF:-1 tvg-name="Kiss Kiss Tv" tvg-logo="https://www.tvdream.net/immagini/kisskisstv.jpg" tvg-shift="0" group-title="MUSICA",Kiss Kiss Tv
+#EXTINF:-1 tvg-name="Kiss Kiss Tv" tvg-logo="https://www.tvdream.net/immagini/kisskisstv.jpg" tvg-shift="0" group-title="Musica",Kiss Kiss Tv
 http://59253971be783.streamlock.net/KKMulti/livestream_600p/playlist.m3u8
-#EXTINF:-1 tvg-name="Kiss Kiss Italia Tv" tvg-logo="https://www.tvdream.net/immagini/kiss-kiss-italia-tv.jpg" tvg-shift="0" group-title="MUSICA",Kiss Kiss Italia Tv
+#EXTINF:-1 tvg-name="Kiss Kiss Italia Tv" tvg-logo="https://www.tvdream.net/immagini/kiss-kiss-italia-tv.jpg" tvg-shift="0" group-title="Musica",Kiss Kiss Italia Tv
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Kiss Kiss Napoli Tv" tvg-logo="https://www.tvdream.net/immagini/kiss-kiss-napoli-tv.jpg" tvg-shift="0" group-title="MUSICA",Kiss Kiss Napoli Tv
+#EXTINF:-1 tvg-name="Kiss Kiss Napoli Tv" tvg-logo="https://www.tvdream.net/immagini/kiss-kiss-napoli-tv.jpg" tvg-shift="0" group-title="Musica",Kiss Kiss Napoli Tv
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/5/35075.v4.png" tvg-shift="0" group-title="MUSICA",Kool London Tv
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/5/35075.v4.png" tvg-shift="0" group-title="Musica",Kool London Tv
 http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ritsatv.ru/files/poster/medium/600622.png" tvg-shift="0" group-title="MUSICA",Kronehit HD
+#EXTINF:-1 tvg-logo="http://ritsatv.ru/files/poster/medium/600622.png" tvg-shift="0" group-title="Musica",Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 tvg-name="La Isla Bonita Tv" tvg-logo="https://www.laislabonita.tv/wp-content/uploads/2019/01/logo-isla-tv.png" tvg-shift="0" group-title="MUSICA",La Isla Bonita Tv
+#EXTINF:-1 tvg-name="La Isla Bonita Tv" tvg-logo="https://www.laislabonita.tv/wp-content/uploads/2019/01/logo-isla-tv.png" tvg-shift="0" group-title="Musica",La Isla Bonita Tv
 https://585b674743bbb.streamlock.net/9036/9036/playlist.m3u8
-#EXTINF:-1 tvg-name="Lady Radio Tv" tvg-logo="https://www.tvdream.net/immagini/lady-radio-tv.jpg" tvg-shift="0" group-title="MUSICA",Lady Radio Tv
+#EXTINF:-1 tvg-name="Lady Radio Tv" tvg-logo="https://www.tvdream.net/immagini/lady-radio-tv.jpg" tvg-shift="0" group-title="Musica",Lady Radio Tv
 http://flash8.xdevel.com/ladyradiovideo/ladyradiovideo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjKkPdXm0_1WPXOnR95KgnsSCCeSVHohhH15XV9=s88-c-k-c0x00ffffff-no-rj" tvg-shift="0" group-title="MUSICA",Lecco FM
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjKkPdXm0_1WPXOnR95KgnsSCCeSVHohhH15XV9=s88-c-k-c0x00ffffff-no-rj" tvg-shift="0" group-title="Musica",Lecco FM
 https://59d8c0cee6f3d.streamlock.net/leccofm/leccofm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ua-m2-tv-2643-300x225.jpg" tvg-shift="0" group-title="MUSICA",М 2 Tv
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ua-m2-tv-2643-300x225.jpg" tvg-shift="0" group-title="Musica",М 2 Tv
 http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 tvg-name="M2O Tv" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-m2o-tv-6709.jpg" tvg-shift="0" group-title="MUSICA",M2O Tv
+#EXTINF:-1 tvg-name="M2O Tv" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-m2o-tv-6709.jpg" tvg-shift="0" group-title="Musica",M2O Tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:-1 tvg-logo="http://ritsatv.ru/files/poster/medium/300100.jpg" tvg-shift="0" group-title="MUSICA",Mafi2a Music Channel
+#EXTINF:-1 tvg-logo="http://ritsatv.ru/files/poster/medium/300100.jpg" tvg-shift="0" group-title="Musica",Mafi2a Music Channel
 http://cdnnow.goodgame.ru/hls/147714.m3u8
-#EXTINF:-1 tvg-name="Magic Music TV" tvg-logo="https://www.magicmusictv.it/favImage.png" tvg-shift="0" group-title="MUSICA",Magic Music TV	
+#EXTINF:-1 tvg-name="Magic Music TV" tvg-logo="https://www.magicmusictv.it/favImage.png" tvg-shift="0" group-title="Musica",Magic Music TV	
 https://eu1.servers10.com:8081/8016/index.m3u8
-#EXTINF:-1 tvg-name="Magic Tv Italia" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/magictv.png" tvg-shift="0" group-title="MUSICA",Magic Tv Italia
+#EXTINF:-1 tvg-name="Magic Tv Italia" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/magictv.png" tvg-shift="0" group-title="Musica",Magic Tv Italia
 http://163.172.88.73:1935/magic_web/site/chunklist_w95275056.m3u8
-#EXTINF:-1 tvg-name="Magic Tv" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-magic-tv-uk-7968-300x225.jpg" tvg-shift="0" group-title="MUSICA",Magic Tv
+#EXTINF:-1 tvg-name="Magic Tv" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-magic-tv-uk-7968-300x225.jpg" tvg-shift="0" group-title="Musica",Magic Tv
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/magic/
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pl-mango-24.jpg" tvg-shift="0" group-title="MUSICA",Mango Tv RD (Do)
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pl-mango-24.jpg" tvg-shift="0" group-title="Musica",Mango Tv RD (Do)
 http://mangotv01.streamprolive.com/hls/live.m3u8
-#EXTINF:-1 tvg-name="Melody Channel" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngrnPwaNUFu7dAVovlvZZCg6MSsEKYy24NNKVdA=s88-c-k-c0x00ffffff-no-rj" tvg-shift="0" group-title="MUSICA",Melody Channel
+#EXTINF:-1 tvg-name="Melody Channel" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngrnPwaNUFu7dAVovlvZZCg6MSsEKYy24NNKVdA=s88-c-k-c0x00ffffff-no-rj" tvg-shift="0" group-title="Musica",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/MM_Television_logo_%28former_TV_station_in_Bulgaria%29.png" tvg-shift="0" group-title="MUSICA",MM Tv HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/MM_Television_logo_%28former_TV_station_in_Bulgaria%29.png" tvg-shift="0" group-title="Musica",MM Tv HD
 http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Mojito Tv HD" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/mojitotv.png" tvg-shift="0" group-title="MUSICA",Mojito Tv HD
+#EXTINF:-1 tvg-name="Mojito Tv HD" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/mojitotv.png" tvg-shift="0" group-title="Musica",Mojito Tv HD
 http://77.68.40.210:8888/hls/mojitotv.m3u8
-#EXTINF:-1 tvg-name="MOOZ HD" tvg-logo="https://mooz.tv/site/img/mooz-hd.jpg" tvg-shift="0" group-title="MUSICA",MOOZ HD
+#EXTINF:-1 tvg-name="MOOZ HD" tvg-logo="https://mooz.tv/site/img/mooz-hd.jpg" tvg-shift="0" group-title="Musica",MOOZ HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-name="MOOZ Hits" tvg-logo="https://mooz.tv/site/img/mooz-hits.jpg" tvg-shift="0" group-title="MUSICA",MOOZ Hits
+#EXTINF:-1 tvg-name="MOOZ Hits" tvg-logo="https://mooz.tv/site/img/mooz-hits.jpg" tvg-shift="0" group-title="Musica",MOOZ Hits
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-name="MOOZ Dance" tvg-logo="https://mooz.tv/site/img/mooz-dance1.png" tvg-shift="0" group-title="MUSICA",MOOZ Dance
+#EXTINF:-1 tvg-name="MOOZ Dance" tvg-logo="https://mooz.tv/site/img/mooz-dance1.png" tvg-shift="0" group-title="Musica",MOOZ Dance
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-name="MTV " tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/MTV_Logo_2010.svg/260px-MTV_Logo_2010.svg.png" tvg-shift="0" group-title="MUSICA",MTV
+#EXTINF:-1 tvg-name="MTV " tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/MTV_Logo_2010.svg/260px-MTV_Logo_2010.svg.png" tvg-shift="0" group-title="Musica",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/180px-MTV_Live_HD_2017_logo.svg.png" tvg-shift="0" group-title="MUSICA",MTV LIVE
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/180px-MTV_Live_HD_2017_logo.svg.png" tvg-shift="0" group-title="Musica",MTV LIVE
 https://origin-02.nxplay.com.br/MTVNI_HD_NX/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 tvg-name="MTV USA" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/MTV_Logo_2010.svg/260px-MTV_Logo_2010.svg.png" tvg-shift="0" group-title="MUSICA",MTV USA
+#EXTINF:-1 tvg-name="MTV USA" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/MTV_Logo_2010.svg/260px-MTV_Logo_2010.svg.png" tvg-shift="0" group-title="Musica",MTV USA
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-name="Musica Italiana Channel" tvg-logo="https://lh3.googleusercontent.com/Ebrbw82k032m6XS9aED9RHaz6dXaLmqj53iAf73obeM7GVgUzE3z2mNvSrmCY1jETUA_9QABVm-sPY0YBoxiLtmBUNNavPLFQSeAMggVOOd9KIhWNVsPCDQs2G7GI4wYdiHInxAQxy7jbxE2rCN1NDV9slkJkONBZFD2OyeCKGK3SAcPU9sCLlUB__VSAcmWjHYuVCaabiDA7wbdGP0UWQC6FKuHhyrvHM2T5bD4zrbTbugSqkjb7BkclQHYnPJvNCJeUODzxCQ5HkzK6_cTbnHlT8do-MHIyzrJQN2V3N6EcHMtRp-ZnGsj_SrncILfgdedtCM1VhRafbF077YB18DS03kdnlw2X8PoHCvMmqtvXZ4_Id9pa1mPvMVgKMLusMk8VHituAcgy6cqQY359vTMSVvMtCIGshL6ReyUWCCA57jDaSxCoFPtOff8sWYExiGjxLVZEpbbZG4fFwwDF65t5jpm522K4bZ9_4oKQfm5w2eC9qO3ICXrzQbTh1ba2HgbbPF3bvkrMVUO6jB_M4-qlsEEH49eQn8dMnhN5gAAsfknTK6wyakHIf2IUted_2LZKYb-QapPxLeE6J-2CnlC-eVEOfojrGRH4rsWuBnrM6wRjOJO66OYlLnLFzoisgoGFeSahRugLih9D2nYVnSqSRHFtk2pXrK5lYmVD4kKh5C_Wovf4ZaS=w133-h99-no" tvg-shift="0" group-title="MUSICA",Musica Italiana Channel
-https://tivustream.website/urls/musicaitalianachannel
-#EXTINF:-1 tvg-name="Music Top" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ar-music-top-2943-300x225.jpg" tvg-shift="0" group-title="MUSICA",Music Top
+#EXTINF:-1 tvg-name="Musica Italiana Channel" tvg-logo="https://lh3.googleusercontent.com/Ebrbw82k032m6XS9aED9RHaz6dXaLmqj53iAf73obeM7GVgUzE3z2mNvSrmCY1jETUA_9QABVm-sPY0YBoxiLtmBUNNavPLFQSeAMggVOOd9KIhWNVsPCDQs2G7GI4wYdiHInxAQxy7jbxE2rCN1NDV9slkJkONBZFD2OyeCKGK3SAcPU9sCLlUB__VSAcmWjHYuVCaabiDA7wbdGP0UWQC6FKuHhyrvHM2T5bD4zrbTbugSqkjb7BkclQHYnPJvNCJeUODzxCQ5HkzK6_cTbnHlT8do-MHIyzrJQN2V3N6EcHMtRp-ZnGsj_SrncILfgdedtCM1VhRafbF077YB18DS03kdnlw2X8PoHCvMmqtvXZ4_Id9pa1mPvMVgKMLusMk8VHituAcgy6cqQY359vTMSVvMtCIGshL6ReyUWCCA57jDaSxCoFPtOff8sWYExiGjxLVZEpbbZG4fFwwDF65t5jpm522K4bZ9_4oKQfm5w2eC9qO3ICXrzQbTh1ba2HgbbPF3bvkrMVUO6jB_M4-qlsEEH49eQn8dMnhN5gAAsfknTK6wyakHIf2IUted_2LZKYb-QapPxLeE6J-2CnlC-eVEOfojrGRH4rsWuBnrM6wRjOJO66OYlLnLFzoisgoGFeSahRugLih9D2nYVnSqSRHFtk2pXrK5lYmVD4kKh5C_Wovf4ZaS=w133-h99-no" tvg-shift="0" group-title="Musica",Musica Italiana Channel
+https://tivustream.website/urls/Musicaitalianachannel
+#EXTINF:-1 tvg-name="Music Top" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ar-music-top-2943-300x225.jpg" tvg-shift="0" group-title="Musica",Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ht-nago-tv-3562-300x225.jpg" tvg-shift="0" group-title="MUSICA",Nago TV (Haiti)
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ht-nago-tv-3562-300x225.jpg" tvg-shift="0" group-title="Musica",Nago TV (Haiti)
 http://haititivi.com:8088/haititv/tele6NY/index.m3u8
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2019/12/NOW-70S-1.png" tvg-shift="0" group-title="MUSICA",Now 70's
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2019/12/NOW-70S-1.png" tvg-shift="0" group-title="Musica",Now 70's
 https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2016/01/NOW-80s.png" tvg-shift="0" group-title="MUSICA",Now 80's
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2016/01/NOW-80s.png" tvg-shift="0" group-title="Musica",Now 80's
 https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2018/02/NOW-90s.png" tvg-shift="0" group-title="MUSICA",Now 90's
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2018/02/NOW-90s.png" tvg-shift="0" group-title="Musica",Now 90's
 https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WJPvVdm.png" ggroup-title="MUSICA",NRJ Hits Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WJPvVdm.png" ggroup-title="Musica",NRJ Hits Tv
 http://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/chunklist.m3u8
-#EXTINF:-1 tvg-name="Ocko" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cz-ocko-8142-300x225.jpg" tvg-shift="0" group-title="MUSICA",Ocko
+#EXTINF:-1 tvg-name="Ocko" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cz-ocko-8142-300x225.jpg" tvg-shift="0" group-title="Musica",Ocko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-name="Ocko Express" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cz-ocko-expres-6319-300x225.jpg" tvg-shift="0" group-title="MUSICA",Ocko Express
+#EXTINF:-1 tvg-name="Ocko Express" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cz-ocko-expres-6319-300x225.jpg" tvg-shift="0" group-title="Musica",Ocko Express
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-name="Ocko Star" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cz-ocko-star-6827-300x225.jpg" tvg-shift="0" group-title="MUSICA",Ocko Star
+#EXTINF:-1 tvg-name="Ocko Star" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cz-ocko-star-6827-300x225.jpg" tvg-shift="0" group-title="Musica",Ocko Star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-name="OL3 Radio Tv" tvg-logo="https://www.tvdream.net/immagini/ol3radio.jpg" tvg-shift="0" group-title="MUSICA",OL3 Radio Tv
+#EXTINF:-1 tvg-name="OL3 Radio Tv" tvg-logo="https://www.tvdream.net/immagini/ol3radio.jpg" tvg-shift="0" group-title="Musica",OL3 Radio Tv
 https://5c389faa13be3.streamlock.net:9553/ol3radio/ol3radio/chunklist_w1433439357.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lv0mnMF.png" group-title="MUSICA",Onda TV 10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lv0mnMF.png" group-title="Musica",Onda TV 10
 http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSICA",OttO Fm Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="Musica",OttO Fm Tv
 http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cpxAk6k.png" group-title="MUSICA",Planet Music
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/partenopeatv.png" group-title="Musica",Partenopea Tv
+https://video.partenopeatv.com:3154/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cpxAk6k.png" group-title="Musica",Planet Music
 https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.playradio.club/wp-content/uploads/2021/06/PLAY-RADIO150.png" group-title="MUSICA",Play Radio
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.playradio.club/wp-content/uploads/2021/06/PLAY-RADIO150.png" group-title="Musica",Play Radio
 https://5db313b643fd8.streamlock.net:443/PlayRadio/PlayRadio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.promovideotv.com/wp/app/uploads/2015/07/radio-300x300.png" group-title="MUSICA",Promoradio Tv
+#EXTINF:-1 tvg-logo="https://www.promovideotv.com/wp/app/uploads/2015/07/radio-300x300.png" group-title="Musica",Promoradio Tv
 https://5e60b0449be90.streamlock.net/promovideo_web/promoradiotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/puntoradio.png" group-title="MUSICA",Punto Radio Tv
+#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/puntoradio.png" group-title="Musica",Punto Radio Tv
 https://tivustream.website/urls/puntoradiotv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u9cYVmP.png" group-title="MUSICA",Q Music Amsterdam
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u9cYVmP.png" group-title="Musica",Q Music Amsterdam
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wDB4Gd2.png" group-title="MUSICA",Radio 10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wDB4Gd2.png" group-title="Musica",Radio 10
 http://talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/Q5.m3u8
-#EXTINF:-1 tvg-logo="https://radio3i.ch/assets/images/logo3i.png" tvg-shift="0" group-title="MUSICA",Radio 3i Tv
+#EXTINF:-1 tvg-logo="https://radio3i.ch/assets/images/logo3i.png" tvg-shift="0" group-title="Musica",Radio 3i Tv
 https://livestream.gruppocdt.ch/hls/radio3i.m3u8
-#EXTINF:-1 tvg-name="Radio 4 You Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c5491cb9-e0c2-495b-91db-40a6b93abe4d-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio 4 You Tv
+#EXTINF:-1 tvg-name="Radio 4 You Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c5491cb9-e0c2-495b-91db-40a6b93abe4d-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio 4 You Tv
 https://tivustream.website/urls/radio4youtv
-#EXTINF:-1 tvg-name="Radio 20 Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/5b2b522a-14d2-4fb6-9960-4a4f0fe4ab4f-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio 20 Tv
+#EXTINF:-1 tvg-name="Radio 20 Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/5b2b522a-14d2-4fb6-9960-4a4f0fe4ab4f-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio 20 Tv
 https://tivustream.website/urls/radio20tv
-#EXTINF:-1 tvg-name="Radio 51 Tv" tvg-logo="https://www.tvdream.net/immagini/radio51tv.jpg" tvg-shift="0" group-title="MUSICA",Radio 51 Tv
+#EXTINF:-1 tvg-name="Radio 51 Tv" tvg-logo="https://www.tvdream.net/immagini/radio51tv.jpg" tvg-shift="0" group-title="Musica",Radio 51 Tv
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.607080.it/wp-content/uploads/2017/11/Logo-SB.png" tvg-shift="0" group-title="MUSICA",Radio 60 70 80 Tv  
+#EXTINF:-1 tvg-logo="https://www.607080.it/wp-content/uploads/2017/11/Logo-SB.png" tvg-shift="0" group-title="Musica",Radio 60 70 80 Tv  
 https://stream1.xdevel.com/video0s975757-315/stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio 538 Amsterdam" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/17/c3/1819/2/c175.png" tvg-shift="0" group-title="MUSICA",Radio 538 Amsterdam
+#EXTINF:-1 tvg-name="Radio 538 Amsterdam" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/17/c3/1819/2/c175.png" tvg-shift="0" group-title="Musica",Radio 538 Amsterdam
 http://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
-#EXTINF:-1 tvg-logo="https://www.radiottanta.com/wp-content/uploads/2020/08/cropped-logo-negativo_Tavola-disegno-1-239x80.png" tvg-shift="0" group-title="MUSICA",Radio 80 Forever Young
+#EXTINF:-1 tvg-logo="https://www.radiottanta.com/wp-content/uploads/2020/08/cropped-logo-negativo_Tavola-disegno-1-239x80.png" tvg-shift="0" group-title="Musica",Radio 80 Forever Young
 https://585b674743bbb.streamlock.net/9076/9076/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio 85 Tv" tvg-logo="http://www.radio85.it/wp-content/uploads/2017/01/RADIOFRANCAVILLA_LOGO-01-1.png" tvg-shift="0" group-title="MUSICA",Radio 85 Tv
+#EXTINF:-1 tvg-name="Radio 85 Tv" tvg-logo="http://www.radio85.it/wp-content/uploads/2017/01/RADIOFRANCAVILLA_LOGO-01-1.png" tvg-shift="0" group-title="Musica",Radio 85 Tv
 http://onair2.xdevel.com/quartocanalevideo/radio85/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Adige Tv" tvg-logo="https://radioadige.veronanetwork.it/wp-content/uploads/2019/10/LOGO-RADIO-ADIGE-TV-300px.png" tvg-shift="0" group-title="MUSICA",Radio Adige Tv
+#EXTINF:-1 tvg-name="Radio Adige Tv" tvg-logo="https://radioadige.veronanetwork.it/wp-content/uploads/2019/10/LOGO-RADIO-ADIGE-TV-300px.png" tvg-shift="0" group-title="Musica",Radio Adige Tv
 https://flash7.xdevel.com/veronanetwork/veronanetwork/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Antenna Uno Tv" tvg-logo="https://www.antennauno.it/wp-content/uploads/2016/03/antenna-uno-bis.700x512.png" tvg-shift="0" group-title="MUSICA",Radio Antenna Uno Tv
+#EXTINF:-1 tvg-name="Radio Antenna Uno Tv" tvg-logo="https://www.antennauno.it/wp-content/uploads/2016/03/antenna-uno-bis.700x512.png" tvg-shift="0" group-title="Musica",Radio Antenna Uno Tv
 https://server.bellaradio.it:1443/live/antennauno/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Arancia HD" tvg-logo="http://www.radioarancia.it/images/RADIO-ARANCIA-TELEVISION_WHITE.png" tvg-shift="0" group-title="MUSICA",Radio Arancia HD
+#EXTINF:-1 tvg-name="Radio Arancia HD" tvg-logo="http://www.radioarancia.it/images/RADIO-ARANCIA-TELEVISION_WHITE.png" tvg-shift="0" group-title="Musica",Radio Arancia HD
 http://stream3.xdevel.com/video0s975447-164/stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Azzurra Tv Randazzo" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/azzurra.png" tvg-shift="0" group-title="MUSICA",Radio Azzurra Tv Randazzo
+#EXTINF:-1 tvg-name="Radio Azzurra Tv Randazzo" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/azzurra.png" tvg-shift="0" group-title="Musica",Radio Azzurra Tv Randazzo
 https://video.azotosolutions.com:9553/radioazzurrarandazzo/radioazzurrarandazzo/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Azzurra Tv " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsLbyl_ZyuCmol8yt1xrXaTZ8-OoXT8E1NOA&usqp=CAU" tvg-shift="0" group-title="MUSICA",Radio Azzurra Tv
+#EXTINF:-1 tvg-name="Radio Azzurra Tv " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsLbyl_ZyuCmol8yt1xrXaTZ8-OoXT8E1NOA&usqp=CAU" tvg-shift="0" group-title="Musica",Radio Azzurra Tv
 https://5f22d76e220e1.streamlock.net:443/RadioAzzurra/RadioAzzurra/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Base Tv " tvg-logo="https://www.radiobase.fm/wp-content/uploads/2017/03/radio-base-logo-300x175.jpg" tvg-shift="0" group-title="MUSICA",Radio Base Tv 
+#EXTINF:-1 tvg-name="Radio Base Tv " tvg-logo="https://www.radiobase.fm/wp-content/uploads/2017/03/radio-base-logo-300x175.jpg" tvg-shift="0" group-title="Musica",Radio Base Tv 
 https://w1.mediastreaming.it/radiobasetv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Bella e Monella Tv" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/bellaemonellatv.png" tvg-shift="0" group-title="MUSICA",Radio Bella e Monella Tv
+#EXTINF:-1 tvg-name="Radio Bella e Monella Tv" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/bellaemonellatv.png" tvg-shift="0" group-title="Musica",Radio Bella e Monella Tv
 http://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Birikina Tv" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/birikinatv.png" tvg-shift="0" group-title="MUSICA",Radio Birikina Tv
+#EXTINF:-1 tvg-name="Radio Birikina Tv" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/birikinatv.png" tvg-shift="0" group-title="Musica",Radio Birikina Tv
 http://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Bruno Tv" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/brunotv.png" tvg-shift="0" group-title="MUSICA",Radio Bruno Tv
+#EXTINF:-1 tvg-name="Radio Bruno Tv" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/brunotv.png" tvg-shift="0" group-title="Musica",Radio Bruno Tv
 https://stream6.xdevel.com/video0s975758-1050/stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Bussola 24 Tv" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/bussola.png" tvg-shift="0" group-title="MUSICA",Radio Bussola 24 Tv
+#EXTINF:-1 tvg-name="Radio Bussola 24 Tv" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/bussola.png" tvg-shift="0" group-title="Musica",Radio Bussola 24 Tv
 https://tv.radiobussola.it/hls/stream/stream1200.m3u8
-#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/california.png" tvg-shift="0" group-title="MUSICA",Radio California Tv
+#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/california.png" tvg-shift="0" group-title="Musica",Radio California Tv
 http://flash8.xdevel.com/californiatv/californiatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.capital.it/wp-content/themes/network-capital/img/logo_capital_1024x1024.png" group-title="MUSICA",Radio Capital Tv
+#EXTINF:-1 tvg-logo="https://www.capital.it/wp-content/themes/network-capital/img/logo_capital_1024x1024.png" group-title="Musica",Radio Capital Tv
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 tvg-name="Radio Centrale Caccamo" tvg-logo="http://www.radiocentrale.it/images/LogoRadioCentrale.png" tvg-shift="0" group-title="MUSICA",Radio Centrale Caccamo
+#EXTINF:-1 tvg-name="Radio Centrale Caccamo" tvg-logo="http://www.radiocentrale.it/images/LogoRadioCentrale.png" tvg-shift="0" group-title="Musica",Radio Centrale Caccamo
 https://57068da1deb21.streamlock.net/radiocentrale/radiocentrale_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/daa26aa5-f4c1-4270-bab5-1acdfd6a5020-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Centro Bisceglie
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/daa26aa5-f4c1-4270-bab5-1acdfd6a5020-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio Centro Bisceglie
 https://tivustream.website/urls/radiocentrobisceglie
-#EXTINF:-1 tvg-name="Radio Centro Musica" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0a68106e-5748-4ead-9ca6-af9e284201d4-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Centro Musica
-https://tivustream.website/urls/radiocentromusica
-#EXTINF:-1 tvg-name="Radio Centro Musica Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7bc96245-9a41-4754-bac1-65394990ad18-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Centro Musica Tv 
-https://tivustream.website/urls/radiocentromusicatv
-#EXTINF:-1 tvg-name="Radio Citta' Futura Roma" tvg-logo="http://www.radiocittafutura.it/images/Loghi/verdelogo.gif" tvg-shift="0" group-title="MUSICA",Radio Citta' Futura Roma
+#EXTINF:-1 tvg-name="Radio Centro Musica" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0a68106e-5748-4ead-9ca6-af9e284201d4-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio Centro Musica
+https://tivustream.website/urls/radiocentroMusica
+#EXTINF:-1 tvg-name="Radio Centro Musica Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7bc96245-9a41-4754-bac1-65394990ad18-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio Centro Musica Tv 
+https://tivustream.website/urls/radiocentroMusicatv
+#EXTINF:-1 tvg-name="Radio Citta' Futura Roma" tvg-logo="http://www.radiocittafutura.it/images/Loghi/verdelogo.gif" tvg-shift="0" group-title="Musica",Radio Citta' Futura Roma
 https://tivustream.website/urls/radiocittafuturaroma
-#EXTINF:-1 tvg-logo="https://radiocittadella.it/wp-content/uploads/2019/06/radiocittadella_logo-copia-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Cittadella
+#EXTINF:-1 tvg-logo="https://radiocittadella.it/wp-content/uploads/2019/06/radiocittadella_logo-copia-300x300.png" tvg-shift="0" group-title="Musica",Radio Cittadella
 https://59d7d6f47d7fc.streamlock.net/radiocittadella/radiocittadella/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Civita InBlu" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2e59661c-84e5-4254-a541-8c716a20cee3-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Civita InBlu
+#EXTINF:-1 tvg-name="Radio Civita InBlu" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2e59661c-84e5-4254-a541-8c716a20cee3-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio Civita InBlu
 https://tivustream.website/urls/radiocivitainblu
-#EXTINF:-1 tvg-name="Radio Civita InBlu" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2e59661c-84e5-4254-a541-8c716a20cee3-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Civita InBlu Opz 2
+#EXTINF:-1 tvg-name="Radio Civita InBlu" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2e59661c-84e5-4254-a541-8c716a20cee3-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio Civita InBlu Opz 2
 https://visual.shoutca.st:1936/radiocivitainblu/mp4:radiocivitainblu_source/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.trendcomunicazione.com/wp-content/uploads/2018/11/20180416-logo-tv-bokka-300x155.png" tvg-shift="0" group-title="MUSICA",Radio Company Tv
+#EXTINF:-1 tvg-logo="https://www.trendcomunicazione.com/wp-content/uploads/2018/11/20180416-logo-tv-bokka-300x155.png" tvg-shift="0" group-title="Musica",Radio Company Tv
 https://5929b138b139d.streamlock.net/CompanyTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="MUSICA",Radio Contact Vision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="Musica",Radio Contact Vision
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
-#EXTINF:-1 group-title="MUSICA",Radio Delta International
+#EXTINF:-1 group-title="Musica",Radio Delta International
 https://w1.mediastreaming.it/deltainternational/livestream/chunklist_w191652192.m3u8
-#EXTINF:-1 tvg-name="Radio Deejay Tv" tvg-logo="https://www.chillglobal.com/images/channels/deejay-tv-1432650296.jpg" tvg-shift="0" group-title="MUSICA",Radio Deejay Tv
+#EXTINF:-1 tvg-name="Radio Deejay Tv" tvg-logo="https://www.chillglobal.com/images/channels/deejay-tv-1432650296.jpg" tvg-shift="0" group-title="Musica",Radio Deejay Tv
 https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71syYtwxefL.png" group-title="MUSICA",Radio Diffusione Europea
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71syYtwxefL.png" group-title="Musica",Radio Diffusione Europea
 https://eu1.servers10.com:8081/8042/index.m3u8
-#EXTINF:-1 group-title="MUSICA",Radio DiscoUnt Tv
+#EXTINF:-1 group-title="Musica",Radio DiscoUnt Tv
 https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",Radio Effe Tv
+#EXTINF:-1 group-title="Musica",Radio Effe Tv
 https://stream.mariatvcdn.com/radioeffe/c0714bac8a24ffcc129f133d2123364f.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Emme2 Puglia" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a5234fb7-bf47-40a0-af30-e193f3d25fb5-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Emme2 Puglia  
+#EXTINF:-1 tvg-name="Radio Emme2 Puglia" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a5234fb7-bf47-40a0-af30-e193f3d25fb5-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio Emme2 Puglia  
 https://tivustream.website/urls/radioemme2
-#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/radioempire.png" tvg-shift="0" group-title="MUSICA",Radio Empire Taormina
+#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/radioempire.png" tvg-shift="0" group-title="Musica",Radio Empire Taormina
 https://5f22d76e220e1.streamlock.net:443/radioempiretv/radioempiretv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3b476338-d767-42ca-ad4e-0230cf0d52f7-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Enjoy Tv
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3b476338-d767-42ca-ad4e-0230cf0d52f7-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio Enjoy Tv
 https://tivustream.website/urls/radioenjoytv
-#EXTINF:-1 tvg-name="Radio Everywhere" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9bf3976e-ca0e-4c9f-8018-39e073197d33-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Everywhere
+#EXTINF:-1 tvg-name="Radio Everywhere" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9bf3976e-ca0e-4c9f-8018-39e073197d33-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio Everywhere
 https://tivustream.website/urls/radioeverywhere
-#EXTINF:-1 tvg-name="Radio FM Faleria" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/5f8d1e65-f9ea-4550-a2bf-909920972efe-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio FM Faleria
+#EXTINF:-1 tvg-name="Radio FM Faleria" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/5f8d1e65-f9ea-4550-a2bf-909920972efe-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio FM Faleria
 https://tivustream.website/urls/radiofmfaleria
-#EXTINF:-1 tvg-name="Radio Gamma Tv" tvg-logo="https://www.radio-gamma.it/foto/logo.png" tvg-shift="0" group-title="MUSICA",Radio Gamma Tv
+#EXTINF:-1 tvg-name="Radio Gamma Tv" tvg-logo="https://www.radio-gamma.it/foto/logo.png" tvg-shift="0" group-title="Musica",Radio Gamma Tv
 https://flash7.xdevel.com/radiogammavideo/radiogammavideo/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Gioconda" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3b36c93b-6bea-4aa3-9f40-3fb981e97edb-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Gioconda
+#EXTINF:-1 tvg-name="Radio Gioconda" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3b36c93b-6bea-4aa3-9f40-3fb981e97edb-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio Gioconda
 https://tivustream.website/urls/radiogioconda
-#EXTINF:-1 tvg-name="Radio Gold Tv" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/gold.png" tvg-shift="0" group-title="MUSICA",Radio Gold Tv
+#EXTINF:-1 tvg-name="Radio Gold Tv" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/gold.png" tvg-shift="0" group-title="Musica",Radio Gold Tv
 http://srvx1.selftv.video/ser/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a7960e8e-7765-41ed-8e32-ecde0df0dd88-profile_image-300x300.jpeg" tvg-shift="0" group-title="MUSICA",Radio House Smile Live
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a7960e8e-7765-41ed-8e32-ecde0df0dd88-profile_image-300x300.jpeg" tvg-shift="0" group-title="Musica",Radio House Smile Live
 https://tivustream.website/urls/radiohousesmilewebradio
-#EXTINF:-1 tvg-name="Radio Gold Tv" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/ibiza.png" tvg-shift="0" group-title="MUSICA",Radio Ibiza Tv
+#EXTINF:-1 tvg-name="Radio Gold Tv" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/ibiza.png" tvg-shift="0" group-title="Musica",Radio Ibiza Tv
 http://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Idea Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/48100c5d-a6cb-498b-ae9c-d894e866d337-profile_image-70x70.png" tvg-shift="0" group-title="MUSICA",Radio Idea Tv
+#EXTINF:-1 tvg-name="Radio Idea Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/48100c5d-a6cb-498b-ae9c-d894e866d337-profile_image-70x70.png" tvg-shift="0" group-title="Musica",Radio Idea Tv
 https://eu1.servers10.com:8081/8040/index.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/305ac6be-1283-4b84-ae02-b1bf862326f3-profile_image-70x70.png" tvg-shift="0" group-title="MUSICA",Radio Immagine Tv
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/305ac6be-1283-4b84-ae02-b1bf862326f3-profile_image-70x70.png" tvg-shift="0" group-title="Musica",Radio Immagine Tv
 https://media.velcom.it:1936/radioimmaginetv/radioimmaginetv/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Italia Tv" tvg-logo="https://static-radioitalia.akamaized.net/img/2020/web/logo_radioitalia_forma_new2.png" tvg-shift="0" group-title="MUSICA",Radio Italia Tv
-https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/30/ITBA2200008IM_20210714T000941.png" group-title="MUSICA",Radio Italia Trend
-https://radioitalia-samsungitaly.amagi.tv/hls/amagi_hls_data_radioital-radioitaly-samsung-italy/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Italia Anni 60" tvg-logo="https://nilcorporation.it/wp-content/uploads/2019/07/radio-italia-anni-60.jpg" tvg-shift="0" group-title="MUSICA",Radio Italia Anni 60
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-italia-anni-60-tv.png" group-title="Musica",Radio Italia Anni 60 TV
+https://5f204aff97bee.streamlock.net/Anni60TV/livestream/media_w1656159675_21779.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-italia-anni-60.jpg" group-title="Musica",Radio Italia Anni 60
 https://57068da1deb21.streamlock.net/radioitaliaanni60/radioitaliaanni60/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",Radio Italia 5 Tv
+#EXTINF:-1 tvg-name="Radio Italia Tv" tvg-logo="https://static-radioitalia.akamaized.net/img/2020/web/logo_radioitalia_forma_new2.png" tvg-shift="0" group-title="Musica",Radio Italia Tv
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/30/ITBA2200008IM_20210714T000941.png" group-title="Musica",Radio Italia Trend
+https://radioitalia-samsungitaly.amagi.tv/hls/amagi_hls_data_radioital-radioitaly-samsung-italy/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Italia Anni 60" tvg-logo="https://nilcorporation.it/wp-content/uploads/2019/07/radio-italia-anni-60.jpg" tvg-shift="0" group-title="Musica",Radio Italia Anni 60
+https://57068da1deb21.streamlock.net/radioitaliaanni60/radioitaliaanni60/playlist.m3u8
+#EXTINF:-1 group-title="Musica",Radio Italia 5 Tv
 https://stream1.xdevel.com/video0s975662-257/stream/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",Radio Italia Vision
+#EXTINF:-1 group-title="Musica",Radio Italia Vision
 https://livetr.teleromagna.it/lifestyle/live/live/lifestyle480/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e679b8d4-26f4-46ef-9aad-645be24ba5ea-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Latte Miele Italia
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e679b8d4-26f4-46ef-9aad-645be24ba5ea-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio Latte Miele Italia
 https://tivustream.website/urls/radiolattemieleitalia
-#EXTINF:-1 tvg-logo="http://www.radiolina.it/Content/images/ogLogoRadiolina.jpg" group-title="MUSICA",Radiolina Tv	
+#EXTINF:-1 tvg-logo="http://www.radiolina.it/Content/images/ogLogoRadiolina.jpg" group-title="Musica",Radiolina Tv	
 https://5bb65e9de3fdf.streamlock.net/live/RadiolinaTV/chunklist_w1863349937.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiolina.it/Content/images/ogLogoRadiolina.jpg" group-title="MUSICA",Radiolina Dance Channel			
+#EXTINF:-1 tvg-logo="http://www.radiolina.it/Content/images/ogLogoRadiolina.jpg" group-title="Musica",Radiolina Dance Channel			
 https://5bb65e9de3fdf.streamlock.net/Radiolina/dancechannel/chunklist_w699520970.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kX9GmSj8/Radio-Laser-Tv.png" group-title="MUSICA",Radio Laser Tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kX9GmSj8/Radio-Laser-Tv.png" group-title="Musica",Radio Laser Tv
 https://57068da1deb21.streamlock.net/radiolaser/radiolaser/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/q76cY7xN/Radio-Linea-Tv.png" group-title="MUSICA",Radio Linea Tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q76cY7xN/Radio-Linea-Tv.png" group-title="Musica",Radio Linea Tv
 https://5db313b643fd8.streamlock.net:443/RadioLineaTv/RadioLineaTv/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Lombardia Tv" tvg-logo="https://www.tvdream.net/immagini/radio-lombardia-tv.jpg" tvg-shift="0" group-title="MUSICA",Radio Lombardia Tv
+#EXTINF:-1 tvg-name="Radio Lombardia Tv" tvg-logo="https://www.tvdream.net/immagini/radio-lombardia-tv.jpg" tvg-shift="0" group-title="Musica",Radio Lombardia Tv
 https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Londra Italia Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0ce8f1d6-98e5-4e10-8941-0bf4a80b4a97-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Londra Italia Tv
+#EXTINF:-1 tvg-name="Radio Londra Italia Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0ce8f1d6-98e5-4e10-8941-0bf4a80b4a97-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio Londra Italia Tv
 https://patbuweb.herokuapp.com/api/play?url=https://www.twitch.tv/radiolondraitalia
-#EXTINF:-1 tvg-logo="https://www.lovefm.it/themes/default/assets/img_c/logo-love-new.png" tvg-shift="0" group-title="MUSICA",Radio Love Tv
+#EXTINF:-1 tvg-logo="https://www.lovefm.it/themes/default/assets/img_c/logo-love-new.png" tvg-shift="0" group-title="Musica",Radio Love Tv
 http://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/lucania-channel-tv.jpg" tvg-shift="0" group-title="MUSICA",Radio Lucania Channel
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/lucania-channel-tv.jpg" tvg-shift="0" group-title="Musica",Radio Lucania Channel
 https://59d7d6f47d7fc.streamlock.net/lucaniachannel/lucaniachannel/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Manbassa Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3958308d-d640-409a-8acf-b427bdc0d296-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Manbassa Tv
+#EXTINF:-1 tvg-name="Radio Manbassa Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3958308d-d640-409a-8acf-b427bdc0d296-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio Manbassa Tv
 https://tivustream.website/urls/manbassatv
-#EXTINF:-1 tvg-name="Radio Marte Tv" tvg-logo="https://www.radiomarte.it/marte/wp-content/uploads/2019/04/RadioMarteLogo.png" tvg-shift="0" group-title="MUSICA",Radio Marte Tv
+#EXTINF:-1 tvg-name="Radio Marte Tv" tvg-logo="https://www.radiomarte.it/marte/wp-content/uploads/2019/04/RadioMarteLogo.png" tvg-shift="0" group-title="Musica",Radio Marte Tv
 https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/plbkpc649v9x.jpg" group-title="MUSICA",Radio Maxima 70 80 90
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/plbkpc649v9x.jpg" group-title="Musica",Radio Maxima 70 80 90
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzSTg8tf/Radio-Millennium-Tv.png" tvg-shift="0" group-title="MUSICA",Radio Millenium Tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzSTg8tf/Radio-Millennium-Tv.png" tvg-shift="0" group-title="Musica",Radio Millenium Tv
 https://57068da1deb21.streamlock.net/radiomillennium/radiomillennium/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://mambo.it/wp-content/uploads/2020/11/selmus.png" tvg-shift="0" group-title="MUSICA",Radio Mambo Tv
+#EXTINF:-1 tvg-logo="http://mambo.it/wp-content/uploads/2020/11/selmus.png" tvg-shift="0" group-title="Musica",Radio Mambo Tv
 https://5926fc9c7c5b2.streamlock.net/9044/9044/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiomipiaci.it/wp-content/uploads/2018/01/Logo.png" tvg-shift="0" group-title="MUSICA",Radio Mi Piaci  
+#EXTINF:-1 tvg-logo="http://www.radiomipiaci.it/wp-content/uploads/2018/01/Logo.png" tvg-shift="0" group-title="Musica",Radio Mi Piaci  
 https://59bb40cf810aa.streamlock.net:4443/aslive2/aslive2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8P8J7z7K/Radio-Movida-Tv.jpg" group-title="MUSICA",Radio Movida Tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8P8J7z7K/Radio-Movida-Tv.jpg" group-title="Musica",Radio Movida Tv
 https://w1.mediastreaming.it/movidatv/movidatv/chunklist_w621208970.m3u8
-#EXTINF:-1 tvg-name="Radio Musica Television" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/56455904-a396-496e-a622-ebe4765da1cd-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Musica Television
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-Musica-news.png" group-title="Musica",Radio Musica News
+https://tivustream.website/urls/radioMusicanews
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-Musica-television.png" group-title="Musica",Radio Musica Television
+https://585b674743bbb.streamlock.net/9106/9106/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-Musica-tuttanapolitv.png" group-title="Musica",Radio Musica TuttaNapoliTv
+https://tivustream.website/urls/radioMusicatuttanapoli
+#EXTINF:-1 tvg-name="Radio Musica Television" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/56455904-a396-496e-a622-ebe4765da1cd-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio Musica Television
 https://585b674743bbb.streamlock.net:443/9106/9106/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nbcmilano.jpg/200px-Nbcmilano.jpg" group-title="MUSICA",Radio NBC Milano Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nbcmilano.jpg/200px-Nbcmilano.jpg" group-title="Musica",Radio NBC Milano Tv
 http://wz3.newradio.it:1935/9050/9050/index.m3u8
-#EXTINF:-1 group-title="MUSICA",Radio News 24 Tv
+#EXTINF:-1 group-title="Musica",Radio News 24 Tv
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@689969/index_150_av-p.m3u8?sd=10&set-akamai-hls-revision=3&rebase=on
-#EXTINF:-1 tvg-logo="https://radionorba.it/wp-content/themes/radionorba/assets/images/logo-radio-norba.png" group-title="MUSICA",Radio Norba Tv
+#EXTINF:-1 tvg-logo="https://radionorba.it/wp-content/themes/radionorba/assets/images/logo-radio-norba.png" group-title="Musica",Radio Norba Tv
 https://stream7.xdevel.com/video0s975885-995/stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://www.nslradiotv.it/wp-content/uploads/2019/12/nsl-radio-tv-logo-website.png" group-title="MUSICA",Radio NSL Tv
+#EXTINF:-1 tvg-logo="https://www.nslradiotv.it/wp-content/uploads/2019/12/nsl-radio-tv-logo-website.png" group-title="Musica",Radio NSL Tv
 https://streannunsec-lh.akamaihd.net/i/tv_1@868496/index_1_av-p.m3u8?sd=10&set-segment-duration=smoothest&rebase=on
-#EXTINF:-1 tvg-logo="https://radionumberone.it/player/onair/OnAirNew.jpg" tvg-shift="0" group-title="MUSICA",Radio Number One Tv
+#EXTINF:-1 tvg-logo="https://radionumberone.it/player/onair/OnAirNew.jpg" tvg-shift="0" group-title="Musica",Radio Number One Tv
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ca72a4bd-3186-402f-830d-3fc65d18b9d2-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Nuova Salerno
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ca72a4bd-3186-402f-830d-3fc65d18b9d2-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio Nuova Salerno
 https://tivustream.website/urls/radionuovasalernoweb
-#EXTINF:-1 tvg-name="Radio Olbia Web Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/56878c80-1371-47bc-8c01-2e04a8ffa4b2-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Olbia Web Tv
+#EXTINF:-1 tvg-name="Radio Olbia Web Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/56878c80-1371-47bc-8c01-2e04a8ffa4b2-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio Olbia Web Tv
 https://tivustream.website/urls/radioolbiaweb
-#EXTINF:-1 group-title="MUSICA",Radio Onda Libera
+#EXTINF:-1 group-title="Musica",Radio Onda Libera
 https://w1.mediastreaming.it/ondalibera/livestream/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",Radio Orizzonti Web Tv
+#EXTINF:-1 group-title="Musica",Radio Orizzonti Web Tv
 http://video.wide-net.org/hls/orizzonti.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/555d9542-80d9-4c73-b8bb-2985308666cb-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Paestum
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/555d9542-80d9-4c73-b8bb-2985308666cb-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio Paestum
 https://tivustream.website/urls/radiopaestum
-#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/parsifal.png" tvg-shift="0" group-title="MUSICA",Radio Parsifal Tv
+#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/parsifal.png" tvg-shift="0" group-title="Musica",Radio Parsifal Tv
 https://flash2.xdevel.com/radioparsifaltv/radioparsifaltv/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Pescara Tv" tvg-logo="https://www.tvdream.net/immagini/radio-pescara-tv.jpg" tvg-shift="0" group-title="MUSICA",Radio Pescara Tv
+#EXTINF:-1 tvg-name="Radio Pescara Tv" tvg-logo="https://www.tvdream.net/immagini/radio-pescara-tv.jpg" tvg-shift="0" group-title="Musica",Radio Pescara Tv
 http://193.70.81.40:1935/pescaratv/pescaratv/chunklist_w1327069289.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WGs1jsk.png" group-title="MUSICA",Radio Pilatus Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WGs1jsk.png" group-title="Musica",Radio Pilatus Tv
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.piterpan.it/wp-content/uploads/2020/01/logo_piterpan.png" tvg-shift="0" group-title="MUSICA",Radio Piterpan Tv
+#EXTINF:-1 tvg-logo="https://www.piterpan.it/wp-content/uploads/2020/01/logo_piterpan.png" tvg-shift="0" group-title="Musica",Radio Piterpan Tv
 http://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Play Tag "tvg-logo="https://static.wixstatic.com/media/576658_d6c4de790b924d1b87594e0837c6ed30~mv2.png" tvg-shift="0" group-title="MUSICA",Radio Play Tag  
+#EXTINF:-1 tvg-name="Radio Play Tag "tvg-logo="https://static.wixstatic.com/media/576658_d6c4de790b924d1b87594e0837c6ed30~mv2.png" tvg-shift="0" group-title="Musica",Radio Play Tag  
 https://5e06222f4d978.streamlock.net/edge/playtag/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",Radio PoPizz
+#EXTINF:-1 group-title="Musica",Radio PoPizz
 https://59bb40cf810aa.streamlock.net:4443/popizztv/popizztv/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",Radio Punto Tv Legnano
+#EXTINF:-1 group-title="Musica",Radio Punto Tv Legnano
 http://5c389faa13be3.streamlock.net:1935/radiopunto/radiopunto/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",Radio Punto Zero Tv
+#EXTINF:-1 group-title="Musica",Radio Punto Zero Tv
 http://58d921499d3d3.streamlock.net/RPZ/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Power Web" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/power.png" tvg-shift="0" group-title="MUSICA",Radio Power Web
+#EXTINF:-1 tvg-name="Radio Power Web" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/power.png" tvg-shift="0" group-title="Musica",Radio Power Web
 https://585b674743bbb.streamlock.net/9136/9136/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.radioradio.it/wp-content/uploads/2020/09/RRLogo.png" group-title="MUSICA",Radio Radio Tv
+#EXTINF:-1 tvg-logo="https://www.radioradio.it/wp-content/uploads/2020/09/RRLogo.png" group-title="Musica",Radio Radio Tv
 https://player-api.new.livestream.com/accounts/11463451/events/tvlive/live.m3u8
-#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/radiosa.png" tvg-shift="0" group-title="MUSICA",Radio Radiosa Tv
+#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/radiosa.png" tvg-shift="0" group-title="Musica",Radio Radiosa Tv
 https://w1.streaming-media.it/radioradiosa/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Roma Tv" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/RadioRomaTv.png" tvg-shift="0" group-title="MUSICA",Radio Roma Tv
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-rcs-londa-veronese.png" tvg-shift="0" group-title="Musica",Radio RCS - L'Onda Veronese
+https://5c389faa13be3.streamlock.net:9553/radiorcstv/radiorcstv/chunklist_w558119878.m3u8
+#EXTINF:-1 tvg-name="Radio Roma Tv" tvg-logo="https://tivustream.website/ios/Lanus_Loghi/RadioRomaTv.png" tvg-shift="0" group-title="Musica",Radio Roma Tv
 https://585b674743bbb.streamlock.net/9044/9044/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4525c2fe-4637-4a44-ac88-29fc3ecf29ff-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Roma Dance
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4525c2fe-4637-4a44-ac88-29fc3ecf29ff-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio Roma Dance
 https://tivustream.website/urls/radiodanceroma
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/188e6489-5074-475e-996c-4793849d8b2a-profile_image-70x70.png" tvg-shift="0" group-title="MUSICA",Radio Rock 106.6
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/188e6489-5074-475e-996c-4793849d8b2a-profile_image-70x70.png" tvg-shift="0" group-title="Musica",Radio Rock 106.6
 https://tivustream.website/urls/radiorock
-#EXTINF:-1 tvg-logo="https://www.rtr99.it/wp-content/uploads/2016/04/RTR99_logo-04-300x134.png" tvg-shift="0" group-title="MUSICA",Radio RTR 99
+#EXTINF:-1 tvg-logo="https://www.rtr99.it/wp-content/uploads/2016/04/RTR99_logo-04-300x134.png" tvg-shift="0" group-title="Musica",Radio RTR 99
 http://5e73cf528f404.streamlock.net/RTR99TV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.radiosaiuz.it/images/rst-network4.png" tvg-shift="0" group-title="MUSICA",Radio Saiuz Tv
+#EXTINF:-1 tvg-logo="https://www.radiosaiuz.it/images/rst-network4.png" tvg-shift="0" group-title="Musica",Radio Saiuz Tv
 https://5b38ce71f1f00.streamlock.net/8288/8288/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Sicilia Web Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/98133204-4a31-44ed-822e-b68dc1718594-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Sicilia Web Tv
+#EXTINF:-1 tvg-name="Radio Sicilia Web Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/98133204-4a31-44ed-822e-b68dc1718594-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio Sicilia Web Tv
 http://napolinelquore.ns0.it:25461/live/FacebookRadio/UEiVoAJKSd/2.m3u8
-#EXTINF:-1 tvg-logo="https://www.sorrriso.it/wp-content/uploads/2018/09/logo-radio-sorrriso.png" tvg-shift="0" group-title="MUSICA",Radio Sorriso Tv
+#EXTINF:-1 tvg-logo="https://www.sorrriso.it/wp-content/uploads/2018/09/logo-radio-sorrriso.png" tvg-shift="0" group-title="Musica",Radio Sorriso Tv
 http://56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.radiosplash.it/wp-content/uploads/2019/04/logo_splash_tr.png" tvg-shift="0" group-title="MUSICA",Radio Splash Tv
+#EXTINF:-1 tvg-logo="https://www.radiosplash.it/wp-content/uploads/2019/04/logo_splash_tr.png" tvg-shift="0" group-title="Musica",Radio Splash Tv
 https://video2.azotosolutions.com:1936/splashtv/splashtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGPRXd46/Stereo-5-Tv.png" tvg-shift="0" group-title="MUSICA",Radio Stereo 5 Tv 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGPRXd46/Stereo-5-Tv.png" tvg-shift="0" group-title="Musica",Radio Stereo 5 Tv 
 https://stream1.aswifi.it/stereo5/live/index.m3u8
-#EXTINF:-1 tvg-name="Radio Studio One " tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/23e327b7-996b-42d8-a08e-696c820c7764-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Studio One
+#EXTINF:-1 tvg-name="Radio Studio One " tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/23e327b7-996b-42d8-a08e-696c820c7764-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio Studio One
 https://tivustream.website/urls/radiostudioone
-#EXTINF:-1 tvg-name="Radio Studio Delta" tvg-logo="https://radiostudiodelta.it/wp-content/uploads/2014/08/logo-big-rsd.png" tvg-shift="0" group-title="MUSICA",Radio Studio Delta
+#EXTINF:-1 tvg-name="Radio Studio Delta" tvg-logo="https://radiostudiodelta.it/wp-content/uploads/2014/08/logo-big-rsd.png" tvg-shift="0" group-title="Musica",Radio Studio Delta
 https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Studio Piu' Tv" tvg-logo="https://www.studiopiu.net/wp-content/uploads/2017/07/LOGO_S_rosso-300x235.png" tvg-shift="0" group-title="MUSICA",Radio Studio Piu' Tv
+#EXTINF:-1 tvg-name="Radio Studio Piu' Tv" tvg-logo="https://www.studiopiu.net/wp-content/uploads/2017/07/LOGO_S_rosso-300x235.png" tvg-shift="0" group-title="Musica",Radio Studio Piu' Tv
 https://stream1.xdevel.com/video1s975757-316/stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Tv Oltre Limite" tvg-logo="https://radiotvoltrelimite.it/wp-content/uploads/2020/07/logo_definitivo_v2-1024x263.png" tvg-shift="0" group-title="MUSICA",Radio Tv Oltre Limite  
+#EXTINF:-1 tvg-name="Radio Tv Oltre Limite" tvg-logo="https://radiotvoltrelimite.it/wp-content/uploads/2020/07/logo_definitivo_v2-1024x263.png" tvg-shift="0" group-title="Musica",Radio Tv Oltre Limite  
 https://585b674743bbb.streamlock.net/9068/9068/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Taormina Tv" tvg-logo="https://www.radiotaormina.it/wp-content/uploads/2019/09/logo_radio_taormia_header.png" tvg-shift="0" group-title="MUSICA",Radio Taormina Tv
+#EXTINF:-1 tvg-name="Radio Taormina Tv" tvg-logo="https://www.radiotaormina.it/wp-content/uploads/2019/09/logo_radio_taormia_header.png" tvg-shift="0" group-title="Musica",Radio Taormina Tv
 http://stream2.xdevel.com/video1s3-7/stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="Radio Telecolor" tvg-logo="https://nilcorporation.it/wp-content/uploads/2019/07/RADIO-TELECOLOR.jpg" tvg-shift="0" group-title="MUSICA",Radio Telecolor
+#EXTINF:-1 tvg-name="Radio Telecolor" tvg-logo="https://nilcorporation.it/wp-content/uploads/2019/07/RADIO-TELECOLOR.jpg" tvg-shift="0" group-title="Musica",Radio Telecolor
 https://tivustream.website/urls/radiotelecolor
-#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/ticino.png" tvg-shift="0" group-title="MUSICA",Radio Ticino Channel 
+#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/ticino.png" tvg-shift="0" group-title="Musica",Radio Ticino Channel 
 https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Time Tv" tvg-logo="https://www.radiotime.it/wp-content/uploads/2020/02/Logo_Time_1500-e1580898267395.png" tvg-shift="0" group-title="MUSICA",Radio Time Tv
+#EXTINF:-1 tvg-name="Radio Time Tv" tvg-logo="https://www.radiotime.it/wp-content/uploads/2020/02/Logo_Time_1500-e1580898267395.png" tvg-shift="0" group-title="Musica",Radio Time Tv
 https://stream3.xdevel.com/video0s975521-196/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.radiotoscana.it/wp-content/themes/eprom_1_3_1/styles/img_rt/logo_radiotoscana.png" group-title="MUSICA",Radio Toscana Tv
+#EXTINF:-1 tvg-logo="https://www.radiotoscana.it/wp-content/themes/eprom_1_3_1/styles/img_rt/logo_radiotoscana.png" group-title="Musica",Radio Toscana Tv
 https://flash2.xdevel.com/toscanawebcam/toscanawebcam/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/radio-tivu-azzurra.jpg" group-title="MUSICA",Radio Tv Azzurra
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/radio-tivu-azzurra.jpg" group-title="Musica",Radio Tv Azzurra
 http://46.105.208.13:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/fc/a0/2134/2/c175.png" group-title="MUSICA",Radio Veronica
+#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/fc/a0/2134/2/c175.png" group-title="Musica",Radio Veronica
 https://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/Q5.m3u8
-#EXTINF:-1 tvg-name="Radio Yes Tv" tvg-logo="https://radioyes.it/wp-content/uploads/elementor/thumbs/RadioYes-okfdipxya7i16yjc36hp1dlewh5grs5kbsiobqkidc.png" tvg-shift="0" group-title="MUSICA",Radio Yes Tv
+#EXTINF:-1 tvg-name="Radio Yes Tv" tvg-logo="https://radioyes.it/wp-content/uploads/elementor/thumbs/RadioYes-okfdipxya7i16yjc36hp1dlewh5grs5kbsiobqkidc.png" tvg-shift="0" group-title="Musica",Radio Yes Tv
 https://stream1.aswifi.it/radioyes/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/769241d7-a4fe-4089-823c-26d6ba65d3b2-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Radio Web Social 
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/769241d7-a4fe-4089-823c-26d6ba65d3b2-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Radio Web Social 
 https://tivustream.website/urls/radiowebsocial
-#EXTINF:-1 tvg-name="Radio Wow Tv" tvg-logo="https://radiowow.com/wp-content/uploads/2019/09/RadioWowLogo-768x333.png" tvg-shift="0" group-title="MUSICA",Radio Wow Tv
+#EXTINF:-1 tvg-name="Radio Wow Tv" tvg-logo="https://radiowow.com/wp-content/uploads/2019/09/RadioWowLogo-768x333.png" tvg-shift="0" group-title="Musica",Radio Wow Tv
 http://5e73cf528f404.streamlock.net/RadioWOW/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="RDS Next" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rds-next.jpg" tvg-shift="0" group-title="MUSICA",RDS Next
+#EXTINF:-1 tvg-name="RDS Next" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rds-next.jpg" tvg-shift="0" group-title="Musica",RDS Next
 https://tivustream.website/urls/rdsnext
-#EXTINF:-1 tvg-name="RDS Social Tv" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/rdssocialtv.png" tvg-shift="0" group-title="MUSICA",RDS Social Tv
+#EXTINF:-1 tvg-name="RDS Social Tv" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/rdssocialtv.png" tvg-shift="0" group-title="Musica",RDS Social Tv
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
-#EXTINF:-1 tvg-name="RG Studio Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/84244d5c-fab9-4ac2-9963-d59a6c2e8ef9-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",RG Studio Tv
+#EXTINF:-1 tvg-name="RG Studio Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/84244d5c-fab9-4ac2-9963-d59a6c2e8ef9-profile_image-300x300.png" tvg-shift="0" group-title="Musica",RG Studio Tv
 https://tivustream.website/urls/rgstudiotv
-#EXTINF:-1 tvg-logo="https://radiou.com/wp-content/uploads/2018/06/RadioUSiteHeaderTransparent.png" group-title="MUSICA",RadioU Tv
+#EXTINF:-1 tvg-logo="https://radiou.com/wp-content/uploads/2018/06/RadioUSiteHeaderTransparent.png" group-title="Musica",RadioU Tv
 https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.radioreload.it/wp-content/uploads/2019/05/Logo-Radio-Reload-black.png" group-title="MUSICA",Reload Radio Music Power HD
+#EXTINF:-1 tvg-logo="https://www.radioreload.it/wp-content/uploads/2019/05/Logo-Radio-Reload-black.png" group-title="Musica",Reload Radio Music Power HD
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/retro_tv_cz.png" tvg-shift="0" group-title="MUSICA",Retro Music 
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/retro_tv_cz.png" tvg-shift="0" group-title="Musica",Retro Music 
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d1e3362b4261afb6c04e848c156dd89.png" tvg-shift="0" group-title="MUSICA",Retro Plus
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d1e3362b4261afb6c04e848c156dd89.png" tvg-shift="0" group-title="Musica",Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Freccia Tv" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/radiofreccia-ytsvf.png" tvg-shift="0" group-title="MUSICA",Radio Freccia Tv
+#EXTINF:-1 tvg-name="Radio Freccia Tv" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/radiofreccia-ytsvf.png" tvg-shift="0" group-title="Musica",Radio Freccia Tv
 https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Zeta HD" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/radio-zeta-cy0fr.png" tvg-shift="0" group-title="MUSICA",Radio Zeta HD
+#EXTINF:-1 tvg-name="Radio Zeta HD" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/radio-zeta-cy0fr.png" tvg-shift="0" group-title="Musica",Radio Zeta HD
 https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://rmc101.it/wp-content/uploads/2020/05/Logo_rmc-1.png" tvg-shift="0" group-title="MUSICA",RMC 101 Tv
+#EXTINF:-1 tvg-logo="https://rmc101.it/wp-content/uploads/2020/05/Logo_rmc-1.png" tvg-shift="0" group-title="Musica",RMC 101 Tv
 https://5db313b643fd8.streamlock.net/RMC101TV/RMC101TV/playlist.m3u8
-#EXTINF:-1 tvg-name="RTL 102.5 Tv" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-jjffs.png" tvg-shift="0" group-title="MUSICA",RTL 102.5 Tv
+#EXTINF:-1 tvg-name="RTL 102.5 Tv" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-jjffs.png" tvg-shift="0" group-title="Musica",RTL 102.5 Tv
 https://streamcdng9-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b2816000.m3u8
-#EXTINF:-1 tvg-name="RTL 102.5 Best" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-best-tujiw.png" tvg-shift="0" group-title="MUSICA",RTL 102.5 Best
+#EXTINF:-1 tvg-name="RTL 102.5 Best" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-best-tujiw.png" tvg-shift="0" group-title="Musica",RTL 102.5 Best
 https://streamcdng43-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/chunklist_b2816000.m3u8
-#EXTINF:-1 tvg-name="RTL 102.5 Napule'" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-napula-tttj6.png" tvg-shift="0" group-title="MUSICA",RTL 102.5 Napule'
+#EXTINF:-1 tvg-name="RTL 102.5 Napule'" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-napula-tttj6.png" tvg-shift="0" group-title="Musica",RTL 102.5 Napule'
 https://streamcdng10-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/chunklist_b2816000.m3u8
-#EXTINF:-1 tvg-name="RTL 102.5 Doc" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-doc-wr8oc.png" tvg-shift="0" group-title="MUSICA",RTL 102.5 Doc
+#EXTINF:-1 tvg-name="RTL 102.5 Doc" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-doc-wr8oc.png" tvg-shift="0" group-title="Musica",RTL 102.5 Doc
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/chunklist_b2816000.m3u8
-#EXTINF:-1 tvg-name="RTL 102.5 News" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-news-pqxh1.png" tvg-shift="0" group-title="MUSICA",RTL 102.5 News
+#EXTINF:-1 tvg-name="RTL 102.5 News" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-news-pqxh1.png" tvg-shift="0" group-title="Musica",RTL 102.5 News
 https://streamcdng65-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/chunklist_b2816000.m3u8
-#EXTINF:-1 tvg-name="RTL 102.5 Bro Sis" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-bro-and-sis-otukj.png" tvg-shift="0" group-title="MUSICA",RTL 102.5 Bros Sis
+#EXTINF:-1 tvg-name="RTL 102.5 Bro Sis" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-bro-and-sis-otukj.png" tvg-shift="0" group-title="Musica",RTL 102.5 Bros Sis
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/chunklist_b2816000.m3u8
-#EXTINF:-1 tvg-name="RTL 102.5 Romeo Juliet" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-romeo-and-juliet-uhcec.png" tvg-shift="0" group-title="MUSICA",RTL 102.5 Romeo Juliet
+#EXTINF:-1 tvg-name="RTL 102.5 Romeo Juliet" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-romeo-and-juliet-uhcec.png" tvg-shift="0" group-title="Musica",RTL 102.5 Romeo Juliet
 https://streamcdng7-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/chunklist_b2816000.m3u8
-#EXTINF:-1 tvg-name="RTL 102.5 Guardia Costiera" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-guardia-costiera-qyizp.png" tvg-shift="0" group-title="MUSICA",RTL 102.5 Guardia Costiera
+#EXTINF:-1 tvg-name="RTL 102.5 Guardia Costiera" tvg-logo="https://cdn.rtl.it/RTLFM/channel/300x300/rtl-1025-guardia-costiera-qyizp.png" tvg-shift="0" group-title="Musica",RTL 102.5 Guardia Costiera
 https://streamcdng21-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S74387724/i1n4kZcs4Ah8/chunklist_b2816000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9BK5VE0.png" group-title="MUSICA",RTL Belgio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9BK5VE0.png" group-title="Musica",RTL Belgio
 http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-name="Russian Music Box" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ru-music-box-russia-7738-300x225.jpg" tvg-shift="0" group-title="MUSICA",Russian Music Box 
+#EXTINF:-1 tvg-name="Russian Music Box" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ru-music-box-russia-7738-300x225.jpg" tvg-shift="0" group-title="Musica",Russian Music Box 
 http://serv25.vintera.tv:8081/test/rusmtna5ox/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiolina.it/Content/images/ogLogoRadiolina.jpg" group-title="MUSICA",Sa Radiolina Sardegna Canta
+#EXTINF:-1 tvg-logo="http://www.radiolina.it/Content/images/ogLogoRadiolina.jpg" group-title="Musica",Sa Radiolina Sardegna Canta
 https://5bb65e9de3fdf.streamlock.net/Radiolina/saradiolina/chunklist_w1160640988.m3u8
-#EXTINF:-1 tvg-name="Sea Music Tv" tvg-logo="https://www.tvdream.net/immagini/sea-radio-tv.jpg" tvg-shift="0" group-title="MUSICA",Sea Music Tv
+#EXTINF:-1 tvg-name="Sea Music Tv" tvg-logo="https://www.tvdream.net/immagini/sea-radio-tv.jpg" tvg-shift="0" group-title="Musica",Sea Music Tv
 https://server.seatv.it:1443/searadiotv/live-hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png" tvg-shift="0" group-title="MUSICA",Sexy K-Pop
+#EXTINF:-1 tvg-logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png" tvg-shift="0" group-title="Musica",Sexy K-Pop
 https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/simply-tivu.jpg" tvg-shift="0" group-title="MUSICA",Simply Tv
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/simply-tivu.jpg" tvg-shift="0" group-title="Musica",Simply Tv
 https://stream9.xdevel.com/video0s975968-809/stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b3/c1/22330/1/c175.png" tvg-shift="0" group-title="MUSICA",Skyline Radio e Soul Tv
+#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b3/c1/22330/1/c175.png" tvg-shift="0" group-title="Musica",Skyline Radio e Soul Tv
 https://5db313b643fd8.streamlock.net:443/SkyLineTv/SkyLineTv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.standbytv.com/wp-content/uploads/2016/10/logo.png" tvg-shift="0" group-title="MUSICA",Standby Tv
+#EXTINF:-1 tvg-logo="https://www.standbytv.com/wp-content/uploads/2016/10/logo.png" tvg-shift="0" group-title="Musica",Standby Tv
 https://5eb4489e212e8.streamlock.net/standbytv/smil:standbytv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.stereocitta.it/wp-content/uploads/2020/10/LOGO-STEREO.jpg" tvg-shift="0" group-title="MUSICA",Stereo Citta' Tv
+#EXTINF:-1 tvg-logo="http://www.stereocitta.it/wp-content/uploads/2020/10/LOGO-STEREO.jpg" tvg-shift="0" group-title="Musica",Stereo Citta' Tv
 https://585b674743bbb.streamlock.net/9080/9080/playlist.m3u8
-#EXTINF:-1 tvg-name="Studio 54 Network" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e945f22e-0bdd-424d-90b8-e94808e83a3e-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Studio 54 Network
+#EXTINF:-1 tvg-name="Studio 54 Network" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e945f22e-0bdd-424d-90b8-e94808e83a3e-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Studio 54 Network
 https://tivustream.website/urls/studio54network
-#EXTINF:-1 tvg-name="Studio 90 Italia" tvg-logo="https://nilcorporation.it/wp-content/uploads/2019/07/radio-studio-90.jpg" tvg-shift="0" group-title="MUSICA",Studio 90 Italia
+#EXTINF:-1 tvg-name="Studio 90 Italia" tvg-logo="https://nilcorporation.it/wp-content/uploads/2019/07/radio-studio-90.jpg" tvg-shift="0" group-title="Musica",Studio 90 Italia
 https://flash7.xdevel.com/studio90italiatv/studio90italiatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tmacaraibes.com/images/Logo-chaine-TMA.png" tvg-shift="0" group-title="MUSICA",TMA Caribe
+#EXTINF:-1 tvg-logo="http://www.tmacaraibes.com/images/Logo-chaine-TMA.png" tvg-shift="0" group-title="Musica",TMA Caribe
 http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1 tvg-name="TMB Dj Radio" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d829f7c7-2c2d-4aaf-8de1-b49d2138ad27-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",TMB Dj Radio
+#EXTINF:-1 tvg-name="TMB Dj Radio" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d829f7c7-2c2d-4aaf-8de1-b49d2138ad27-profile_image-300x300.png" tvg-shift="0" group-title="Musica",TMB Dj Radio
 https://tivustream.website/urls/tmbdjradio
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="MUSICA",The Box Hits 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Musica",The Box Hits 
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1 tvg-logo="https://www.radiotsn.tv/sites/default/files/logo_1_1.png" tvg-shift="0" group-title="MUSICA",TSN Visual Radio
+#EXTINF:-1 tvg-logo="https://www.radiotsn.tv/sites/default/files/logo_1_1.png" tvg-shift="0" group-title="Musica",TSN Visual Radio
 https://59d7d6f47d7fc.streamlock.net/vr/vr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://radiolitoral945.com.br/files/2019/08/logo.png" tvg-shift="0" group-title="MUSICA",Tv Radio Litoral
+#EXTINF:-1 tvg-logo="https://radiolitoral945.com.br/files/2019/08/logo.png" tvg-shift="0" group-title="Musica",Tv Radio Litoral
 https://59f1cbe63db89.streamlock.net:1443/tvradiolitoral/_definst_/tvradiolitoral/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JBokzH9.png" group-title="MUSICA",Urban Music 4U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JBokzH9.png" group-title="Musica",Urban Music 4U
 https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KGLHMyB.png" group-title="MUSICA",UTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KGLHMyB.png" group-title="Musica",UTV
 http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/v2tv-vipotv-min.png" tvg-shift="0" group-title="MUSICA",V2 Beat
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/v2tv-vipotv-min.png" tvg-shift="0" group-title="Musica",V2 Beat
 http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/v2tv-vipotv-min.png" tvg-shift="0" group-title="MUSICA",V2 Beat (opz 2)
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/v2tv-vipotv-min.png" tvg-shift="0" group-title="Musica",V2 Beat (opz 2)
 http://stream.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-name="Vintage Radio Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c5b9d843-308c-45e3-8670-7e7eada8dd2e-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Vintage Radio Tv
+#EXTINF:-1 tvg-name="Vintage Radio Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c5b9d843-308c-45e3-8670-7e7eada8dd2e-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Vintage Radio Tv
 https://stream4.xdevel.com/video0s975967-804/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ritsatv.ru/files/poster/medium/700805.png" tvg-shift="0" group-title="MUSICA",VIVA Tv
+#EXTINF:-1 tvg-logo="http://ritsatv.ru/files/poster/medium/700805.png" tvg-shift="0" group-title="Musica",VIVA Tv
 http://cdnnow.goodgame.ru/hls/180805.m3u8
-#EXTINF:-1 tvg-logo="https://paramountnetwork.mtvnimages.com/uri/mgid:file:gsp:paramountplusstor:/images/paramount-network/site/italy/vh1-white-logo2x.png" tvg-shift="0" group-title="MUSICA",VH1 Italia
+#EXTINF:-1 tvg-logo="https://paramountnetwork.mtvnimages.com/uri/mgid:file:gsp:paramountplusstor:/images/paramount-network/site/italy/vh1-white-logo2x.png" tvg-shift="0" group-title="Musica",VH1 Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-logo="https://radioiglesias.it/wp-content/uploads/2021/02/Logo-Visual-RadiO-300x233.png" tvg-shift="0" group-title="MUSICA",Visual Radio
+#EXTINF:-1 tvg-logo="https://radioiglesias.it/wp-content/uploads/2021/02/Logo-Visual-RadiO-300x233.png" tvg-shift="0" group-title="Musica",Visual Radio
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
-#EXTINF:-1 tvg-name="Vuemme" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/VUEMME.png" tvg-shift="0" group-title="MUSICA",Vuemme
+#EXTINF:-1 tvg-name="Vuemme" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/VUEMME.png" tvg-shift="0" group-title="Musica",Vuemme
 https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/97adec7fda9fe405dbfe80745d07ec9b.png" tvg-shift="0" group-title="MUSICA",Wham Tv
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/97adec7fda9fe405dbfe80745d07ec9b.png" tvg-shift="0" group-title="Musica",Wham Tv
 http://streamingcws10.com:1935/xtitv/videoxtitv/playlist.m3u8
-#EXTINF:-1 tvg-name="Young TV All MUSICA" tvg-logo="https://www.tvdream.net/immagini/youngtv-all-music.jpg" tvg-shift="0" group-title="MUSICA",Young TV All Music
+#EXTINF:-1 tvg-name="Young TV All Musica" tvg-logo="https://www.tvdream.net/immagini/youngtv-all-music.jpg" tvg-shift="0" group-title="Musica",Young TV All Music
 https://tivustream.website/urls/yuongtvallmusic 
-#EXTINF:-1 tvg-name="Zerouno Tv Music MUSICA" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f9254d5a-0579-4b32-9027-38c008392142-profile_image-300x300.png" tvg-shift="0" group-title="MUSICA",Zerouno Tv Music 
+#EXTINF:-1 tvg-name="Zerouno Tv Music Musica" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f9254d5a-0579-4b32-9027-38c008392142-profile_image-300x300.png" tvg-shift="0" group-title="Musica",Zerouno Tv Music 
 https://tivustream.website/urls/zerounatvmusic
+
  
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-country="UK" tvg-language="English" tvg-logo="https://www.gbnews.uk/view-resources/dachser2/public/gbnews/logo.svg" group-title="UK",GB News (1080p)
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
