@@ -1,26 +1,27 @@
 #EXTM3U
 #EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 27/12/2021---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai1hd.png" group-title="4K",Rai 4K
+https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/Clarity_4K_190x190_Circle.png?raw=true" group-title="4K",Clarity 4k
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Loupe4K.us" tvg-name="Loupe 4K" tvg-country="US" tvg-language="" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true" group-title="4K",Loupe 4K
+http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.us" tvg-name="Love Nature" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AzOvgkV.png" group-title="4K",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1 HD
 http://89.163.224.48:8000/kJctUlB50Z/Sn3Bik7Dy1/296305
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2 HD
 http://89.163.224.48:8000/kJctUlB50Z/Sn3Bik7Dy1/296304
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1 opt.2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1  OPT.2
 http://190.2.155.162/RSI1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2 opt.2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="TOP ITALIA",RSI La2  OPT.2
 http://190.2.155.162/RSI2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rai_Radio_2_-_Logo_2017.svg/260px-Rai_Radio_2_-_Logo_2017.svg.png" group-title="TOP ITALIA",Rai Radio 2
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080
-
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai1hd.png" group-title="4k",Rai 4K
-https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/Clarity_4K_190x190_Circle.png?raw=true" group-title="4k",Clarity 4k
-https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="Loupe4K.us" tvg-name="Loupe 4K" tvg-country="US" tvg-language="" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true" group-title="4k",Loupe 4K
-http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveNature.us" tvg-name="Love Nature" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AzOvgkV.png" group-title="4k",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rai_Radio_2_-_Logo_2017.svg/260px-Rai_Radio_2_-_Logo_2017.svg.png" group-title="TOP ITALIA",Lo Zoo di 105 Tv
+https://live2.msr.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(r1)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Love_Nature_4K_190x190_circle.png?raw=true" group-title="TOP ITALIA",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8?l1br3LO0511
 #EXTINF:-1 tvg-id="LoveNature.us" tvg-name="Love Nature" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AzOvgkV.png" group-title="TOP ITALIA",Love Nature (1080p)
@@ -184,7 +185,16 @@ https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b4)/index.m3u8
 #EXTINF:-1" group-title="TOP ITALIA", DIRETTA MEDIASET 2
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b4)/index.m3u8
-
+#EXTINF:-1" group-title="TOP ITALIA", DIRETTA MEDIASET B2
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b2)/index.m3u8
+#EXTINF:-1" group-title="TOP ITALIA", DIRETTA MEDIASET B3
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b3)/index.m3u8 
+#EXTINF:-1" group-title="TOP ITALIA", DIRETTA MEDIASET B4
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b4)/index.m3u8
+#EXTINF:-1" group-title="TOP ITALIA", DIRETTA MEDIASET B6
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+#EXTINF:-1" group-title="TOP ITALIA", DIRETTA MEDIASET YY
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(yy)/index.m3u8
 
 #EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiNews.png" group-title="RAI",Rai News
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
