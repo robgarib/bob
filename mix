@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 04/01/2022---[/COLOR]  
+#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 05/01/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/rai1hd.png" group-title="4K",Rai 4K
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
@@ -9,6 +9,10 @@ https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.us" tvg-name="Love Nature" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AzOvgkV.png" group-title="4K",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="4K", BLOOMBERG 4K
+https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="4K", FASHION 4K
+http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1 HD
 http://89.163.224.48:8000/kJctUlB50Z/Sn3Bik7Dy1/296305
@@ -902,11 +906,21 @@ http://javaprotcol.com:2082/kuchini.site/TfUjeuXg78/91348
 http://javaprotcol.com:2082/kuchini.site/TfUjeuXg78/91349
 #EXTINF:-1" group-title="SPORT",US.FOX SPORTS 1
 http://javaprotcol.com:2082/kuchini.site/TfUjeuXg78/41453
+#EXTINF:0 type="stream" channelId="-1" group-title="SPORT" logo="https://1.bp.blogspot.com/-Ms4TszWlxF4/X7LQcdsjlNI/AAAAAAAAPvc/ssOueO1ivsomv1-gHeil_W4ktfp6m5hFQCLcBGAsYHQ/s0/dubai1.png", Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="SPORT" logo="https://1.bp.blogspot.com/-ptauQAxdHRw/X7LQciB000I/AAAAAAAAPvg/ilOvB3SLUR09onpJm1XAYYVWRXJxQxa1wCLcBGAsYHQ/s0/dubai2.png", Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="SPORT" logo="https://1.bp.blogspot.com/-LGO3Zdy7KXc/X7LQcjjqMfI/AAAAAAAAPvk/0wrIDgVSELgeV0SgBzop46FxhrOKPy4kwCLcBGAsYHQ/s0/dubai3.jpg", Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:0 type="stream" channelId="4980" group-title="SPORT" logo="https://i.imgur.com/eytrf0Y.png", Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 
 #EXTINF:-1" group-title="SPORT",FR.CINE FRISSON
 http://javaprotcol.com:2082/kuchini.site/TfUjeuXg78/20371
 #EXTINF:-1" group-title="SPORT",RO.Taraf TV
 http://javaprotcol.com:2082/kuchini.site/TfUjeuXg78/11116
+#EXTINF:-1" group-title="SPORT",beinsporthaber
+https://ankara.tvizlehd.com/live/beinsporthaber.m3u8
 
 #EXTINF:-1" group-title="SPORT",Türkmenistan Sport
 http://217.174.225.146/legacyhls/ch004_400/index.m3u8
@@ -2119,6 +2133,12 @@ http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b2169344.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="USA",CNN International
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="USA", Akaku 53 (Hawaii)
+https://akaku.vod.castus.tv/live/ch1.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="USA", Akaku 54 (Hawaii)
+https://akaku.vod.castus.tv/live/ch2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="USA", Akaku 55 (Hawaii)
+https://akaku.vod.castus.tv/live/ch3.m3u8
 #EXTINF:-1 tvg-name="Newsy" tvg-id="Newsy" tvg-logo="https://i.imgur.com/Otw0sN1.png" group-title="USA",Newsy 
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 #EXTINF:-1 tvg-id="" nome-tvg="" tvg-lingua="Inglese" tvg-logo="https://i.imgur.com/Bj37ZMY.png" tvg-country="US" tvg-url="" group-title="USA",CTN 
@@ -2401,7 +2421,7 @@ http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/ARTE.fr.png" group-title="Vari",Arte Français
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/artelive-18512/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="Vari",Gulli
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/index.m3u8
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 #EXTINF:-1" group-title="Vari",TV5Monde 
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1" group-title="Vari", tv,stile TV5 
