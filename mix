@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="TOP ITALIA",[COLOR lime]---LAST UPDATE 06/01/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 06/01/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="Canali RAI",RAI 1
@@ -68,7 +68,7 @@ https://www.mytivu.it/Application/Channels/TV8.php
 https://www.mytivu.it/Application/Channels/Cielo.php
 #EXTINF:-1 tvg-id="" tvg-name="Sky TG 24" " group-title="RSI DISCOVERY e SKY",Sky TG 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
-#EXTINF:-1" group-title="DISCOVERY e SKY",Sky sport 24 
+#EXTINF:-1" group-title="RSI DISCOVERY e SKY",Sky sport 24 
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 #EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Nove.png" group-title="RSI DISCOVERY e SKY",Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
@@ -147,25 +147,25 @@ http://89.163.224.48:8000/kJctUlB50Z/Sn3Bik7Dy1/296703
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italian-fishing-tv.jpg" group-title="TOP ITALIA",Italian Fishing TV 
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="biketv.it" tvg-name="Supertennis" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/BikeTv.png" group-title="Sport",Bike TV
+#EXTINF:-1 tvg-id="biketv.it" tvg-name="Supertennis" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/BikeTv.png" group-title="TOP ITALIA",Bike TV
 https://it.fms2.premio.link/bike/index.m3u8
-#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia MOTORI" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Go-Tv.png" group-title="Sport", Go-Tv
+#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia MOTORI" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Go-Tv.png" group-title="TOP ITALIA", Go-Tv
 https://play.cdn.enetres.net/79CE6A0C6AF94F7EB0F93BD0DE2949EF029/02116/playlist.m3u8
-#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Supertennis" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Supertennis.png" group-title="Sport",Supertennis HD
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Supertennis" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Supertennis.png" group-title="TOP ITALIA",Supertennis HD
 https://streamcdnm19-33796764e4294a99a78b7b8b8239c0e2.msvdn.net/fitdefault/d4647546-f787-4cd1-a0a1-9d9c492c5bc0/f60ccca6-cca6-4bf8-b65d-47ceb9b3bbe9.ism/manifest(format=m3u8-aapl)
-#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia HD Plus" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/SportitaliaHD.png" group-title="Sport",Sport Italia HD 
+#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia HD Plus" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/SportitaliaHD.png" group-title="TOP ITALIA",Sport Italia HD 
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd_480p/playlist.m3u8
-#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia 24 LIVE" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/SportitaliaLive24.png" group-title="Sport",Sport Italia 24 LIVE
+#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia 24 LIVE" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/SportitaliaLive24.png" group-title="TOP ITALIA",Sport Italia 24 LIVE
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia CALCIO" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/SportitaliaSoloCalcio.png" group-title="Sport",Sport Italia  CALCIO
+#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia CALCIO" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/SportitaliaSoloCalcio.png" group-title="TOP ITALIA",Sport Italia  CALCIO
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia MOTORI" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/SportitaliaMotori.png" group-title="Sport",Sport Italia MOTORI
+#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia MOTORI" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/SportitaliaMotori.png" group-title="TOP ITALIA",Sport Italia MOTORI
 https://di-j5ubq4zi.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia MOTORI" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/TopCalcio.png" group-title="Sport",Top Calcio
+#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia MOTORI" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/TopCalcio.png" group-title="TOP ITALIA",Top Calcio
 https://www.youtube.com/watch?v=TJDc7BbqLMU
-#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia MOTORI" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/TopPlanet.png" group-title="Sport",Top Planet
+#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia MOTORI" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/TopPlanet.png" group-title="TOP ITALIA",Top Planet
 https://www.youtube.com/watch?v=FgXxo7yebBY
-#EXTINF:-1 tvg-id="7gold.it" tvg-name="7Gold" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/7Gold.jpg" group-title="Sport",7 Gold
+#EXTINF:-1 tvg-id="7gold.it" tvg-name="7Gold" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/7Gold.jpg" group-title="TOP ITALIA",7 Gold
 https://stream3.xdevel.com/video0s86-368/stream/playlist_dvr.m3u8
 
 
@@ -237,18 +237,20 @@ https://01.celinel.com/telefriuli/telefriuli/chunklist_w313797153.m3u8
 http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w1388066579.m3u8
 #EXTINF:-1 tvg-name="Tele Romagna" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/TELEROMAGNA.png" tvg-shift="0" group-title="TOP ITALIA",Tele Romagna
 http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/etv-rete7.png" group-title="TOP ITALIA",ETV Rete7
+https://live.ipstream.it/etv/etv.stream/chunklist_w802107428.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rete-8-vga.jpg" group-title="TOP ITALIA",Rete 8 Vga
+https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/chunklist_w1253716399.m3u8
 #EXTINF:-1 tvg-name="TRC Santeramo" tvg-logo="https://www.tvdream.net/immagini/trc-santeramo.jpg " tvg-shift="0" group-title="TOP ITALIA",TRC SanterNo
 https://59d7d6f47d7fc.streamlock.net/trc/trc/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telegranducato.png" group-title="TOP ITALIA",TeleGranducato
-https://www.granducatotv.eu/tv/granducato/hls/index.flashls.m3u8.php?cid=0&m3u8=.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telesandomenico-tsd-tv-arezzo.png" group-title="TOP ITALIA",TeleSanDomenico (TSD TV Arezzo)
-https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/mono.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-tricolore.png" group-title="TOP ITALIA",Tele Tricolore
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telestense.png" group-title="TOP ITALIA",Telestense
+https://5e73cf528f404.streamlock.net/TeleEstense/livestream/chunklist_w530758405.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telecentro-2.png" group-title="TOP ITALIA",Telecentro 2
 https://tivustream.website/urls/telecentro2
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/teletruria.png" group-title="TOP ITALIA",Teletruria
-https://iframe.dacast.com/b/142183/c/514662
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/televaldarno-rtv38.png" group-title="TOP ITALIA",Televaldarno RTV38
-https://streamcdng69-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/live/S54697960/CXHH7K39hg9K/chunklist_b2414610_DVR.m3u8
+http://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/live/S12268608/CXHH7K39hg9K/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-M8cLGVaWdCw/YMIXLJRrCzI/AAAAAAAAABc/SfK2B2BR1kAT7EvLprdpDDK4ssLxLrD3gCK4BGAYYCw/s1600/Iunior_TV-940%2Bx%2B335.png" tvg-shift="0" group-title="TOP ITALIA",Iunior Tv
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2rr827OYMVc/YMHyInS64mI/AAAAAAAAACU/2h1u3d3XcT8WoQXOCZsF4G0IrI-jBr8MgCK4BGAYYCw/s1600/EURO%2BTV-LOGO-960.png" tvg-shift="0" group-title="TOP ITALIA",Euro Tv
