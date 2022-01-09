@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 06/01/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 09/01/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="Canali RAI",RAI 1
@@ -189,10 +189,6 @@ https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
 https://585b674743bbb.streamlock.net/9060/9060/playlist.m3u8
 #EXTINF:-1 nome-tvg="Tele Color Lombardia" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/gelecollor.jpg" tvg-shift="0" group-title="TOP ITALIA",Tele Color Lombardia 
 http://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8
-#EXTINF:-1 tvg-name="Azzurra Tv Vco" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/AzzurraTV.png" tvg-shift="0" group-title="TOP ITALIA",Azzurra Tv Vco
-http://sb.top-ix.org:1935/avtvlive/streaming/chunklist_w1605488247.m3u8
-#EXTINF:-1 tvg-name="Primocanale" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/primocanale.png" tvg-shift="0" group-title="TOP ITALIA",Primocanale Genova
-https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Top Calcio 24" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-top-calcio-24-7160-300x225.jpg" tvg-shift="0" group-title="TOP ITALIA",Top Calcio 24
 https://bit.ly/38QRMom
 #EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/vallassina.png" tvg-name="Televallassina" group-title="TOP ITALIA",Televallassina
@@ -235,6 +231,29 @@ http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
 https://01.celinel.com/telefriuli/telefriuli/chunklist_w313797153.m3u8
 #EXTINF:-1 nome-tvg="Tele Quattro Trieste" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/Tele_Quattro.png" tvg-shift="0" group-title="TOP ITALIA",Tele Quattro Trieste 
 http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w1388066579.m3u8
+
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/grp-televisione.jpg" group-title="TOP ITALIA",GRP Televisione
+https://5cbd3bc28341f.streamlock.net:444/grp/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/primantenna.png" group-title="TOP ITALIA",Primantenna
+https://585b674743bbb.streamlock.net/9062/9062/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rete-biella.png" group-title="TOP ITALIA",Rete Biella
+https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telecupole.png" group-title="TOP ITALIA",TeleCupole
+http://live.livevideosolution.it/telecupole/dd6d85e5b7452f7b85a099509292b421.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telegranda.png" group-title="TOP ITALIA",Telegranda
+http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/video-novara.png" group-title="TOP ITALIA",Video Novara
+http://sb.top-ix.org/avtv04/_definst_/streaming/playlist.m3u8
+#EXTINF:-1 tvg-name="Azzurra Tv Vco" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/AzzurraTV.png" tvg-shift="0" group-title="TOP ITALIA",Azzurra Tv Vco
+http://sb.top-ix.org:1935/avtvlive/streaming/chunklist_w1605488247.m3u8
+#EXTINF:-1 tvg-name="Primocanale" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/primocanale.png" tvg-shift="0" group-title="TOP ITALIA",Primocanale Genova
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telegenova.png" group-title="TOP ITALIA",TeleGenova
+https://5db313b643fd8.streamlock.net/Telegenova/Telegenova/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telenord.png" group-title="TOP ITALIA",Telenord
+https://5db313b643fd8.streamlock.net/Telenord/Telenord/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-liguria-sud.png" group-title="Liguria",Tele Liguria Sud
+https://live.teleliguriasud.it/hls/tls/index.m3u8
 #EXTINF:-1 tvg-name="Tele Romagna" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/TELEROMAGNA.png" tvg-shift="0" group-title="TOP ITALIA",Tele Romagna
 http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/etv-rete7.png" group-title="TOP ITALIA",ETV Rete7
@@ -251,6 +270,30 @@ https://5e73cf528f404.streamlock.net/TeleEstense/livestream/chunklist_w530758405
 https://tivustream.website/urls/telecentro2
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/televaldarno-rtv38.png" group-title="TOP ITALIA",Televaldarno RTV38
 http://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/live/S12268608/CXHH7K39hg9K/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/teletibur.png" group-title="TOP ITALIA",TeleTibur
+https://57068da1deb21.streamlock.net/teletibur/teletibur/chunklist_w1505891546.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-roma-1-teleromauno.png" group-title="TOP ITALIA",Tele Roma 1 (TeleRomaUno)
+https://flash2.xdevel.com/teleromauno/teleromauno/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/teleuniverso-mb4w8ab4fxik.png" group-title="TOP ITALIA",Teleuniverso
+https://media.velcom.it:19360/teleuniverso/teleuniverso.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rete-oro.png" group-title="TOP ITALIA",Rete Oro
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-21-extra-lazio.png" group-title="TOP ITALIA",Canale 21 Extra (Lazio)
+https://stream.mariatvcdn.com/canaleventunodue/61d14e72c90980498c9d7cee64fde847.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-21-campania.png" group-title="TOP ITALIA",Canale 21 Campania
+https://stream.mariatvcdn.com/canaleventuno/f5d2060b3682e0dfffd5b2f18e935ad3.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/antenna-sud-13-96dimnqhx6un.jpg" group-title="TOP ITALIA",Antenna Sud 13
+https://streamlive13.arcapuglia.it:8080/live/antennasud/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/studio-100.png" group-title="TOP ITALIA",Studio 100
+http://wms.shared.streamshow.it:1935/studio100ta/studio100ta/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telebari.png" group-title="TOP ITALIA",TeleBari
+http://fl1.mediastreaming.it:1935/telebari/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/teleblu.png" group-title="TOP ITALIA",Teleblu
+https://58d921499d3d3.streamlock.net/Teleblu/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telefoggia.png" group-title="TOP ITALIA",Telefoggia
+http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w386788975.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telesveva.png" group-title="TOP ITALIA",Telesveva
+https://dc1.telesveva.erefresh.it:4443/hls/livetv/master.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-M8cLGVaWdCw/YMIXLJRrCzI/AAAAAAAAABc/SfK2B2BR1kAT7EvLprdpDDK4ssLxLrD3gCK4BGAYYCw/s1600/Iunior_TV-940%2Bx%2B335.png" tvg-shift="0" group-title="TOP ITALIA",Iunior Tv
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2rr827OYMVc/YMHyInS64mI/AAAAAAAAACU/2h1u3d3XcT8WoQXOCZsF4G0IrI-jBr8MgCK4BGAYYCw/s1600/EURO%2BTV-LOGO-960.png" tvg-shift="0" group-title="TOP ITALIA",Euro Tv
@@ -1332,6 +1375,14 @@ https://tivustream.website/urls/yuongtvallmusic
 https://tivustream.website/urls/zerounatvmusic
 
  
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="INT" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png" group-title="UK",BBC News (480p)
+http://www.filmon.com/vr-streams/27.high/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCOneScotland.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/BBC_One_Scotland_2021.png" group-title="UK",BBC One Scotland (480p)
+http://www.filmon.com/vr-streams/3166.high/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmonEroticSensations.us" tvg-country="INT" tvg-language="English" tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg" group-title="UK",Filmon Erotic Sensations (480p) [Not 24/7]
+https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmonFetishFactory.us" tvg-country="INT" tvg-language="English" tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg" group-title="UK",Filmon Fetish Factory (480p) [Not 24/7]
+https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-country="UK" tvg-language="English" tvg-logo="https://www.gbnews.uk/view-resources/dachser2/public/gbnews/logo.svg" group-title="UK",GB News (1080p)
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PBS America" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="UK",PBS America
@@ -1354,6 +1405,8 @@ https://uk.easyview.eu/hls/4seven.m3u8|Referer=https://easyview.eu/watch.php?str
 http://51.52.156.24:8888/http/007
 #EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-logo="" tvg-shift="0" group-title="UK", Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+#EXTINF:-1 tvg-id="VanityFair.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/KMUYfnz.jpg" group-title="UK",Vanity Fair (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvanityfair/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/SkyNews.uk.png" group-title="UK",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1 tvg-name="Sky News Extra" tvg-id="SkyNews.uk" group-title="UK" tvg-logo="https://i.imgur.com/vfqWSHv.png",Sky News Extra
@@ -1799,7 +1852,7 @@ https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
 #EXTINF:-1" group-title="Vari",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-1" group-title="Vari",TF1 opt. 2
-http://flusonic-4.platinum-tv.com/M6/mono.m3u8?token=test
+http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Vari",France 2 (720p)
 http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Vari",France 3 (720p)
