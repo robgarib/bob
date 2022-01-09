@@ -58,13 +58,13 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(la)/index
 http://89.163.224.48:8000/kJctUlB50Z/Sn3Bik7Dy1/296305
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="RSI DISCOVERY e SKY",RSI La2 HD
 http://89.163.224.48:8000/kJctUlB50Z/Sn3Bik7Dy1/296304
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="RSI DISCOVERY e SKY",RSI La1  OPT.2
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="RSI DISCOVERY e SKY",RSI La1
 http://190.2.155.162/RSI1/index.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2.png" group-title="RSI DISCOVERY e SKY",RSI La2  OPT.2
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2.png" group-title="RSI DISCOVERY e SKY",RSI La2
 http://190.2.155.162/RSI2/index.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="RSI DISCOVERY e SKY",RSI La1 OPT.3
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="RSI DISCOVERY e SKY",RSI La1
 http://188.155.8.185:3280/play/a03t/index.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2.png" group-title="RSI DISCOVERY e SKY",RSI La2 OPT.3
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2.png" group-title="RSI DISCOVERY e SKY",RSI La2
 http://188.155.8.185:3280/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="RSI DISCOVERY e SKY",TV8 
 https://www.mytivu.it/Application/Channels/TV8.php
@@ -256,7 +256,7 @@ https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 https://5db313b643fd8.streamlock.net/Telegenova/Telegenova/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telenord.png" group-title="TOP ITALIA",Telenord
 https://5db313b643fd8.streamlock.net/Telenord/Telenord/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-liguria-sud.png" group-title="Liguria",Tele Liguria Sud
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-liguria-sud.png" group-title="TOP ITALIA",Tele Liguria Sud
 https://live.teleliguriasud.it/hls/tls/index.m3u8
 #EXTINF:-1 tvg-name="Tele Romagna" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/TELEROMAGNA.png" tvg-shift="0" group-title="TOP ITALIA",Tele Romagna
 http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
@@ -272,10 +272,8 @@ https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
 https://5e73cf528f404.streamlock.net/TeleEstense/livestream/chunklist_w530758405.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telecentro-2.png" group-title="TOP ITALIA",Telecentro 2
 https://tivustream.website/urls/telecentro2
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/televaldarno-rtv38.png" group-
-title="TOP ITALIA",Televaldarno RTV38
-https://streamcdng69-
-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/live/S54697960/CXHH7K39hg9K/chunklist_b2414610_DVR.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/televaldarno-rtv38.png" group-title="Toscana",Televaldarno RTV38
+https://streamcdng69-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/live/S54697960/CXHH7K39hg9K/chunklist_b2414610_DVR.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/teletibur.png" group-title="TOP ITALIA",TeleTibur
 https://57068da1deb21.streamlock.net/teletibur/teletibur/chunklist_w1505891546.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-roma-1-teleromauno.png" group-title="TOP ITALIA",Tele Roma 1 (TeleRomaUno)
@@ -1598,7 +1596,7 @@ https://lnc-wtvt-fox-aws.tubi.video/index.m3u8
 https://lnc-kdfw-fox-aws.tubi.video/index.m3u8
 #EXTINF:-1 ch-id="" tvg-name="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG" group-title="USA",WYNY Fox 5 New York
 https://lnc-wnyw-fox-aws.tubi.video/index.m3u8
-#EXTINF:-1 tvg-id="KTTV.us" tvg-name="FOX 11 Los Angeles CA (KTTV)" tvg-country="US" tvg-language="English" tvg-logo="http://live-tv-channels.org/pt-data/uploads/logo/us-fox-11-los-angeles.jpg" group-title="News",FOX 11 Los Angeles CA (KTTV) (720p)
+#EXTINF:-1 tvg-id="KTTV.us" tvg-name="FOX 11 Los Angeles CA (KTTV)" tvg-country="US" tvg-language="English" tvg-logo="http://live-tv-channels.org/pt-data/uploads/logo/us-fox-11-los-angeles.jpg" group-title="USA",FOX 11 Los Angeles CA (KTTV) (720p)
 https://lnc-kttv-fox-aws.tubi.video/index.m3u8
 #EXTINF:-1 ch-id="" tvg-name="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG" group-title="USA",KTVU Fox 2 San Francisco
 https://lnc-ktvu-fox-aws.tubi.video/index.m3u8
