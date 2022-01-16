@@ -291,13 +291,14 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNatureEspanol.us" tvg-name="Love Nature Espanol" tvg-country="US" tvg-language="" tvg-logo="" group-title="BEST CHANNELS",Love Nature Espanol
 https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8?rdid=8f35210d-be26-5e0d-8c57-d0f910026ee7&coppa=false&is_lat=1&content=3dde60b40c0c56758a7c4bf81df47691&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",Travel XP
-EXTINF:-1,Accuweather
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,Accuweather
 https://accuweatherx-lg.amagi.tv/playlist.m3u8
-EXTINF:-1,DoveNow
+#EXTINF:-1,DoveNow
 https://cinedigm-dovenow-lg.amagi.tv/playlist.m3u8
-EXTINF:-1,Racing America
+#EXTINF:-1,Racing America
 https://racingamerica-lg.amagi.tv/playlist.m3u8
-EXTINF:-1,Redbox Holiday
+#EXTINF:-1,Redbox Holiday
 https://redbox-holiday-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Docs Channel" tvg-logo="https://i.imgur.com/peb9qn3.png" group-title="BEST CHANNELS",Docs Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
