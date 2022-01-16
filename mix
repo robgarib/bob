@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 15/01/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 16/01/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="Canali RAI",RAI 1
@@ -429,6 +429,10 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf221fad5eeee0f5a40941c/
 #EXTINF:-1 tvg-name="Action Sports 4U" tvg-id="" group-title="SPORT" tvg-logo="https://i.imgur.com/K2XHhWW.png",Action Sports 4U
 https://nimble.dashstreams.net/onestudio/actionsportstv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-country="TM" tvg-language="Turkmen" tvg-logo="" group-title="SPORT",Türkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-country="TM" tvg-language="Turkmen" tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg" group-title="SPORT",Türkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1" group-title="SPORT",SPORT TV_1 PT
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1" group-title="SPORT",SPORT TV_2 PT
@@ -1688,6 +1692,10 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/192
 https://rpn1.bozztv.com/36bay2/gusa-tvstravel/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="TRAVEL",Travel XP gb
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-country="eur" tvg-logo="https://images.iptvmate.net/playlists/9329.jpg" group-title="TRAVEL",Travel Guid-TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="eur" tvg-logo="https://images.iptvmate.net/playlists/9330.jpg" group-title="TRAVEL",Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8?source:iptvmate.net
 #EXTINF:-1 tvg-id="STIRR Travel" tvg-name="STIRR Travel" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/2adc9fb0 -a8dd-4fc4-ac6e-9287f54c37e9-small3x1_STIRR_Logo_0320_STIRRTravel_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="TRAVEL",STIRR Travel 
 https://dai.google.com/linear/hls/event/0ZXyCbn9TYmrrAzcDfoU1w/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="TRAVEL",Redbox | Go Traveler
