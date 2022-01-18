@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 17/01/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 18/01/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -125,10 +125,14 @@ https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
 https://b87f4ca7d206491eb1e66c08df063cf7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Motor1TV/playlist.m3u8
 #EXTINF:-1 tvg-id="biketv.it" tvg-name="Supertennis" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/BikeTv.png" group-title="TOP ITALIA",Bike TV
 https://it.fms2.premio.link/bike/index.m3u8
+#EXTINF:-1 tvg-name="BandW Rally Tv" tvg-logo="https://www.bandw.tv/wp-content/uploads/2016/05/nuovo-logo-2.png" tvg-shift="0" group-title="TOP ITALIA",BandW Rally Tv 
+https://59d8c0cee6f3d.streamlock.net/bandw/bandw/playlist.m3u8
+#EXTINF:-1 tvg-name="Bici Tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bf2d1e64-c29b-4a47-b1cd-577bb4cfa56c-profile_image-300x300.png" tvg-shift="0" group-title="TOP ITALIA",Bici Tv
+https://tivustream.website/urls/bicitv
 #EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia MOTORI" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Go-Tv.png" group-title="TOP ITALIA", Go-Tv
 https://play.cdn.enetres.net/79CE6A0C6AF94F7EB0F93BD0DE2949EF029/02116/playlist.m3u8
-#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Supertennis" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Supertennis.png" group-title="TOP ITALIA",Supertennis HD
-https://streamcdnm19-33796764e4294a99a78b7b8b8239c0e2.msvdn.net/fitdefault/d4647546-f787-4cd1-a0a1-9d9c492c5bc0/f60ccca6-cca6-4bf8-b65d-47ceb9b3bbe9.ism/manifest(format=m3u8-aapl)
+#EXTINF:-1 tvg-name="TMW Radio Tv" tvg-logo="https://i2.wp.com/www.fm-world.it/data/uploads/2020/01/tmw2.png?resize=810%2C446&ssl=1" tvg-shift="0" group-title="TOP ITALIA",TMW Radio Tv
+https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia HD Plus" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/SportitaliaHD.png" group-title="TOP ITALIA",Sport Italia HD 
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd_480p/playlist.m3u8
 #EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia 24 LIVE" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/SportitaliaLive24.png" group-title="TOP ITALIA",Sport Italia 24 LIVE
@@ -141,8 +145,8 @@ https://di-j5ubq4zi.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
 https://tivustream.website/urls/topcal24
 #EXTINF:-1 tvg-name="Top Planet" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-top-planet-4137.jpg" tvg-shift="0" group-title="TOP ITALIA",Top Planet
 https://tivustream.website/urls/toppla
-#EXTINF:-1 tvg-id="7gold.it" tvg-name="7Gold" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/7Gold.jpg" group-title="TOP ITALIA",7 Gold
-https://stream3.xdevel.com/video0s86-368/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/7-gold.jpg" group-title="TOP ITALIA",7 Gold
+https://stream6.xdevel.com/video0s86-1159/stream/playlist.m3u8
 #EXTINF:-1 group-title="TOP ITALIA",Radio 24
 https://tivustream.website/urls/radio24
 #EXTINF:-1 " group-title="TOP ITALIA",Tg Norba 24
@@ -151,8 +155,6 @@ http://37.48.83.34:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 " group-title="TOP ITALIA",Giornale Radio Tv
 https://5db313b643fd8.streamlock.net:443/GiornaleRadioTelevision/GiornaleRadioTelevision/playlist.m3u8
-#EXTINF:-1 tvg-name="7Gold Telerent HD" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/7G.jpg" tvg-shift="0" group-title="TOP ITALIA",7Gold
-https://stream2.xdevel.com/video0s86-21/stream/playlist_dvr.m3u8
 #EXTINF:-1 nome-tvg="Rete 55" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/Rete_55.png" tvg-shift="0" group-title="TOP ITALIA",Rete 55 
 https://stream.internet.one/Rete55_Live/index.m3u8
 #EXTINF:-1 tvg-name="Bergamo Tv" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/bergamotv.png" tvg-shift="0"  group-title="TOP ITALIA",Bergamo TV
@@ -163,8 +165,6 @@ https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
 https://585b674743bbb.streamlock.net/9060/9060/playlist.m3u8
 #EXTINF:-1 nome-tvg="Tele Color Lombardia" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/gelecollor.jpg" tvg-shift="0" group-title="TOP ITALIA",Tele Color Lombardia 
 http://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8
-#EXTINF:-1 tvg-name="Top Calcio 24" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-top-calcio-24-7160-300x225.jpg" tvg-shift="0" group-title="TOP ITALIA",Top Calcio 24
-https://bit.ly/38QRMom
 #EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/vallassina.png" tvg-name="Televallassina" group-title="TOP ITALIA",Televallassina
 http://tivustream.website/urls/televallassina
 #EXTINF:-1 nome-tvg="Tsn Lecco" tvg-logo="https://i.postimg.cc/Bb8VDP12/index.jpg" tvg-shift="0" group-title="TOP ITALIA",Tsn Lecco 
@@ -2126,9 +2126,7 @@ https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Vari",=== Vari ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
-#EXTINF:-1" group-title="Vari",TF1
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1" group-title="Vari",TF1 opt. 2
+#EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/CJAbJfM.png" group-title="Vari",TF1 (720p)
 http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Vari",France 2 (720p)
 http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
@@ -2138,10 +2136,10 @@ http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
 http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Vari",France 5 (720p)
 http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Vari",M6 (1080p)
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Vari",M6
 http://flusonic-4.platinum-tv.com/M6/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Vari",M6
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="Vari",RTS Couleur 3
 https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8
 #EXTINF:-1" group-title="Vari",TF1 Séries Films
