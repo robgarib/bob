@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 18/01/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 24/01/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -34,28 +34,50 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/27-twentyseven.jpg" group-title="Canali Mediaset ",27 Twentyseven
 https://link.theplatform.eu/s/PR1GhC/8mtpuuCsiuad
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/27-twentyseven.jpg" group-title="Canali Mediaset ",27 Twentyseven Opz 2
+https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-5-3lle0v8ngp9r.png" group-title="Canali Mediaset ",Canale 5
 https://link.theplatform.eu/s/PR1GhC/JscuIvoRoMUt
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-5-3lle0v8ngp9r.png" group-title="Canali Mediaset ",Canale 5 Opz 2
+https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(c5)/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/cine-34-n1ul1ub5ggdf.png" group-title="Canali Mediaset ",Cine 34
 https://link.theplatform.eu/s/PR1GhC/onucBH4eTsDP
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/cine-34-n1ul1ub5ggdf.png" group-title="Canali Mediaset ",Cine 34 Opz 2
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/focus-retv97626si2.png" group-title="Canali Mediaset ",Focus
 https://link.theplatform.eu/s/PR1GhC/zGuRrwj2Zi_Y
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/focus-retv97626si2.png" group-title="Canali Mediaset ",Focus Opz 2
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/iris-esdu6qx5lwgz.png" group-title="Canali Mediaset ",Iris
 https://link.theplatform.eu/s/PR1GhC/kpsIaXwlaLcX
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/iris-esdu6qx5lwgz.png" group-title="Canali Mediaset ",Iris Opz 2
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italia-1-mqv4qqe3s55q.png" group-title="Canali Mediaset ",Italia 1 
 https://link.theplatform.eu/s/PR1GhC/99kZxoGGRpGy
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italia-1-mqv4qqe3s55q.png" group-title="Canali Mediaset ",Italia 1 Opz 2
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italia-2-3k4y9ky8oj8f.png" group-title="Canali Mediaset ",Italia 2 
 https://link.theplatform.eu/s/PR1GhC/H8xOlfUecky8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italia-2-3k4y9ky8oj8f.png" group-title="Canali Mediaset ",Italia 2 Opz 2
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la-5-muo09g2msfvb.png" group-title="Canali Mediaset ",La 5
 https://link.theplatform.eu/s/PR1GhC/e2pGSqVwoZlg
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la-5-muo09g2msfvb.png" group-title="Canali Mediaset ",La 5 Opz 2
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/mediaset-20.png" group-title="Canali Mediaset ",Mediaset 20
 https://link.theplatform.eu/s/PR1GhC/Vwn_AklA6gwQ
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/mediaset-extra-pinz1jwpnlj3.png" group-title="Canali Mediaset ",Mediaset Extra
 https://link.theplatform.eu/s/PR1GhC/TPLnrGYwjROh
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/mediaset-extra-pinz1jwpnlj3.png" group-title="Canali Mediaset ",Mediaset Extra Opz 2
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rete-4-5i5i8lcwinzn.png" group-title="Canali Mediaset ",Rete 4
 https://link.theplatform.eu/s/PR1GhC/kFE4DvC7iR3B
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rete-4-5i5i8lcwinzn.png" group-title="Canali Mediaset ",Rete 4 Opz 2
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/top-crime-s4a5ci5m7mkd.png" group-title="Canali Mediaset ",Top Crime
 https://link.theplatform.eu/s/PR1GhC/kNAbXXKwWGCk
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/top-crime-s4a5ci5m7mkd.png" group-title="Canali Mediaset ",Top Crime Opz 2
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="RSI DISCOVERY e SKY",=== RSI DISCOVERY e SKY===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -71,6 +93,14 @@ http://190.2.155.162/RSI2/index.m3u8
 http://188.155.8.185:3280/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2.png" group-title="RSI DISCOVERY e SKY",RSI La2
 http://188.155.8.185:3280/play/a03u/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="RSI DISCOVERY e SKY",SRF1
+http://190.2.155.162/SRF1/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="RSI DISCOVERY e SKY",SRF2
+http://190.2.155.162/SRF1/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="RSI DISCOVERY e SKY",RTS1
+http://190.2.155.162/RTS1/index.m3u8
+##EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="RSI DISCOVERY e SKY",RTS2
+http://190.2.155.162/RTS2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="RSI DISCOVERY e SKY",TV8 
 https://www.mytivu.it/Application/Channels/TV8.php
 #EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Nove.png" group-title="RSI DISCOVERY e SKY",Nove
@@ -303,13 +333,23 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8?rdid=8f35210d-be26-5e0d-8c57-d0f910026ee7&coppa=false&is_lat=1&content=3dde60b40c0c56758a7c4bf81df47691&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Accuweather
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",ISS High Definition Live Streaming Video of the Earth (HDEV)
+https://ustream.tv/channel/17074538
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",ISS High Definition Live Streaming Video of the Earth (HDEV) Embed
+https://ustream.tv/embed/17074538
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",Nasa tv
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",DISCOVERY (FRA)
+http://190.2.155.162/discoverychannel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",DISCOVERY SCIENCE (FRA)
+http://190.2.155.162/discoveryscience/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",Accuweather
 https://accuweatherx-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1,DoveNow
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",DoveNow
 https://cinedigm-dovenow-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1,Racing America
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",Racing America
 https://racingamerica-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1,Redbox Holiday
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",Redbox Holiday
 https://redbox-holiday-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Docs Channel" tvg-logo="https://i.imgur.com/peb9qn3.png" group-title="BEST CHANNELS",Docs Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
@@ -981,11 +1021,26 @@ https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(b3)/index
 https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(b4)/index.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="MUSICA",=== MUSICA ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSICA",OttO Fm Tv
 http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSICA",MTV HIT (FRA)
+http://190.2.155.162:8080/mtvhit/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSICA",M6 MUSIC (FRA)
+http://190.2.155.162:8080/m6music/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSICA",MTV (FRA)
+http://190.2.155.162:8080/mtvfrance/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSICA",MCM (FRA)
+http://190.2.155.162:8080/mcm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSICA",MTV 80s
+http://50.7.231.221:8081/174/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSICA",MTV 90s
+http://50.7.231.221:8081/207/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSICA",MTV 00s
+http://50.7.231.221:8081/175/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSICA",NOW 80
+http://84.200.70.178:4542/bysid/50306
 #EXTINF:-1 tvg-id="PlutoTVVH1IClassic.us" tvg-name="Pluto TV VH1 Classics" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="MUSICA",VH1 Classics
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-ID="PLEX.TV.Loop.80's" tvg-name="Loop 80's" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-80s.png" group-title="MUSICA",Loop 80's
@@ -2166,6 +2221,14 @@ http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/artelive-18512/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="Vari",Gulli
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+#EXTINF:-1" group-title="Vari",TV5 MONDE Europe
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1" group-title="Vari",TV5 MONDE Europe
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/04.m3u8
+#EXTINF:-1" group-title="Vari",TV5 MONDE Europe
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/07.m3u8
+#EXTINF:-1" group-title="Vari",TV5 MONDE Info
+https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 #EXTINF:-1" group-title="Vari",TV5Monde 
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1" group-title="Vari", tv,stile TV5 
