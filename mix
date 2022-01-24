@@ -93,14 +93,16 @@ http://190.2.155.162/RSI2/index.m3u8
 http://188.155.8.185:3280/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2.png" group-title="RSI DISCOVERY e SKY",RSI La2
 http://188.155.8.185:3280/play/a03u/index.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="RSI DISCOVERY e SKY",SRF1
+#EXTINF:-1 " group-title="RSI DISCOVERY e SKY",SRF1
 http://190.2.155.162/SRF1/index.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="RSI DISCOVERY e SKY",SRF2
+#EXTINF:-1 " group-title="RSI DISCOVERY e SKY",SRF2
 http://190.2.155.162/SRF1/index.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="RSI DISCOVERY e SKY",RTS1
+#EXTINF:-1 " group-title="RSI DISCOVERY e SKY",RTS1
 http://190.2.155.162/RTS1/index.m3u8
-##EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="RSI DISCOVERY e SKY",RTS2
+##EXTINF:-1 " group-title="RSI DISCOVERY e SKY",RTS2
 http://190.2.155.162/RTS2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="RSI DISCOVERY e SKY",RTS Couleur 3
+https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="RSI DISCOVERY e SKY",TV8 
 https://www.mytivu.it/Application/Channels/TV8.php
 #EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Nove.png" group-title="RSI DISCOVERY e SKY",Nove
@@ -333,23 +335,23 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8?rdid=8f35210d-be26-5e0d-8c57-d0f910026ee7&coppa=false&is_lat=1&content=3dde60b40c0c56758a7c4bf81df47691&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",ISS High Definition Live Streaming Video of the Earth (HDEV)
+#EXTINF:-1 " group-title="BEST CHANNELS",ISS High Definition Live Streaming Video of the Earth (HDEV)
 https://ustream.tv/channel/17074538
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",ISS High Definition Live Streaming Video of the Earth (HDEV) Embed
+#EXTINF:-1 " group-title="BEST CHANNELS",ISS High Definition Live Streaming Video of the Earth (HDEV) Embed
 https://ustream.tv/embed/17074538
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",Nasa tv
+#EXTINF:-1 " group-title="BEST CHANNELS",Nasa tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",DISCOVERY (FRA)
+#EXTINF:-1 " group-title="BEST CHANNELS",DISCOVERY (FRA)
 http://190.2.155.162/discoverychannel/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",DISCOVERY SCIENCE (FRA)
+#EXTINF:-1 " group-title="BEST CHANNELS",DISCOVERY SCIENCE (FRA)
 http://190.2.155.162/discoveryscience/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",Accuweather
+#EXTINF:-1 " group-title="BEST CHANNELS",Accuweather
 https://accuweatherx-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",DoveNow
+#EXTINF:-1 " group-title="BEST CHANNELS",DoveNow
 https://cinedigm-dovenow-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",Racing America
+#EXTINF:-1 " group-title="BEST CHANNELS",Racing America
 https://racingamerica-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",Redbox Holiday
+#EXTINF:-1 " group-title="BEST CHANNELS",Redbox Holiday
 https://redbox-holiday-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Docs Channel" tvg-logo="https://i.imgur.com/peb9qn3.png" group-title="BEST CHANNELS",Docs Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
@@ -2009,8 +2011,6 @@ http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Vari",M6
 http://flusonic-4.platinum-tv.com/M6/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="Vari",RTS Couleur 3
-https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8
 #EXTINF:-1" group-title="Vari",TF1 Séries Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:-1" group-title="Vari",TFX
