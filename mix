@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 24/01/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 25/01/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -165,7 +165,7 @@ https://tivustream.website/urls/bicitv
 https://play.cdn.enetres.net/79CE6A0C6AF94F7EB0F93BD0DE2949EF029/02116/playlist.m3u8
 #EXTINF:-1 tvg-name="TMW Radio Tv" tvg-logo="https://i2.wp.com/www.fm-world.it/data/uploads/2020/01/tmw2.png?resize=810%2C446&ssl=1" tvg-shift="0" group-title="TOP ITALIA",TMW Radio Tv
 https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia.png" group-title="TOP ITALIA ",SportItalia
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia.png" group-title="TOP ITALIA",SportItalia
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/si-live-24.jpg" tvg-shift="0" group-title="TOP ITALIA",Sport Italia Live 24
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/chunklist_b3096000.m3u8
@@ -223,6 +223,8 @@ https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
 #EXTINF:-1 nome-tvg="Video 33" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/video33.jpg" tvg-shift="0" group-title="TOP ITALIA",Video 33 Alto Adige 
 http://livestream.goinfo.it/V33Live/v33ros/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telepace-trento-rbfvmw5kpoag.png" group-title="TOP ITALIA",TelePace Trento
+https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
 #EXTINF:-1 nome-tvg="Antenna 3 Veneto Nord Est" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/a3.gif" tvg-shift="0" group-title="TOP ITALIA",Antenna 3 Veneto Nord Est 
 https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
 #EXTINF:-1 nome-tvg="Rete Veneta" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/ReteVeneta.png" tvg-shift="0" group-title="TOP ITALIA",Rete Veneta 
@@ -274,7 +276,7 @@ https://5e73cf528f404.streamlock.net/TeleEstense/livestream/chunklist_w530758405
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telecentro-2.png" group-title="TOP ITALIA",Telecentro 2
 https://tivustream.website/urls/telecentro2
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/televaldarno-rtv38.png" group-title="TOP ITALIA",Televaldarno RTV38
-https://streamcdng69-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/live/S54697960/CXHH7K39hg9K/chunklist_b2414610_DVR.m3u8
+https://streamcdng69-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/live/S54697960/CXHH7K39hg9K/chunklist_b2338155_DVR.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/teletibur.png" group-title="TOP ITALIA",TeleTibur
 https://57068da1deb21.streamlock.net/teletibur/teletibur/chunklist_w1505891546.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-roma-1-teleromauno.png" group-title="TOP ITALIA",Tele Roma 1 (TeleRomaUno)
@@ -335,12 +337,10 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8?rdid=8f35210d-be26-5e0d-8c57-d0f910026ee7&coppa=false&is_lat=1&content=3dde60b40c0c56758a7c4bf81df47691&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 " group-title="BEST CHANNELS",ISS High Definition Live Streaming Video of the Earth (HDEV)
-https://ustream.tv/channel/17074538
-#EXTINF:-1 " group-title="BEST CHANNELS",ISS High Definition Live Streaming Video of the Earth (HDEV) Embed
-https://ustream.tv/embed/17074538
 #EXTINF:-1 " group-title="BEST CHANNELS",Nasa tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-country="US" tvg-language="" tvg-logo="" group-title="TRAVEL",Travel Channel
+https://cdn1.mobiletv.bg/T5/travel_channel/travel_channel_794613_850k.m3u8
 #EXTINF:-1 " group-title="BEST CHANNELS",DISCOVERY (FRA)
 http://190.2.155.162/discoverychannel/index.m3u8
 #EXTINF:-1 " group-title="BEST CHANNELS",DISCOVERY SCIENCE (FRA)
@@ -361,10 +361,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c01b1953680139c6
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=681&deviceId=589aa03df9ba56a84197a560&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/BYNg7Wk.png" tvg-country="US" tvg-url="" group-title="BEST CHANNELS",Outdoor America
 https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
-#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-country="US" tvg-language="" tvg-logo="" group-title="BEST CHANNELS",Travel Channel
-https://cdn1.mobiletv.bg/T5/travel_channel/travel_channel_794613_850k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",WildEarth
-https://wildearth-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/wildearth.png" group-title="BEST CHANNELS",WildEarth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-name="Tastemade Travel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="BEST CHANNELS",Tastemade Travel (720p)
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Naturescape" tvg-logo="https://i.imgur.com/sw1LtJ4.png" group-title="BEST CHANNELS",Stingray Naturescape
@@ -536,6 +534,8 @@ https://1c22f8b96aa546b6b49261186cf7b8e5.mediatailor.us-east-1.amazonaws.com/v1/
 https://e6f8d6cbe502460789c86d3ba5327c64.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_FuelTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/giornale-radio.png" group-title="Samsung Channels ",Giornale Radio
 https://d2objm2dlouur1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z33qeimgfowbx-prod/giornaleradio/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/got-game.png" group-title="Samsung Channels ",Got Game
+https://21ac05357c4b4baaac719909e5245319.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_GotGame/playlist.m3u8?ads.wurl_channel=1059&ads.wurl_name=GotGame&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/humanity.png" group-title="Samsung Channels ",Humanity
 https://402ea00f17944469aa53b837429aaacc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Humanity/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italian-fishing-tv.jpg" group-title="Samsung Channels ",Italian Fishing TV
@@ -618,7 +618,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-sam
 https://974af218bde94c20be135ae1375e2018.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_WorldPokerTour/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/yamato-video-animation.png" group-title="Samsung Channels ",Yamato Video Animation
 https://4e2e58758a334de4b01b25ab2e5f89c7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_YamatoAnimation/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="SPORT",=== SPORT ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1" group-title="SPORT",Sky sport 24 
@@ -631,7 +630,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
 http://live.sport2u.tv:1935/EvoLive/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Top Calcio 24" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-top-calcio-24-7160-300x225.jpg" tvg-shift="0" group-title="SPORT",Top Calcio 24
 https://bit.ly/38QRMom
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia.png" group-title="SPORT ",SportItalia
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia.png" group-title="SPORT",SportItalia
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/si-live-24.jpg" tvg-shift="0" group-title="SPORT",Sport Italia Live 24
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/chunklist_b3096000.m3u8
@@ -1803,9 +1802,9 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8?rdid=8f35210d-be26-5e0d-8c57-d0f910026ee7&coppa=false&is_lat=1&content=3dde60b40c0c56758a7c4bf81df47691&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="TRAVEL",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-country="US" tvg-language="" tvg-logo="" group-title="TOP ITALIA",Travel Channel
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-country="US" tvg-language="" tvg-logo="" group-title="TRAVEL",Travel Channel
 https://cdn1.mobiletv.bg/T5/travel_channel/travel_channel_794613_850k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="TOP ITALIA",WildEarth
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="TRAVEL",WildEarth
 https://wildearth-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" nome-tvg="" tvg-language="" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="TRAVEL",STIRR 2020 LIVE 
 https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
