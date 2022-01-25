@@ -353,6 +353,10 @@ https://cinedigm-dovenow-lg.amagi.tv/playlist.m3u8
 https://racingamerica-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 " group-title="BEST CHANNELS",Redbox Holiday
 https://redbox-holiday-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 " group-title="BEST CHANNELS",BBC Travel (EU)
+https://bbceu-bbctravel-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 " group-title="BEST CHANNELS",BBC Food (EU)
+https://bbceu-food-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Docs Channel" tvg-logo="https://i.imgur.com/peb9qn3.png" group-title="BEST CHANNELS",Docs Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
 #EXTINF:-1 nome-tvg-"Pluto TV Travel" tvg-logo"https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="BEST CHANNELS",Pluto TV Travel 
