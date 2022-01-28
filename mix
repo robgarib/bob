@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 25/01/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 28/01/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -1048,29 +1048,23 @@ http://50.7.231.221:8081/175/index.m3u8?wmsAuthSign=okad
 http://84.200.70.178:4542/bysid/50306
 #EXTINF:-1 tvg-id="PlutoTVVH1IClassic.us" tvg-name="Pluto TV VH1 Classics" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="MUSICA",VH1 Classics
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-ID="PLEX.TV.Loop.80's" tvg-name="Loop 80's" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-80s.png" group-title="MUSICA",Loop 80's
-https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s/playlist.m3u8
-#EXTINF:-1 tvg-ID="PLEX.TV.Loop.90's" tvg-name="Loop 90's" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-90s.png" group-title="MUSICA",Loop 90's
-https://6eb959e10c2a4477a5b14100220c3c5f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop90s/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="MUSICA",Loop Party
-https://aa25f9002c724666a6e1e9402e78f94f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopParty/playlist.m3u8
-#EXTINF:-1 tvg-id="80sLoop.us" tvg-name="80s Loop" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jxY0QSw.png" group-title="MUSICA",80s Loop
-https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="80sParty.us" tvg-name="80s Party" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/MFbbITI.jpg" group-title="MUSICA",80s Party
-https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8
-#EXTINF:-1 tvg-id="80sRewind.us" tvg-name="80s Rewind" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png" group-title="MUSICA",80s Rewind
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="90sLoop.us" tvg-name="90s Loop" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jxY0QSw.png" group-title="MUSICA",90s Loop
-https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="90sThrowback.us" tvg-name="90s Throwback" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png" group-title="MUSICA",90s Throwback
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="MUSICA",Loop Hottest
-https://a0da9e6a83bc4a739ceb39f81766fce0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHottest/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="MUSICA",Loop Country
-https://053155d1274848ed85106dbf20adc283.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopCountry/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="MUSICA",Loop Hip-Hop
-https://5580b04771d94e5eb245830c5975eb77.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHipHop/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA", MTV Biggest Pop
+#EXTINF:-1 group-title="MUSICA",NOW70s
+http://51.154.28.81:2052/play/a083
+#EXTINF:-1 group-title="MUSICA",NOW80s
+http://51.154.28.81:2052/play/a05e
+#EXTINF:-1 group-title="MUSICA",NOW90s
+http://51.154.28.81:2052/play/a07k
+#EXTINF:-1 group-title="MUSICA",CLUBLAND
+http://51.154.28.81:2052/play/a07j
+#EXTINF:-1 group-title="MUSICA",BOX HITS
+http://51.154.28.81:2052/play/a05v
+#EXTINF:-1 group-title="MUSICA",KISS
+http://51.154.28.81:2052/play/a05w
+#EXTINF:-1 group-title="MUSICA",TRACE HITS
+http://51.154.28.81:2052/play/a09y
+#EXTINF:-1 group-title="MUSICA",TRACE VAULT
+http://51.154.28.81:2052/play/a0a1
+#EXTINF:-1 group-title="MUSICA",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/180px-MTV_Live_HD_2017_logo.svg.png" tvg-shift="0" group-title="MUSICA",MTV LIVE
 https://origin-02.nxplay.com.br/MTVNI_HD_NX/tracks-v1a1a2/mono.m3u8
