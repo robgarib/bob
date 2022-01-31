@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  30/01/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 31/01/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -367,6 +367,23 @@ https://redbox-holiday-lg.amagi.tv/playlist.m3u8
 https://bbceu-bbctravel-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 " group-title="BEST CHANNELS",BBC Food (EU)
 https://bbceu-food-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 " group-title="BEST CHANNELS",CW-New York
+#EXTVLCOPT:http-referrer=http://tv247.us/
+http://live.tv247.club/live/cw.m3u8
+#EXTINF:-1 " group-title="BEST CHANNELS",ME TV U.S.A.
+https://v-la.mybtv.net/event/268/768x432.m3u8?start_time=2022-01-31T13&end_time=2022-01-31T21
+#EXTINF:-1 " group-title="BEST CHANNELS",RETRO TV
+https://v-pi.theus6tv.tk/hls/2.5/playlist.m3u8
+#EXTINF:-1 " group-title="BEST CHANNELS",ANTENNA TV
+https://v-pi.theus6tv.tk/hls/17.2/playlist.m3u8
+#EXTINF:-1 " group-title="BEST CHANNELS",ACE TV
+https://v-pi.theus6tv.tk/hls/4.2/playlist.m3u8
+#EXTINF:-1 " group-title="BEST CHANNELS",FAMILY CHANNEL
+https://v-pi.theus6tv.tk/hls/4.6/playlist.m3u8
+#EXTINF:-1 " group-title="BEST CHANNELS",GRIT TV
+https://v-pi.theus6tv.tk/hls/2.2/playlist.m3u8
+#EXTINF:-1 " group-title="BEST CHANNELS",COZI TV
+https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
 #EXTINF:-1 tvg-name="Docs Channel" tvg-logo="https://i.imgur.com/peb9qn3.png" group-title="BEST CHANNELS",Docs Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
 #EXTINF:-1 nome-tvg-"Pluto TV Travel" tvg-logo"https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="BEST CHANNELS",Pluto TV Travel 
@@ -393,7 +410,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076c74daa05ac0007d0eb
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 #EXTINF:-1 nome-tvg-"Red Bull TV" tvg-id "Red Bull TV" logo tvg "https://i.imgur.com/TvmeXd.png" group-title="BEST CHANNELS", Red Bull TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="PlutoTV",=== PlutoTV===
 http://patbuweb.com/iptv/e2liste/startend.avi
