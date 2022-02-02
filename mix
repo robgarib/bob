@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 31/01/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 02/02/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -367,9 +367,6 @@ https://redbox-holiday-lg.amagi.tv/playlist.m3u8
 https://bbceu-bbctravel-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 " group-title="BEST CHANNELS",BBC Food (EU)
 https://bbceu-food-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 " group-title="BEST CHANNELS",CW-New York
-#EXTVLCOPT:http-referrer=http://tv247.us/
-http://live.tv247.club/live/cw.m3u8
 #EXTINF:-1 " group-title="BEST CHANNELS",ME TV U.S.A.
 https://v-la.mybtv.net/event/268/768x432.m3u8?start_time=2022-01-31T13&end_time=2022-01-31T21
 #EXTINF:-1 " group-title="BEST CHANNELS",RETRO TV
@@ -384,8 +381,6 @@ https://v-pi.theus6tv.tk/hls/4.6/playlist.m3u8
 https://v-pi.theus6tv.tk/hls/2.2/playlist.m3u8
 #EXTINF:-1 " group-title="BEST CHANNELS",COZI TV
 https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
-#EXTINF:-1 tvg-name="Docs Channel" tvg-logo="https://i.imgur.com/peb9qn3.png" group-title="BEST CHANNELS",Docs Channel
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
 #EXTINF:-1 nome-tvg-"Pluto TV Travel" tvg-logo"https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="BEST CHANNELS",Pluto TV Travel 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=678&deviceId=59c01b1953680139c6ae9d4d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 nome-tvg="Voyager Documentaries" tvg-logo="https://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="BEST CHANNELS",Voyager Documentaries 
@@ -649,6 +644,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-sam
 https://974af218bde94c20be135ae1375e2018.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_WorldPokerTour/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/yamato-video-animation.png" group-title="Samsung Channels ",Yamato Video Animation
 https://4e2e58758a334de4b01b25ab2e5f89c7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_YamatoAnimation/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="SPORT",=== SPORT ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1" group-title="SPORT",Sky sport 24 
@@ -732,7 +729,22 @@ https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="SPORT",TVS Classic Sports
 https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
 
-
+#EXTINF:0 group-title="SPORT",Ziggo Sport 1
+http://vizyonbox.link:2086/live/Salahdin/DEDbKgUYhF/26607.m3u8
+#EXTINF:0 group-title="SPORT",Ziggo Sport 2
+http://vizyonbox.link:2086/live/Salahdin/DEDbKgUYhF/26608.m3u8
+#EXTINF:0 group-title="SPORT",Ziggo Sport 3
+http://vizyonbox.link:2086/live/Salahdin/DEDbKgUYhF/26609.m3u8
+#EXTINF:0 group-title="SPORT",Ziggo Sport 4
+http://vizyonbox.link:2086/live/Salahdin/DEDbKgUYhF/26610.m3u8
+#EXTINF:0 group-title="SPORT",Ziggo Sport 5
+http://vizyonbox.link:2086/live/Salahdin/DEDbKgUYhF/26621.m3u8
+#EXTINF:0 group-title="SPORT",Ziggo Sport 6
+http://vizyonbox.link:2086/live/Salahdin/DEDbKgUYhF/26624.m3u8
+#EXTINF:0 group-title="SPORT",Ziggo Sport 7
+http://vizyonbox.link:2086/live/Salahdin/DEDbKgUYhF/26625.m3u8
+#EXTINF:0 group-title="SPORT",Ziggo Sport 8
+http://vizyonbox.link:2086/live/Salahdin/DEDbKgUYhF/26627.m3u8 
 #EXTINF:0 type="stream" channelId="-1" group-title="SPORT" logo="https://1.bp.blogspot.com/-Ms4TszWlxF4/X7LQcdsjlNI/AAAAAAAAPvc/ssOueO1ivsomv1-gHeil_W4ktfp6m5hFQCLcBGAsYHQ/s0/dubai1.png", Dubai Sports
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="SPORT" logo="https://1.bp.blogspot.com/-ptauQAxdHRw/X7LQciB000I/AAAAAAAAPvg/ilOvB3SLUR09onpJm1XAYYVWRXJxQxa1wCLcBGAsYHQ/s0/dubai2.png", Dubai Sports 2
@@ -1461,14 +1473,6 @@ https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PBS America" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="UK",PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1" group-title="UK" ,Canale 4 
-http://178.132.3.162:88/Channel_4_HD/video.m3u8?token=test
-#EXTINF:-1" group-title="UK",Film 4
-http://178.132.3.162:88/Film_4/video.m3u8?token=test
-#EXTINF:-1 tvg-id="CH4.UK" tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="UK",Channel 4
-http://51.52.156.21:8888/http/003
-#EXTINF:-1 tvg-id="FM4.UK" tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="UK",Film 4
-http://51.52.156.22:8888/http/008
 #EXTINF:-1 tvg-id="ChannelS.uk" tvg-country="UK;IE;BD" tvg-language="Bengali" tvg-logo="https://i.imgur.com/TjVJT22.png" group-title="UK",Channel S (720p)
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/4Music.uk.png" group-title="UK",4 Music
@@ -1643,6 +1647,34 @@ http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="USA",=== USA ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
+#EXTINF:-1" group-title="USA",CBS NY
+https://v-ny.mybtv.net/live/545.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1" group-title="USA",CBS 5 ARIZONA
+https://v-px.mybtv.net/live/48.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1" group-title="USA",NBC NY
+https://v-ny.mybtv.net/live/548.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1" group-title="USA",NBC 4 LA 
+https://v-la.mybtv.net/live/82.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1" group-title="USA",FOX NY
+https://v-ny.mybtv.net/live/550.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1" group-title="USA",Fox CFB LA
+https://v-la.mybtv.net/live/166.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1" group-title="USA",ABC NY
+https://v-ny.mybtv.net/live/554.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1" group-title="USA",ABC LA
+https://v-la.mybtv.net/live/88.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1" group-title="USA",ABC Localish LA
+https://v-la.mybtv.net/live/89.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1" group-title="USA",The CW 61 Arizona
+https://v-px.mybtv.net/live/160.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1" group-title="USA",Rewind TV
+https://v-ny.mybtv.net/live/565.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1" group-title="USA",PBS
+https://v-ny.mybtv.net/live/567.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1" group-title="USA",Azteca Television
+https://v-la.mybtv.net/live/107.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1" group-title="USA",Cozi TV
+https://v-ny.mybtv.net/live/549.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-id="WWLTV.us" tvg-name="CBS 4 New Orleans LA (WWL-TV)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BvlV1dl.jpg" group-title="USA",CBS 4 New Orleans LA (WWL-TV) (1080p)
 https://livevideo01.wwltv.com/hls/live/2016516/newscasts/live.m3u8
 #EXTINF:-1 tvg-id""CBS HD New York-US" nome tvg ""CBS HD New York-US" tvg-lingua""Inglese" tvg-logo"https://i.imgur.com/ltyaQPAm.png" group-title="USA",CBS 12 Cincinnati
