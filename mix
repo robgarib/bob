@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 05/02/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 06/02/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -717,6 +717,22 @@ https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="SPORT",TVS Classic Sports
 https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
 
+#EXTINF:-1" group-title="SPORT",ESPN PLAY LIVE EVENT 1
+http://134.19.182.131:8080/pdga73d28ba76fc155a_2.m3u8?m=cvJPkv0MRQZCiFLVRsBEwA&c=a73d28ba76fc155a&p=39332e35302e3230312e3931&e=1643943969
+#EXTINF:-1" group-title="SPORT",ESPN PLAY LIVE EVENT 2
+http://134.19.182.131:8080/pdga77f3b6e943f7c0b_2.m3u8?m=J57YAkLIVp8Iwak4-5E2-Q&c=a77f3b6e943f7c0b&p=39332e35302e3230312e3931&e=1644119902
+#EXTINF:-1" group-title="SPORT",ESPN PLAY LIVE EVENT31
+http://134.19.182.131:8080/pdgb9358a9c0fc540ff_2.m3u8?m=mStNG6lxEuiXo29VlcEVlQ&c=b9358a9c0fc540ff&p=39332e35302e3230312e3931&e=1644039813
+#EXTINF:-1" group-title="SPORT",ESPN PLAY LIVE EVENT 4
+http://134.19.182.131:8080/pdgc8927d6628a81ee8_2.m3u8?m=FnJBJHG9X6SHOj-JlxVVUA&c=c8927d6628a81ee8&p=39332e35302e3230312e3931&e=1644119131
+#EXTINF:-1" group-title="SPORT",ESPN PLAY LIVE EVENT 5
+http://134.19.182.131:8080/pdgfce30b623c26ab1d_2.m3u8?m=3g3-u_dhCnr2E9iHbiGvkA&c=fce30b623c26ab1d&p=39332e35302e3230312e3931&e=1643857106
+#EXTINF:-1" group-title="SPORT",ESPN PLAY LIVE EVENT 6
+http://134.19.182.131:8080/pdg2b5ca76e2671eafc_2.m3u8?m=v2-TFNhJ2-QTh2r6HSZaZA&c=2b5ca76e2671eafc&p=39332e35302e3230312e3931&e=1644120204
+#EXTINF:-1" group-title="SPORT",ESPN PLAY LIVE EVENT 7
+http://134.19.182.131:8080/pdga7e986fe0a26a729_2.m3u8?m=EMXqwSE23e_ADro4TkJ83A&c=a7e986fe0a26a729&p=39332e35302e3230312e3931&e=1644128877
+#EXTINF:-1" group-title="SPORT",ESPN PLAY LIVE EVENT 8
+http://134.19.182.131:8080/pdg5c05942cf2623d8f_2.m3u8?m=8UKzLSSbj92t0Zn10U2C-A&c=5c05942cf2623d8f&p=39332e35302e3230312e3931&e=1644111584
 #EXTINF:0 group-title="SPORT",ACCDN
 https://dai.google.com/linear/hls/event/yTGvKT7bT7KYi5FXpQLetQ/master.m3u8
 #EXTINF:0 group-title="SPORT",FloSports
