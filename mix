@@ -1058,19 +1058,53 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",CBC SPORT
 http://server2.dreamstar.ru.com/azerbaijan/cbc_sport/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ELEVEN SPORTS 1 HD (POR)
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ELEVEN SPORTS 2 HD (POR)
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ELEVEN SPORTS 3 HD (POR)
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",mfootball1
+http://wrioslio.altervista.org/TV/scapers/match.php?id=mfootball1
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",rumatchf2
+http://wrioslio.altervista.org/TV/scapers/match.php?id=rumatchf2
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",matfoot3
+http://wrioslio.altervista.org/TV/scapers/match.php?id=matfoot3
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",setanta2ru
+http://wrioslio.altervista.org/TV/scapers/match.php?id=setanta2ru
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",setanta
+http://wrioslio.altervista.org/TV/scapers/match.php?id=setanta
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",rusmatchtv
+http://wrioslio.altervista.org/TV/scapers/match.php?id=rusmatchtv
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",rumatcharena
+http://wrioslio.altervista.org/TV/scapers/match.php?id=rumatcharena
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",mpremier
+http://wrioslio.altervista.org/TV/scapers/match.php?id=mpremier
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ukrfoot1
+http://wrioslio.altervista.org/TV/scapers/match.php?id=ukrfoot1
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",football2ukraine
+http://wrioslio.altervista.org/TV/scapers/match.php?id=football2ukraine
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ukrfoot3
+http://wrioslio.altervista.org/TV/scapers/match.php?id=ukrfoot3
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",eurosport1rus
+http://wrioslio.altervista.org/TV/scapers/match.php?id=eurosport1rus
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",rumatchf2
+http://wrioslio.altervista.org/TV/scapers/match.php?id=rumatchf2
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ruseuro2
+http://wrioslio.altervista.org/TV/scapers/match.php?id=ruseuro2
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",bel555
+http://wrioslio.altervista.org/TV/scapers/match.php?id=bel555
+#EXTINF:-1,Arena 1 PREMIUM
+http://5.206.237.66:9000/play/a06z
+#EXTINF:-1,Arena 2 PREMIUM
+http://5.206.237.66:9000/play/a071
+#EXTINF:-1,Arena 3 PREMIUM
+http://5.206.237.66:9000/play/a072
+#EXTINF:-1,Arena Sport 1
+http://5.206.237.66:9000/play/a075
+#EXTINF:-1,Arena Sport 2
+http://5.206.237.66:9000/play/a076
+#EXTINF:-1,Arena Sport 3
+http://5.206.237.66:9000/play/a077
+#EXTINF:-1,Arena Sport 4
+http://5.206.237.66:9000/play/a073
+#EXTINF:-1,Arena Sport 5
+http://5.206.237.66:9000/play/a074
 
-#EXTINF:-1" group-title="SPORT", DIRETTA MEDIASET 1
-https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(b2)/index.m3u8
-#EXTINF:-1" group-title="SPORT", DIRETTA MEDIASET 2
-https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(b3)/index.m3u8
-#EXTINF:-1" group-title="SPORT", DIRETTA MEDIASET 3
-https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(b4)/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="MUSICA",=== MUSICA ===
