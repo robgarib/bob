@@ -389,6 +389,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528e
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="BEST CHANNELS",Top Gear
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 " group-title="BEST CHANNELS",PLAYBOY
+https://edge01-fdo-py.cvattv.com.ar/live/c6eds/Playboy/SA_SAGEMCOM/Playboy.m3u8
+#EXTINF:-1 " group-title="BEST CHANNELS",VENUS
+https://edge01-fdo-py.cvattv.com.ar/live/c6eds/Venus/SA_SAGEMCOM/Venus.m3u8
 #EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="BEST CHANNELS",Tuning
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076c74daa05ac0007d0eb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" group-title="BEST CHANNELS" ,Key TV
@@ -1090,22 +1094,55 @@ http://wrioslio.altervista.org/TV/scapers/match.php?id=rumatchf2
 http://wrioslio.altervista.org/TV/scapers/match.php?id=ruseuro2
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",bel555
 http://wrioslio.altervista.org/TV/scapers/match.php?id=bel555
-#EXTINF:-1,Arena 1 PREMIUM
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena 1 PREMIUM
 http://5.206.237.66:9000/play/a06z
-#EXTINF:-1,Arena 2 PREMIUM
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena 2 PREMIUM
 http://5.206.237.66:9000/play/a071
-#EXTINF:-1,Arena 3 PREMIUM
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena 3 PREMIUM
 http://5.206.237.66:9000/play/a072
-#EXTINF:-1,Arena Sport 1
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 1
 http://5.206.237.66:9000/play/a075
-#EXTINF:-1,Arena Sport 2
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 2
 http://5.206.237.66:9000/play/a076
-#EXTINF:-1,Arena Sport 3
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 3
 http://5.206.237.66:9000/play/a077
-#EXTINF:-1,Arena Sport 4
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 4
 http://5.206.237.66:9000/play/a073
-#EXTINF:-1,Arena Sport 5
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 5
 http://5.206.237.66:9000/play/a074
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=169&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN 2
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=168&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN 3
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=345&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN Extra
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=167&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Fox Sports
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=170&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Fox Sports 2
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=172&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Fox Sports 3
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=178&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",TUDN (HD)
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1049&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",TUDN (HD)
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=174&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Claro Sports (HD)
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2564&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",AYM Sports
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=180&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Adrenalina Sports Network
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1799&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Latin American Sports
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2089&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Havoc
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2148&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",TVC Deportes
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2157&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Garage TV
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=75&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+
 
 
 
