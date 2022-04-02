@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 29/03/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 02/04/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -197,8 +197,6 @@ https://585b674743bbb.streamlock.net/9060/9060/playlist.m3u8
 http://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/vallassina.png" tvg-name="Televallassina" group-title="TOP ITALIA",Televallassina
 http://tivustream.website/urls/televallassina
-#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/vallassina.png" tvg-name="Televallassina" group-title="TOP ITALIA",Espansione tv Como
-https://srvx1.selftv.video/espansione/smil:live.smil/playlist.m3u8
 #EXTINF:-1 nome-tvg="Tsn Lecco" tvg-logo="https://i.postimg.cc/Bb8VDP12/index.jpg" tvg-shift="0" group-title="TOP ITALIA",Tsn Lecco 
 http://59d8c0cee6f3d.streamlock.net/tsn2/tsn2_mobile/playlist.m3u8
 #EXTINF:-1 nome-tv="Videostar Tv Lombardia" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/videostar.jpg" tvg-shift="0" group-title="TOP ITALIA",Videostar Tv Lombardia 
@@ -391,6 +389,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528e
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="BEST CHANNELS",Top Gear
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 " group-title="BEST CHANNELS",PLAYBOY
+https://edge01-fdo-py.cvattv.com.ar/live/c6eds/Playboy/SA_SAGEMCOM/Playboy.m3u8
+#EXTINF:-1 " group-title="BEST CHANNELS",VENUS
+https://edge01-fdo-py.cvattv.com.ar/live/c6eds/Venus/SA_SAGEMCOM/Venus.m3u8
 #EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="BEST CHANNELS",Tuning
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076c74daa05ac0007d0eb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" group-title="BEST CHANNELS" ,Key TV
@@ -969,84 +971,6 @@ https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 " group-title="SPORT",Stream 59 (astrakhanrusporthd)
 #EXTVLCOPT:http-user-agent=fake_UA
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Match! Futball 1
-https://bal.varcdn1.ru/lb/m1/index.m3u8
-#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Match! Futball 2
-https://bal.varcdn1.ru/lb/m2/index.m3u8
-#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Match! Futball 3
-https://bal.varcdn1.ru/lb/m3/index.m3u8
-#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",UA Futball 1
-https://bal.varcdn1.ru/lb/ua1/index.m3u8
-#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",UA Futball 2
-https://bal.varcdn1.ru/lb/ua2/index.m3u8
-#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",UA Futball 3
-https://bal.varcdn1.ru/lb/ua3/index.m3u8
-#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Setanta
-https://bal.varcdn1.ru/lb/setanta1/index.m3u8
-#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Setanta Plus
-https://bal.varcdn1.ru/lb/setantaplusukraina/index.m3u8
-#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Match!
-https://bal.varcdn1.ru/lb/match/index.m3u8
-#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Eurosport 1
-https://bal.varcdn1.ru/lb/Eurosport1/index.m3u8
-#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Eurosport 2
-https://bal.varcdn1.ru/lb/Eurosport2/index.m3u8 
-#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Match! Arena
-https://bal.varcdn1.ru/lb/marena/index.m3u8
-#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Match! Premier
-https://bal.varcdn1.ru/lb/mp/index.m3u8
-#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Match! Box
-https://bal.varcdn1.ru/lb/matchboec/index.m3u8
-#EXTINF:-1 " group-title="SPORT"tvg-id="" nome-tvg="" tvg-lingua="Inglese",Belarus 5
-https://bal.varcdn1.ru/lb/b5/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Match! Futball 1
-https://bal.varcdn1.ru/lb/m1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Match! Futball 2
-https://bal.varcdn1.ru/lb/m2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Match! Futball 3
-https://bal.varcdn1.ru/lb/m3/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",UA Futball 1
-https://bal.varcdn1.ru/lb/ua1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",UA Futball 2
-https://bal.varcdn1.ru/lb/ua2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",UA Futball 3
-https://bal.varcdn1.ru/lb/ua3/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Setanta
-https://bal.varcdn1.ru/lb/setanta1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Setanta Plus
-https://bal.varcdn1.ru/lb/setantaplusukraina/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Match!
-https://bal.varcdn1.ru/lb/match/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Match! Arena
-https://bal.varcdn1.ru/lb/marena/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Match! Premier
-https://bal.varcdn1.ru/lb/mp/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Match! Box
-https://bal.varcdn1.ru/lb/matchboec/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Belarus 5
-https://bal.varcdn1.ru/lb/b5/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",viasat sport
-https://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",MATCH! FOOTBALL 1
-http://185.129.1.242:80/matchfutbol1/mpegts
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",MATCH! FOOTBALL 2 HD
-http://37.187.28.95:2022/Matc_futbol_2_hd/mpegts
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",MATCH! FOOTBALL 3 HD
-http://37.187.28.95:2022/Matc_futbol_3_hd/mpegts
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",MATCH! FOOTBALL 3 HD
-http://185.129.1.242:80/matchfutbol3hd/mpegts
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",MATCH! HD
-http://185.129.1.242:80/matchtvhd/mpegts
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",FOOTBALL 1 UKR
-http://37.187.28.95:2022/footbol1/mpegts
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",FOOTBALL 2 UKR
-http://37.187.28.95:2022/footbol2/mpegts
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SETANTA EURASIA HD
-http://37.187.28.95:2022/setanta_eurasia_hd/mpegts
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SETANTASPORTS
-http://95.67.12.179:9002
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SETANTASPORTS HD
-http://95.67.12.179:9001
 
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ELEVEN SPORTS 1 (POR)
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
@@ -1062,36 +986,6 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",CBC SPORT
 http://server2.dreamstar.ru.com/azerbaijan/cbc_sport/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",mfootball1
-http://wrioslio.altervista.org/TV/scapers/match.php?id=mfootball1
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",rumatchf2
-http://wrioslio.altervista.org/TV/scapers/match.php?id=rumatchf2
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",matfoot3
-http://wrioslio.altervista.org/TV/scapers/match.php?id=matfoot3
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",setanta2ru
-http://wrioslio.altervista.org/TV/scapers/match.php?id=setanta2ru
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",setanta
-http://wrioslio.altervista.org/TV/scapers/match.php?id=setanta
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",rusmatchtv
-http://wrioslio.altervista.org/TV/scapers/match.php?id=rusmatchtv
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",rumatcharena
-http://wrioslio.altervista.org/TV/scapers/match.php?id=rumatcharena
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",mpremier
-http://wrioslio.altervista.org/TV/scapers/match.php?id=mpremier
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ukrfoot1
-http://wrioslio.altervista.org/TV/scapers/match.php?id=ukrfoot1
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",football2ukraine
-http://wrioslio.altervista.org/TV/scapers/match.php?id=football2ukraine
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ukrfoot3
-http://wrioslio.altervista.org/TV/scapers/match.php?id=ukrfoot3
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",eurosport1rus
-http://wrioslio.altervista.org/TV/scapers/match.php?id=eurosport1rus
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",rumatchf2
-http://wrioslio.altervista.org/TV/scapers/match.php?id=rumatchf2
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ruseuro2
-http://wrioslio.altervista.org/TV/scapers/match.php?id=ruseuro2
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",bel555
-http://wrioslio.altervista.org/TV/scapers/match.php?id=bel555
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena 1 PREMIUM
 http://5.206.237.66:9000/play/a06z
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena 2 PREMIUM
@@ -1109,19 +1003,24 @@ http://5.206.237.66:9000/play/a073
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 5
 http://5.206.237.66:9000/play/a074
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=169&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+http://200.89.191.165/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN 2
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=168&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+http://200.89.191.165/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN 3
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=345&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+http://200.89.191.165/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN 4
+http://200.89.191.165/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",FOX Sports
+http://200.89.191.165/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",FOX Sports Premium|http://200.89.191.165/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN Extra
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=167&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+http://200.89.191.165/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Fox Sports
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=170&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+http://200.89.191.165/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Fox Sports 2
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=172&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+http://200.89.191.165/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Fox Sports 3
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=178&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+http://200.89.191.165/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",TUDN (HD)
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1049&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",TUDN (HD)
@@ -2138,36 +2037,48 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/Rtp3.pt.png" group-title="Vari",RTP 3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 
-#EXTINF:-1 nome-tvg=Das Erste HD tvg-id=ARD.de tvg-logo=http://logos.zattic.com/images/channels/logos/2a2a4aee64bbd6f7f817/black/84x48.png group-title="Vari",Das Erste HD 
-https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari",ARD HD 
-https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-#EXTINF:-1 tvg-id="RTL.DE" tvg-logo="http://static.epg.best/de/RTL.de.png" group-title="Vari",RTL
-http://5.135.92.133:52841/out/u/115_1.m3u8
-#EXTINF:-1 tvg-id="RT2.DE" tvg-logo="http://static.epg.best/de/RTL2.de.png" group-title="Vari",RTL Zwei
-http://5.135.92.133:52841/out/u/119_1.m3u8
-#EXTINF:-1 tvg-id="RTLGold.de" tvg-name="RTL Gold" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="Vari",RTL Gold
-https://stream.y5.hu/stream/stream_rtlgold/stream.m3u8
-#EXTINF:-1 tvg-id="RTLIIHD.de" tvg-name="RTL II HD" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="Vari",RTL II HD
-https://stream.y5.hu/stream/stream_rtl2/hls0/stream.m3u8
-#EXTINF:-1 tvg-id="RTLIIHD.de" tvg-name="RTL II HD" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="Vari",RTL II HD
-https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
-#EXTINF:-1 tvg-id="RTLKlub.de" tvg-name="RTL Klub" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="Vari",RTL Klub
-https://stream.y5.hu/stream/stream_rtlklub/hls0/stream.m3u8
-#EXTINF:-1 tvg-id="RTLKlub.de" tvg-name="RTL Klub" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="Vari",RTL Klub
-https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
-#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL+" tvg-country="DE" tvg-language="Vari" tvg-logo="" group-title="Vari",RTL+
-https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/Sat1.de.png" group-title="Vari",Sat 1 
-http://178.132.3.162:88/SAT_1/video.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/Kabel1.de.png" group-title="Vari",Kabel Eins
-http://178.132.3.162:88/Kabel_1/video.m3u8?token=test
-#EXTINF:-1 tvg-id="VOX.DE" tvg-logo="http://static.epg.best/de/Vox.de.png" group-title="Vari",VOX
-http://5.135.92.133:52841/out/u/123_1.m3u8
-#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ORF1_logo.svg/1280px-ORF1_logo.svg.png" tvg-url="" group-title="Vari",ORF 1 (540p)
-https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
-#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/1280px-ORF2_logo_n.svg.png" tvg-url="" group-title="Vari",ORF 2 (720p)
-https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", Kabel-Eins
+http://wrioslio.altervista.org/TV/scapers/ger.php?id=Kabel-Eins
+#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", Sat1
+http://wrioslio.altervista.org/TV/scapers/ger.php?id=Sat1
+#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", 3sat
+http://wrioslio.altervista.org/TV/scapers/ger.php?id=3sat
+#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", Tele-5
+http://wrioslio.altervista.org/TV/scapers/ger.php?id=Tele-5
+#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", Sixx
+http://wrioslio.altervista.org/TV/scapers/ger.php?id=Sixx
+#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", ProSieben
+http://wrioslio.altervista.org/TV/scapers/ger.php?id=ProSieben
+#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", ProSieben-MAXX
+http://wrioslio.altervista.org/TV/scapers/ger.php?id=ProSieben-MAXX
+#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", VOX
+http://wrioslio.altervista.org/TV/scapers/ger.php?id=VOX
+#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", RTL
+http://wrioslio.altervista.org/TV/scapers/ger.php?id=RTL
+#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", RTL-Zwei
+http://wrioslio.altervista.org/TV/scapers/ger.php?id=RTL-Zwei
+#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", RTL-Nitro
+http://wrioslio.altervista.org/TV/scapers/ger.php?id=RTL-Nitro
+#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", Super-RTL
+http://wrioslio.altervista.org/TV/scapers/ger.php?id=Super-RTL
+#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", Sat1-Gold
+http://wrioslio.altervista.org/TV/scapers/ger.php?id=Sat1-Gold
+#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", ZDF
+http://wrioslio.altervista.org/TV/scapers/ger.php?id=ZDF
+#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", DMAX
+http://wrioslio.altervista.org/TV/scapers/ger.php?id=DMAX
+#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", ntv
+http://wrioslio.altervista.org/TV/scapers/ger.php?id=ntv
+#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", Welt
+http://wrioslio.altervista.org/TV/scapers/ger.php?id=Welt
+#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", Nick
+http://wrioslio.altervista.org/TV/scapers/ger.php?id=Nick
+#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", Kika
+http://wrioslio.altervista.org/TV/scapers/ger.php?id=Kika
+#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", Disney-Channel
+http://wrioslio.altervista.org/TV/scapers/ger.php?id=Disney-Channel
+#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari",, ORF-1
+http://wrioslio.altervista.org/TV/scapers/ger.php?id=ORF-1
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/at/ORF2.at.png" group-title="Vari",ORF 2
 https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
 #EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_III_Logo.png" tvg-url="" group-title="Vari",ORF 3 (720p)
