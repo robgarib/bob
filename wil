@@ -3,6 +3,14 @@
 https://streams.wilmaa.com/m3u8/get?channelId=rsi_la_1_original_hd
 #EXTINF:-1 tvg-id="RSILa2.ch" tvg-name="RSI_La2_HD" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rsi_la2_hd.png" group-title="Italy",RSI La 2 HD (IT)
 https://streams.wilmaa.com/m3u8/get?channelId=rsi_la_2_original_hd
+#EXTINF:0001 tvg-id="RSILa1.ch" tvg-chno="100" group-title="Italy" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rsi_la_1_hd.png", RSI La 1 HD
+https://streams.wilmaa.com/m3u8/get?channelId=rsi_la_1_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:0001 tvg-id="RSILa2.ch" tvg-chno="101" group-title="Italy" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rsi_la_2_hd.png", RSI La 2 HD
+https://streams.wilmaa.com/m3u8/get?channelId=rsi_la_2_hd&profile=8
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai_1" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rai1_hd.png" group-title="Italy",Rai 1 HD (IT)
 https://streams.wilmaa.com/m3u8/get?channelId=rai_1_hd
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai_2" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rai2.png" group-title="Italy",Rai 2 (IT)
