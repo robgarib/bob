@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 05/05/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 06/05/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -2657,27 +2657,41 @@ https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Vari",=== Vari ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/CJAbJfM.png" group-title="Vari",TF1 (720p)
-http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
+https://s2.tntendirect.com/tf1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Vari",France 2 (720p)
-http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
+https://s2.tntendirect.com/france2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Vari",France 3 (720p)
-http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
+https://s4.tntendirect.com/france3/live/playlist.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Vari",France 4 (720p)
 http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Vari",France 5 (720p)
-http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
+https://s4.tntendirect.com/france5/live/playlist.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Vari",M6 (1080p)
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Vari",M6
-http://flusonic-4.platinum-tv.com/M6/mono.m3u8?token=test
+https://s4.tntendirect.com/m6/live/playlist.m3u8
 #EXTINF:-1" group-title="Vari",TF1 Séries Films
-https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+https://s2.tntendirect.com/hd1/live/playlist.m3u8
 #EXTINF:-1" group-title="Vari",TFX
-https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+https://s4.tntendirect.com/nt1/live/playlist.m3u8
 #EXTINF:-1" group-title="Vari",TMC
-https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+https://s2.tntendirect.com/tmc/live/playlist.m3u8
 #EXTINF:-1" group-title="Vari" tvg-id="" tvg-logo="http://static.epg.best/fr/W9.fr.png",W9
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/05.m3u8
+https://s2.tntendirect.com/w9/live/playlist.m3u8
+#EXTINF:-1" group-title="Vari",C8
+https://s2.tntendirect.com/d8/live/playlist.m3u8
+#EXTINF:-1" group-title="Vari",NRJ12
+https://s2.tntendirect.com/nrj12/live/playlist.m3u8
+#EXTINF:-1" group-title="Vari",BFM
+https://s4.tntendirect.com/bmftv/live/playlist.m3u8
+#EXTINF:-1" group-title="Vari",CStar
+https://s4.tntendirect.com/d17/live/playlist.m3u8
+#EXTINF:-1" group-title="Vari",L'Équipe 21
+https://s2.tntendirect.com/lequipe21/live/playlist.m3u8
+#EXTINF:-1" group-title="Vari",6ter
+https://s2.tntendirect.com/lequipe21/live/playlist.m3u8
+#EXTINF:-1" group-title="Vari",RMC Découverte
+https://s2.tntendirect.com/rmcdecouverte/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Teva.fr.png" group-title="Vari",Téva
 http://178.132.3.162:88/Teva/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://photos.abweb.com/shared_ressources/logos/logo-rtl9.png" group-title="Vari",RTL9
