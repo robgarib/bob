@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 06/05/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 08/05/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -87,6 +87,10 @@ http://patbuweb.com/iptv/e2liste/startend.avi
 http://happook147.com:80/Marino4/t8iJ6EsMZk/1889
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="RSI DISCOVERY e SKY",RSI La2 HD
 http://happook147.com:80/Marino4/t8iJ6EsMZk/1890
+#EXTINF:-1 tvg-ID="RSILA1HD" tvg-name="RSI La 1 HD" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/rsila1.png" group-title="RSI DISCOVERY e SKY",RSI La 1 HD
+http://newlookpro.ayproviders.xyz:80/y7895465es/ebkNjL25Px/1889
+#EXTINF:-1 tvg-ID="RSILA2HD" tvg-name="RSI La 2 HD" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/rsila2.png" group-title="RSI DISCOVERY e SKY",RSI La 2 HD
+http://newlookpro.ayproviders.xyz:80/y7895465es/ebkNjL25Px/1890
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="RSI DISCOVERY e SKY",RSI La1
 http://190.2.155.162/RSI1/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2.png" group-title="RSI DISCOVERY e SKY",RSI La2
@@ -104,7 +108,7 @@ https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="RSI DISCOVERY e SKY",TV8 
 https://www.mytivu.it/Application/Channels/TV8.php
 #EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Nove.png" group-title="RSI DISCOVERY e SKY",Nove
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+http://newlookpro.ayproviders.xyz:80/y7895465es/ebkNjL25Px/13871
 #EXTINF:-1 tvg-id="" tvg-name="Cielo" " group-title="RSI DISCOVERY e SKY",Cielo
 https://www.mytivu.it/Application/Channels/Cielo.php
 #EXTINF:-1 tvg-id="" tvg-name="Sky TG 24" " group-title="RSI DISCOVERY e SKY",Sky TG 24
@@ -112,17 +116,19 @@ https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
 #EXTINF:-1" group-title="RSI DISCOVERY e SKY",Sky sport 24 
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 #EXTINF:-1 tvg-id="Dmax.it" tvg-name="Dmax" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Dmax.png" group-title="RSI DISCOVERY e SKY",Dmax
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8?sd=10&rebase=on&mux_audio=true
+http://newlookpro.ayproviders.xyz:80/y7895465es/ebkNjL25Px/2003
 #EXTINF:-1 tvg-id="Realtime.it" tvg-name="Real Time" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Realtime.png" group-title="RSI DISCOVERY e SKY",Realtime
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+http://newlookpro.ayproviders.xyz:80/y7895465es/ebkNjL25Px/2007
 #EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Giallo.png" group-title="RSI DISCOVERY e SKY",Giallo
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+http://newlookpro.ayproviders.xyz:80/y7895465es/ebkNjL25Px/1898
 #EXTINF:-1 tvg-id="Motortrend.it" tvg-name="Motortrend" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/MotorTrend.png" group-title="RSI DISCOVERY e SKY",Motor Trend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-id="FoodNetowrk.it" tvg-name="Foodnetwork" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/FoodNetwork.png" group-title="RSI DISCOVERY e SKY",Food Network
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?sd=10&rebase=on&mux_audio=true
+http://newlookpro.ayproviders.xyz:80/y7895465es/ebkNjL25Px/24334
 #EXTINF:-1 tvg-id="" tvg-name="PESCA HD" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Imaggini/picons/SkySport/SkySportPesca.png" group-title="RSI DISCOVERY e SKY",PESCA HD
 http://89.163.224.48:8000/kJctUlB50Z/Sn3Bik7Dy1/296703
+#EXTINF:-1 tvg-ID="Explorer HD" tvg-name="Explorer HD" tvg-logo="" group-title="RSI DISCOVERY e SKY",Explorer HD
+http://newlookpro.ayproviders.xyz:80/y7895465es/ebkNjL25Px/149240
 #EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/LogoTv.png" group-title="RSI DISCOVERY e SKY",Test 1
 https://www.mytivu.it/Application/Channels/Cielo.php
 #EXTINF:-1 tvg-id="Tv8.it" tvg-name="Tv 8" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/LogoTv.png" group-title="RSI DISCOVERY e SKY",Test 2
@@ -670,6 +676,8 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
 http://live.sport2u.tv:1935/EvoLive/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Top Calcio 24" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-top-calcio-24-7160-300x225.jpg" tvg-shift="0" group-title="SPORT",Top Calcio 24
 https://bit.ly/38QRMom
+#EXTINF:-1 tvg-ID="Inter Channel" tvg-name="Inter TV" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/inter.png" group-title="Canali Sport Italiani",Inter TV
+http://newlookpro.ayproviders.xyz:80/y7895465es/ebkNjL25Px/4180
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-24-live.jpg" group-title="Canali Sport Italiani ",SportItalia 24 LIVE
 https://di-l1o0e8cu.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-motori.jpg" group-title="Canali Sport Italiani ",SportItalia Motori
@@ -2656,19 +2664,19 @@ https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Vari",=== Vari ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
-#EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/CJAbJfM.png" group-title="Vari",TF1 (720p)
+#EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/CJAbJfM.png" group-title="Vari",TF1 
 https://s2.tntendirect.com/tf1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Vari",France 2 (720p)
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Vari",France 2 
 https://s2.tntendirect.com/france2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Vari",France 3 (720p)
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Vari",France 3 
 https://s4.tntendirect.com/france3/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Vari",France 4 (720p)
-http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Vari",France 5 (720p)
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Vari",France 4 
+http://new-pro.tv:8080/Fernando/123321/70558
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Vari",France 5 
 https://s4.tntendirect.com/france5/live/playlist.m3u8
-#EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Vari",M6 (1080p)
+#EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Vari",M6 
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Vari",M6
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Vari",M6 opt.2
 https://s4.tntendirect.com/m6/live/playlist.m3u8
 #EXTINF:-1" group-title="Vari",TF1 Séries Films
 https://s2.tntendirect.com/hd1/live/playlist.m3u8
@@ -2689,23 +2697,11 @@ https://s4.tntendirect.com/d17/live/playlist.m3u8
 #EXTINF:-1" group-title="Vari",L'Équipe 21
 https://s2.tntendirect.com/lequipe21/live/playlist.m3u8
 #EXTINF:-1" group-title="Vari",6ter
-https://s2.tntendirect.com/lequipe21/live/playlist.m3u8
+https://s2.tntendirect.com/6ter/live/playlist.m3u8
 #EXTINF:-1" group-title="Vari",RMC Découverte
 https://s2.tntendirect.com/rmcdecouverte/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Teva.fr.png" group-title="Vari",Téva
-http://178.132.3.162:88/Teva/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="https://photos.abweb.com/shared_ressources/logos/logo-rtl9.png" group-title="Vari",RTL9
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/live/Rtl9_live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.ab1.tv/images/media/logo-ab1.png" group-title="Vari",AB1
-http:///cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/AB1_live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.chasseetpechetv.fr/images/logo.png" group-title="Vari",Chasse & Peche 
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/cherie25-850448/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.animauxtv.fr/images/logo.png" group-title="Vari",Animaux
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://languedutravail.org/sites/default/files/tv-francophonie_3.jpg" group-title="Vari",Francophonie
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/ARTE.fr.png" group-title="Vari",Arte Français
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/artelive-18512/hls/index.m3u8
+https://s4.tntendirect.com/arte/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="Vari",Gulli
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 #EXTINF:-1" group-title="Vari",TV5 MONDE Europe
