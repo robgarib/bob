@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 08/05/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 09/05/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -125,8 +125,12 @@ http://newlookpro.ayproviders.xyz:80/y7895465es/ebkNjL25Px/1898
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-id="FoodNetowrk.it" tvg-name="Foodnetwork" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/FoodNetwork.png" group-title="RSI DISCOVERY e SKY",Food Network
 http://newlookpro.ayproviders.xyz:80/y7895465es/ebkNjL25Px/24334
+#EXTINF:-1 tvg-ID="MotorTrend.it" tvg-name="Motor Trend HD" tvg-logo="https://static.epg.best/it/MotorTrend.it.png" group-title="RSI DISCOVERY e SKY",Motor Trend HD
+http://selling-team.net:80/LUnoZpNBtO/iIzuEeyoOq/1023
 #EXTINF:-1 tvg-id="" tvg-name="PESCA HD" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Imaggini/picons/SkySport/SkySportPesca.png" group-title="RSI DISCOVERY e SKY",PESCA HD
 http://89.163.224.48:8000/kJctUlB50Z/Sn3Bik7Dy1/296703
+#EXTINF:-1 tvg-ID="" tvg-name="HGTV (Case Design)" tvg-logo="" group-title="RSI DISCOVERY e SKY",HGTV (Case Design)
+http://selling-team.net:80/LUnoZpNBtO/iIzuEeyoOq/322189
 #EXTINF:-1 tvg-ID="Explorer HD" tvg-name="Explorer HD" tvg-logo="" group-title="RSI DISCOVERY e SKY",Explorer HD
 http://newlookpro.ayproviders.xyz:80/y7895465es/ebkNjL25Px/149240
 #EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/LogoTv.png" group-title="RSI DISCOVERY e SKY",Test 1
@@ -2168,16 +2172,9 @@ https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/young-tv-all-musica.jpg" group-title="Canali Musicali (Web Radio)",Young TV All Musica
 https://tivustream.website/urls/youngtvmusic
+
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="UK",=== UK ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="INT" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png" group-title="UK",BBC News (480p)
-http://www.filmon.com/vr-streams/27.high/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCOneScotland.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/BBC_One_Scotland_2021.png" group-title="UK",BBC One Scotland (480p)
-http://www.filmon.com/vr-streams/3166.high/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmonEroticSensations.us" tvg-country="INT" tvg-language="English" tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg" group-title="UK",Filmon Erotic Sensations (480p) [Not 24/7]
-https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmonFetishFactory.us" tvg-country="INT" tvg-language="English" tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg" group-title="UK",Filmon Fetish Factory (480p) [Not 24/7]
-https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-country="UK" tvg-language="English" tvg-logo="https://www.gbnews.uk/view-resources/dachser2/public/gbnews/logo.svg" group-title="UK",GB News (1080p)
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PBS America" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="UK",PBS America
@@ -2770,79 +2767,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/Rtp3.pt.png" group-title="Vari",RTP 3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", Kabel-Eins
-http://wrioslio.altervista.org/TV/scapers/ger.php?id=Kabel-Eins
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", Sat1
-http://wrioslio.altervista.org/TV/scapers/ger.php?id=Sat1
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", 3sat
-http://wrioslio.altervista.org/TV/scapers/ger.php?id=3sat
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", Tele-5
-http://wrioslio.altervista.org/TV/scapers/ger.php?id=Tele-5
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", Sixx
-http://wrioslio.altervista.org/TV/scapers/ger.php?id=Sixx
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", ProSieben
-http://wrioslio.altervista.org/TV/scapers/ger.php?id=ProSieben
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", ProSieben-MAXX
-http://wrioslio.altervista.org/TV/scapers/ger.php?id=ProSieben-MAXX
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", VOX
-http://wrioslio.altervista.org/TV/scapers/ger.php?id=VOX
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", RTL
-http://wrioslio.altervista.org/TV/scapers/ger.php?id=RTL
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", RTL-Zwei
-http://wrioslio.altervista.org/TV/scapers/ger.php?id=RTL-Zwei
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", RTL-Nitro
-http://wrioslio.altervista.org/TV/scapers/ger.php?id=RTL-Nitro
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", Super-RTL
-http://wrioslio.altervista.org/TV/scapers/ger.php?id=Super-RTL
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", Sat1-Gold
-http://wrioslio.altervista.org/TV/scapers/ger.php?id=Sat1-Gold
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", ard
-https://wrios.000webhostapp.com/wrios/germa.php?id=703
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", ZDF
-http://wrioslio.altervista.org/TV/scapers/ger.php?id=ZDF
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", DMAX
-http://wrioslio.altervista.org/TV/scapers/ger.php?id=DMAX
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", ntv
-http://wrioslio.altervista.org/TV/scapers/ger.php?id=ntv
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", Welt
-http://wrioslio.altervista.org/TV/scapers/ger.php?id=Welt
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", Nick
-http://wrioslio.altervista.org/TV/scapers/ger.php?id=Nick
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", Kika
-http://wrioslio.altervista.org/TV/scapers/ger.php?id=Kika
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari", Disney-Channel
-http://wrioslio.altervista.org/TV/scapers/ger.php?id=Disney-Channel
-#EXTINF:-1 tvg-id="ARD.de" nome-tvg="Das Erste" tvg-language="tedesco" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Vari",, ORF-1
-http://wrioslio.altervista.org/TV/scapers/ger.php?id=ORF-1
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/at/ORF2.at.png" group-title="Vari",ORF 2
-https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
-#EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_III_Logo.png" tvg-url="" group-title="Vari",ORF 3 (720p)
-https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
-#EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-name="ORF Sport +" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/1200px-ORF_Sport%2B.svg.png" tvg-url="" group-title="Vari",ORF Sport + (540p)
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/at/ORF2.at.png" group-title="Vari",ORF 2
-https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
-#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ORF1_logo.svg/1280px-ORF1_logo.svg.png" tvg-url="" group-title="Vari",AT:ORF 1 HD
-http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/95639
-https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/at/ORF2.at.png" group-title="Vari",AT:ORF 2 HD
-http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/95640
-#EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_III_Logo.png" tvg-url="" group-title="Vari",AT: ORF 3 HD
-http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/95641
-#EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-name="ORF Sport +" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/1200px-ORF_Sport%2B.svg.png" tvg-url="" group-title="Vari",AT: ORF SPORT  HD
-http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/95642
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/Cinemax.pl.png" group-title="Vari",Cinemax
-http://digitalxpress.gcdn.co/live1/cinemaxpolska/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/BabyTV.tr.png" group-title="Vari",Baby TV polska
-http://digitalxpress.gcdn.co/live1/babytvpolska/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/TNT.us.png" group-title="Vari",TNT
-http://digitalxpress.gcdn.co/live1/tnt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/HBO.pl.png" group-title="Vari",HBO 1 Polska
-http://digitalxpress.gcdn.co/live1/hbopolska/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/HBO2.pl.png" group-title="Vari",HBO 2 Polska
-http://digitalxpress.gcdn.co/live1/hbo2polska/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/HBO3.pl.png" group-title="Vari",HBO 3 Polska
-http://digitalxpress.gcdn.co/live1/hbo3polska/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo1-dark-bg.png" group-title="Vari",Slovenija 1 Tv
 https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/chunklist_b2328000_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo2-dark-bg.png" group-title="Vari",Slovenija 2 Tv
@@ -2857,73 +2781,3 @@ http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 #EXTINF:-0 tvg-id="htv4.hr" tvg-name="HTV4" tvg-language="Croatian" tvg-logo="https://i.imgur.com/UVFs4zA.png" tvg-country="HR" tvg-url="http://tvprofil.net/xmltv/data/epg_tvprofil.net.xml" group-title="Vari",Hrvatska 4 Tv
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="Vari",Comedy Movies
-https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Vari",Action Movies
-https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Drama" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="Vari",Drama
-https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Spotlight" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="Vari",Spotlight
-https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Action Movies Religion" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Vari",Action Movies
-https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Big Name" tvg-logo="https://i.imgur.com/hChduSn.png" group-title="Vari",Big Name
-https://alchimie-big-names-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Atelier des chefs" tvg-logo="https://i.imgur.com/laArg26.png" group-title="Vari",Atelier des chefs
-https://alchimie-atelier-des-chefs-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV+ (en)" tvg-logo="https://i.imgur.com/fhcaNlc.png" group-title="Vari",Bloomberg TV+ (en)
-https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Caillou" tvg-logo="https://i.imgur.com/4zJqmw6.png" group-title="Vari",Caillou
-https://dhx-caillou-2-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Drama Movies" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="Vari",Drama Movies
-https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Vari",Euronews
-https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Vari",Fashion TV
-https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Fuel TV" tvg-name="" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="Vari",Fuel TV
-https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport en France" tvg-logo="https://i.imgur.com/6L6hQnn.png" group-title="Vari",Sport en France
-https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sofy TV" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="Vari",Sofy TV
-https://sofytv-samsungfr.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Spotlight" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" group-title="Vari",Spotlight
-https://rakuten-spotlight-7-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stormcast Novelas TV" tvg-logo="https://i.imgur.com/WpQ3N82.png" group-title="Vari",Stormcast Novelas TV
-@@ -131,9 +143,9 @@ https://stormcast-telenovelatv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Shows" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="Vari",TV Shows
-https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Vari",Action Movies
-https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Big Name" tvg-logo="https://i.imgur.com/hChduSn.png" group-title="Vari",Big Name
-https://alchimie-big-names-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="Vari",Comedy Movies
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Vari",Euronews
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Harmony" tvg-id="" tvg-logo="https://i.imgur.com/0FlJWpc.png" group-title="Vari",Harmony
-https://alchimie-classical-harmony-3-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Humanity" tvg-logo="https://i.imgur.com/DFjN26b.jpg" group-title="Vari",Humanity
-https://alchimie-humanity-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MMA TV" tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="Vari",MMA TV
-https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Moods" tvg-logo="https://i.imgur.com/zSdsBGc.jpg" group-title="Vari",Moods
-https://alchimie-moods-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="My Surf TV" tvg-logo="https://i.imgur.com/byD2nrE.png" group-title="Vari",My Surf TV
-https://alchimie-mysurf-3-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="People are Awesome" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="Vari",People are Awesome
-https://jukin-peopleareawesome-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Sophia TV" tvg-id="" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="Vari",Sophia TV
-https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Spotlight" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" group-title="Vari",Spotlight
-https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Supertoons TV" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="Vari",Supertoons TV
-https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Tele Crime" tvg-logo="https://i.imgur.com/MLCYwWD.png" group-title="Vari",Tele Crime
-https://endemol-tele-crimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Tele Drama" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="Vari",Tele Drama
-https://endemol-tele-drama-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Shows" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="Vari",TV Shows
-https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8 
