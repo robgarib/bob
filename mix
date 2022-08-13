@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 04/08/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  14/08/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -1816,6 +1816,47 @@ https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099
 https://lightning-tracesport-samsungau.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 " group-title="SPORT",TV 2 Sporten
 https://ws31-hls-live.akamaized.net/out/u/1416253_1.m3u8
+
+
+
+#EXTINF:-1 " group-title="SPORT",fut1
+http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8
+#EXTINF:-1 " group-title="SPORT",fut2
+http://50.7.92.90/Match_Futbol_2_HD/mono.m3u8
+#EXTINF:-1 " group-title="SPORT",fut3
+http://50.7.92.90/Match_Futbol_3_HD/mono.m3u8
+#EXTINF:-1 " group-title="SPORT",ch66
+http://cdn.vimax.tv/vimax/ch066/video.m3u8?token=98731cd5-250d-4498-b5e9-db368add4128
+#EXTINF:-1 " group-title="SPORT",ch67
+http://cdn.vimax.tv/vimax/ch067/video.m3u8?token=98731cd5-250d-4498-b5e9-db368add4128
+#EXTINF:-1 " group-title="SPORT",ch68
+http://cdn.vimax.tv/vimax/ch068/video.m3u8?token=98731cd5-250d-4498-b5e9-db368add4128
+#EXTINF:-1 " group-title="SPORT",foot1
+http://mfe.cliptv.az/dash/Match_Football_1_HD_kjt.ism/playlist.mpd
+#EXTINF:-1 " group-title="SPORT",foot2
+http://mfe.cliptv.az/dash/Match_Football_2_HD_k2jt.ism/playlist.mpd
+#EXTINF:-1 " group-title="SPORT",foot3
+http://mfe.cliptv.az/dash/Match_Football_3_HD_k3jt.ism/playlist.mpd
+#EXTINF:-1 " group-title="SPORT",cbc sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
+#EXTINF:-1 " group-title="SPORT",prima1
+https://tvonline.biz/prima-play/primasport1.m3u8
+#EXTINF:-1 " group-title="SPORT",prima2
+https://tvonline.biz/prima-play/primasport2.m3u8
+#EXTINF:-1 " group-title="SPORT",prima3
+https://tvonline.biz/prima-play/primasport3.m3u8
+#EXTINF:-1 " group-title="SPORT",prima4
+https://tvonline.biz/prima-play/primasport4.m3u8
+#EXTINF:-1 " group-title="SPORT",espn
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+#EXTINF:-1 " group-title="SPORT",
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
+#EXTINF:-1 " group-title="SPORT",espn2
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
+#EXTINF:-1 " group-title="SPORT",espn3
+https://cvi.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="MUSICA",=== MUSICA ===
 http://patbuweb.com/iptv/e2liste/startend.avi
