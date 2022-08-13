@@ -16,7 +16,9 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-5-au136o25p81j.png" group-title="Canali RAI",RAI 5
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7
-#EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="Canali RAI",RAI Italia Asia 
+#EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="Canali RAI",raitalia1 
+http://210.210.155.35/x6bnqe/s/s63/S4/mnf.m3u8 
+#EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="Canali RAI",raitalia2
 http://210.210.155.35/x6bnqe/s/s63/index2.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-gulp-db8wx0eccr3u.png" group-title="Canali RAI",RAI Gulp
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7
