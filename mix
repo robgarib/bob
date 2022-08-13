@@ -1857,7 +1857,14 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
 #EXTINF:-1 " group-title="SPORT",espn3
 https://cvi.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
-
+#EXTINF:-1 " group-title="SPORT",stream 1
+https://vaeagaa.wedodemos.com/live/_definst_/stream_1_4e329@VG17/chunklist.m3u8
+#EXTINF:-1 " group-title="SPORT",stream 2
+http://210.210.155.35/x6bnqe/s/s63/S4/mnf.m3u8 
+#EXTINF:-1 " group-title="SPORT",stream 3
+http://210.210.155.35/x6bnqe/s/s63/index2.m3u8
+#EXTINF:-1 " group-title="SPORT",
+#EXTINF:-1 " group-title="SPORT",
 
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="MUSICA",=== MUSICA ===
