@@ -1864,8 +1864,22 @@ https://vaeagaa.wedodemos.com/live/_definst_/stream_1_4e329@VG17/chunklist.m3u8
 http://210.210.155.35/x6bnqe/s/s63/S4/mnf.m3u8 
 #EXTINF:-1 " group-title="SPORT",stream 3
 http://210.210.155.35/x6bnqe/s/s63/index2.m3u8
-#EXTINF:-1 " group-title="SPORT",
-#EXTINF:-1 " group-title="SPORT",
+#EXTINF:-1 " group-title="SPORT",Sport 1
+http://lilitv.xyz:80/user1/1user/35446
+#EXTINF:-1 " group-title="SPORT",Sport 2
+http://lilitv.xyz:80/user1/1user/35447
+#EXTINF:-1 " group-title="SPORT",Sport 3
+http://lilitv.xyz:80/user1/1user/35448
+#EXTINF:-1 " group-title="SPORT",Sport 4
+http://lilitv.xyz:80/user1/1user/35449
+#EXTINF:-1 " group-title="SPORT",Sport 5
+http://lilitv.xyz:80/user1/1user/35450
+#EXTINF:-1 " group-title="SPORT",Sport 6
+http://lilitv.xyz:80/user1/1user/35451
+#EXTINF:-1 " group-title="SPORT",Sport 7
+http://lilitv.xyz:80/user1/1user/35452
+#EXTINF:-1 " group-title="SPORT",Sport 8
+http://lilitv.xyz:80/user1/1user/35453
 
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="MUSICA",=== MUSICA ===
