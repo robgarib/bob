@@ -1895,150 +1895,24 @@ http://lilitv.xyz:80/user1/1user/35692
 http://lilitv.xyz:80/user1/1user/35693
 #EXTINF:-1 " group-title="SPORT",ESPN 6
 http://lilitv.xyz:80/user1/1user/35694
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS PREMIUM 1 HD+
-http://2111.space:8080/live/ayman/ayman/42493.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS PREMIUM 2 HD+
-http://2111.space:8080/live/ayman/ayman/42494.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS PREMIUM 3 HD+
-http://2111.space:8080/live/ayman/ayman/42495.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS 1 HD+
-http://2111.space:8080/live/ayman/ayman/42486.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS 2 HD+
-http://2111.space:8080/live/ayman/ayman/42487.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS 3 HD+
-http://2111.space:8080/live/ayman/ayman/42488.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS 4 HD+
-http://2111.space:8080/live/ayman/ayman/42489.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS 5 HD+
-http://2111.space:8080/live/ayman/ayman/42490.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS 6 HD+
-http://2111.space:8080/live/ayman/ayman/42491.ts
-#EXTINF:-1 " group-title="SPORT",,beIN SPORTS 7 HD+
-http://2111.space:8080/live/ayman/ayman/42492.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS PREMIUM MINI 1
-http://2111.space:8080/live/ayman/ayman/1319.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS PREMIUM MINI 2
-http://2111.space:8080/live/ayman/ayman/1318.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS PREMIUM MINI 3
-http://2111.space:8080/live/ayman/ayman/1317.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS MINI1
-http://2111.space:8080/live/ayman/ayman/1326.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS MINI2
-http://2111.space:8080/live/ayman/ayman/1325.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS MINI3
-http://2111.space:8080/live/ayman/ayman/1324.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS MINI4
-http://2111.space:8080/live/ayman/ayman/1323.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS MINI5
-http://2111.space:8080/live/ayman/ayman/1322.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS MINI6
-http://2111.space:8080/live/ayman/ayman/1321.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS MINI7
-http://2111.space:8080/live/ayman/ayman/1320.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS PREMIUM low1
-http://2111.space:8080/live/ayman/ayman/35131.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS PREMIUM low2
-http://2111.space:8080/live/ayman/ayman/35132.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS PREMIUM low3
-http://2111.space:8080/live/ayman/ayman/35133.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS low1
-http://2111.space:8080/live/ayman/ayman/35124.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS low2
-http://2111.space:8080/live/ayman/ayman/35125.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS low3
-http://2111.space:8080/live/ayman/ayman/35126.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS low4
-http://2111.space:8080/live/ayman/ayman/35127.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS low5
-http://2111.space:8080/live/ayman/ayman/35128.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS low6
-http://2111.space:8080/live/ayman/ayman/35129.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS low7
-http://2111.space:8080/live/ayman/ayman/35130.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS PREMIUM  SD1
-http://2111.space:8080/live/ayman/ayman/1329.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS PREMIUM  SD2
-http://2111.space:8080/live/ayman/ayman/1328.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS PREMIUM  SD3
-http://2111.space:8080/live/ayman/ayman/1327.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS SD1
-http://2111.space:8080/live/ayman/ayman/1336.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS SD2
-http://2111.space:8080/live/ayman/ayman/1335.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS SD3
-http://2111.space:8080/live/ayman/ayman/1334.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS SD4
-http://2111.space:8080/live/ayman/ayman/1333.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS SD5
-http://2111.space:8080/live/ayman/ayman/1332.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS SD6
-http://2111.space:8080/live/ayman/ayman/1331.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS SD7
-http://2111.space:8080/live/ayman/ayman/1330.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS PREMIUM  HD1
-http://2111.space:8080/live/ayman/ayman/1832.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS PREMIUM  HD2
-http://2111.space:8080/live/ayman/ayman/1833.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS PREMIUM  HD3
-http://2111.space:8080/live/ayman/ayman/1834.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS HD1
-http://2111.space:8080/live/ayman/ayman/1825.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS HD2
-http://2111.space:8080/live/ayman/ayman/1826.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS HD3
-http://2111.space:8080/live/ayman/ayman/1827.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS HD4
-http://2111.space:8080/live/ayman/ayman/1828.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS HD5
-http://2111.space:8080/live/ayman/ayman/1829.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS HD6
-http://2111.space:8080/live/ayman/ayman/1831.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS HD7
-http://2111.space:8080/live/ayman/ayman/1830.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS PREMIUM  FHD1
-http://2111.space:8080/live/ayman/ayman/1309.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS PREMIUM  FHD2
-http://2111.space:8080/live/ayman/ayman/1308.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS PREMIUM FHD3
-http://2111.space:8080/live/ayman/ayman/1307.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS FHD1
-http://2111.space:8080/live/ayman/ayman/1316.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS FHD2
-http://2111.space:8080/live/ayman/ayman/1315.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS FHD3
-http://2111.space:8080/live/ayman/ayman/1314.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS FHD4
-http://2111.space:8080/live/ayman/ayman/1313.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS FHD5
-http://2111.space:8080/live/ayman/ayman/1312.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS FHD6
-http://2111.space:8080/live/ayman/ayman/1311.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS FHD7
-http://2111.space:8080/live/ayman/ayman/1310.ts
-#EXTINF:-1 " group-title="SPORT",beIN Sports Extra 1HD
-http://2111.space:8080/live/ayman/ayman/36701.ts
-#EXTINF:-1 " group-title="SPORT",beIN Sports Extra 2HD
-http://2111.space:8080/live/ayman/ayman/36702.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS 1 PREMIUM
-http://2111.space:8080/live/ayman/ayman/23820.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS 2 PREMIUM
-http://2111.space:8080/live/ayman/ayman/23821.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS 3 PREMIUM
-http://2111.space:8080/live/ayman/ayman/23822.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS 1
-http://2111.space:8080/live/ayman/ayman/23813.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS 2
-http://2111.space:8080/live/ayman/ayman/23814.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS 3
-http://2111.space:8080/live/ayman/ayman/23815.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS 4
-http://2111.space:8080/live/ayman/ayman/23816.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS 5
-http://2111.space:8080/live/ayman/ayman/23817.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS 6
-http://2111.space:8080/live/ayman/ayman/23818.ts
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS 7
-http://2111.space:8080/live/ayman/ayman/23819.ts
+#EXTINF:-1 " group-title="SPORT",ZDZ
+http://sp-privatetv3.ddns.net:80/donato1/donato1/253810
+#EXTINF:-1 " group-title="SPORT",DZ1
+http://sp-privatetv3.ddns.net:80/donato1/donato1/253805
+#EXTINF:-1 " group-title="SPORT",DZ2
+http://sp-privatetv3.ddns.net:80/donato1/donato1/253804
+#EXTINF:-1 " group-title="SPORT",ZDZ1 HD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/223609
+#EXTINF:-1 " group-title="SPORT",ZDZ2 HD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/255607
+#EXTINF:-1 " group-title="SPORT",ZDZ SD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/223610
+#EXTINF:-1 " group-title="SPORT",DZ1 SD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/248671
+#EXTINF:-1 " group-title="SPORT",DZ1 HD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/248649
+#EXTINF:-1 " group-title="SPORT",DZ2 HD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/248650
 
 
 
