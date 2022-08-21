@@ -1895,6 +1895,39 @@ http://lilitv.xyz:80/user1/1user/35692
 http://lilitv.xyz:80/user1/1user/35693
 #EXTINF:-1 " group-title="SPORT",ESPN 6
 http://lilitv.xyz:80/user1/1user/35694
+#EXTINF:-1 " group-title="SPORT",,ELEVEN SPORTS 1 HD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/247317
+#EXTINF:-1 " group-title="SPORT",ELEVEN SPORTS 2 HD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/247319
+#EXTINF:-1 " group-title="SPORT",ELEVEN SPORTS 3 HD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/247321
+#EXTINF:-1 " group-title="SPORT",ELEVEN SPORTS 4 HD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/247323
+#EXTINF:-1 " group-title="SPORT",ELEVEN SPORTS 5 HD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/247325
+#EXTINF:-1 " group-title="SPORT",ELEVEN SPORTS 6 HD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/247327
+
+#EXTINF:-1 " group-title="SPORT", 1 SD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/248671
+#EXTINF:-1 " group-title="SPORT",2 SD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/248672
+#EXTINF:-1 " group-title="SPORT",3 SD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/248673
+#EXTINF:-1 " group-title="SPORT", 4 SD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/248674
+#EXTINF:-1 " group-title="SPORT", 5 SD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/248675
+#EXTINF:-1 " group-title="SPORT", 6 SD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/248676
+#EXTINF:-1 " group-title="SPORT", 7 SD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/248677
+#EXTINF:-1 " group-title="SPORT", 8 SD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/248678
+#EXTINF:-1 " group-title="SPORT", 9 SD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/248679
+#EXTINF:-1 " group-title="SPORT",10 SD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/248680
 #EXTINF:-1 " group-title="SPORT",ZDZ
 http://sp-privatetv3.ddns.net:80/donato1/donato1/253810
 #EXTINF:-1 " group-title="SPORT",DZ1
@@ -1907,12 +1940,12 @@ http://sp-privatetv3.ddns.net:80/donato1/donato1/223609
 http://sp-privatetv3.ddns.net:80/donato1/donato1/255607
 #EXTINF:-1 " group-title="SPORT",ZDZ SD
 http://sp-privatetv3.ddns.net:80/donato1/donato1/223610
-#EXTINF:-1 " group-title="SPORT",DZ1 SD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/248671
 #EXTINF:-1 " group-title="SPORT",DZ1 HD
 http://sp-privatetv3.ddns.net:80/donato1/donato1/248649
 #EXTINF:-1 " group-title="SPORT",DZ2 HD
 http://sp-privatetv3.ddns.net:80/donato1/donato1/248650
+
+
 
 
 
