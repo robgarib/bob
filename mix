@@ -1895,57 +1895,56 @@ http://lilitv.xyz:80/user1/1user/35692
 http://lilitv.xyz:80/user1/1user/35693
 #EXTINF:-1 " group-title="SPORT",ESPN 6
 http://lilitv.xyz:80/user1/1user/35694
-#EXTINF:-1 " group-title="SPORT",,ELEVEN SPORTS 1 HD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/247317
-#EXTINF:-1 " group-title="SPORT",ELEVEN SPORTS 2 HD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/247319
-#EXTINF:-1 " group-title="SPORT",ELEVEN SPORTS 3 HD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/247321
-#EXTINF:-1 " group-title="SPORT",ELEVEN SPORTS 4 HD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/247323
-#EXTINF:-1 " group-title="SPORT",ELEVEN SPORTS 5 HD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/247325
-#EXTINF:-1 " group-title="SPORT",ELEVEN SPORTS 6 HD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/247327
-
-#EXTINF:-1 " group-title="SPORT", 1 SD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/248671
-#EXTINF:-1 " group-title="SPORT",2 SD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/248672
-#EXTINF:-1 " group-title="SPORT",3 SD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/248673
-#EXTINF:-1 " group-title="SPORT", 4 SD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/248674
-#EXTINF:-1 " group-title="SPORT", 5 SD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/248675
-#EXTINF:-1 " group-title="SPORT", 6 SD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/248676
-#EXTINF:-1 " group-title="SPORT", 7 SD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/248677
-#EXTINF:-1 " group-title="SPORT", 8 SD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/248678
-#EXTINF:-1 " group-title="SPORT", 9 SD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/248679
-#EXTINF:-1 " group-title="SPORT",10 SD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/248680
-#EXTINF:-1 " group-title="SPORT",ZDZ
-http://sp-privatetv3.ddns.net:80/donato1/donato1/253810
-#EXTINF:-1 " group-title="SPORT",DZ1
-http://sp-privatetv3.ddns.net:80/donato1/donato1/253805
-#EXTINF:-1 " group-title="SPORT",DZ2
-http://sp-privatetv3.ddns.net:80/donato1/donato1/253804
-#EXTINF:-1 " group-title="SPORT",ZDZ1 HD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/223609
-#EXTINF:-1 " group-title="SPORT",ZDZ2 HD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/255607
-#EXTINF:-1 " group-title="SPORT",ZDZ SD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/223610
-#EXTINF:-1 " group-title="SPORT",DZ1 HD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/248649
-#EXTINF:-1 " group-title="SPORT",DZ2 HD
-http://sp-privatetv3.ddns.net:80/donato1/donato1/248650
-
-
+#EXTINF:-1 " group-title="SPORT",Zona 
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/410420
+#EXTINF:-1 " group-title="SPORT",Zona G a
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/410418
+#EXTINF:-1 " group-title="SPORT", 01
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/313525
+#EXTINF:-1 " group-title="SPORT", 02
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/313524
+#EXTINF:-1 " group-title="SPORT", 03
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/313523
+#EXTINF:-1 " group-title="SPORT", 04
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/313522
+#EXTINF:-1 " group-title="SPORT", 05
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/313521
+#EXTINF:-1 " group-title="SPORT", 06
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/313520
+#EXTINF:-1 " group-title="SPORT", 07
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/313519
+#EXTINF:-1 " group-title="SPORT", 08
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/313518
+#EXTINF:-1 " group-title="SPORT", 09
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/389063
+#EXTINF:-1 " group-title="SPORT", 10
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/389064
+#EXTINF:-1 " group-title="SPORT",DAZN 11
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/410426
+#EXTINF:-1 " group-title="SPORT", 12
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/410425
+#EXTINF:-1 " group-title="SPORT", 13
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/410424
+#EXTINF:-1 " group-title="SPORT", 14
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/410423
+#EXTINF:-1 " group-title="SPORT",  15
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/410422
+#EXTINF:-1 " group-title="SPORT", 16
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/410421
+#EXTINF:-1 " group-title="SPORT",Zona  FHD
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/281473
+#EXTINF:-1 " group-title="SPORT",Zona  SD
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/281474
+#EXTINF:-1 " group-title="SPORT",Zona  HD
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/391280
+#EXTINF:-1 " group-title="SPORT",Zona 2 FHD 
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/410413
+#EXTINF:-1 " group-title="SPORT",Zona  2 HD 
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/410414
+#EXTINF:-1 " group-title="SPORT",Zona  2 SD 
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/410415
+#EXTINF:-1 " group-title="SPORT",Zona G
+http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/313365
 
 
 
