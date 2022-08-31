@@ -714,7 +714,7 @@ https://4e2e58758a334de4b01b25ab2e5f89c7.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="SPORT",=== SPORT ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1" group-title="SPORT",Sky sport 24 
-https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+http://sp-privatetv3.ddns.net:80/donato1/donato1/107974
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/grtv.jpg" group-title="SPORT",Giornale Radio Tv Sport
 https://5e73cf528f404.streamlock.net/GR_sport/livestream/chunklist_w1501899689.m3u8
 #EXTINF:-1 " group-title="SPORT",Rai Sport + HD
@@ -1920,7 +1920,7 @@ http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/313518
 http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/389063
 #EXTINF:-1 " group-title="SPORT", 10
 http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/389064
-#EXTINF:-1 " group-title="SPORT",DAZN 11
+#EXTINF:-1 " group-title="SPORT", 11
 http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/410426
 #EXTINF:-1 " group-title="SPORT", 12
 http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/410425
@@ -2062,7 +2062,10 @@ http://sp-privatetv3.ddns.net:80/donato1/donato1/248690
 http://sp-privatetv3.ddns.net:80/donato1/donato1/248691
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 22 SD" tvg-logo="https://i.imgur.com/9R2pDze.png" group-title="SPORT", 22 SD
 http://sp-privatetv3.ddns.net:80/donato1/donato1/248692
-
+title="SPORT",Euro 1 HD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/107940
+#EXTINF:-1 tvg-id="Eurosport 2HD" tvg-name="Eurosport 2 HD" tvg-logo="https://i.imgur.com/GPdQQDB.png" group-title="SPORT",Euro 2 HD
+http://sp-privatetv3.ddns.net:80/donato1/donato1/107937
 
 
 
