@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  31/08/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  01/09/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -89,6 +89,10 @@ http://patbuweb.com/iptv/e2liste/startend.avi
 http://sp-privatetv3.ddns.net:80/donato1/donato1/255157
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="RSI DISCOVERY e SKY",RSI La2 HD
 http://sp-privatetv3.ddns.net:80/donato1/donato1/255156
+#EXTINF:-1 tvg-id="" tvg-name="IT: RSI La1 HD" tvg-logo="" group-title="RSI DISCOVERY e SKY",IT: RSI La1 HD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/208759
+#EXTINF:-1 tvg-id="" tvg-name="IT: RSI La2 HD" tvg-logo="" group-title="RSI DISCOVERY e SKY",IT: RSI La2 HD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/208760
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="RSI DISCOVERY e SKY",RSI La1
 http://190.2.155.162/RSI1/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2.png" group-title="RSI DISCOVERY e SKY",RSI La2
@@ -171,11 +175,11 @@ https://tivustream.website/urls/bicitv
 https://play.cdn.enetres.net/79CE6A0C6AF94F7EB0F93BD0DE2949EF029/02116/playlist.m3u8
 #EXTINF:-1 tvg-name="TMW Radio Tv" tvg-logo="https://i2.wp.com/www.fm-world.it/data/uploads/2020/01/tmw2.png?resize=810%2C446&ssl=1" tvg-shift="0" group-title="TOP ITALIA",TMW Radio Tv
 https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-24-live.jpg" group-title="TOP ITALIA ",SportItalia 24 LIVE
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-24-live.jpg" group-title="TOP ITALIA",SportItalia 24 LIVE
 https://di-l1o0e8cu.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-solocalcio.jpg" group-title="TOP ITALIA ",SportItalia Solocalcio
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-solocalcio.jpg" group-title="TOP ITALIA",SportItalia Solocalcio
 https://di-l1o0e8cu.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia.png" group-title="TOP ITALIA ",SportItalia
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia.png" group-title="TOP ITALIA",SportItalia
 https://di-l1o0e8cu.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Top Calcio 24" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-top-calcio-24-7160-300x225.jpg" tvg-shift="0" group-title="TOP ITALIA",Top Calcio 24
 https://tivustream.website/urls/topcal24
@@ -1867,6 +1871,26 @@ https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 https://bit.ly/BeinSportXtra?/master.m3u8
 #EXTINF:-1 " group-title="SPORT",BeIN Sport Extra 4
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports 1 HD" tvg-logo="" group-title="SPORT",FR: Bein 1 HD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/207309
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports 2 HD" tvg-logo="" group-title="SPORT",FR: Bein  2 HD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/207312
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports  3 HD" tvg-logo="" group-title="SPORT",FR: Bein  3 HD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/207314
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 4" tvg-logo="" group-title="SPORT",FR: Bein  MAX 4
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/207315
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 5" tvg-logo="" group-title="SPORT",FR: Bein  MAX 5
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/207316
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 6" tvg-logo="" group-title="SPORT",FR: Bein  MAX 6
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/207317
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 7" tvg-logo="" group-title="SPORT",FR: Bein  MAX 7
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/207318
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 8" tvg-logo="" group-title="SPORT",FR: Bein  MAX 8
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/207319
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 9" tvg-logo="" group-title="SPORT",FR: Bein  MAX 9
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/207320
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 10" tvg-logo="" group-title="SPORT",FR: Bein  MAX 10
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/207321
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-country="TM" tvg-language="Turkmen" tvg-logo="" group-title="SPORT",Türkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-country="TM" tvg-language="Turkmen" tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg" group-title="SPORT",Türkmenistan Sport
@@ -1893,8 +1917,6 @@ http://wrioslio.altervista.org/TV/scapers/match.php?id=eurosport1rus
 http://wrioslio.altervista.org/TV/scapers/match.php?id=ruseuro2
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",bel555
 http://wrioslio.altervista.org/TV/scapers/match.php?id=bel555
-
-
 
 #EXTINF:-1 " group-title="SPORT",Zona 
 http://zenpri.noip.uno:8080/garry732/B4bB9vHzEg/410420
@@ -1962,7 +1984,7 @@ http://sp-privatetv3.ddns.net:80/donato1/donato1/253802
 http://sp-privatetv3.ddns.net:80/donato1/donato1/253801
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 6 PRIVO" tvg-logo="https://i.imgur.com/9R2pDze.png" group-title="SPORT",6
 http://sp-privatetv3.ddns.net:80/donato1/donato1/253800
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 7 PRIVO" tvg-logo="https://i.imgur.com/9R2pDze.png" group-title="SPORTE",7
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 7 PRIVO" tvg-logo="https://i.imgur.com/9R2pDze.png" group-title="SPORT",7
 http://sp-privatetv3.ddns.net:80/donato1/donato1/253799
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 8 PRIVO" tvg-logo="https://i.imgur.com/9R2pDze.png" group-title="SPORT",8
 http://sp-privatetv3.ddns.net:80/donato1/donato1/253798
@@ -2062,7 +2084,7 @@ http://sp-privatetv3.ddns.net:80/donato1/donato1/248690
 http://sp-privatetv3.ddns.net:80/donato1/donato1/248691
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 22 SD" tvg-logo="https://i.imgur.com/9R2pDze.png" group-title="SPORT", 22 SD
 http://sp-privatetv3.ddns.net:80/donato1/donato1/248692
-title="SPORT",Euro 1 HD
+#EXTINF:-1 tvg-id="Eurosport 1HD" tvg-name="Eurosport 1 HD" tvg-logo="https://i.imgur.com/GPdQQDB.png" group-title="SPORT",Euro 1 HD
 http://sp-privatetv3.ddns.net:80/donato1/donato1/107940
 #EXTINF:-1 tvg-id="Eurosport 2HD" tvg-name="Eurosport 2 HD" tvg-logo="https://i.imgur.com/GPdQQDB.png" group-title="SPORT",Euro 2 HD
 http://sp-privatetv3.ddns.net:80/donato1/donato1/107937
