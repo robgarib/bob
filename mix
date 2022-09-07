@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  06/09/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  07/09/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -1917,6 +1917,41 @@ http://wrioslio.altervista.org/TV/scapers/match.php?id=eurosport1rus
 http://wrioslio.altervista.org/TV/scapers/match.php?id=ruseuro2
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",bel555
 http://wrioslio.altervista.org/TV/scapers/match.php?id=bel555
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 8" tvg-logo="" group-title="SPORT",BT Sport 1 FHD UK
+http://clientportal.link:80/BLiNb4XrmV640/GCmAeO465/14657
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 8" tvg-logo="" group-title="SPORT",BT Sport 1 HD UK
+http://clientportal.link:80/BLiNb4XrmV640/GCmAeO465/1991
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 8" tvg-logo="" group-title="SPORT",BT Sport 1 UK
+http://clientportal.link:80/BLiNb4XrmV640/GCmAeO465/3586
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 8" tvg-logo="" group-title="SPORT",BT Sport 2 FHD UK
+http://clientportal.link:80/BLiNb4XrmV640/GCmAeO465/14658
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 8" tvg-logo="" group-title="SPORT",BT Sport 2 HD UK
+http://clientportal.link:80/BLiNb4XrmV640/GCmAeO465/1992
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 8" tvg-logo="" group-title="SPORT",BT Sport 2 UK
+http://clientportal.link:80/BLiNb4XrmV640/GCmAeO465/3588
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 8" tvg-logo="" group-title="SPORT",BT Sport 3 FHD UK
+http://clientportal.link:80/BLiNb4XrmV640/GCmAeO465/14659
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 8" tvg-logo="" group-title="SPORT",BT Sport 3 UK
+http://clientportal.link:80/BLiNb4XrmV640/GCmAeO465/1965
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 8" tvg-logo="" group-title="SPORT",BT Sport 3 HD UK
+http://clientportal.link:80/BLiNb4XrmV640/GCmAeO465/14903
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 8" tvg-logo="" group-title="SPORT",BT Sport Box Office FHD (Live During Events Only)
+http://clientportal.link:80/BLiNb4XrmV640/GCmAeO465/23754
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 8" tvg-logo="" group-title="SPORT",BT Sport Box Office HD
+http://clientportal.link:80/BLiNb4XrmV640/GCmAeO465/23755
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 8" tvg-logo="" group-title="SPORT",BT Sport 4 UK
+http://clientportal.link:80/BLiNb4XrmV640/GCmAeO465/2673
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 8" tvg-logo="" group-title="SPORT",BT Sport 4 FHD UK
+http://clientportal.link:80/BLiNb4XrmV640/GCmAeO465/1980
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 8" tvg-logo="" group-title="SPORT",BT Sport 5 UK
+http://clientportal.link:80/BLiNb4XrmV640/GCmAeO465/14778
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 8" tvg-logo="" group-title="SPORT",BT Sport 6 UK
+http://clientportal.link:80/BLiNb4XrmV640/GCmAeO465/14809
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 8" tvg-logo="" group-title="SPORT",BT Sport 7 UK
+http://clientportal.link:80/BLiNb4XrmV640/GCmAeO465/14808
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 8" tvg-logo="" group-title="SPORT",BT Sport 8 UK
+http://clientportal.link:80/BLiNb4XrmV640/GCmAeO465/14807
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Channel HD
 http://happook147.com:80/Marino4/t8iJ6EsMZk/146381
