@@ -1883,6 +1883,40 @@ http://wrioslio.altervista.org/TV/scapers/match.php?id=eurosport1rus
 http://wrioslio.altervista.org/TV/scapers/match.php?id=ruseuro2
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",bel555
 http://wrioslio.altervista.org/TV/scapers/match.php?id=bel555
+
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",BT Sports 1
+http://89.105.216.95:8080/mag00:1A:79:69:AD:55/QVAALDiYjY/170925?play_token=PM2XMlC5Cn&token=GBQKAkBYRFhBU1QHB1oMCVIGVAJUBABRUAcGDVsFBQdUU1oAVwkHAFsXT0dDTUtcAFk9XQFAXgJVAwoKVhgVFBBTEDxaVERYQQZWVQcOCRtNFhZdCAdGCVMFBgtXBA5XVAZOQUNZAkBZF1ZQBgkBG00WB0wRBxZdA19sXAZCXgIGFFgNRlwKTkFaDTpUXFRYD1BADkdTRh9AWkBIQQ5ZFA9aTkFRWRIQAkEGRwpXTFUNGEBXChcKRxBKEQJBYnlDTxQHG0dVCBEKWg1HChtNSkMYQF0WPRZWEUdBXQJZUhNBDEBTERxEDwJNPAZfV1dcAkALWwsRRglAAhEUQVlYDwpCDRFsQA8GQQ9BUAUMDghDSQ==
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",BT Sports 2
+http://89.105.216.95:8080/mag00:1A:79:69:AD:55/QVAALDiYjY/170877?play_token=T7Lve9bQEA&token=GBQKAkBYRFhBAVoHCAFcX1YAVgdSVAZWBFAGD1VVBFABUFsGVQdfBgIXT0dDTUtcAFk9XQFAXgJVAwsPVBgVFBBTEDxaVERYQQZWVQcOCRtNFhZdCAdGCVMFBgtXBA5WVQFOQUNZAkBZF1ZSAwgAG00WB0wRBxZdA19sXAZCXgIGFFgNRlwKTkFaDTpUXFRYD1BADkdTRh9AWkBIQQ5ZFA9aTkFRWRIQAkEGRwpXTFUNGEBXChcKRxBKEQJBYnlDTxQHG0dVCBEKWg1HChtNSkMYQF0WPRZWEUdBXQJZUhNBDEBTERxEDwJNPAZfV1dcAkALWwsRRglAAhEUQVlYDwpCDRFsQA8GQQ9BUAcKCQ1DSQ==
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",BT Sports 3
+http://89.105.216.95:8080/mag00:1A:79:69:AD:55/QVAALDiYjY/170927?play_token=SPUHtijS5p&token=GBQKAkBYRFhBA1pcAQwPWlkCVQBdB1NRVARQWVQMUlZTBwYAVgFXVQUXT0dDTUtcAFk9XQFAXgJVAwoKVBgVFBBTEDxaVERYQQZWVQcOCRtNFhZdCAdGCVMFBgtXBA5WVAVOQUNZAkBZWxYJXBUbXBlAB0YLAwhsBlZFUQBRFVsNQw4PHxIJDDxRBghRV10bWxZTFklADUASEQlWFlhbTUFUCxdBURIHQQ8NEFxVFRsCWxdaERAdEVgRZXZBGBUEG0IHDUBZCQxBD0ERQxsVGwhHPUYAERBBB1JeXREWDUNTFE5BXlEePQBaDQtVWk1QDloRFl9AVRFOEV5XDV1DDhFpEgpXElwMFlkPGA==
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Ziggo Sport HD
+http://178.251.29.82:7250/play/a002
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Ziggo Sport Select HD
+http://178.251.29.82:7250/play/a00s
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Ziggo Sport Voetbal HD
+http://178.251.29.82:7250/play/a00l
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",,Fox Sports 1
+http://170.83.242.155:5350/play/a01h
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Fox Sports 2
+http://170.83.242.155:5350/play/a013
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Fox Sports 3
+http://170.83.242.155:5350/play/a014
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Fox Sports 1
+http://170.83.242.155:5350/play/a01h
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Fox Sports 2
+http://170.83.242.155:5350/play/a013
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Fox Sports 3
+http://170.83.242.155:5350/play/a014
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Setanta Sports 1 HD
+https://livetv.mylifeisgood.ml/channels/setantahd
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Setanta Sports 1 HD
+http://195.2.74.99/channel/n1269af8b/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Setanta Sports 2 HD
+https://livetv.mylifeisgood.ml/channels/setantaplus
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Setanta Sports 2 HD
+http://195.2.74.99/channel/n12693b2c/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+
 #EXTINF:-1 " group-title="SPORT",BeIN Sport 1
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
 #EXTINF:-1 " group-title="SPORT",BeIN Sport 2
