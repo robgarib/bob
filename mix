@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  12/09/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  13/09/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -1208,36 +1208,6 @@ http://185.236.229.53:9981/play/a006
 http://82.194.1.2:8016/play/E36_11785R_SID1329/index.m3u8
 #EXTINF:-1 " group-title="SPORT",Eurosport 2
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8
-#EXTINF:-1 " group-title="SPORT",Eurosport 2
-http://193.151.107.120:8000/play/122/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Eurosport 2 HD
-http://89.249.49.78:8000/play/a0f4
-#EXTINF:-1 " group-title="SPORT",Eurosport 2 HD
-http://185.236.229.53:9981/play/a03e
-#EXTINF:-1 " group-title="SPORT",Eurosport 2 HD Xtra
-http://185.236.229.53:9981/play/a007
-#EXTINF:-1 " group-title="SPORT",Eurosport 4k hd
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
-#EXTINF:-1 " group-title="SPORT",Eurosport News
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORTNEWS/variant.m3u8
-#EXTINF:-1 " group-title="SPORT",Eurosport360HD 1
-http://185.236.229.53:9981/play/a024
-#EXTINF:-1 " group-title="SPORT",Eurosport360HD 2
-http://185.236.229.53:9981/play/a01n
-#EXTINF:-1 " group-title="SPORT",Eurosport360HD 3
-http://185.236.229.53:9981/play/a03d
-#EXTINF:-1 " group-title="SPORT",Eurosport360HD 4
-http://185.236.229.53:9981/play/a00f
-#EXTINF:-1 " group-title="SPORT",Eurosport360HD 5
-http://185.236.229.53:9981/play/a02n
-#EXTINF:-1 " group-title="SPORT",Eurosport360HD 6
-http://185.236.229.53:9981/play/a019
-#EXTINF:-1 " group-title="SPORT",Eurosport360HD 7
-http://185.236.229.53:9981/play/a01d
-#EXTINF:-1 " group-title="SPORT",Eurosport360HD 8
-http://185.236.229.53:9981/play/a01s
-#EXTINF:-1 " group-title="SPORT",Eurosport360HD 9
-http://185.236.229.53:9981/play/a03m
 #EXTINF:-1 " group-title="SPORT",Extreme Sports
 https://sc.id-tv.kz/ExtremeSportsHD_34_35.m3u8
 #EXTINF:-1 " group-title="SPORT",Extreme Sports
@@ -1554,50 +1524,6 @@ http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/HasBahCa.m3u8
 http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 " group-title="SPORT",TEN SPORTS
 http://103.157.201.11:9000/play/a003/index.m3u8
-#EXTINF:-1 " group-title="SPORT",The Pet Collectiveᴴᴰ
-https://bit.ly/3sYLlrg
-#EXTINF:-1 " group-title="SPORT",Thrill One Sport
-https://stitcheraws.unreel.me/wse-node05.powr.com/live/60ad16189590a654243e9655/HasBahCa.m3u8
-#EXTINF:-1 " group-title="SPORT",TIGO SPORT HD
-https://cp.serviaudio.com:1936/8014/8014/chunklist_w898054704.m3u8
-#EXTINF:-1 " group-title="SPORT",Tivibu Spor
-http://mugla.tvizlehd.com/live/tivibuspor.m3u8
-#EXTINF:-1 " group-title="SPORT",TiViBU SPOR HD
-http://livesx.canlitv.center/tivibuspor3.m3u8
-#EXTINF:-1 " group-title="SPORT",TM:Turkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 " group-title="SPORT",TNT Sport 3
-http://45.236.175.0:9600/play/a010
-#EXTINF:-1,TNT Sports  Brasil
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 " group-title="SPORT",TNT SPORTS 2
-http://45.236.175.0:9600/play/a03h
-#EXTINF:-1 " group-title="SPORT",TNT Sports 2 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 " group-title="SPORT",TNT Sports 2 Brasil (720p)
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",TNT Sports 2 Brasil (720p) [Not 24/7]
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",TNT Sports 3 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 " group-title="SPORT",TNT Sports 3 Brasil (720p)
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",TNT Sports 3 Brasil (720p)
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",TNT Sports 4 Brasil (720p)
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",TNT Sports 4 Brasil (720p) [Not 24/7]
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",TNT Sports 5 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 " group-title="SPORT",TNT Sports 5 Brasil (720p)
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",TNT Sports 5 Brasil (720p) [Not 24/7]
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Trace Sport Stars (Australia)
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 " group-title="SPORT",TRT 3 Spor
 http://195.155.98.170:5858/play/a09m
 #EXTINF:-1 " group-title="SPORT",TRT SPOR
@@ -1630,44 +1556,6 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 " group-title="SPORT",TVRI Sports
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8$OPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-#EXTINF:-1 " group-title="SPORT",TVS Boxing (480p)
-https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
-#EXTINF:-1 " group-title="SPORT",TVS Classic Sports (360p)
-http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
-#EXTINF:-1 " group-title="SPORT",TVS Classic Sports (720p)
-http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
-#EXTINF:-1 " group-title="SPORT",TVS Sports (720p) [Not 24/7]
-https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
-#EXTINF:-1 " group-title="SPORT",TVS Sports (960p)
-https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
-#EXTINF:-1 " group-title="SPORT",TVS Sports Bureau (720p)
-https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
-#EXTINF:-1 " group-title="SPORT",TVS Sports Bureau (720p)
-https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
-#EXTINF:-1 " group-title="SPORT",TVS Turbo (360p)
-https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-#EXTINF:-1 " group-title="SPORT",TVS Turbo (360p)
-https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-#EXTINF:-1 " group-title="SPORT",TVS Women Sports (360p)
-https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
-#EXTINF:-1 " group-title="SPORT",TVS Women Sports (480p)
-https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
-#EXTINF:-1 " group-title="SPORT",TyC SPORT PLAY 1
-https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
-#EXTINF:-1 " group-title="SPORT",TyC SPORT PLAY 2
-https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
-#EXTINF:-1 " group-title="SPORT",TyC SPORT PLAY 3
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
-#EXTINF:-1 " group-title="SPORT",TyC SPORT PLAY 4
-https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
-#EXTINF:-1 " group-title="SPORT",TyC SPORT PLAY 6
-https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
-#EXTINF:-1 " group-title="SPORT",TyC Sports HD
-https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
-#EXTINF:-1 " group-title="SPORT",TYC SPORTS PLAY
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
-#EXTINF:-1 " group-title="SPORT",TYC SPORTS PLAY
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 #EXTINF:-1 " group-title="SPORT",Türkmenistan Sport
 http://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:-1 " group-title="SPORT",Türkmenistan Sport (406p)
@@ -1884,6 +1772,30 @@ http://wrioslio.altervista.org/TV/scapers/match.php?id=ruseuro2
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",bel555
 http://wrioslio.altervista.org/TV/scapers/match.php?id=bel555
 
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",MATCH! FOOTBALL 1
+http://213.172.73.170:8081/nimble_live/1111__Mat4_Futbol_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",MATCH! FOOTBALL 2
+http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",MATCH! FOOTBALL 3
+http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",MATCH! FOOTBALL 1
+http://193.33.88.172:8080/football1_hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",MATCH! FOOTBALL 2
+http://193.33.88.172:8080/football2_hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",MATCH! FOOTBALL 3
+http://193.33.88.172:8080/football3_hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",MATCH!
+http://193.33.88.172:8080/match_hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",MATCH!
+http://193.33.88.172:8080/match/index.m3u8
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",FOOTBALL
+http://193.33.88.172:8080/football/index.m3u8
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",ESPN 1
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",ESPN 2
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",ESPN 3
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",BT Sports 1
 http://89.105.216.95:8080/mag00:1A:79:69:AD:55/QVAALDiYjY/170925?play_token=PM2XMlC5Cn&token=GBQKAkBYRFhBU1QHB1oMCVIGVAJUBABRUAcGDVsFBQdUU1oAVwkHAFsXT0dDTUtcAFk9XQFAXgJVAwoKVhgVFBBTEDxaVERYQQZWVQcOCRtNFhZdCAdGCVMFBgtXBA5XVAZOQUNZAkBZF1ZQBgkBG00WB0wRBxZdA19sXAZCXgIGFFgNRlwKTkFaDTpUXFRYD1BADkdTRh9AWkBIQQ5ZFA9aTkFRWRIQAkEGRwpXTFUNGEBXChcKRxBKEQJBYnlDTxQHG0dVCBEKWg1HChtNSkMYQF0WPRZWEUdBXQJZUhNBDEBTERxEDwJNPAZfV1dcAkALWwsRRglAAhEUQVlYDwpCDRFsQA8GQQ9BUAUMDghDSQ==
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",BT Sports 2
