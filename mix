@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  13/09/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  14/09/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -1276,60 +1276,6 @@ https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
 https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
 #EXTINF:-1 " group-title="SPORT",Harley Davidson Rides TV EN
 https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
-#EXTINF:-1 " group-title="SPORT",IMPACT! Wrestling (1080p)
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 " group-title="SPORT",IN SPORT TV
-https://sc.id-tv.kz/INSPORTHD_34_35.m3u8
-#EXTINF:-1 " group-title="SPORT",Insight TV
-https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Jordan Sport
-http://149.62.183.198:8000/play/a0b7/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Jordan Sport HD
-http://149.62.183.198:8000/play/a09b/index.m3u8
-#EXTINF:-1 " group-title="SPORT",KBP Sports (720p) [Not 24/7]
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",KHL HD
-http://91.185.3.218:4000/play/404
-#EXTINF:-1 " group-title="SPORT",KSA Sport 1
-http://149.62.183.198:8000/play/a0bo/index.m3u8
-#EXTINF:-1 " group-title="SPORT",KSA Sports +1
-http://149.62.183.198:8000/play/a0bu/index.m3u8
-#EXTINF:-1 " group-title="SPORT",,KSA SPORTS 1
-http://103.157.201.11:9000/play/a01m/index.m3u8
-#EXTINF:-1 " group-title="SPORT",KSA Sports 2
-http://149.62.183.198:8000/play/a0bn/index.m3u8
-#EXTINF:-1 " group-title="SPORT",KSA SPORTS 2
-http://103.157.201.11:9000/play/a01l/index.m3u8
-#EXTINF:-1 " group-title="SPORT",KSA SPORTS 2 HD
-http://149.62.183.214:8000/play/a066/index.m3u8
-#EXTINF:-1 " group-title="SPORT",KSA SPORTS 2 HD
-http://103.153.39.36:9981/stream/channelid/736511355?profile=pass
-#EXTINF:-1 " group-title="SPORT",KSA Sports 3
-http://149.62.183.214:8000/play/a065/index.m3u8
-#EXTINF:-1 " group-title="SPORT",KSA Sports 3
-http://103.153.39.36:9981/stream/channelid/1146198342?profile=pass
-#EXTINF:-1 " group-title="SPORT",KSA SPORTS1 HD
-http://149.62.183.214:8000/play/a05u/index.m3u8
-#EXTINF:-1 " group-title="SPORT",KSA SPORTS1 HD
-http://103.153.39.36:9981/stream/channelid/1791025222?profile=pass
-#EXTINF:-1 " group-title="SPORT",KTV Sport (1080p)
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
-#EXTINF:-1 " group-title="SPORT",KTV Sport Plus (1080p)
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
-#EXTINF:-1 " group-title="SPORT",Lax Sports Network TV
-https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-#EXTINF:-1 " group-title="SPORT",Lax Sports Network TV (720p)
-https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-#EXTINF:-1 " group-title="SPORT",Libya Sport 2 HD
-http://149.62.183.198:8000/play/a06i/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Libya Sport 2 HD
-http://149.62.183.214:8000/play/a00y/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Libya Sport Channel
-http://149.62.183.198:8000/play/a06f/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Libya Sport Channel
-http://45.94.31.195:7002/play/a0fn
-#EXTINF:-1 " group-title="SPORT",LN Sports
-https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
 #EXTINF:-1 " group-title="SPORT",Look Sport
 https://stream1.1616.ro:1945/look/livestream/HasBahCa.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
 #EXTINF:-1 " group-title="SPORT",Look Sport 2
@@ -1772,61 +1718,75 @@ http://wrioslio.altervista.org/TV/scapers/match.php?id=ruseuro2
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",bel555
 http://wrioslio.altervista.org/TV/scapers/match.php?id=bel555
 
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",MATCH! FOOTBALL 1
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",MATCH! FOOTBALL 1
 http://213.172.73.170:8081/nimble_live/1111__Mat4_Futbol_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",MATCH! FOOTBALL 2
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",MATCH! FOOTBALL 2
 http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",MATCH! FOOTBALL 3
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",MATCH! FOOTBALL 3
 http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",MATCH! FOOTBALL 1
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",MATCH! FOOTBALL 1
 http://193.33.88.172:8080/football1_hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",MATCH! FOOTBALL 2
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",MATCH! FOOTBALL 2
 http://193.33.88.172:8080/football2_hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",MATCH! FOOTBALL 3
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",MATCH! FOOTBALL 3
 http://193.33.88.172:8080/football3_hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",MATCH!
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",MATCH!
 http://193.33.88.172:8080/match_hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",MATCH!
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",MATCH!
 http://193.33.88.172:8080/match/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",FOOTBALL
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",FOOTBALL
 http://193.33.88.172:8080/football/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",ESPN 1
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",ESPN 1
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",ESPN 2
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",ESPN 2
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",ESPN 3
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",ESPN 3
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",BT Sports 1
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",BT Sports 1
 http://89.105.216.95:8080/mag00:1A:79:69:AD:55/QVAALDiYjY/170925?play_token=PM2XMlC5Cn&token=GBQKAkBYRFhBU1QHB1oMCVIGVAJUBABRUAcGDVsFBQdUU1oAVwkHAFsXT0dDTUtcAFk9XQFAXgJVAwoKVhgVFBBTEDxaVERYQQZWVQcOCRtNFhZdCAdGCVMFBgtXBA5XVAZOQUNZAkBZF1ZQBgkBG00WB0wRBxZdA19sXAZCXgIGFFgNRlwKTkFaDTpUXFRYD1BADkdTRh9AWkBIQQ5ZFA9aTkFRWRIQAkEGRwpXTFUNGEBXChcKRxBKEQJBYnlDTxQHG0dVCBEKWg1HChtNSkMYQF0WPRZWEUdBXQJZUhNBDEBTERxEDwJNPAZfV1dcAkALWwsRRglAAhEUQVlYDwpCDRFsQA8GQQ9BUAUMDghDSQ==
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",BT Sports 2
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",BT Sports 2
 http://89.105.216.95:8080/mag00:1A:79:69:AD:55/QVAALDiYjY/170877?play_token=T7Lve9bQEA&token=GBQKAkBYRFhBAVoHCAFcX1YAVgdSVAZWBFAGD1VVBFABUFsGVQdfBgIXT0dDTUtcAFk9XQFAXgJVAwsPVBgVFBBTEDxaVERYQQZWVQcOCRtNFhZdCAdGCVMFBgtXBA5WVQFOQUNZAkBZF1ZSAwgAG00WB0wRBxZdA19sXAZCXgIGFFgNRlwKTkFaDTpUXFRYD1BADkdTRh9AWkBIQQ5ZFA9aTkFRWRIQAkEGRwpXTFUNGEBXChcKRxBKEQJBYnlDTxQHG0dVCBEKWg1HChtNSkMYQF0WPRZWEUdBXQJZUhNBDEBTERxEDwJNPAZfV1dcAkALWwsRRglAAhEUQVlYDwpCDRFsQA8GQQ9BUAcKCQ1DSQ==
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",BT Sports 3
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",BT Sports 3
 http://89.105.216.95:8080/mag00:1A:79:69:AD:55/QVAALDiYjY/170927?play_token=SPUHtijS5p&token=GBQKAkBYRFhBA1pcAQwPWlkCVQBdB1NRVARQWVQMUlZTBwYAVgFXVQUXT0dDTUtcAFk9XQFAXgJVAwoKVBgVFBBTEDxaVERYQQZWVQcOCRtNFhZdCAdGCVMFBgtXBA5WVAVOQUNZAkBZWxYJXBUbXBlAB0YLAwhsBlZFUQBRFVsNQw4PHxIJDDxRBghRV10bWxZTFklADUASEQlWFlhbTUFUCxdBURIHQQ8NEFxVFRsCWxdaERAdEVgRZXZBGBUEG0IHDUBZCQxBD0ERQxsVGwhHPUYAERBBB1JeXREWDUNTFE5BXlEePQBaDQtVWk1QDloRFl9AVRFOEV5XDV1DDhFpEgpXElwMFlkPGA==
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Ziggo Sport HD
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",BT SPORT 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",BT SPORT 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",BT SPORT ESPN
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjfL4wlLt31txCtXZQVaeEqIZwNrW87M1kGQ&usqp=CAU" group-title="SPORT",BT Sports 1 Anh
+http://89.105.216.95:8080/mag00:1A:79:69:AD:55/QVAALDiYjY/170925?play_token=PM2XMlC5Cn&token=GBQKAkBYRFhBU1QHB1oMCVIGVAJUBABRUAcGDVsFBQdUU1oAVwkHAFsXT0dDTUtcAFk9XQFAXgJVAwoKVhgVFBBTEDxaVERYQQZWVQcOCRtNFhZdCAdGCVMFBgtXBA5XVAZOQUNZAkBZF1ZQBgkBG00WB0wRBxZdA19sXAZCXgIGFFgNRlwKTkFaDTpUXFRYD1BADkdTRh9AWkBIQQ5ZFA9aTkFRWRIQAkEGRwpXTFUNGEBXChcKRxBKEQJBYnlDTxQHG0dVCBEKWg1HChtNSkMYQF0WPRZWEUdBXQJZUhNBDEBTERxEDwJNPAZfV1dcAkALWwsRRglAAhEUQVlYDwpCDRFsQA8GQQ9BUAUMDghDSQ==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjfL4wlLt31txCtXZQVaeEqIZwNrW87M1kGQ&usqp=CAU" group-title="SPORT",BT Sports 2 Anh
+http://89.105.216.95:8080/mag00:1A:79:69:AD:55/QVAALDiYjY/170877?play_token=T7Lve9bQEA&token=GBQKAkBYRFhBAVoHCAFcX1YAVgdSVAZWBFAGD1VVBFABUFsGVQdfBgIXT0dDTUtcAFk9XQFAXgJVAwsPVBgVFBBTEDxaVERYQQZWVQcOCRtNFhZdCAdGCVMFBgtXBA5WVQFOQUNZAkBZF1ZSAwgAG00WB0wRBxZdA19sXAZCXgIGFFgNRlwKTkFaDTpUXFRYD1BADkdTRh9AWkBIQQ5ZFA9aTkFRWRIQAkEGRwpXTFUNGEBXChcKRxBKEQJBYnlDTxQHG0dVCBEKWg1HChtNSkMYQF0WPRZWEUdBXQJZUhNBDEBTERxEDwJNPAZfV1dcAkALWwsRRglAAhEUQVlYDwpCDRFsQA8GQQ9BUAcKCQ1DSQ==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjfL4wlLt31txCtXZQVaeEqIZwNrW87M1kGQ&usqp=CAU" group-title="SPORT",BT Sports 3 Anh
+http://89.105.216.95:8080/mag00:1A:79:69:AD:55/QVAALDiYjY/170927?play_token=SPUHtijS5p&token=GBQKAkBYRFhBA1pcAQwPWlkCVQBdB1NRVARQWVQMUlZTBwYAVgFXVQUXT0dDTUtcAFk9XQFAXgJVAwoKVBgVFBBTEDxaVERYQQZWVQcOCRtNFhZdCAdGCVMFBgtXBA5WVAVOQUNZAkBZWxYJXBUbXBlAB0YLAwhsBlZFUQBRFVsNQw4PHxIJDDxRBghRV10bWxZTFklADUASEQlWFlhbTUFUCxdBURIHQQ8NEFxVFRsCWxdaERAdEVgRZXZBGBUEG0IHDUBZCQxBD0ERQxsVGwhHPUYAERBBB1JeXREWDUNTFE5BXlEePQBaDQtVWk1QDloRFl9AVRFOEV5XDV1DDhFpEgpXElwMFlkPGA==
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",BTSPORT3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Ziggo Sport HD
 http://178.251.29.82:7250/play/a002
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Ziggo Sport Select HD
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Ziggo Sport Select HD
 http://178.251.29.82:7250/play/a00s
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Ziggo Sport Voetbal HD
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Ziggo Sport Voetbal HD
 http://178.251.29.82:7250/play/a00l
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",,Fox Sports 1
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Fox Sports 1
 http://170.83.242.155:5350/play/a01h
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Fox Sports 2
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Fox Sports 2
 http://170.83.242.155:5350/play/a013
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Fox Sports 3
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Fox Sports 3
 http://170.83.242.155:5350/play/a014
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Fox Sports 1
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Fox Sports 1
 http://170.83.242.155:5350/play/a01h
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Fox Sports 2
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Fox Sports 2
 http://170.83.242.155:5350/play/a013
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Fox Sports 3
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Fox Sports 3
 http://170.83.242.155:5350/play/a014
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Setanta Sports 1 HD
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Setanta Sports 1 HD
 https://livetv.mylifeisgood.ml/channels/setantahd
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Setanta Sports 1 HD
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Setanta Sports 1 HD
 http://195.2.74.99/channel/n1269af8b/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Setanta Sports 2 HD
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Setanta Sports 2 HD
 https://livetv.mylifeisgood.ml/channels/setantaplus
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png",Setanta Sports 2 HD
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Setanta Sports 2 HD
 http://195.2.74.99/channel/n12693b2c/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
 
 #EXTINF:-1 " group-title="SPORT",BeIN Sport 1
@@ -2448,6 +2408,10 @@ https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="UK",=== UK ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/474x/8c/4d/b6/8c4db6118aa2e6ae829432a4358e8e6b.jpg" group-title="UK",BBC1
+http://93.152.174.144:4000/play/bbc1/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/474x/8c/4d/b6/8c4db6118aa2e6ae829432a4358e8e6b.jpg" group-title="UK",BBC2
+http://93.152.174.144:4000/play/bbc2/index.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-country="UK" tvg-language="English" tvg-logo="https://www.gbnews.uk/view-resources/dachser2/public/gbnews/logo.svg" group-title="UK",GB News (1080p)
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PBS America" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="UK",PBS America
