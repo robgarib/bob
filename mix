@@ -1100,10 +1100,6 @@ http://185.105.4.106:1935/live/Bahrain+Sports/HasBahCa.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
 #EXTINF:-1 " group-title="SPORT",Band Sports
 http://177.104.160.101:8000/play/a006
-#EXTINF:-1 " group-title="SPORT",beIN Sports Haber
-https://livesx.canlitv.center/beinsportshaber.m3u8
-#EXTINF:-1 " group-title="SPORT",beIN SPORTS HABER
-http://mugla.tvizlehd.com/live/beinsporthaber.m3u8
 #EXTINF:-1 " group-title="SPORT",Bek Sports East | HD
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 " group-title="SPORT",Bek Sports West
@@ -1236,36 +1232,6 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 " group-title="SPORT",Fite (720p) [Not 24/7]
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Fox Sport 3
-http://190.92.95.37:8000/play/a0fw/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Fox Sports
-http://45.236.175.0:9600/play/a00v
-#EXTINF:-1 " group-title="SPORT",FOX SPORTS 1 HD - HTV
-https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 " group-title="SPORT",FOX Sports 2
-http://189.91.128.150:4444/udp/227.10.20.132:1234
-#EXTINF:-1 " group-title="SPORT",FOX SPORTS 2
-http://pfsv.io:80/dx6PVjx2/29993/252
-#EXTINF:-1 " group-title="SPORT",FOX SPORTS 2
-http://181.176.148.142:8000/play/a00f
-#EXTINF:-1 " group-title="SPORT",Fox Sports 2
-http://181.78.22.214:8000/play/a01v
-#EXTINF:-1 " group-title="SPORT",Fox Sports 2
-http://45.189.108.58:10000/play/a00o/index.m3u8
-#EXTINF:-1 " group-title="SPORT",FOX SPORTS 3
-http://181.176.148.142:8000/play/a01c
-#EXTINF:-1 " group-title="SPORT",Fox Sports 3
-http://181.78.22.214:8000/play/a01w
-#EXTINF:-1 " group-title="SPORT",Fox Sports 3
-http://45.236.175.0:9600/play/a01h
-#EXTINF:-1 " group-title="SPORT",Fox Sports 3
-http://45.189.108.58:10000/play/a00p/index.m3u8
-#EXTINF:-1 " group-title="SPORT",FOX Sports HD [HD]
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 " group-title="SPORT",Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 " group-title="SPORT",Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 " group-title="SPORT",Fuel TV (Mexico) (1080p)
 https://fueltv-fueltv-11-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 " group-title="SPORT",Fuel tvhd [samsungtv]
@@ -1286,46 +1252,12 @@ https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
 https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
 #EXTINF:-1 " group-title="SPORT",Harley Davidson Rides TV EN
 https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
-#EXTINF:-1 " group-title="SPORT",Look Sport
-https://stream1.1616.ro:1945/look/livestream/HasBahCa.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
-#EXTINF:-1 " group-title="SPORT",Look Sport 2
-https://stream1.1616.ro:1945/looksport2/livestream/HasBahCa.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
-#EXTINF:-1 " group-title="SPORT",Look Sport 3
-https://stream1.1616.ro:1945/looksport3/livestream/HasBahCa.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
-#EXTINF:-1 " group-title="SPORT",Look Sport HD3
-https://stream1.1616.ro:1945/looksport3/livestream/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",Look Sport+
-https://stream1.1616.ro:1945/lookplus/livestream/HasBahCa.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
-#EXTINF:-1 " group-title="SPORT",LOOK SPORTS 3
-https://stream1.1616.ro:1945/looksport3/livestream/HasBahCa.m3u8
-#EXTINF:-1 " group-title="SPORT",LookSport
-https://stream1.1616.ro:1945/look/livestream/chunklist_w1064961763.m3u8
-#EXTINF:-1 " group-title="SPORT",LookSport (404p)
-https://stream1.1616.ro:1945/look/livestream/HasBahCa.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 " group-title="SPORT",LookSport 2
-https://stream1.1616.ro:1945/looksport2/livestream/chunklist_w2082157965.m3u8
-#EXTINF:-1 " group-title="SPORT",LookSport 3
-https://stream1.1616.ro:1945/looksport3/livestream/chunklist_w1187299929.m3u8
-#EXTINF:-1 " group-title="SPORT",LookSport HD2
-https://stream1.1616.ro:1945/looksport2/livestream/HasBahCa.m3u8
-#EXTINF:-1 " group-title="SPORT",LookSport Plus HD
-https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",LookSport+
-https://stream1.1616.ro:1945/lookplus/livestream/chunklist_w926669352.m3u8
-#EXTINF:-1 " group-title="SPORT",Lucky Dogᴴᴰ [Pluto]
-https://bit.ly/Luckdog_Inspiration?.m3u8
 #EXTINF:-1 " group-title="SPORT",M4 Sport
 http://78.109.104.240:8000/play/a0ao/index.m3u8
 #EXTINF:-1 " group-title="SPORT",maroc SPORT
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 " group-title="SPORT",Mat TV
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Match Futbool 1
-https://bal.varcdn1.ru/lb/m1/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Match Futbool 2
-https://bal.varcdn1.ru/lb/m2/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Match Futbool 3
-https://bal.varcdn1.ru/lb/m3/index.m3u8
 #EXTINF:-1 " group-title="SPORT",MAVTV Motorsports Network
 https://84f081227bc1418984b9e3dcaa985b2b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_MAVTVMotorSportsNetwork/playlist.m3u8?ads.wurl_channel=611&ads.wurl_name=MAVTVMotorSportsNetwork&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 " group-title="SPORT",MMA Junkie (720p)
@@ -1364,28 +1296,6 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/HasBahCa.m3u8
 #EXTINF:-1 " group-title="SPORT",OMAN TV Sport HD
 http://149.62.183.214:8000/play/a058/index.m3u8
-#EXTINF:-1 " group-title="SPORT",ONTIME SPORTS
-http://45.94.31.195:7002/play/a0ec
-#EXTINF:-1 " group-title="SPORT",ONTIME SPORTS
-http://149.62.183.214:8000/play/a007/index.m3u8
-#EXTINF:-1 " group-title="SPORT",ONTIME SPORTS HD
-http://45.94.31.195:7002/play/a0e9
-#EXTINF:-1 " group-title="SPORT",ONTIME SPORTS HD
-http://149.62.183.214:8000/play/a05q/index.m3u8
-#EXTINF:-1 " group-title="SPORT",ONTIME SPORTS2
-http://45.94.31.195:7002/play/a0ea
-#EXTINF:-1 " group-title="SPORT",ONTIME SPORTS2
-http://149.62.183.214:8000/play/a005/index.m3u8
-#EXTINF:-1 " group-title="SPORT",ONTIME SPORTS2 HD
-http://45.94.31.195:7002/play/a0e7
-#EXTINF:-1 " group-title="SPORT",ONTIME SPORTS2 HD
-http://149.62.183.214:8000/play/a05p/index.m3u8
-#EXTINF:-1 " group-title="SPORT",ONTIME SPORTS3
-http://149.62.183.198:8000/play/a06m/index.m3u8
-#EXTINF:-1 " group-title="SPORT",ONTIME SPORTS3
-http://149.62.183.214:8000/play/a012/index.m3u8
-#EXTINF:-1 " group-title="SPORT",ONTIME SPORTS3 HD
-http://149.62.183.214:8000/play/a011/index.m3u8
 #EXTINF:-1 " group-title="SPORT",ORF Sport + (540p)
 https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
 #EXTINF:-1 " group-title="SPORT",Pac 12 Insider (1080p)
@@ -1414,10 +1324,6 @@ http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:-1 " group-title="SPORT",Setanta Sport 1 HD
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Setanta Sports + Ukraine HD
-https://bal.varcdn1.ru/lb/setantaplusukraina/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Setanta Sports 2
-https://bal.varcdn1.ru/lb/setanta2/index.m3u8
 #EXTINF:-1 " group-title="SPORT",Sevilla FC TV
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
 #EXTINF:-1 " group-title="SPORT",Spark [Pluto]
@@ -1542,38 +1448,6 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTINF:-1 " group-title="SPORT",XSPORT HD
 http://iptv.prosto.tv:7000/ch110/video.m3u8
-#EXTINF:-1 " group-title="SPORT",YAS Sports HD
-http://45.94.31.190:7004/play/a0cs
-#EXTINF:-1 " group-title="SPORT",Zamalek Sports
-http://149.62.183.198:8000/play/a072/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Астрахань.Ru Sport
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Астрахань.Ru Sport (1080p)
-https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Астрахань.Ru Sport HD
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Астрахань.Ru Sport HD
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Конный Мир
-http://cdn-01.bonus-tv.ru/konnyimir/tracks-v1a1/mono.m3u8?token=gelow74
-#EXTINF:-1 " group-title="SPORT",Матч!
-http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd
-#EXTINF:-1 " group-title="SPORT",Матч! HD
-https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Матч! Боец
-http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
-#EXTINF:-1 " group-title="SPORT",МАТЧ! НАШ СПОРТ
-http://mfe.cliptv.az/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
-#EXTINF:-1 " group-title="SPORT",Матч! Планета
-http://91.185.3.218:4000/play/617
-#EXTINF:-1 " group-title="SPORT",Шахтар HD
-http://iptv.prosto.tv:7000/ch112/video.m3u8
-#EXTINF:-1 " group-title="SPORT",TyC Sports
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-#EXTINF:-1 " group-title="SPORT",Uno contra uno
-https://stmvideo1.livecastv.com/ucuweb/ucuweb/chunklist_w673645505.m3u8
-#EXTINF:-1 " group-title="SPORT",Gol tv
-http://154.62.74.29:1935/live/gol/chunklist.m3u8
 #EXTINF:-1 " group-title="SPORT",Real Madrid
 http://154.62.74.11:1935/live/realmadridnntv/chunklist.m3u8
 #EXTINF:-1 " group-title="SPORT",Arena Sport 2
@@ -1894,6 +1768,35 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/207319
 #EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 9" tvg-logo="" group-title="SPORT",FR: Bein  MAX 9
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/207320
 #EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports MAX 10" tvg-logo="" group-title="SPORT",FR: Bein  MAX 10
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/207321
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",|FR| BEIN SPORT 1
+http://vpro.viptvclub.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/15204
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",|FR| BEIN SPORT 1 HD
+http://vpro.viptvclub.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/9340
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",|FR| BEIN SPORT 1 HD BKP
+http://vpro.viptvclub.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/9345
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",|FR| BEIN SPORT 1 FHD
+http://vpro.viptvclub.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/51102
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",|FR| BEIN SPORT 2
+http://vpro.viptvclub.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/15203
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",|FR| BEIN SPORT 2 HD
+http://vpro.viptvclub.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/9339
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",|FR| BEIN SPORT 2 HD BKP
+http://vpro.viptvclub.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/9344
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",|FR| BEIN SPORT 2 FHD
+http://vpro.viptvclub.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/9588
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",|FR| BEIN SPORT 2 FHD BKP
+http://vpro.viptvclub.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/51101
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",|FR| BEIN SPORT 3
+http://vpro.viptvclub.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/15202
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",|FR|  BEIN SPORT 3 HD
+http://vpro.viptvclub.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/9341
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",|FR| BEIN SPORT 3 HD BKP
+http://vpro.viptvclub.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/9343
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",|FR| BEIN SPORT 3 FHD
+http://vpro.viptvclub.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/9587
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",|FR| BEIN SPORT 3 FHD BKP
+http://vpro.viptvclub.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/51100
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",SPORT TV +
 http://skylogic.site:8080/test-af7e89/0f6c/1481
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",SPORT TV 1
