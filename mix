@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  16/09/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  19/09/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -1818,129 +1818,278 @@ http://happook147.com:80/Marino4/t8iJ6EsMZk/146381
 http://happook147.com:80/Marino4/t8iJ6EsMZk/146382
 #EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel SD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Channel SD
 http://happook147.com:80/Marino4/t8iJ6EsMZk/146383
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Bar Uno FHD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945541
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Bar Due FHD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945544
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Bar Uno HD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945542
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Bar Due HD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945545
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Bar Uno SD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945543
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Bar Due SD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945546
-
-
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Serie A FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/149099.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Serie A HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48842.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Serie A FHD (Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185833.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",FHD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48843.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",HD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/49798.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",FHD Exclusive (Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185860.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Goal FHD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185285.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Goal HD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185286.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Goal FHD Exclusive (Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185883.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",1 Exclusive FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185250.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",1 Exclusive HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185252.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",1 Exclusive FHD (Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185879.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",2 Exclusive FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185253.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",2 Exclusive HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185254.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",2 Exclusive FHD (Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185880.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",3 Exclusive FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185255.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",3 Exclusive HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185256.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",3 Exclusive FHD (Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185881.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",4 Exclusive FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185257.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",4 Exclusive HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185258.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",4 Exclusive FHD (Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185882.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Goal Serie A FHD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/151346.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 1 FHD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48846.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 1 HD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/162814.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 1 FHD Exclusive (Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185861.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 1 SD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/162827.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 2 FHD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48848.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 2 HD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/162815.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 2 FHD Exclusive (Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185862.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 2 SD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/162828.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 3 FHD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48850.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",3 HD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/162816.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 3 FHD Exclusive (Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185863.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 3 SD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/162829.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 4 FHD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48852.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 4 HD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/162817.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 4 FHD Exclusive (Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185864.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 4 SD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/162830.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 5 FHD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48854.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 5 HD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/162818.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 5 FHD Exclusive (Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185865.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",5 SD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/162831.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 6 FHD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48856.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 6 HD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/162819.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 6 FHD Exclusive (Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185866.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 6 SD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/162832.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 7 FHD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48858.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 7 HD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/162820.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 7 FHD Exclusive (Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185867.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 7 SD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/162833.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 8 FHD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48860.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 8 HD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/162821.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 8 FHD Exclusive (Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185868.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 8 SD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/162834.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 9 FHD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48862.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 9 HD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/162822.ts
+#EXTINF:-1,Dazn Sport 9 FHD Exclusive (Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185869.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 9 SD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/162835.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 10 FHD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/81094.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 10 HD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/162823.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",10 FHD Exclusive(Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185870.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",10 SD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/162836.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 11 FHD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/179653.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 11 HD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/179654.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 11 FHD Exclusive (Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185873.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 11 SD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/179655.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 12 FHD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/179656.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 12 HD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/179657.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 12 FHD Exclusive (Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185874.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 12 SD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/179658.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 13 FHD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/179659.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 13 HD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/179660.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 13 FHD Exclusive (Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185875.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 13 SD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/179661.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 14 FHD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/179662.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 14 HD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/179663.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 14 FHD Exclusive (Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185876.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 14 SD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/179664.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 15 FHD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/179665.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 15 HD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/179666.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 15 FHD Exclusive (Buffering)
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/185877.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Sport 15 SD Exclusive
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/179667.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Goal FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183819.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Goal HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183820.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Channel FHD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945493
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183821.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Channel HD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945494
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Channel SD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945495
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Bar Uno FHD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/960901
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Bar Uno HD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/960902
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Bar Uno SD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/960903
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 1 FHD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945496
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 1 HD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945497
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 1 SD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945498
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 2 FHD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945499
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 2 HD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945500
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 2 SD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945501
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 3 FHD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945502
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 3 HD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945503
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 3 SD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945504
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 4 FHD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945505
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 4 HD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945506
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 4 SD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945507
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 5 FHD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945508
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 5 HD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945509
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 5 SD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945510
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 6 FHD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945511
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 6 HD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945512
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 6 SD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945513
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 7 FHD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945514
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 7 HD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945515
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 7 SD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945516
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 8 FHD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945517
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 8 HD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945518
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 8 SD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945519
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 9 FHD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945520
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 9 HD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945521
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 9 SD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945522
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 10 FHD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945523
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 10 HD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945524
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 10 SD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945525
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 11 FHD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/963046
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 11 HD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/963047
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 11 SD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/963048
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 12 FHD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/963049
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 12 HD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/963050
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 12 SD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/963051
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 13 FHD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/963052
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",WEB 13 HD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/963053
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 13 SD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/963054
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 14 FHD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/963055
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 14 HD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/963056
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 14 SD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/963057
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 15 FHD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/963058
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 15 HD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/963059
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Web 15 SD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/963060
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",gol FHD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945526
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",gol HD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945527
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",gol SD
-http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/945528
-
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183822.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",1 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183823.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",1 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183824.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",2 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183825.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",2 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183826.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",3 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183827.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",3 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183828.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",4 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183829.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",4 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183830.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",5 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183831.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",5 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183832.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",6 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183833.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",6 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183834.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",7 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183835.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",7 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183836.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",8 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183837.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",8 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183838.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",9 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183839.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",9 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183840.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",10 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183841.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",10 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183842.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",11 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183843.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",11 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183844.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",12 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183845.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",12 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183846.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",13 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183847.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",13 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183848.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",14 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183849.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",14 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183850.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",15 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183851.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",15 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183852.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",16 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183853.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",16 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183854.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",17 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183855.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",17 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183856.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",18 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183857.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",18 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183858.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",19 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183859.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",19 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183860.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",20 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183861.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",20 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183862.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",21 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183863.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",21 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183864.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",22 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183865.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",22 HD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/183866.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 1 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48655.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 2 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48656.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 3 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48657.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 4 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48658.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 5 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48659.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 6 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48660.ts
 
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="MUSICA",=== MUSICA ===
