@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  19/09/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  20/09/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -947,18 +947,6 @@ http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTINF:-1 " group-title="SPORT",Eurosports 1
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Sky Sport 1
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Sky News
-http://93.152.174.144:4000/play/skysportsnews/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Sky Sport Vari
-http://93.152.174.144:4000/play/skysports2/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Sky Sport Vari
-http://93.152.174.144:4000/play/skysports3/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Sky Sport Vari
-http://93.152.174.144:4000/play/skysports4/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Sky Sport ?
-http://93.152.174.144:4000/play/skysports5/index.m3u8
 #EXTINF:-1 " group-title="SPORT",PLAY SPORTS
 https://playerstv-samsungca.amagi.tv/playlist.m3u8
 #EXTINF:-1 " group-title="SPORT",B-Sports 3
@@ -1116,20 +1104,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 http://89.249.49.78:8000/play/a03q
 #EXTINF:-1 " group-title="SPORT",CANAL+ SPORT HD
 http://89.249.49.78:8000/play/a03k
-#EXTINF:-1 " group-title="SPORT",Cats 24/7 [Pluto]
-https://bit.ly/Cats24-7?/3000.m3u8
-#EXTINF:-1 " group-title="SPORT",Channel Fight (720p)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
-#EXTINF:-1 " group-title="SPORT",Choppertown
-https://bit.ly/CHOPPERTOWN?/HasBahCa.m3u8
-#EXTINF:-1 " group-title="SPORT",Claro Sports
-http://190.187.200.69:8000/play/a02a
-#EXTINF:-1 " group-title="SPORT",Claro Sports
-http://45.189.108.58:10000/play/a01m/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Claro Sports  HD
-http://190.92.95.37:8000/play/a0ex/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Claro Sports SD
-http://190.92.95.37:8000/play/a0hl/index.m3u8
 #EXTINF:-1 " group-title="SPORT",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 " group-title="SPORT",DD Sports
@@ -1260,24 +1234,6 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadi
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 " group-title="SPORT",MAVTV Motorsports Network
 https://84f081227bc1418984b9e3dcaa985b2b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_MAVTVMotorSportsNetwork/playlist.m3u8?ads.wurl_channel=611&ads.wurl_name=MAVTVMotorSportsNetwork&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 " group-title="SPORT",MMA Junkie (720p)
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
-#EXTINF:-1 " group-title="SPORT",Mnet Sport
-https://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1 " group-title="SPORT",Motorvision [Pluto]
-https://bit.ly/motorvisiontv?/3.m3u8
-#EXTINF:-1 " group-title="SPORT",mx 330 FOX SPORT
-http://190.61.102.67:2000/play/a061/index.m3u8
-#EXTINF:-1 " group-title="SPORT",mx 334 FoxSports3
-http://190.61.102.67:2000/play/a00w/index.m3u8
-#EXTINF:-1 " group-title="SPORT",mx 336 Claro Sport
-http://190.61.102.67:2000/play/a053/index.m3u8
-#EXTINF:-1 " group-title="SPORT",mx Tigo Sport GT
-http://190.61.102.67:2000/play/a08i/index.m3u8
-#EXTINF:-1 " group-title="SPORT",NBA tv
-https://bit.ly/nbatvusa?/index.m3u8
-#EXTINF:-1 " group-title="SPORT",NFL Network
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 " group-title="SPORT",Nile Sport
 http://149.62.183.198:8000/play/a08b/index.m3u8
 #EXTINF:-1 " group-title="SPORT",Nile Sport
@@ -1541,6 +1497,18 @@ http://portalshqip.eu:8080/live/V9qbPfuWL8/mYGQj3zBC6/14623.ts
 http://portalshqip.eu:8080/live/V9qbPfuWL8/mYGQj3zBC6/14624.ts
 #EXTINF:-1 " group-title="SPORT",Arena Sport 5 HD SRB.
 http://portalshqip.eu:8080/live/V9qbPfuWL8/mYGQj3zBC6/14625.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 1 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48655.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 2 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48656.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 3 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48657.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 4 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48658.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 5 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48659.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 6 FHD
+http://black.goldvisio.co:8000/live/cirorusso/fabio11/48660.ts
 #EXTINF:-1 " group-title="SPORT",NL| FOX SPORTS 1
 http://lilitv.xyz:80/user1/1user/35673
 #EXTINF:-1 " group-title="SPORT",FOX SPORTS 2
@@ -2078,18 +2046,6 @@ http://black.goldvisio.co:8000/live/cirorusso/fabio11/183864.ts
 http://black.goldvisio.co:8000/live/cirorusso/fabio11/183865.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",22 HD
 http://black.goldvisio.co:8000/live/cirorusso/fabio11/183866.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 1 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/48655.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 2 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/48656.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 3 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/48657.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 4 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/48658.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 5 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/48659.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 6 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/48660.ts
 
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="MUSICA",=== MUSICA ===
