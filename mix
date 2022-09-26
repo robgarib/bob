@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  23/09/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  26/09/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -85,10 +85,6 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lt)/index
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="RSI DISCOVERY e SKY",=== RSI DISCOVERY e SKY===
 http://patbuweb.com/iptv/e2liste/startend.avi
-#EXTINF:-1 tvg-id="" tvg-name="IT: RSI La1 HD" tvg-logo="" group-title="RSI DISCOVERY e SKY",RSI LA 1 HD CH
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/8986
-#EXTINF:-1 tvg-id="" tvg-name="IT: RSI La1 HD" tvg-logo="" group-title="RSI DISCOVERY e SKY",RSI LA 2 HD CH
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/8985
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="RSI DISCOVERY e SKY",RSI La1 HD
 http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/10
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/390px-RSI_La_2_2012.svg.png" group-title="RSI DISCOVERY e SKY",RSI La2 HD
@@ -105,18 +101,6 @@ http://190.2.155.162/RSI2/index.m3u8
 http://190.2.155.162/SRF1/index.m3u8
 #EXTINF:-1 " group-title="RSI DISCOVERY e SKY",SRF2
 http://190.2.155.162/SRF2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: RSI La1 HD" tvg-logo="" group-title="RSI DISCOVERY e SKY",SRF 1 HD CH
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/7909
-#EXTINF:-1 tvg-id="" tvg-name="IT: RSI La1 HD" tvg-logo="" group-title="RSI DISCOVERY e SKY",SRF zwei FHD CH
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/8995
-#EXTINF:-1 tvg-id="" tvg-name="IT: RSI La1 HD" tvg-logo="" group-title="RSI DISCOVERY e SKY",SRF zwei HD CH
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/7908
-#EXTINF:-1 tvg-id="" tvg-name="IT: RSI La1 HD" tvg-logo="" group-title="RSI DISCOVERY e SKY",SRF Info HD CH
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/7901
-#EXTINF:-1 tvg-id="" tvg-name="IT: RSI La1 HD" tvg-logo="" group-title="RSI DISCOVERY e SKY",RTS Un HD CH
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/8983
-#EXTINF:-1 tvg-id="" tvg-name="IT: RSI La1 HD" tvg-logo="" group-title="RSI DISCOVERY e SKY",RTS Deux CH
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/8984
 #EXTINF:-1 " group-title="RSI DISCOVERY e SKY",RTS1
 http://190.2.155.162/RTS1/index.m3u8
 ##EXTINF:-1 " group-title="RSI DISCOVERY e SKY",RTS2
@@ -1657,38 +1641,7 @@ https://livetv.mylifeisgood.ml/channels/setantaplus
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Setanta Sports 2 HD
 http://195.2.74.99/channel/n12693b2c/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
 
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Arena Premium 1 FHD VIP RS
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/692999
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Arena Premium 1 FHD RS
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/694714
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Arena Premium 1 HD VIP RS
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/695942
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Arena Premium 2 FHD VIP RS
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/693000
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Arena Premium 2 [B] FHD VIP RS
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/696612
-Arena Premium 3 FHD VIP RS
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/693001
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Arena Sport 1 FHD RS
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/687925
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Arena Sport 1 HD RS
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/5465
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Arena Sport 2 HD RS
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/5463
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Arena Sport 3 FHD RS
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/5461
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Arena Sport 4 FHD RS
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/5459
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Arena Sport 5 FHD RS
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/5456
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Arena Sport 6 FHD RS
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/694282
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Arena Sport 7 HD RS
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/694283
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Arena Sport 8 HD RS
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/694284
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Arena Sport 1x2 FHD RS
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/695943
+
 #EXTINF:-1 " group-title="SPORT",BeIN Sport 1
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
 #EXTINF:-1 " group-title="SPORT",BeIN Sport 2
@@ -3108,18 +3061,6 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="Vari",LA 2
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
-#EXTINF:-1 tvg-name="TVE Canal24" tvg-logo="https://i.imgur.com/g6WWN4g.png" group-title="Vari",Antena 3 FHD ES
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/7253
-#EXTINF:-1 tvg-name="TVE Canal24" tvg-logo="https://i.imgur.com/g6WWN4g.png" group-title="Vari",Antena 3 HD ES
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/8779
-#EXTINF:-1 tvg-name="TVE Canal24" tvg-logo="https://i.imgur.com/g6WWN4g.png" group-title="Vari",Cuatro FHD ES
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/7228
-#EXTINF:-1 tvg-name="TVE Canal24" tvg-logo="https://i.imgur.com/g6WWN4g.png" group-title="Vari",Cuatro HD ES
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/8777
-#EXTINF:-1 tvg-name="TVE Canal24" tvg-logo="https://i.imgur.com/g6WWN4g.png" group-title="Vari",Telecinco FHD ES
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/14022
-#EXTINF:-1 tvg-name="TVE Canal24" tvg-logo="https://i.imgur.com/g6WWN4g.png" group-title="Vari",Telecinco HD ES
-http://mytv.fun:80/5r5nzc4g2b/va0riiowy/11488
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="Vari",LA Sexta
 https://livestartover.atresmedia.com/lasexta/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/es/Telesur.es.png" group-title="Vari",Telesur
