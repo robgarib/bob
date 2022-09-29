@@ -3068,12 +3068,12 @@ https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Vari",=== Vari ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
-#EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/CJAbJfM.png" group-title="Vari",TF1 
-https://s2.tntendirect.com/tf1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Vari",France 2 
-https://s2.tntendirect.com/france2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Vari",France 3 
-https://s4.tntendirect.com/france3/live/playlist.m3u8
+#EXTINF:-1 group-title="Vari" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/tf1.png",TF1
+http://213.30.29.171:8000/play/a06q
+#EXTINF:-1 group-title="Vari" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/France 24.png",France 2
+http://213.30.29.171:8000/play/a06r
+#EXTINF:-1 group-title="Vari",France 3
+http://213.30.29.171:8000/play/a06s
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Vari",France 4 
 http://new-pro.tv:8080/Fernando/123321/70558
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Vari",France 5 
@@ -3131,6 +3131,12 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="Vari",LA 2
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
+#EXTINF:-1 group-title="Vari" tvg-logo="https://www.antena3.com/public/img/a3com/favicon/icon160.webp",🇪🇸 ➾ Antena 3ᴴᴰ
+http://ott.riotelecomm.es:4512/m3u8/ANTENA3HD.m3u8
+#EXTINF:-1 group-title="Vari" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320",🇪🇸 ➾ Telecincoᴴᴰ
+http://ott.riotelecomm.es:4512/m3u8/TELECINCOHD.m3u8
+#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",🇪🇸 ➾ Canal Sur Andaluciaᴴᴰ
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="Vari",LA Sexta
 https://livestartover.atresmedia.com/lasexta/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/es/Telesur.es.png" group-title="Vari",Telesur
