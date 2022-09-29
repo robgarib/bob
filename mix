@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  26/09/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  29/09/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -16,10 +16,8 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-5-au136o25p81j.png" group-title="Canali RAI",RAI 5
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7
-#EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="Canali RAI",raitalia1 
-http://210.210.155.35/x6bnqe/s/s63/S4/mnf.m3u8 
-#EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="Canali RAI",raitalia2
-http://210.210.155.35/x6bnqe/s/s63/index2.m3u8
+#EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="Canali RAI",raitalia
+http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-gulp-db8wx0eccr3u.png" group-title="Canali RAI",RAI Gulp
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-movie-pfi6w4ycsdmh.png" group-title="Canali RAI",RAI Movie
@@ -93,10 +91,18 @@ http://topgun.havefun.fun:80/BORSARELLI.001/Person.001/11
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/208759
 #EXTINF:-1 tvg-id="" tvg-name="IT: RSI La2 HD" tvg-logo="" group-title="RSI DISCOVERY e SKY",IT: RSI La2 HD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/208760
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="RSI DISCOVERY e SKY",RSI La1
+#EXTINF:-1 group-title="RSI DISCOVERY e SKY" tvg-logo="https://i.imgur.com/j8ogbli.png",RSI La 1
 http://190.2.155.162/RSI1/index.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2.png" group-title="RSI DISCOVERY e SKY",RSI La2
+#EXTINF:-1 group-title="RSI DISCOVERY e SKY" tvg-logo="http://hasbahca.net/TVLogo/world/RSILA1.ch.png",RSI LA 1 HD
+http://185.236.229.31:9981/play/a00m
+#EXTINF:-1 group-title="*RSI DISCOVERY e SKY" tvg-logo="http://hasbahca.net/TVLogo/world/RSILA1.ch.png",RSI La 1 HD
+http://62.2.85.68:39981/play/a00p
+#EXTINF:-1 group-title="RSI DISCOVERY e SKY" tvg-logo="https://i.imgur.com/vm62h3t.png",RSI La 2
 http://190.2.155.162/RSI2/index.m3u8
+#EXTINF:-1 group-title="RSI DISCOVERY e SKY" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/RSILA2.ch.png",RSI LA 2 HD
+http://185.236.229.31:9981/play/a00n
+#EXTINF:-1 group-title="*RSI DISCOVERY e SKY" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/RSILA2.ch.png",RSI La 2 HD
+http://62.2.85.68:39981/play/a00q
 #EXTINF:-1 " group-title="RSI DISCOVERY e SKY",SRF1
 http://190.2.155.162/SRF1/index.m3u8
 #EXTINF:-1 " group-title="RSI DISCOVERY e SKY",SRF2
@@ -2508,6 +2514,70 @@ https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="UK",=== UK ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC World News.png",BBC ONE
+http://213.30.29.171:8000/play/a008
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC World News.png",BBC One HD
+http://87.212.248.44:60130/play/a05n
+#EXTINF:-1 group-title="UK",BBC One HD
+http://62.2.85.68:39981/play/a01k
+#EXTINF:-1 group-title="UK",BBC One HD eng
+http://92.240.225.4:9999/play/64-133-eng
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC1.uk.png",BBC1
+http://93.152.174.144:4000/play/bbc1/index.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC2.uk.png",BBC2
+http://93.152.174.144:4000/play/bbc2/index.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/BBCAmerica.png",BBC America
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://www-s3-live.kent.edu/s3fs-root/s3fs-public/tvchannel/bbcamerica.png",BBC AMERICA - USA | HD
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC World News.png",BBC TWO
+http://213.30.29.171:8000/play/a00l
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC World News.png",BBC Two HD
+http://87.212.248.44:60130/play/a05q
+#EXTINF:-1 group-title="UK",BBC Two HD
+http://178.251.29.82:7250/play/a00j
+#EXTINF:-1 group-title="UK",BBC Two HD eng
+http://92.240.225.4:9999/play/64-134-eng
+#EXTINF:-1 group-title="UK" tvg-logo="http://images.pluto.tv/channels/61325566b3c86a00078e4819/colorLogoPNG.png",BBC Top Gear | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61325566b3c86a00078e4819/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC Toronto
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC Travel
+https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8?ads.wurl_channel=985&ads.wurl_name=BBCTravel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC Travel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4519e6873180007d3cddb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/bbcearth.png",BBC EARTH
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/bbcearth.png",BBC Earth
+http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://i.ibb.co/KNyzdhK/fhf.png",BBC EARTH
+https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC World News.png",BBC Earth
+http://84.54.179.207:8000/play/a04z
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC World News.png",BBC Earth
+http://78.83.191.18:8000/play/a05o
+#EXTINF:-1 group-title="UK" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png",BBC Earth
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpjPpSSMP-gWDUwk_lADoX-hL80Vd_4oimihhQuQ=s900-c-k-c0x00ffffff-no-rj",BBC Earth
+http://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC World News.png",BBC EARTH HD
+http://103.147.162.240:81/play/a01p
+#EXTINF:-1 group-title="UK" tvg-logo="https://static.wikia.nocookie.net/bbc/images/6/6e/BBC_Entertainment_channel.png/revision/latest?cb=20220213220202",BBC Entertainment
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71152
+#EXTINF:-1 group-title="UK",BBC First HD
+http://178.251.29.82:7250/play/a00t
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC Food
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC Food
+https://c367ab159c494e0daa775bd24aac404d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCFood/playlist.m3u8?ads.wurl_channel=1016&ads.wurl_name=BBCFood&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC History
+https://7a0978fa08424aa3b473d22dc144bd01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCHistory/playlist.m3u8?ads.wurl_channel=947&ads.wurl_name=BBCHistory&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC_Earth_logo.png",BBC Lifestyle
+https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC_Earth_logo.png",BBC Lifestyle
+https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC World News.png",BBC LIFESTYLE
+http://102.222.232.18:9981/stream/channelid/2013241748?ticket=45BF36113F4CE620C0E541C1E6639CFBAC0A7090&profile=matroska
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/474x/8c/4d/b6/8c4db6118aa2e6ae829432a4358e8e6b.jpg" group-title="UK",BBC1
 http://93.152.174.144:4000/play/bbc1/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/474x/8c/4d/b6/8c4db6118aa2e6ae829432a4358e8e6b.jpg" group-title="UK",BBC2
