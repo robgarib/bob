@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  29/09/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  30/09/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -1772,6 +1772,105 @@ http://vpro.viptvclub.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/9343
 http://vpro.viptvclub.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/9587
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",|FR| BEIN SPORT 3 FHD BKP
 http://vpro.viptvclub.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/51100
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/5cf8c329ca29fe0624f7da2cc9f92350.png",|FR| BEIN SPORTS HD1+
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/2939
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/cb13ffcec223434a9e664cf37781194d.png",|FR| BEIN SPORTS HD2
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/191
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/171a567d922583a6a0e5d36b5d1e1570.png",|FR| BEIN SPORTS HD2+
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3088
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/7c98b8895dc2970ed6004df9d2da2f02.png",|FR| BEIN SPORTS HD3
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/192
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/93c602f4000059e41d8b22642f40ae33.png",|FR| BEIN SPORTS MAX10
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3314
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/8dd4cd988a391fa518c03d667f954911.png",|FR| BEIN SPORTS MAX4
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3308
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/66ff2b358e887c959e4049ee44c28832.png",|FR| BEIN SPORTS MAX5
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3309
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/89d301f49c0b1514244f3545cb87e061.png",|FR| BEIN SPORTS MAX6
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3310
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/a5ac44c9eb4fe500d0ffd8d9efdeede1.png",|FR| BEIN SPORTS MAX8
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3312
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/fc49a8bea87a45f105c3fd03f9acbf43.png",|FR| BEIN SPORTS MAX9
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3313
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/937edda1a3b327ac4b2a5a3c23bc7232.png",|FR| EUROSPORT 1
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/858
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/bd71efe47cc05116c2c9562cfce4d515.png",|FR| INFOSPORT+
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/199
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/cc2ea6bfb08187f185f3181b36402691.png",|FR| MULTISPORTS 1
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/32385
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/cc2ea6bfb08187f185f3181b36402691.png",|FR| MULTISPORTS 2
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/32386
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/cc2ea6bfb08187f185f3181b36402691.png",|FR| MULTISPORTS 3
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/32387
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/cc2ea6bfb08187f185f3181b36402691.png",|FR| MULTISPORTS 4
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/32388
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/cc2ea6bfb08187f185f3181b36402691.png",|FR| MULTISPORTS 5
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/32389
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/cc2ea6bfb08187f185f3181b36402691.png",|FR| MULTISPORTS 6
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/32390
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/e711b29355e529f5f6fcff8aab7207aa.png",|FR| RMC ACCESS SPORT 1 HD
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/16685
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/e711b29355e529f5f6fcff8aab7207aa.png",|FR| RMC ACCESS SPORT 2 HD
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/16686
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/e711b29355e529f5f6fcff8aab7207aa.png",|FR| RMC ACCESS SPORT 3 HD
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/16687
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/4d21d98b4dbcb6f490b46e3f3028326b.png",|FR| RMC SPORT 1
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/7151
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/4d21d98b4dbcb6f490b46e3f3028326b.png",|FR| RMC SPORT 1HD
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3140
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/b9f677e0daf5aeac601d232be590b9d2.png",|FR| RMC SPORT 2
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/7150
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/b9f677e0daf5aeac601d232be590b9d2.png",|FR| RMC SPORT 2HD
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3141
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/17c25093cc75d05372501b89f8a77e94.png",|FR| RMC SPORT 3
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/7149
+#EXTINF:-1 group-title="sSPORT" tvg-logo="http://webtv360.org:2578/images/17c25093cc75d05372501b89f8a77e94.png",|FR| RMC SPORT 3HD
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3142
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/56d510bd8763e1e1101b6e9fab16494c.png",|FR| RMC SPORT 4
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/7148
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/56d510bd8763e1e1101b6e9fab16494c.png",|FR| RMC SPORT 4HD
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/3207
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/e711b29355e529f5f6fcff8aab7207aa.png",|FR| RMC SPORT LIVE 5
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/16677
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/e711b29355e529f5f6fcff8aab7207aa.png",|FR| RMC SPORT LIVE 6
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/16678
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/e711b29355e529f5f6fcff8aab7207aa.png",|FR| RMC SPORT LIVE 7
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/16679
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/e711b29355e529f5f6fcff8aab7207aa.png",|FR| RMC SPORT LIVE 9
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/16681
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://webtv360.org:2578/images/770519c82b5adf5f68266e1cbb5b60b0.jpg",|FR| SPORT EN FRANCE HD
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/26821
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png",|IN| D SPORTS VIP
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76781
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png",|IN| Eleven Sport Network Asia
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76565
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png",|IN| Star Sports 1 HD
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76568
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png",|IN| STAR SPORTS 1 HD VIP
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76772
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png",|IN| STAR SPORTS 1 HDI HD VIP
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76773
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png",|IN| STAR SPORTS 2 HD VIP
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76774
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png",|IN| Star Sports 3 HD
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76570
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png",|IN| STAR SPORTS SELECT 1 FHD VIP
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76775
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png",|IN| STAR SPORTS SELECT 2 FHD VIP
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76776
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png",|IN| Ten Sports
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76573
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Bein Sports 1.png",SPORTS 1 HD
+http://102.222.232.18:9981/stream/channelid/2100170847?ticket=1A3F266696AE50E057519EC6318FAE8C9886E8FD&profile=matroska
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Setanta Sports 2.png",SPORTS 2 HD
+http://102.222.232.18:9981/stream/channelid/1416061251?ticket=FAD4DF8BBCCC6C6B06D6B9A1091AA8F33211C05F&profile=matroska
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Bein Sports 1.png",SPORTS 3 HD
+http://102.222.232.18:9981/stream/channelid/1905027567?ticket=AB9FFA93CFA88EED40558B12594EA015D5EDD8CA&profile=matroska
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Bein Sports 1.png",SPORTS 4 HD
+http://102.222.232.18:9981/stream/channelid/39426305?ticket=B8512C44A8ACDDD9C8701A1A2B56826B174DB530&profile=matroska
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Bein Sports 1.png",SPORTS 5 HD
+http://102.222.232.18:9981/stream/channelid/1144926314?ticket=550C0FF74953FE0DB10CC7A883D3485F5478DB53&profile=matroska
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Bein Sports 1.png",SPORTS 6 UHD
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",SPORT TV +
 http://skylogic.site:8080/test-af7e89/0f6c/1481
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",SPORT TV 1
@@ -2526,10 +2625,6 @@ http://92.240.225.4:9999/play/64-133-eng
 http://93.152.174.144:4000/play/bbc1/index.m3u8
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC2.uk.png",BBC2
 http://93.152.174.144:4000/play/bbc2/index.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/BBCAmerica.png",BBC America
-https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://www-s3-live.kent.edu/s3fs-root/s3fs-public/tvchannel/bbcamerica.png",BBC AMERICA - USA | HD
-https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC World News.png",BBC TWO
 http://213.30.29.171:8000/play/a00l
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC World News.png",BBC Two HD
@@ -2538,6 +2633,10 @@ http://87.212.248.44:60130/play/a05q
 http://178.251.29.82:7250/play/a00j
 #EXTINF:-1 group-title="UK",BBC Two HD eng
 http://92.240.225.4:9999/play/64-134-eng
+#EXTINF:-1 group-title="UK" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/BBCAmerica.png",BBC America
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://www-s3-live.kent.edu/s3fs-root/s3fs-public/tvchannel/bbcamerica.png",BBC AMERICA - USA | HD
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="UK" tvg-logo="http://images.pluto.tv/channels/61325566b3c86a00078e4819/colorLogoPNG.png",BBC Top Gear | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61325566b3c86a00078e4819/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC Toronto
@@ -2578,12 +2677,12 @@ https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC World News.png",BBC LIFESTYLE
 http://102.222.232.18:9981/stream/channelid/2013241748?ticket=45BF36113F4CE620C0E541C1E6639CFBAC0A7090&profile=matroska
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/474x/8c/4d/b6/8c4db6118aa2e6ae829432a4358e8e6b.jpg" group-title="UK",BBC1
-http://93.152.174.144:4000/play/bbc1/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/474x/8c/4d/b6/8c4db6118aa2e6ae829432a4358e8e6b.jpg" group-title="UK",BBC2
-http://93.152.174.144:4000/play/bbc2/index.m3u8
-#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-country="UK" tvg-language="English" tvg-logo="https://www.gbnews.uk/view-resources/dachser2/public/gbnews/logo.svg" group-title="UK",GB News (1080p)
-https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+#EXTINF:-1 group-title="UK",TRAVEL CHANNEL HD
+http://94.158.36.148:13000/play/a027/index.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Travel channel HD.png",Channel 4 HD
+http://213.30.29.171:8000/play/a00r
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Travel channel HD.png",Channel 5 HD
+http://213.30.29.171:8000/play/a002
 #EXTINF:-1 tvg-id="" tvg-name="PBS America" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="UK",PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelS.uk" tvg-country="UK;IE;BD" tvg-language="Bengali" tvg-logo="https://i.imgur.com/TjVJT22.png" group-title="UK",Channel S (720p)
