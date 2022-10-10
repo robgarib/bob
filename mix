@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  09/10/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  11/10/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -18,6 +18,8 @@ https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/play
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="Canali RAI",raitalia
 http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
+#EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="Canali RAI",raitalia link 2
+http://210.210.155.35/x6bnqe/s/s63/index2.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-gulp-db8wx0eccr3u.png" group-title="Canali RAI",RAI Gulp
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-movie-pfi6w4ycsdmh.png" group-title="Canali RAI",RAI Movie
