@@ -373,6 +373,8 @@ https://cinedigm-dovenow-lg.amagi.tv/playlist.m3u8
 https://racingamerica-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 " group-title="BEST CHANNELS",Redbox Holiday
 https://redbox-holiday-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 " group-title="BEST CHANNELS",USA | WORLD FISHING NETWORK HD
+http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100481
 #EXTINF:-1 " group-title="BEST CHANNELS",BBC Travel (EU)
 https://bbceu-bbctravel-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 " group-title="BEST CHANNELS",BBC Food (EU)
@@ -2908,6 +2910,8 @@ https://v-la.mybtv.net/live/88.m3u8?env=prd&uid=-1&x=1
 https://v-la.mybtv.net/live/89.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1" group-title="USA",ABC SAN FRANCISCO
 https://v-ca.mybtv.net/live/119.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1" group-title="USA",USA: CW Network
+http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100386
 #EXTINF:-1" group-title="USA",The CW 61 Arizona
 https://v-px.mybtv.net/live/160.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1" group-title="USA",Rewind TV
@@ -3462,6 +3466,8 @@ http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/35543.ts
 http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/35545.ts
 #EXTINF:-1" group-title="Vari",DE: Sat 1 HD
 http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/35547.ts
+#EXTINF:-1" group-title="Vari",AT: ORF 1
+http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/98659
 
 #EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo1-dark-bg.png" group-title="Vari",Slovenija 1 Tv
 https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/chunklist_b2328000_DVR.m3u8
