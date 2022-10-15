@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  12/10/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  15/10/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -2185,22 +2185,20 @@ http://50.7.231.221:8081/175/index.m3u8?wmsAuthSign=okad
 http://84.200.70.178:4542/bysid/50306
 #EXTINF:-1 tvg-id="PlutoTVVH1IClassic.us" tvg-name="Pluto TV VH1 Classics" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="MUSICA",VH1 Classics
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="MUSICA",NOW70s
-http://51.154.28.81:2052/play/a083
-#EXTINF:-1 group-title="MUSICA",NOW80s
-http://51.154.28.81:2052/play/a05e
-#EXTINF:-1 group-title="MUSICA",NOW90s
-http://51.154.28.81:2052/play/a07k
-#EXTINF:-1 group-title="MUSICA",CLUBLAND
-http://51.154.28.81:2052/play/a07j
-#EXTINF:-1 group-title="MUSICA",BOX HITS
-http://51.154.28.81:2052/play/a05v
-#EXTINF:-1 group-title="MUSICA",KISS
-http://51.154.28.81:2052/play/a05w
-#EXTINF:-1 group-title="MUSICA",TRACE HITS
-http://51.154.28.81:2052/play/a09y
-#EXTINF:-1 group-title="MUSICA",TRACE VAULT
-http://51.154.28.81:2052/play/a0a1
+#EXTINF:-1 group-title="MUSICA",NOW 70
+http://62.131.92.221:60530/play/a07r
+#EXTINF:-1 group-title="MUSICA",NOW 80
+http://62.131.92.221:60530/play/a08s
+#EXTINF:-1 group-title="MUSICA",NOW 90
+http://62.131.92.221:60530/play/a088
+#EXTINF:-1 group-title="MUSICA",EURODANCE 90
+http://eurodance90.catcast.tv/content/36987/index.m3u8
+#EXTINF:-1 group-title="MUSICA",DANCE IMPACT
+http://tvradioimpact.go.ro:8080/tmp_hls/tvimpact/index.m3u8
+#EXTINF:-1 group-title="MUSICA",MUSIC 2 INTERNATIONAL
+http://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 group-title="MUSICA",NOW 80 (OPZIONE 2)
+http://84.200.70.178:4542/bysid/50306
 #EXTINF:-1 group-title="MUSICA",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/180px-MTV_Live_HD_2017_logo.svg.png" tvg-shift="0" group-title="MUSICA",MTV LIVE
