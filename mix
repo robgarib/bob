@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  06/11/2022---[/COLOR]  
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE  09/11/2022---[/COLOR]  
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -1624,10 +1624,6 @@ http://38.143.137.221:8000/LA78/index.m3u8
 http://38.143.137.221:8000/LA81/index.m3u8
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",ESPN 3
 http://38.143.137.221:8000/LA79/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",TLN SPORT
-http://38.143.137.221:8000/LA1/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",TLN SPORT
-http://38.143.137.221:8000/LA2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Setanta Sports 1 HD
 https://livetv.mylifeisgood.ml/channels/setantahd
@@ -1881,6 +1877,10 @@ http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118400
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",FR: EUROSPORT 2 HD
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118401
 
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",TLN SPORT
+http://38.143.137.221:8000/LA1/index.m3u8
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",TLN SPORT
+http://38.143.137.221:8000/LA2/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Channel HD
 http://happook147.com:80/Marino4/t8iJ6EsMZk/146381
 #EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel Full HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Channel Full HD
