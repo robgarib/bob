@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,--- FULLMIX ---
-http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 03/12/2022 ---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
@@ -1209,10 +1207,7 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/xite.jpg" group-title="Canali Musicali (Web Radio)",Xite
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="News Italia",=== News Italia ===
-http://patbuweb.com/iptv/e2liste/startend.avi
-#EXTINF:-1 group-title="News Italia",[COLOR lime]---LAST UPDATE 02-08-2022 H. 23.45---[/COLOR]
-http://patbuweb.com/iptv/e2liste/startend.avi
+
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/bfc-event-hd.png" group-title="News e Canali Istituzionali",BFC Event HD
 http://backup.superstreaming.inaria.me/BFC/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/bloomberg.jpg" group-title="News e Canali Istituzionali",Bloomberg
@@ -2757,7 +2752,7 @@ http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/51316.ts
 https://www.mytivu.it/Application/Channels/Cielo.php
 #EXTINF:-1 tvg-id="" tvg-name="Sky TG 24" " group-title="Altri Canali Nazionali",Sky TG 24
 https://www.mytivu.it/Application/Channels/SkyTG24.php
-#EXTINF:-1" group-title="RSI DISCOVERY e SKY",Sky sport 24 
+#EXTINF:-1" group-title="Altri Canali Nazionali",Sky sport 24 
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 #EXTINF:-1 tvg-id="Dmax.it" tvg-name="Dmax" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Dmax.png" group-title="Altri Canali Nazionali",Dmax
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/95912
@@ -2777,19 +2772,6 @@ http://selling-team.net:80/LUnoZpNBtO/iIzuEeyoOq/322189
 http://newlookpro.ayproviders.xyz:80/y7895465es/ebkNjL25Px/149240
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="Canali Musicali (Web Radio)",OttO Fm Tv
 http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="Canali Musicali (Web Radio)",MTV HIT (FRA)
-http://190.2.155.162:8080/mtvhit/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="Canali Musicali (Web Radio)",M6 MUSIC (FRA)
-http://190.2.155.162:8080/m6music/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="Canali Musicali (Web Radio)",MTV (FRA)
-http://190.2.155.162:8080/mtvfrance/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="Canali Musicali (Web Radio)",MCM (FRA)
-http://190.2.155.162:8080/mcm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="Canali Musicali (Web Radio)",MTV 80s
-http://50.7.231.221:8081/174/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="Canali Musicali (Web Radio)",MTV 90s
-http://50.7.231.221:8081/207/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="Canali Musicali (Web Radio)",MTV 00s
 http://50.7.231.221:8081/175/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="Canali Musicali (Web Radio)",NOW 80
 http://84.200.70.178:4542/bysid/50306
