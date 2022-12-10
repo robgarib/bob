@@ -2720,18 +2720,10 @@ http://black.goldvisio.co:8000/live/cirorusso/fabio11/183866.ts
 http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="Canali RAI",raitalia link 2
 http://210.210.155.35/x6bnqe/s/s63/index2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: RSI La1 HD" tvg-logo="" group-title="Altri Canali Nazionali",IT: RSI La1 HD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/208759
-#EXTINF:-1 tvg-id="" tvg-name="IT: RSI La2 HD" tvg-logo="" group-title="Altri Canali Nazionali",IT: RSI La2 HD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/208760
-#EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="https://i.imgur.com/j8ogbli.png",RSI La 1
-http://190.2.155.162/RSI1/index.m3u8
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/world/RSILA1.ch.png",RSI LA 1 HD
 http://185.236.229.31:9981/play/a00m
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/world/RSILA1.ch.png",RSI La 1 HD
 http://62.2.85.68:39981/play/a00p
-#EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="https://i.imgur.com/vm62h3t.png",RSI La 2
-http://190.2.155.162/RSI2/index.m3u8
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/RSILA2.ch.png",RSI LA 2 HD
 http://185.236.229.31:9981/play/a00n
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/RSILA2.ch.png",RSI La 2 HD
@@ -2746,14 +2738,6 @@ http://185.236.229.31:9981/play/a00l
 http://185.236.229.31:9981/play/a00j
 #EXTINF:-1 " group-title="Altri Canali Nazionali",RTS2
 http://185.236.229.31:9981/play/a00k
-#EXTINF:-1 " group-title="Altri Canali Nazionali",SRF1
-http://190.2.155.162/SRF1/index.m3u8
-#EXTINF:-1 " group-title="Altri Canali Nazionali",SRF2
-http://190.2.155.162/SRF2/index.m3u8
-#EXTINF:-1 " group-title="Altri Canali Nazionali",RTS1
-http://190.2.155.162/RTS1/index.m3u8
-#EXTINF:-1 " group-title="Altri Canali Nazionali",RTS2
-http://190.2.155.162/RTS2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",TV8 
 https://www.mytivu.it/Application/Channels/TV8.php
 #EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Nove.png" group-title="Altri Canali Nazionali",Nove
