@@ -2816,25 +2816,14 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="UK",=== UK ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC World News.png",BBC One HD
 http://87.212.248.44:60130/play/a05n
 #EXTINF:-1 group-title="UK",BBC One HD
 http://62.2.85.68:39981/play/a01k
-#EXTINF:-1 group-title="UK",BBC One HD eng
-http://92.240.225.4:9999/play/64-133-eng
-#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC1.uk.png",BBC1
-http://93.152.174.144:4000/play/bbc1/index.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC2.uk.png",BBC2
-http://93.152.174.144:4000/play/bbc2/index.m3u8
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC World News.png",BBC Two HD
 http://87.212.248.44:60130/play/a05q
-#EXTINF:-1 group-title="UK",BBC Two HD
-http://178.251.29.82:7250/play/a00j
-#EXTINF:-1 group-title="UK",BBC Two HD eng
-http://92.240.225.4:9999/play/64-134-eng
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC World News.png",ITV Be
 http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/28793.ts
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC World News.png",ITV 1 HD
@@ -2845,10 +2834,6 @@ http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/28790.ts
 http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/28791.ts
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC World News.png",ITV 4 HD
 http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/28792.ts
-#EXTINF:-1 group-title="UK" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/BBCAmerica.png",BBC America
-https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://www-s3-live.kent.edu/s3fs-root/s3fs-public/tvchannel/bbcamerica.png",BBC AMERICA - USA | HD
-https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="UK" tvg-logo="http://images.pluto.tv/channels/61325566b3c86a00078e4819/colorLogoPNG.png",BBC Top Gear | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61325566b3c86a00078e4819/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC Toronto
@@ -2857,40 +2842,14 @@ http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8?ads.wurl_channel=985&ads.wurl_name=BBCTravel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC Travel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4519e6873180007d3cddb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/bbcearth.png",BBC EARTH
-https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/bbcearth.png",BBC Earth
-http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.ibb.co/KNyzdhK/fhf.png",BBC EARTH
-https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC World News.png",BBC Earth
-http://84.54.179.207:8000/play/a04z
-#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC World News.png",BBC Earth
-http://78.83.191.18:8000/play/a05o
-#EXTINF:-1 group-title="UK" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png",BBC Earth
-https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpjPpSSMP-gWDUwk_lADoX-hL80Vd_4oimihhQuQ=s900-c-k-c0x00ffffff-no-rj",BBC Earth
-http://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC World News.png",BBC EARTH HD
-http://103.147.162.240:81/play/a01p
-#EXTINF:-1 group-title="UK" tvg-logo="https://static.wikia.nocookie.net/bbc/images/6/6e/BBC_Entertainment_channel.png/revision/latest?cb=20220213220202",BBC Entertainment
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71152
-#EXTINF:-1 group-title="UK",BBC First HD
-http://178.251.29.82:7250/play/a00t
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC Food
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC Food
 https://c367ab159c494e0daa775bd24aac404d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCFood/playlist.m3u8?ads.wurl_channel=1016&ads.wurl_name=BBCFood&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC History
 https://7a0978fa08424aa3b473d22dc144bd01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCHistory/playlist.m3u8?ads.wurl_channel=947&ads.wurl_name=BBCHistory&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC_Earth_logo.png",BBC Lifestyle
-https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC_Earth_logo.png",BBC Lifestyle
-https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/BBC World News.png",BBC LIFESTYLE
 http://102.222.232.18:9981/stream/channelid/2013241748?ticket=45BF36113F4CE620C0E541C1E6639CFBAC0A7090&profile=matroska
-#EXTINF:-1 group-title="UK",TRAVEL CHANNEL HD
-http://94.158.36.148:13000/play/a027/index.m3u8
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Travel channel HD.png",Channel 4 HD
 http://213.30.29.171:8000/play/a00r
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Travel channel HD.png",Channel 5 HD
