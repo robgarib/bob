@@ -1834,70 +1834,8 @@ https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/3000.m3u8
 http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
 #EXTINF:-1 " group-title="SPORT",San Marino RTV Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
-#EXTINF:-1 " group-title="SPORT",Setanta Sport 1 HD
-https://bal.varcdn1.ru/lb/setanta1/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Sevilla FC TV
-https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
-#EXTINF:-1 " group-title="SPORT",Spark [Pluto]
-https://sparktv-samsunguk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 " group-title="SPORT",Sport 1
-http://iptv.prosto.tv:7000/ch113/video.m3u8
-#EXTINF:-1 " group-title="SPORT",Sport 1+1 HD
-http://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?token=gelow74
-#EXTINF:-1 " group-title="SPORT",Sport 2
-http://iptv.prosto.tv:7000/ch115/video.m3u8
-#EXTINF:-1 " group-title="SPORT",Sport Live (DK)
-http://195.222.7.26:7001/play/a00t
-#EXTINF:-1 " group-title="SPORT",Sport tv+
-https://bit.ly/3tEZVHt?inspiration.m3u8
-#EXTINF:-1 " group-title="SPORT",Sport2U
-https://live.sport2u.tv/EvoLive/myStream/HasBahCa.m3u8
-#EXTINF:-1 " group-title="SPORT",SportGrid
-https://d8d22be51c0e4951a293d65fc61b76d8.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-5/live_066/HD/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Sporting tv
-https://bit.ly/3fvH5dB?inspiration.m3u8
-#EXTINF:-1 " group-title="SPORT",Sportitalia MOTORI
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:simotori.smil/HasBahCa.m3u8
-#EXTINF:-1 " group-title="SPORT",Sports
-https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 " group-title="SPORT",Sports LN
-https://linear-86.frequency.stream/dist/localnow/86/hls/master/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Sports TV Plus (1080p)
-https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-#EXTINF:-1 " group-title="SPORT",Sportsgrid
-https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",SportsGrid (1080p)
-https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",,SportsGrid Network (1080p)
-https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8
-#EXTINF:-1 " group-title="SPORT",Sportskool TV (486p)
-https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
-#EXTINF:-1 " group-title="SPORT",Sportskool TV (720p)
-https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
-#EXTINF:-1 " group-title="SPORT",SportTVplus
-https://869942e8b91a45188a83a91b72ed8a32.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-4/live_052/HD/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",ST-TV | Edge Sports (1080p)
-https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",ST-TV | SKI TV (1080p)
-https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
-#EXTINF:-1 " group-title="SPORT",ST-TV | SportsGrid (1080p)
-https://sportsgrid-tribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",,Stadium (720p)
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 " group-title="SPORT",Swerve Sports
-https://dai.google.com/linear/hls/event/5qa-mJF2R0iBw8S1JwF7FQ/master.m3u8
 #EXTINF:-1 " group-title="SPORT",Swiss Sport TV (Adaptative)
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/HasBahCa.m3u8
-#EXTINF:-1 " group-title="SPORT",Talent Sport Max
-https://ce50f5bb01704612b973d9ec00239ec6.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-2/live_016/SD/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",TDM Sports Macau
-http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",TDM Sports Macau
-http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/HasBahCa.m3u8
-#EXTINF:-1 " group-title="SPORT",TDM Sports Macau (720p)
-http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",TEN SPORTS
-http://103.157.201.11:9000/play/a003/index.m3u8
 #EXTINF:-1 " group-title="SPORT",TRT 3 Spor
 http://195.155.98.170:5858/play/a09m
 #EXTINF:-1 " group-title="SPORT",TRT SPOR
@@ -1916,20 +1854,6 @@ https://inliveserver.com:1936/15006/15006/HasBahCa.m3u8
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 " group-title="SPORT",Turkmenistan Sport
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 " group-title="SPORT",tv2 - Sport (720p)
-https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
-#EXTINF:-1 " group-title="SPORT",tv2 - Sport (720p)
-https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
-#EXTINF:-1 " group-title="SPORT",TV25.8 Untamed Sports TV (480p)
-https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
-#EXTINF:-1 " group-title="SPORT",TVP Sport HD
-http://89.249.49.78:8000/play/a06l
-#EXTINF:-1 " group-title="SPORT",TVRI Sport HD
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 " group-title="SPORT",TVRI Sports
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 " group-title="SPORT",TVRI Sports
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8$OPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXTINF:-1 " group-title="SPORT",Türkmenistan Sport
 http://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:-1 " group-title="SPORT",Türkmenistan Sport (406p)
@@ -1985,6 +1909,21 @@ http://worldstream.top:8080/live/Diego/Diego/24979.ts
 http://worldstream.top:8080/live/Diego/Diego/24978.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6" tvg-logo="https://docdog.top/Logotv/countries/portugal/Sport_tv_6.png" group-title="SPORT",PT: SPORT TV 6
 http://worldstream.top:8080/live/Diego/Diego/29669.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",UK: VIP BT SPORT 1
+http://worldstream.top:8080/live/Diego/Diego/29689.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 2" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png" group-title="SPORT",UK: VIP BT SPORT 2
+http://worldstream.top:8080/live/Diego/Diego/29688.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 3" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png" group-title="SPORT",UK: VIP BT SPORT 3
+http://worldstream.top:8080/live/Diego/Diego/29687.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT EXTRA 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportextra1.png" group-title="SPORT",UK: VIP BT SPORT EXTRA 1
+http://worldstream.top:8080/live/Diego/Diego/29685.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT EXTRA 2" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportextra2.png" group-title="SPORT",UK: VIP BT SPORT EXTRA 2
+http://worldstream.top:8080/live/Diego/Diego/29684.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT EXTRA 3" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportextra3.png" group-title="SPORT",UK: VIP BT SPORT EXTRA 3
+http://worldstream.top:8080/live/Diego/Diego/29683.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT EXTRA 4" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportextra4.png" group-title="SPORT",UK: VIP BT SPORT EXTRA 4
+http://worldstream.top:8080/live/Diego/Diego/29682.ts
+
 
 #EXTINF:-1 " group-title="SPORT",fut1
 http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8
