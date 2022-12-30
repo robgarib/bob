@@ -1925,84 +1925,6 @@ http://worldstream.top:8080/live/Diego/Diego/29683.ts
 http://worldstream.top:8080/live/Diego/Diego/29682.ts
 
 
-#EXTINF:-1 " group-title="SPORT",fut1
-http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8
-#EXTINF:-1 " group-title="SPORT",fut2
-http://50.7.92.90/Match_Futbol_2_HD/mono.m3u8
-#EXTINF:-1 " group-title="SPORT",fut3
-http://50.7.92.90/Match_Futbol_3_HD/mono.m3u8
-#EXTINF:-1 " group-title="SPORT",ch66
-http://cdn.vimax.tv/vimax/ch066/video.m3u8?token=98731cd5-250d-4498-b5e9-db368add4128
-#EXTINF:-1 " group-title="SPORT",ch67
-http://cdn.vimax.tv/vimax/ch067/video.m3u8?token=98731cd5-250d-4498-b5e9-db368add4128
-#EXTINF:-1 " group-title="SPORT",ch68
-http://cdn.vimax.tv/vimax/ch068/video.m3u8?token=98731cd5-250d-4498-b5e9-db368add4128
-#EXTINF:-1 " group-title="SPORT",foot1
-http://mfe.cliptv.az/dash/Match_Football_1_HD_kjt.ism/playlist.mpd
-#EXTINF:-1 " group-title="SPORT",foot2
-http://mfe.cliptv.az/dash/Match_Football_2_HD_k2jt.ism/playlist.mpd
-#EXTINF:-1 " group-title="SPORT",foot3
-http://mfe.cliptv.az/dash/Match_Football_3_HD_k3jt.ism/playlist.mpd
-#EXTINF:-1 " group-title="SPORT",cbc sport
-http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
-#EXTINF:-1 " group-title="SPORT",prima1
-https://tvonline.biz/prima-play/primasport1.m3u8
-#EXTINF:-1 " group-title="SPORT",prima2
-https://tvonline.biz/prima-play/primasport2.m3u8
-#EXTINF:-1 " group-title="SPORT",prima3
-https://tvonline.biz/prima-play/primasport3.m3u8
-#EXTINF:-1 " group-title="SPORT",prima4
-https://tvonline.biz/prima-play/primasport4.m3u8
-#EXTINF:-1 " group-title="SPORT",espn
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
-#EXTINF:-1 " group-title="SPORT",
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
-#EXTINF:-1 " group-title="SPORT",espn2
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
-#EXTINF:-1 " group-title="SPORT",espn3
-https://cvi.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",stream 1
-https://vaeagaa.wedodemos.com/live/_definst_/stream_1_4e329@VG17/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",stream 2
-http://210.210.155.35/x6bnqe/s/s63/S4/mnf.m3u8 
-#EXTINF:-1 " group-title="SPORT",stream 3
-http://210.210.155.35/x6bnqe/s/s63/index2.m3u8
-#EXTINF:-1 " group-title="SPORT",Sport 1
-http://lilitv.xyz:80/user1/1user/35446
-#EXTINF:-1 " group-title="SPORT",Sport 2
-http://lilitv.xyz:80/user1/1user/35447
-#EXTINF:-1 " group-title="SPORT",Sport 3
-http://lilitv.xyz:80/user1/1user/35448
-#EXTINF:-1 " group-title="SPORT",Sport 4
-http://lilitv.xyz:80/user1/1user/35449
-#EXTINF:-1 " group-title="SPORT",Sport 5
-http://lilitv.xyz:80/user1/1user/35450
-#EXTINF:-1 " group-title="SPORT",Sport 6
-http://lilitv.xyz:80/user1/1user/35451
-#EXTINF:-1 " group-title="SPORT",Sport 7
-http://lilitv.xyz:80/user1/1user/35452
-#EXTINF:-1 " group-title="SPORT",Sport 8
-http://lilitv.xyz:80/user1/1user/35453
-#EXTINF:-1 " group-title="SPORT",Arena Sport BH
-http://portalshqip.eu:8080/live/V9qbPfuWL8/mYGQj3zBC6/14616.ts
-#EXTINF:-1 " group-title="SPORT",Arena sport  BiH
-http://portalshqip.eu:8080/live/V9qbPfuWL8/mYGQj3zBC6/14617.ts
-#EXTINF:-1 " group-title="SPORT",Arena Sport 1 Premium
-http://portalshqip.eu:8080/live/V9qbPfuWL8/mYGQj3zBC6/14618.ts
-#EXTINF:-1 " group-title="SPORT",Arena Sport 2 Premium
-http://portalshqip.eu:8080/live/V9qbPfuWL8/mYGQj3zBC6/14619.ts
-#EXTINF:-1 " group-title="SPORT",Arena Sport 3 Premium
-http://portalshqip.eu:8080/live/V9qbPfuWL8/mYGQj3zBC6/14620.ts
-#EXTINF:-1 " group-title="SPORT",Arena Sport 1 HD SRB.
-http://portalshqip.eu:8080/live/V9qbPfuWL8/mYGQj3zBC6/14621.ts
-#EXTINF:-1 " group-title="SPORT",Arena Sport 2  HD SRB.
-http://portalshqip.eu:8080/live/V9qbPfuWL8/mYGQj3zBC6/14622.ts
-#EXTINF:-1 " group-title="SPORT",Arena Sport 3 HD SRB.
-http://portalshqip.eu:8080/live/V9qbPfuWL8/mYGQj3zBC6/14623.ts
-#EXTINF:-1 " group-title="SPORT",Arena Sport 4 HD SRB.
-http://portalshqip.eu:8080/live/V9qbPfuWL8/mYGQj3zBC6/14624.ts
-#EXTINF:-1 " group-title="SPORT",Arena Sport 5 HD SRB.
-http://portalshqip.eu:8080/live/V9qbPfuWL8/mYGQj3zBC6/14625.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 1 FHD
 http://black.goldvisio.co:8000/live/cirorusso/fabio11/48655.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 2 FHD
@@ -2015,40 +1937,6 @@ http://black.goldvisio.co:8000/live/cirorusso/fabio11/48658.ts
 http://black.goldvisio.co:8000/live/cirorusso/fabio11/48659.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 6 FHD
 http://black.goldvisio.co:8000/live/cirorusso/fabio11/48660.ts
-#EXTINF:-1 " group-title="SPORT",NL| FOX SPORTS 1
-http://lilitv.xyz:80/user1/1user/35673
-#EXTINF:-1 " group-title="SPORT",FOX SPORTS 2
-http://lilitv.xyz:80/user1/1user/35674
-#EXTINF:-1 " group-title="SPORT",FOX SPORTS 3
-http://lilitv.xyz:80/user1/1user/35675
-#EXTINF:-1 " group-title="SPORT",FOX SPORTS 4
-http://lilitv.xyz:80/user1/1user/35676
-#EXTINF:-1 " group-title="SPORT",FOX SPORTS 5
-http://lilitv.xyz:80/user1/1user/35677
-#EXTINF:-1 " group-title="SPORT",FOX SPORTS 6
-http://lilitv.xyz:80/user1/1user/35678
-#EXTINF:-1 " group-title="SPORT",Ziggo Sport Voetbal
-http://lilitv.xyz:80/user1/1user/35679
-#EXTINF:-1 " group-title="SPORT",Ziggo Sport Voetbal
-http://lilitv.xyz:80/user1/1user/35680
-#EXTINF:-1 " group-title="SPORT",Ziggo Sport Select
-http://lilitv.xyz:80/user1/1user/35681
-#EXTINF:-1 " group-title="SPORT",Ziggo Sport Select
-http://lilitv.xyz:80/user1/1user/35682
-#EXTINF:-1 " group-title="SPORT",Ziggo Sport Extra 2
-http://lilitv.xyz:80/user1/1user/35686
-#EXTINF:-1 " group-title="SPORT",ESPN 1
-http://lilitv.xyz:80/user1/1user/35689
-#EXTINF:-1 " group-title="SPORT",ESPN 2
-http://lilitv.xyz:80/user1/1user/35690
-#EXTINF:-1 " group-title="SPORT",ESPN 3
-http://lilitv.xyz:80/user1/1user/35691
-#EXTINF:-1 " group-title="SPORT",ESPN 4
-http://lilitv.xyz:80/user1/1user/35692
-#EXTINF:-1 " group-title="SPORT",ESPN 5
-http://lilitv.xyz:80/user1/1user/35693
-#EXTINF:-1 " group-title="SPORT",ESPN 6
-http://lilitv.xyz:80/user1/1user/35694
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-country="TM" tvg-language="Turkmen" tvg-logo="" group-title="SPORT",Türkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-country="TM" tvg-language="Turkmen" tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg" group-title="SPORT",Türkmenistan Sport
