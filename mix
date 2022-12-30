@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 24/12/2022 ---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 30/12/2022 ---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -1936,44 +1936,55 @@ http://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 " group-title="SPORT",TürkmenTV Sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
-#EXTINF:-1 " group-title="SPORT",TİVİBU SPOR HD
-http://45.94.150.154:8000/play/a02l
-#EXTINF:-1 " group-title="SPORT",ufc 2
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 " group-title="SPORT",ULTRA REX r
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
-#EXTINF:-1 " group-title="SPORT",Unifi Sport 2
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-#EXTINF:-1,Untamed Sports TV (KCKS-LD8) (480p) [Not 24/7]
-https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
-#EXTINF:-1 " group-title="SPORT",Viasat Sport
-https://sc.id-tv.kz/ViasatSport_34_35.m3u8
-#EXTINF:-1 " group-title="SPORT",Viasat Sport HD
-http://cdnua03.hls.tv/133/hls/99c91cce995b5620c9929e6835e6caf1/330/stream.m3u8
-#EXTINF:-1 " group-title="SPORT",ViasatSport
-https://89.106.234.4/ViasatSport_34_35.m3u8
-#EXTINF:-1 " group-title="SPORT",World Of Free Sports TV
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
-#EXTINF:-1 " group-title="SPORT",World Poker Tour (1080p)
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-#EXTINF:-1 " group-title="SPORT",XSPORT
-http://iptv.prosto.tv:7000/ch109/video.m3u8
-#EXTINF:-1 " group-title="SPORT",XSPORT HD
-http://iptv.prosto.tv:7000/ch110/video.m3u8
-#EXTINF:-1 " group-title="SPORT",Real Madrid
-http://154.62.74.11:1935/live/realmadridnntv/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",Arena Sport 2
-http://84.22.33.214/ArenaSport2/mpegts?token=test
-#EXTINF:-1 " group-title="SPORT",Canal 11 Internacionalᴴᴰ
-https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index_2.m3u8
-#EXTINF:-1 " group-title="SPORT",Hard Knock Fighting
-https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
-#EXTINF:-1 " group-title="SPORT",Trace Sports
-https://lightning-tracesport-samsungau.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 " group-title="SPORT",TV 2 Sporten
-https://ws31-hls-live.akamaized.net/out/u/1416253_1.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 1" tvg-logo="https://docdog.top/Logotv/countries//arenasport1.png" group-title="SPORT",CRO: ARENA SPORT 1
+http://worldstream.top:8080/live/Diego/Diego/24038.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 2" tvg-logo="https://docdog.top/Logotv/countries//arenasport2.png" group-title="SPORT",CRO: ARENA SPORT 2
+http://worldstream.top:8080/live/Diego/Diego/24037.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 3" tvg-logo="https://docdog.top/Logotv/countries//arenasport3.png" group-title="SPORT",CRO: ARENA SPORT 3
+http://worldstream.top:8080/live/Diego/Diego/24036.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 4" tvg-logo="https://docdog.top/Logotv/countries//arenasport4.png" group-title="SPORT",CRO: ARENA SPORT 4
+http://worldstream.top:8080/live/Diego/Diego/24035.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 5" tvg-logo="https://docdog.top/Logotv/countries//arenasport5.png" group-title="SPORT",CRO: ARENA SPORT 5
+http://worldstream.top:8080/live/Diego/Diego/24034.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 6" tvg-logo="https://docdog.top/Logotv/countries//arenasport6.png" group-title="SPORT",CRO: ARENA SPORT 6
+http://worldstream.top:8080/live/Diego/Diego/24033.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/Logotv/countries/france/bein-sports-1-french-fr.png" group-title="SPORT",FR: BEIN SPORTS 1
+http://worldstream.top:8080/live/Diego/Diego/8298.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://docdog.top/Logotv/countries/france/bein-sports-2-french-fr.png" group-title="SPORT",FR: BEIN SPORTS 2
+http://worldstream.top:8080/live/Diego/Diego/8299.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://docdog.top/Logotv/countries/france/bein-sports-3-french-fr.png" group-title="SPORT",FR: BEIN SPORTS 3
+http://worldstream.top:8080/live/Diego/Diego/8300.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/Logotv/countries/france/beinsportmax4.png" group-title="SPORT",FR: BEIN SPORT MAX 4
+http://worldstream.top:8080/live/Diego/Diego/8301.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/Logotv/countries/france/beinsportmax5.png" group-title="SPORT",FR: BEIN SPORT MAX 5
+http://worldstream.top:8080/live/Diego/Diego/8302.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/Logotv/countries/france/beinsportmax6.png" group-title="SPORT",FR: BEIN SPORT MAX 6
+http://worldstream.top:8080/live/Diego/Diego/8303.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/Logotv/countries/france/beinsportmax7.png" group-title="SPORT",FR: BEIN SPORT MAX 7
+http://worldstream.top:8080/live/Diego/Diego/8304.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/Logotv/countries/france/beinsportmax8.png" group-title="SPORT",FR: BEIN SPORT MAX 8
+http://worldstream.top:8080/live/Diego/Diego/8305.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/Logotv/countries/france/beinsportmax9.png" group-title="SPORT",FR: BEIN SPORT MAX 9
+http://worldstream.top:8080/live/Diego/Diego/8306.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/Logotv/countries/france/beinsportmax10.png" group-title="SPORT",FR: BEIN SPORT MAX 10
+http://worldstream.top:8080/live/Diego/Diego/8307.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="https://docdog.top/Logotv/countries/portugal/sport-tv-mais-pt.png" group-title="SPORT",PT: SPORT TV +
+http://worldstream.top:8080/live/Diego/Diego/29668.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttv1.png" group-title="SPORT",PT: SPORT TV 1
+http://worldstream.top:8080/live/Diego/Diego/24984.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttv2.png" group-title="SPORT",PT: SPORT TV 2
+http://worldstream.top:8080/live/Diego/Diego/24982.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttv3.png" group-title="SPORT",PT: SPORT TV 3
+http://worldstream.top:8080/live/Diego/Diego/24980.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttv4.png" group-title="SPORT",PT: SPORT TV 4
+http://worldstream.top:8080/live/Diego/Diego/24979.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttv5.png" group-title="SPORT",PT: SPORT TV 5
+http://worldstream.top:8080/live/Diego/Diego/24978.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6" tvg-logo="https://docdog.top/Logotv/countries/portugal/Sport_tv_6.png" group-title="SPORT",PT: SPORT TV 6
+http://worldstream.top:8080/live/Diego/Diego/29669.ts
 
 #EXTINF:-1 " group-title="SPORT",fut1
 http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8
