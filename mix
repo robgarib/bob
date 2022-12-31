@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 30/12/2022 ---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 31/12/2022 ---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -2290,7 +2290,28 @@ http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118400
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118401
 #EXTINF:-1 channel-id="samsung-DEBC470000128" tvg-id="DEBC470000128" tvg-chno="4507" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC470000128_20221214T045030SQUARE.png_20221214045031.png" group-title="SPORT",DAZN FAST+
 https://d2606t9eyamzl3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ia6qw6xh7nd2w-ssai-prd/out/v1/64dc66ee167d48db833377ab85217dfd/DAZN-FAST-HLS-CMAF-DRM/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
+#EXTINF:-1" group-title="SPORT", calcio HD
+http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/63745
+#EXTINF:-1" group-title="SPORT",Zona - Zona Gol
+http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41687
+#EXTINF:-1" group-title="SPORT",1
+http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41803
+#EXTINF:-1" group-title="SPORT",2
+http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41804
+#EXTINF:-1" group-title="SPORT",3
+http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41805
+#EXTINF:-1" group-title="SPORT",4
+http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41806
+#EXTINF:-1" group-title="SPORT",5
+http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41807
+#EXTINF:-1" group-title="SPORT",6
+http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/33690
+#EXTINF:-1" group-title="SPORT",7
+http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/33689
+#EXTINF:-1" group-title="SPORT",8
+http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/59979
+#EXTINF:-1" group-title="SPORT",9
+http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/33695
 #EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Channel HD
 http://happook147.com:80/Marino4/t8iJ6EsMZk/146381
 #EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel Full HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Channel Full HD
