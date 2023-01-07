@@ -234,7 +234,7 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="TOP ITALIA",=== TOP ITALIA ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="" tvg-name="PESCA HD" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Imaggini/picons/SkySport/SkySportPesca.png" group-title="TOP ITALIA",PESCA HD
-http://happook147.com:80/Marino4/t8iJ6EsMZk/2218
+http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41827
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italian-fishing-tv.jpg" group-title="TOP ITALIA",Italian Fishing TV 
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/motor-1-tv.png" group-title="TOP ITALIA",Motor 1 TV 
@@ -1284,7 +1284,7 @@ https://link.theplatform.eu/s/PR1GhC/DlvlNhNoEWfJ
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="SPORT",=== SPORT ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1" group-title="SPORT",Sky sport 24 
-http://sp-privatetv3.ddns.net:80/donato1/donato1/107974
+http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41756
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/grtv.jpg" group-title="SPORT",Giornale Radio Tv Sport
 https://5e73cf528f404.streamlock.net/GR_sport/livestream/chunklist_w1501899689.m3u8
 #EXTINF:-1 " group-title="SPORT",Rai Sport + HD
@@ -1294,7 +1294,7 @@ http://live.sport2u.tv:1935/EvoLive/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Top Calcio 24" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-top-calcio-24-7160-300x225.jpg" tvg-shift="0" group-title="SPORT",Top Calcio 24
 https://bit.ly/38QRMom
 #EXTINF:-1 tvg-ID="Inter Channel" tvg-name="Inter TV" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/inter.png" group-title="SPORT",Inter TV
-http://sp-privatetv3.ddns.net:80/donato1/donato1/107866
+http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41793
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-24-live.jpg" group-title="SPORT",SportItalia 24 LIVE
 https://sportitaliaamd.akamaized.net/video_1/Sportitalia/hls/1A15BA14BC564CE1C312973FF46193A8969E2C31/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-solocalcio.jpg" group-title="SPORT",SportItalia Solocalcio
@@ -2037,29 +2037,54 @@ https://livetv.mylifeisgood.ml/channels/setantaplus
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Setanta Sports 2 HD
 http://195.2.74.99/channel/n12693b2c/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
 
-
-#EXTINF:-1" group-title="SPORT", calcio HD
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Eurosport 1 HD
+http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41777
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Eurosport 2 HD
+http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41778
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", calcio HD
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/63745
-#EXTINF:-1" group-title="SPORT",Zona - Zona Gol
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Zona - Zona Gol
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41687
-#EXTINF:-1" group-title="SPORT",1
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",1
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41803
-#EXTINF:-1" group-title="SPORT",2
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",2
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41804
-#EXTINF:-1" group-title="SPORT",3
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",3
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41805
-#EXTINF:-1" group-title="SPORT",4
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",4
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41806
-#EXTINF:-1" group-title="SPORT",5
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",5
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41807
-#EXTINF:-1" group-title="SPORT",6
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",6
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/33690
-#EXTINF:-1" group-title="SPORT",7
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",7
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/33689
-#EXTINF:-1" group-title="SPORT",8
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",8
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/59979
-#EXTINF:-1" group-title="SPORT",9
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",9
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/33695
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Zona HD
+http://176.9.63.48:80/napoli79/fuoco/59398
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",1-HD
+http://176.9.63.48:80/napoli79/fuoco/59399
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",2-HD
+http://176.9.63.48:80/napoli79/fuoco/59400
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",3-HD
+http://176.9.63.48:80/napoli79/fuoco/59401
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",4-HD
+http://176.9.63.48:80/napoli79/fuoco/59499
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",5-HD
+http://176.9.63.48:80/napoli79/fuoco/59500
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",6-HD
+http://176.9.63.48:80/napoli79/fuoco/59501
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",7-HD
+http://176.9.63.48:80/napoli79/fuoco/59502
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",8-HD
+http://176.9.63.48:80/napoli79/fuoco/59503
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",9-HD
+http://176.9.63.48:80/napoli79/fuoco/59504
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",ZONA GOL SERIE A TIM
+http://176.9.63.48:80/napoli79/fuoco/116
 #EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Channel HD
 http://happook147.com:80/Marino4/t8iJ6EsMZk/146381
 #EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel Full HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Channel Full HD
@@ -2360,7 +2385,7 @@ https://www.mytivu.it/Application/Channels/Cielo.php
 #EXTINF:-1 tvg-id="" tvg-name="Sky TG 24" " group-title="Altri Canali Nazionali",Sky TG 24
 https://www.mytivu.it/Application/Channels/SkyTG24.php
 #EXTINF:-1" group-title="Altri Canali Nazionali",Sky sport 24 
-https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41756
 #EXTINF:-1 tvg-id="Dmax.it" tvg-name="Dmax" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Dmax.png" group-title="Altri Canali Nazionali",Dmax
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/95912
 #EXTINF:-1 tvg-id="Realtime.it" tvg-name="Real Time" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Realtime.png" group-title="Altri Canali Nazionali",Realtime
