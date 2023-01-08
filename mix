@@ -2051,6 +2051,10 @@ http://195.2.74.99/channel/n12693b2c/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41777
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Eurosport 2 HD
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41778
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", SPORT UNO HD
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/26370
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",sport Calcio HD
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/96
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", calcio HD
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/63745
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Zona - Zona Gol
@@ -2273,6 +2277,81 @@ http://black.goldvisio.co:8000/live/cirorusso/fabio11/183820.ts
 http://black.goldvisio.co:8000/live/cirorusso/fabio11/183821.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Channel HD
 http://black.goldvisio.co:8000/live/cirorusso/fabio11/183822.ts
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60998
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", WEB 1
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60999
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", WEB 2
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/61000
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", WEB 3
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/61001
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", WEB 4
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/61002
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", WEB 5
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/61003
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", WEB 6
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/61004
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", WEB 7
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/61005
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", WEB 8
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/61006
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ZONA  1 HD
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60962
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ZONA  2 HD
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60963
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 1 Serie A / Serie B
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60964
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 1 FHD.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60965
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 2 Serie A / Serie B
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60966
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 2 FHD.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60967
+#EXTINF:-1,DAZN Calcio 3 Serie A / Serie B
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60968
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 3 FHD.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60969
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 4 Serie A / Serie B.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60970
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Calcio 5 Serie A / Serie B.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60971
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 6 Serie A / Serie B.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60972
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 7 Serie A / Serie B.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60973
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 8 Serie A / Serie B.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60974
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 9 Serie A / Serie B.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60975
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 10 Serie A / Serie B.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60976
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 11 Serie A / Serie B.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60977
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 12 Serie A / Serie B.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60978
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 13 Serie A / Serie B.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60979
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 14 Serie A / Serie B.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60980
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 15 Serie A / Serie B.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60981
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 16 Serie A / Serie B.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60982
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 17 Serie A / Serie B.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60983
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 18 Serie A / Serie B.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60984
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 19 Serie A / Serie B.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60985
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 20 Serie A / Serie B.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60986
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 21 Serie A / Serie B.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60987
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Calcio 22 Serie A / Serie B.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60988
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Zona Goal Serie A.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60989
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", Zona Goal Serie B.
+http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/60990
 
 
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="Canali RAI",raitalia
