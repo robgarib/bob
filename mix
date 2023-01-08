@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 07/01/2023 ---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 08/01/2023 ---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -568,6 +568,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608015ea48a6e800076f0f
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/il-testimone.png" group-title="PlutoTV",Il Testimone
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd3f0733df400076c9a2d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/il-mio-amico-arnold.png" group-title="PlutoTV",Il mio amico Arnold
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6385eb5588399a000759ef45/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/just-tattoo-of-us.png" group-title="PlutoTV",Just Tattoo of Us
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62618478b389bb0007b24c12/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/just-for-laughs.png" group-title="PlutoTV",Just for Laughs
@@ -616,6 +618,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e168
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801976f92a750007a0699c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/reality.jpg" group-title="PlutoTV",Reality
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925f874b1ec000075e700a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/renegade.png" group-title="PlutoTV",Renegade
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/634926e4b51d2d00077819a2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ridiculousness.webp" group-title="PlutoTV",Ridiculousness
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd721e5b49e00079bfedc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/scherzi-e-risate.jpg" group-title="PlutoTV",Scherzi e Risate
@@ -632,10 +636,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c49ccfcc9cc600070eae
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62bc1f502b70e3000706298e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sposaticon-figli.png" group-title="PlutoTV",Sposati...con figli
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62443055c9735d00076feff7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/squadra-speciale-cobra-11.png" group-title="PlutoTV",Squadra Speciale Cobra 11
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625e6cc905e09f00073addee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super-mamma.png" group-title="PlutoTV",Super ! Mamma
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd59f8cc25c000750facc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super-a-casa-dei-loud.png" group-title="PlutoTV",Super! A casa dei Loud
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8e4e19bc0ab00072e049f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super-brother-and-sister.png" group-title="PlutoTV",Super! Brother and Sister 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925ea79541940007d20881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super-danger-thunder.png" group-title="PlutoTV",Super! Danger & Thunder
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8e3bca3766a0007387284/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super-eroi.jpg" group-title="PlutoTV",Super! Eroi
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f5ab128c2b00070ebd51/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super-film.png" group-title="PlutoTV",Super! Film
@@ -648,6 +658,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8d22424f1bd0007a5f3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62619544b1bf740007b4154b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super-mystery.png" group-title="PlutoTV",Super! Mystery
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6192624035f3910007fc7305/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super-natale.png" group-title="PlutoTV",Super! Natale
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612ce0ead825b300078b7082/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super-papà.png" group-title="PlutoTV",Super! Papà
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619263124a270700077c9471/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super-pop.jpg" group-title="PlutoTV",Super! Pop
@@ -2024,8 +2036,6 @@ http://193.33.88.172:8080/match/index.m3u8
 http://193.33.88.172:8080/football/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",TLN SPORT
-http://38.143.137.221:8000/LA1/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",TLN SPORT
 http://un-pluggedtv.net:8080/drmmaster/mMV5OlpcYM/146108
 
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Setanta Sports 1 HD
@@ -2263,95 +2273,6 @@ http://black.goldvisio.co:8000/live/cirorusso/fabio11/183820.ts
 http://black.goldvisio.co:8000/live/cirorusso/fabio11/183821.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Channel HD
 http://black.goldvisio.co:8000/live/cirorusso/fabio11/183822.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",1 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183823.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",1 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183824.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",2 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183825.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",2 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183826.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",3 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183827.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",3 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183828.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",4 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183829.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",4 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183830.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",5 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183831.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",5 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183832.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",6 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183833.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",6 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183834.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",7 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183835.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",7 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183836.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",8 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183837.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",8 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183838.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",9 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183839.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",9 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183840.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",10 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183841.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",10 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183842.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",11 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183843.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",11 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183844.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",12 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183845.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",12 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183846.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",13 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183847.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",13 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183848.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",14 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183849.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",14 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183850.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",15 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183851.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",15 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183852.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",16 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183853.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",16 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183854.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",17 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183855.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",17 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183856.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",18 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183857.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",18 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183858.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",19 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183859.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",19 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183860.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",20 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183861.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",20 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183862.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",21 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183863.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",21 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183864.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",22 FHD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183865.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",22 HD
-http://black.goldvisio.co:8000/live/cirorusso/fabio11/183866.ts
-
 
 
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="Canali RAI",raitalia
