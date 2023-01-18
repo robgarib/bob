@@ -213,7 +213,7 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="4K",RAI 4K
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EC4AEC0A-D365-432E-85BC-84879C601B12.png",TRAVELXP TV 4K
+#EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EC4AEC0A-D365-432E-85BC-84879C601B12.png",TRAVELXP 4K
 http://cdnx1.plusx.tv:8880/Travelxp/mono.m3u8?token=24cce35b06aecc51433333
 #EXTINF:-1 tvg-id="LoveNature.us" tvg-name="Love Nature" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AzOvgkV.png" group-title="4K",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
@@ -239,20 +239,28 @@ http://149.62.177.99:8004/play/a00y/index.m3u8
 http://tribaliptv.com:8080/Gustavo/123456/12401
 #EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EDD40422-068B-429C-80B0-F210D515DF2C.png",Hub Premier Sport 4K
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
-#EXTINF:-1 group-title="4K",HotBird 4K1
+#EXTINF:-1 group-title="4K",HotBird 4K
 http://149.62.177.99:8004/play/a00s/index.m3u8
+#EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/ultra-nature.png",Hot Bird 4K
+http://185.236.229.31:9981/play/a01d
 #EXTINF:-1 group-title="4K" tvg-logo="https://imgur.com/QXBOkb3",Global Fashion 4K
 http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/QhJ38Hx.png",Fashion TV UHD (2160p)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/DW-TV.png",DW-TV 4K
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/ultra-nature.png",ULTRA NATURE TV 4K
-http://185.236.229.31:9981/play/a01d
-#EXTINF:0 type="stream" channelId="-1" group-title="4K", BLOOMBERG 4K
-https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="4K", FASHION 4K
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+#EXTINF:-1 group-title="4K" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/DW-TV.png",DW-TV 4K
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="4K", BLOOMBERG 4K
+https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="4K",1MV4K
+http://136.243.42.146:1499
+#EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/DBA793B1-61D9-48FD-B2DA-F0B8EA9CC24C.jpeg",DAZN F1 UHD 4K
+http://tribaliptv.com:8080/Gustavo/123456/4930
+#EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/Digi_4K_29.png",DIGI 4k
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
+#EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EA0DA749-7DA9-420C-A40A-EE49E75B1C37.png",Sport5 4k
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
 
 
 
