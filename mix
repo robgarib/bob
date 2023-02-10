@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 31/01/2023 ---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 10/02/2023 ---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -212,8 +212,10 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="4K",RAI 4K
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EC4AEC0A-D365-432E-85BC-84879C601B12.png",TRAVELXP TV 4K
-http://cdnx1.plusx.tv:8880/Travelxp/mono.m3u8?token=24cce35b06aecc51433333
+#EXTINF:-1 tvg-id="" tvg-name="DE: TRAVEL 4K" tvg-logo="" group-title="4K",DE: TRAVEL 4K
+http://otthome.xyz:8080/maryan/maryan1234/112668
+#EXTINF:-1 tvg-id="travelmix.ro" tvg-name="TRAVEL MIX 4K" tvg-logo="http://5.189.181.7/extract/travelmixhd.png" group-title="4K",TRAVEL MIX 4K
+http://otthome.xyz:8080/maryan/maryan1234/60117
 #EXTINF:-1 tvg-id="LoveNature.us" tvg-name="Love Nature" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AzOvgkV.png" group-title="4K",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="http://hasbahca.net/TVLogo/world/Love nature 4K.png",LoveNature4K
@@ -2127,6 +2129,36 @@ http://195.2.74.99/channel/n12693b2c/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41777
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Eurosport 2 HD
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41778
+#EXTINF:-1 tvg-id="eurosport4k.ro" tvg-name="Eurosport 4K" tvg-logo="http://5.189.181.7/picon/logos/eurosport.png" group-title="SPORT",Eurosport 4K
+http://otthome.xyz:8080/maryan/maryan1234/25947
+#EXTINF:-1 tvg-id="" tvg-name="||NL|| Eurosport 1 4K" tvg-logo="" group-title="SPORT",||NL|| Eurosport 1 4K
+http://otthome.xyz:8080/maryan/maryan1234/116870
+#EXTINF:-1 tvg-id="" tvg-name="||NL|| Eurosport 1 HD" tvg-logo="" group-title="SPORT",||NL|| Eurosport 1 HD
+http://otthome.xyz:8080/maryan/maryan1234/116869
+#EXTINF:-1 tvg-id="" tvg-name="||NL|| Eurosport 2 4K" tvg-logo="" group-title="SPORT",||NL|| Eurosport 2 4K
+http://otthome.xyz:8080/maryan/maryan1234/116868
+#EXTINF:-1 tvg-id="" tvg-name="||NL|| Ziggo Voetbal 4K" tvg-logo="" group-title="SPORT",||NL|| Ziggo Voetbal 4K
+http://otthome.xyz:8080/maryan/maryan1234/116793
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel H265 NEW" tvg-logo="" group-title="SPORT",Dazn channel H265 NEW
+http://otthome.xyz:8080/maryan/maryan1234/94766
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 1 H265 NEW" tvg-logo="" group-title="SPORT",Dazn 1 H265 NEW
+http://otthome.xyz:8080/maryan/maryan1234/94767
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 2 H265 NEW" tvg-logo="" group-title="SPORT",Dazn 2 H265 NEW
+http://otthome.xyz:8080/maryan/maryan1234/94768
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 3 H265 NEW" tvg-logo="" group-title="SPORT",Dazn 3 H265 NEW
+http://otthome.xyz:8080/maryan/maryan1234/94769
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 4 H265 NEW" tvg-logo="" group-title="SPORT",Dazn 4 H265 NEW
+http://otthome.xyz:8080/maryan/maryan1234/94770
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 5 H265 NEW" tvg-logo="" group-title="SPORT",Dazn 5 H265 NEW
+http://otthome.xyz:8080/maryan/maryan1234/94771
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 6 H265 NEW" tvg-logo="" group-title="SPORT",Dazn 6 H265 NEW
+http://otthome.xyz:8080/maryan/maryan1234/94772
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 7 H265 NEW" tvg-logo="" group-title="SPORT",Dazn 7 H265 NEW
+http://otthome.xyz:8080/maryan/maryan1234/94773
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 8 H265 NEW" tvg-logo="" group-title="SPORT",Dazn 8 H265 NEW
+http://otthome.xyz:8080/maryan/maryan1234/94774
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn channel FHD NEW
+http://otthome.xyz:8080/maryan/maryan1234/94757
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", SPORT UNO HD
 http://world-web.net:6969/nuF35tX4N8/85Z4UpfMFj-antoniobar/26370
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",sport Calcio HD
