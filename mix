@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 10/02/2023 ---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 11/02/2023 ---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -212,7 +212,7 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="4K",RAI 4K
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: TRAVEL 4K" tvg-logo="" group-title="4K",DE: TRAVEL 4K
+#EXTINF:-1 tvg-id="" tvg-name="DE: TRAVEL 4K" tvg-logo="" group-title="4K",TRAVELXP 4K
 http://otthome.xyz:8080/maryan/maryan1234/112668
 #EXTINF:-1 tvg-id="travelmix.ro" tvg-name="TRAVEL MIX 4K" tvg-logo="http://5.189.181.7/extract/travelmixhd.png" group-title="4K",TRAVEL MIX 4K
 http://otthome.xyz:8080/maryan/maryan1234/60117
