@@ -1951,108 +1951,169 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 " group-title="SPORT",TürkmenTV Sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 1" tvg-logo="https://docdog.top/Logotv/countries//arenasport1.png" group-title="SPORT",CRO: ARENA SPORT 1
-http://worldstream.top:8080/live/Diego/Diego/24038.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 2" tvg-logo="https://docdog.top/Logotv/countries//arenasport2.png" group-title="SPORT",CRO: ARENA SPORT 2
-http://worldstream.top:8080/live/Diego/Diego/24037.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 3" tvg-logo="https://docdog.top/Logotv/countries//arenasport3.png" group-title="SPORT",CRO: ARENA SPORT 3
-http://worldstream.top:8080/live/Diego/Diego/24036.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 4" tvg-logo="https://docdog.top/Logotv/countries//arenasport4.png" group-title="SPORT",CRO: ARENA SPORT 4
-http://worldstream.top:8080/live/Diego/Diego/24035.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 5" tvg-logo="https://docdog.top/Logotv/countries//arenasport5.png" group-title="SPORT",CRO: ARENA SPORT 5
-http://worldstream.top:8080/live/Diego/Diego/24034.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 6" tvg-logo="https://docdog.top/Logotv/countries//arenasport6.png" group-title="SPORT",CRO: ARENA SPORT 6
-http://worldstream.top:8080/live/Diego/Diego/24033.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/Logotv/countries/france/bein-sports-1-french-fr.png" group-title="SPORT",FR: BEIN SPORTS 1
-http://worldstream.top:8080/live/Diego/Diego/8298.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://docdog.top/Logotv/countries/france/bein-sports-2-french-fr.png" group-title="SPORT",FR: BEIN SPORTS 2
-http://worldstream.top:8080/live/Diego/Diego/8299.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://docdog.top/Logotv/countries/france/bein-sports-3-french-fr.png" group-title="SPORT",FR: BEIN SPORTS 3
-http://worldstream.top:8080/live/Diego/Diego/8300.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/Logotv/countries/france/beinsportmax4.png" group-title="SPORT",FR: BEIN SPORT MAX 4
-http://worldstream.top:8080/live/Diego/Diego/8301.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/Logotv/countries/france/beinsportmax5.png" group-title="SPORT",FR: BEIN SPORT MAX 5
-http://worldstream.top:8080/live/Diego/Diego/8302.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/Logotv/countries/france/beinsportmax6.png" group-title="SPORT",FR: BEIN SPORT MAX 6
-http://worldstream.top:8080/live/Diego/Diego/8303.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/Logotv/countries/france/beinsportmax7.png" group-title="SPORT",FR: BEIN SPORT MAX 7
-http://worldstream.top:8080/live/Diego/Diego/8304.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/Logotv/countries/france/beinsportmax8.png" group-title="SPORT",FR: BEIN SPORT MAX 8
-http://worldstream.top:8080/live/Diego/Diego/8305.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/Logotv/countries/france/beinsportmax9.png" group-title="SPORT",FR: BEIN SPORT MAX 9
-http://worldstream.top:8080/live/Diego/Diego/8306.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/Logotv/countries/france/beinsportmax10.png" group-title="SPORT",FR: BEIN SPORT MAX 10
-http://worldstream.top:8080/live/Diego/Diego/8307.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="https://docdog.top/Logotv/countries/portugal/sport-tv-mais-pt.png" group-title="SPORT",PT: SPORT TV +
-http://worldstream.top:8080/live/Diego/Diego/29668.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttv1.png" group-title="SPORT",PT: SPORT TV 1
-http://worldstream.top:8080/live/Diego/Diego/24984.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttv2.png" group-title="SPORT",PT: SPORT TV 2
-http://worldstream.top:8080/live/Diego/Diego/24982.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttv3.png" group-title="SPORT",PT: SPORT TV 3
-http://worldstream.top:8080/live/Diego/Diego/24980.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttv4.png" group-title="SPORT",PT: SPORT TV 4
-http://worldstream.top:8080/live/Diego/Diego/24979.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="https://docdog.top/Logotv/countries/portugal/sporttv5.png" group-title="SPORT",PT: SPORT TV 5
-http://worldstream.top:8080/live/Diego/Diego/24978.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6" tvg-logo="https://docdog.top/Logotv/countries/portugal/Sport_tv_6.png" group-title="SPORT",PT: SPORT TV 6
-http://worldstream.top:8080/live/Diego/Diego/29669.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",UK: VIP BT SPORT 1
-http://worldstream.top:8080/live/Diego/Diego/29689.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 2" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png" group-title="SPORT",UK: VIP BT SPORT 2
-http://worldstream.top:8080/live/Diego/Diego/29688.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 3" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png" group-title="SPORT",UK: VIP BT SPORT 3
-http://worldstream.top:8080/live/Diego/Diego/29687.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT EXTRA 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportextra1.png" group-title="SPORT",UK: VIP BT SPORT EXTRA 1
-http://worldstream.top:8080/live/Diego/Diego/29685.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT EXTRA 2" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportextra2.png" group-title="SPORT",UK: VIP BT SPORT EXTRA 2
-http://worldstream.top:8080/live/Diego/Diego/29684.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT EXTRA 3" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportextra3.png" group-title="SPORT",UK: VIP BT SPORT EXTRA 3
-http://worldstream.top:8080/live/Diego/Diego/29683.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT EXTRA 4" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportextra4.png" group-title="SPORT",UK: VIP BT SPORT EXTRA 4
-http://worldstream.top:8080/live/Diego/Diego/29682.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",UK: BT Sports 1 HD
-http://u.goldeniptv.com:2052/123321/123321/146705
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",UK: BT Sports 2 HD
-http://u.goldeniptv.com:2052/123321/123321/146706
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",UK: BT Sports 3 HD
-http://u.goldeniptv.com:2052/123321/123321/146707
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",UK: Eir Sport 1 HD
-http://u.goldeniptv.com:2052/123321/123321/146708
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",UK: BT Sport 1
-http://u.goldeniptv.com:2052/123321/123321/146709
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",UK: BT Sport 2
-http://u.goldeniptv.com:2052/123321/123321/146710
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",UK: BT Sport 3
-http://u.goldeniptv.com:2052/123321/123321/146711
-##EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",UK: BT Sport ESPN HD
-http://u.goldeniptv.com:2052/123321/123321/146712
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",UK: BT Sport Extra
-http://u.goldeniptv.com:2052/123321/123321/146713
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",UK: BT Sport Mosaic
-http://u.goldeniptv.com:2052/123321/123321/146714
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",UK: BT Sport Extra 1
-http://u.goldeniptv.com:2052/123321/123321/146715
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",UK: BT Sport Extra 2
-http://u.goldeniptv.com:2052/123321/123321/146716
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",UK: BT Sport Extra 3
-http://u.goldeniptv.com:2052/123321/123321/146717
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",UK: BT Sport Extra 4
-http://u.goldeniptv.com:2052/123321/123321/146718
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",CRO: Arena Sport 1 HD
-http://u.goldeniptv.com:2052/123321/123321/146719
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",CRO: Arena Sport 2 HD
-http://u.goldeniptv.com:2052/123321/123321/146720
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",CRO: Arena Sport 3 HD
-http://u.goldeniptv.com:2052/123321/123321/146721
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",CRO: Arena Sport 4 HD
-http://u.goldeniptv.com:2052/123321/123321/146722
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",CRO: Arena Sport 5 HD
-http://u.goldeniptv.com:2052/123321/123321/146723
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BT SPORT 1" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SPORT",CRO: Arena Sport 6 HD
-http://u.goldeniptv.com:2052/123321/123321/146724
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT TV + FHD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21168
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT TV + HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21169
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT TV 1 FHD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21170
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT TV 1 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21171
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT TV 2 FHD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21172
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT TV 3 FHD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21173
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT TV 3 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21174
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT TV 4 FHD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21175
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT TV 4 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21176
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT TV 5 FHD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21177
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT TV 5 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21178
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT TV 6  FHD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21179
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT TV NBA FHD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21180
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ELEVEN SPORTS 1 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21181
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ELEVEN SPORTS 2 FHD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21182
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ELEVEN SPORTS 3 FHD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21183
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ELEVEN SPORTS 4 FHD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21184
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ELEVEN SPORTS 4 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21185
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ELEVEN SPORTS 5 FHD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21186
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ELEVEN SPORTS 5 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21187
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ELEVEN SPORTS 6 FHD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21188
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ELEVEN SPORTS 6 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21189
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BT Sport 1 FHD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/15841
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BT Sport 1
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/15812
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BT Sport 2 FHD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/15840
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BT Sport 2
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/15813
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BT Sport 3 FHD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/15839
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BT Sport 3
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/15814
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BT Sport 4 FHD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/15838
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BT Sport 4
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Eleven Sports 1 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21332
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Eleven Sports 3 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21333
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ELEVEN SPORTS 4 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21334
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Eleven Sports 2 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21339
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORT 1 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21037
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORT 2 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21038
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORT 3 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21039
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",,BEIN SPORT MAX 4 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21040
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORT MAX 5 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21041
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORT MAX 6 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21042
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORT MAX 7 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21043
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORT MAX 8 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21044
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORT MAX 9 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21045
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORT MAX 10 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21046
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 1 PREMIUM HD (SR)
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2496.ts
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 2 PREMIUM HD (SR)
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2497.ts
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 3 PREMIUM HD (SR)
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2498.ts
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 1 HD (SR)
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2499.ts
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",XYU Arena Sport 1 HD (SR)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/22562
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 2 HD (SR)
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2500.ts
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",XYU Arena Sport 2 HD (SR)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/22563
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 3 HD (SR)
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2501.ts
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",XYU Arena Sport 3 HD (SR)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/22564
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 4 HD (SR)
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2502.ts
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",XYU Arena Sport 4 HD (SR)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/22565
+#EXTINF:-1,Arena Sport 5 HD (SR)
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2503.ts
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",XYU Arena Sport 5 (SR)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/22566
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",XYU Arena Sport 1 PREMIUM HD (SR)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/22559
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",XYU Arena Sport 2 PREMIUM HD (SR)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/22560
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",XYU Arena Sport 3 PREMIUM HD (SR)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/22561
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",EXJU:Eurosport 1 HD (SR)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/28309
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",EXJU:Eurosport 2 HD (SR)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/28310
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 1 HD (HR)
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2473.ts
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",XYU Arena Sport 1 HD (HR)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/22536
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 2 HD (HR)
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2474.ts
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",XYU Arena Sport 2 HD (HR)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/22537
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 3 HD (HR)
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2475.ts
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",XYU Arena Sport 3 HD (HR)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/22538
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 4 HD (HR)
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2476.ts
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",XYU Arena Sport 4 HD (HR)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/22539
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 5 HD (HR)
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2477.ts
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",XYU Arena Sport 5 HD (HR)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/22540
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 6 HD (HR)
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2478.ts
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",XYU Arena Sport 6 HD (HR)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/22541
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 7 HD (HR)
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2479.ts
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",XYU Arena Sport 7 HD (HR)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/22542
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 8 HD (HR)
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2480.ts
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",XYU Arena Sport 8 HD (HR)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/22543
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 9 HD (HR)
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2481.ts
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",XYU Arena Sport 9 HD (HR)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/22544
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 10 HD (HR)
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2482.ts
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",XYU Arena Sport 10 HD (HR)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/22545
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 1 FHD
