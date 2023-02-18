@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 17/02/2023 ---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 18/02/2023 ---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -2155,24 +2155,6 @@ http://wrioslio.altervista.org/TV/scapers/match.php?id=ruseuro2
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",bel555
 http://wrioslio.altervista.org/TV/scapers/match.php?id=bel555
 
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",MATCH! FOOTBALL 1
-http://213.172.73.170:8081/nimble_live/1111__Mat4_Futbol_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",MATCH! FOOTBALL 2
-http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",MATCH! FOOTBALL 3
-http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",MATCH! FOOTBALL 1
-http://193.33.88.172:8080/football1_hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",MATCH! FOOTBALL 2
-http://193.33.88.172:8080/football2_hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",MATCH! FOOTBALL 3
-http://193.33.88.172:8080/football3_hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",MATCH!
-http://193.33.88.172:8080/match_hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",MATCH!
-http://193.33.88.172:8080/match/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",FOOTBALL
-http://193.33.88.172:8080/football/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",TLN SPORT
 http://un-pluggedtv.net:8080/drmmaster/mMV5OlpcYM/146108
@@ -2218,6 +2200,32 @@ http://otthome.xyz:8080/maryan/maryan1234/94773
 http://otthome.xyz:8080/maryan/maryan1234/94774
 #EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",channel FHD NEW
 http://otthome.xyz:8080/maryan/maryan1234/94757
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Zona FHD (TB)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/16805
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",1 FHD (TB)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/16806
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",2 FHD (TB)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/16807
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",3 FHD (TB)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/16808
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",4 FHD (TB)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/16809
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",HD (TB)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/16810
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",6 HD (TB)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/16811
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",7 HD (TB)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/16812
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",8 HD (TB)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/16813
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",9 HD (TB)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/28394
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",10 HD (TB)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/28395
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",11 HD (TB)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/28396
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",12 HD (TB)
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/28397
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Zona HD
 http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13610
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",1 HD 
