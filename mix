@@ -2490,8 +2490,14 @@ http://185.236.229.31:9981/play/a00l
 http://185.236.229.31:9981/play/a00j
 #EXTINF:-1 " group-title="Altri Canali Nazionali",RTS2
 http://185.236.229.31:9981/play/a00k
+#EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",TELENORBA
+http://45.153.35.249:8000/play/a062
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",TV8 
 https://www.mytivu.it/Application/Channels/TV8.php
+#EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",TV8 HD
+http://188.12.112.110:4000/play/a04c
+#EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",NOVE
+http://185.234.217.55:8046/play/a06w/index.m3u8
 #EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Nove.png" group-title="Altri Canali Nazionali",Nove
 http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/51316.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cielo" " group-title="Altri Canali Nazionali",Cielo
@@ -2510,6 +2516,16 @@ http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/51329.ts
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-id="FoodNetowrk.it" tvg-name="Foodnetwork" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/FoodNetwork.png" group-title="Altri Canali Nazionali",Food Network
 http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/51346.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",DMAX
+http://188.12.112.110:4000/play/a05c
+#EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",Food Network
+http://188.12.112.110:4000/play/a056
+#EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",Real Time
+http://185.234.217.55:8045/play/a08f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",Warner TV
+http://188.12.112.110:4000/play/a058
+#EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",GIALLO
+http://188.12.112.110:4000/play/a055
 #EXTINF:-1 tvg-id="" tvg-name="PESCA HD" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Imaggini/picons/SkySport/SkySportPesca.png" group-title="Altri Canali Nazionali",PESCA HD
 http://happook147.com:80/Marino4/t8iJ6EsMZk/2218
 #EXTINF:-1 tvg-ID="" tvg-name="HGTV (Case Design)" tvg-logo="" group-title="Altri Canali Nazionali",HGTV (Case Design)
