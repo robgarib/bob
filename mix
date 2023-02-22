@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 21/02/2023 ---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 22/02/2023 ---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -2490,6 +2490,12 @@ http://185.236.229.31:9981/play/a00l
 http://185.236.229.31:9981/play/a00j
 #EXTINF:-1 " group-title="Altri Canali Nazionali",RTS2
 http://185.236.229.31:9981/play/a00k
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="Altri Canali Nazionali",Motor Trend
+http://185.234.217.55:8046/play/a06x/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="Altri Canali Nazionali",Sky TG24
+http://188.12.112.110:4000/play/a04e
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="Altri Canali Nazionali",Cielo HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13444
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",TELENORBA
 http://45.153.35.249:8000/play/a062
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",TV8 
