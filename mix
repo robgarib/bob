@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 22/02/2023 ---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 05/03/2023 ---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -2180,16 +2180,6 @@ http://195.2.74.99/channel/n12693b2c/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41777
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Eurosport 2 HD
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41778
-#EXTINF:-1 tvg-id="eurosport4k.ro" tvg-name="Eurosport 4K" tvg-logo="http://5.189.181.7/picon/logos/eurosport.png" group-title="SPORT",Eurosport 4K
-http://otthome.xyz:8080/maryan/maryan1234/25947
-#EXTINF:-1 tvg-id="" tvg-name="||NL|| Eurosport 1 4K" tvg-logo="" group-title="SPORT",||NL|| Eurosport 1 4K
-http://otthome.xyz:8080/maryan/maryan1234/116870
-#EXTINF:-1 tvg-id="" tvg-name="||NL|| Eurosport 1 HD" tvg-logo="" group-title="SPORT",||NL|| Eurosport 1 HD
-http://otthome.xyz:8080/maryan/maryan1234/116869
-#EXTINF:-1 tvg-id="" tvg-name="||NL|| Eurosport 2 4K" tvg-logo="" group-title="SPORT",||NL|| Eurosport 2 4K
-http://otthome.xyz:8080/maryan/maryan1234/116868
-#EXTINF:-1 tvg-id="" tvg-name="||NL|| Ziggo Voetbal 4K" tvg-logo="" group-title="SPORT",||NL|| Ziggo Voetbal 4K
-http://otthome.xyz:8080/maryan/maryan1234/116793
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 1 H265 NEW" tvg-logo="" group-title="SPORT",1 H265 NEW
 http://otthome.xyz:8080/maryan/maryan1234/94767
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 2 H265 NEW" tvg-logo="" group-title="SPORT",2 H265 NEW
@@ -2274,6 +2264,16 @@ http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13603
 http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13604
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",256 HD
 http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13605
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport 24 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13567
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",F1 FHD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13558
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",F1 HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13573
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",MGP FHD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13559
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",MGP HD
+http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13574
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Zona - Zona Gol
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41687
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",1
