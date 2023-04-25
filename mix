@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 18/03/2023 ---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 25/04/2023 ---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -2051,26 +2051,40 @@ http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21333
 http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21334
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Eleven Sports 2 HD
 http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21339
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORT 1 HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21037
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORT 2 HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21038
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORT 3 HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21039
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",,BEIN SPORT MAX 4 HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21040
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORT MAX 5 HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21041
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORT MAX 6 HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21042
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORT MAX 7 HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21043
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORT MAX 8 HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21044
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORT MAX 9 HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21045
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORT MAX 10 HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/21046
+
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", BEIN SPORTS 1 FHD
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/27089
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", BEIN SPORTS 1 HD
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/27086
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORT 1 SD
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/27083
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORTS 2 FR FHD
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/27088
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORTS 2 HD
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/27085
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORT 2 SD
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/27082
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORTS 3 FR FHD
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/27087
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORTS 3 HD
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/27084
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORT 3 SD
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/27081
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORTS MAX 4
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/27080
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORTS MAX 5
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/27079
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORTS MAX 6
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/27078
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORTS MAX 7
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/27077
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORTS MAX 8
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/27076
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORTS MAX 9
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/27075
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORTS MAX 10
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/27074
+
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 1 PREMIUM HD (SR)
 http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2496.ts
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Arena Sport 2 PREMIUM HD (SR)
