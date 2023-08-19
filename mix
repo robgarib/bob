@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 02/08/2023 ---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 19/08/2023 ---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -255,6 +255,8 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="TOP ITALIA",=== TOP ITALIA ===
 http://patbuweb.com/iptv/e2liste/startend.avi
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italian-fishing-tv.jpg" group-title="TOP ITALIA",Sky Uno HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/27
 #EXTINF:-1 tvg-id="" tvg-name="PESCA HD" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Imaggini/picons/SkySport/SkySportPesca.png" group-title="TOP ITALIA",PESCA HD
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41827
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italian-fishing-tv.jpg" group-title="TOP ITALIA",Italian Fishing TV 
@@ -2325,8 +2327,64 @@ http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13617
 http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13618
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",8 HD
 http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13619
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Zona Dazn HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/31562
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Zona Dazn 2 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/59594
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Zona Dazn 3 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/59595
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Zona Dazn 4 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/60321
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Zona Dazn 5 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/60322
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Zona Serie A HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/60404
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Zona Serie B HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/70914
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 1 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/19918
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 2 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/19919
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 3 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/19920
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 4 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/19921
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 5 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/19922
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 6 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/19923
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 7 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/19924
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 8 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/19925
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 9 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/19926
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 10 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/19927
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 11 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/45069
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 12 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/45070
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 13 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/70915
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 14 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/70916
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 15 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/80682
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 16 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/72988
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 17 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/72989
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 18 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/72990
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 19 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/72991
+#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 20 HD
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/72992
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Inter Tv
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/87
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", SPORT UNO HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13568
+http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/53
 #EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Sport Arena HD
 http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13571
 #EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Sport Football HD
@@ -3488,3 +3546,4 @@ http://62.2.85.68:39981/play/a00g
 http://62.2.85.68:39981/play/a00h
 #EXTINF:-1 group-title="Vari",ORF III HD
 http://85.0.32.106:7000/play/xxORF3xx
+
