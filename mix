@@ -1405,7 +1405,7 @@ http://live.sport2u.tv:1935/EvoLive/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Top Calcio 24" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-top-calcio-24-7160-300x225.jpg" tvg-shift="0" group-title="SPORT",Top Calcio 24
 https://bit.ly/38QRMom
 #EXTINF:-1 tvg-ID="Inter Channel" tvg-name="Inter TV" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/inter.png" group-title="SPORT",Inter TV
-http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41793
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/159
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-24-live.jpg" group-title="SPORT",SportItalia 24 LIVE
 https://sportitaliaamd.akamaized.net/video_1/Sportitalia/hls/1A15BA14BC564CE1C312973FF46193A8969E2C31/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-solocalcio.jpg" group-title="SPORT",SportItalia Solocalcio
@@ -1476,127 +1476,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf221fad5eeee0f5a40941c/
 #EXTINF:-1 tvg-name="Action Sports 4U" tvg-id="" group-title="SPORT" tvg-logo="https://i.imgur.com/K2XHhWW.png",Action Sports 4U
 https://nimble.dashstreams.net/onestudio/actionsportstv/playlist.m3u8
 
-#EXTINF:-1 " group-title="SPORT",Stream 20 (linear)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 21 (sport)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 22 (ls01)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 23 (02_TennisHD_720p)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 24 (sport)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 25 (03_skynetsporthd_720p)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 26 (hls)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 27 (Content)
-#EXTVLCOPT:http-user-agent=fake_UA
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 28 (hls)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 29 (80D1627)
-#EXTVLCOPT:http-user-agent=fake_UA
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 30 (hls)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 31 (fs2.m3u8)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://gma2.blab.email/fs2.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 32 (hls)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 33 (live)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 34 (hls)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 35 (stream)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 36 (hls)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 37 (smc4sportslive)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 38 (sstvlinear)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 39 (hls)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 40 ()
-#EXTVLCOPT:http-user-agent=fake_UA
-
-#EXTINF:-1 " group-title="SPORT",Stream 41 (uq2663)
-#EXTVLCOPT:http-user-agent=fake_UA
-http://210.210.155.35:80/uq2663/h/h05/01.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 42 (02_golfhd_720p)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 43 (s81)
-#EXTVLCOPT:http-user-agent=fake_UA
-http://ott-cdn.ucom.am/s81/03.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 44 (s82)
-#EXTVLCOPT:http-user-agent=fake_UA
-http://ott-cdn.ucom.am/s82/03.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 45 (astrakhanrusporthd)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 46 (hls)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_360p/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 47 (live)
-#EXTVLCOPT:http-user-agent=fake_UA
-http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 48 (00688-cacheliveedge0)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 49 (Origin02)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 50 (02_foxsport_720p)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 51 (02_FoxSport2_TH_720p)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 52 (02_FoxSport3_TH_720p)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 53 (playout)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 54 (playout)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 55 (sec.m3u8)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://gma2.blab.email/sec.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 56 (acc.m3u8)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://gma2.blab.email/acc.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 57 (espn2.m3u8)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 58 (espnu.m3u8)
-#EXTVLCOPT:http-user-agent=fake_UA
-https://gma2.blab.email/espnu.m3u8
-#EXTINF:-1 " group-title="SPORT",Stream 59 (astrakhanrusporthd)
-#EXTVLCOPT:http-user-agent=fake_UA
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",mpremier
 http://wrioslio.altervista.org/TV/scapers/match.php?id=mpremier
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ukrfoot1
@@ -1616,27 +1495,6 @@ http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 #EXTINF:-1 " group-title="SPORT",PLAY SPORTS
 https://playerstv-samsungca.amagi.tv/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",B-Sports 3
-https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",B-Sports 4
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
-#EXTINF:-1 " group-title="SPORT",B-Sports 5
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",B-Sports 6
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 " group-title="SPORT",B-Sports 7
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",B-Sports 8
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",B-Sports 9
-http://93.152.174.144:4000/play/btsport1/index.m3u8
-#EXTINF:-1 " group-title="SPORT",B-Sports 10
-http://93.152.174.144:4000/play/btsport2/index.m3u8
-
-#EXTINF:-1 " group-title="SPORT",Eurosport
-http://78.83.191.18:8000/play/a05y
-#EXTINF:-1 " group-title="SPORT",Eurosport 2
-http://78.83.191.18:8000/play/a04b
 #EXTINF:-1 " group-title="SPORT",Nova Sport
 http://78.83.191.18:8000/play/a04a
 #EXTINF:-1 " group-title="SPORT",A Spor
@@ -2199,46 +2057,6 @@ http://bl.uma.media/live/154036/HLS/154036_2/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",MATCH! IGRA fhd
 http://bl.uma.media/live/154036/HLS/154036_3/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",ESPN  +
-http://45.5.118.226:8000/play/a0gl/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",ESPN 2 HD
-http://45.5.118.226:8000/play/a0ki/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",ESPN 3 HD
-http://45.5.118.226:8000/play/a0kh/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",ESPN 4 HD
-http://45.5.118.226:8000/play/a0ix/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",ESPN HD
-http://45.5.118.226:8000/play/a0kg/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",ESPN DEPORTES
-http://45.5.118.226:8000/play/a05c/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",FOX SPORTS 2 HD
-http://45.5.118.226:8000/play/a0ht/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",FOX SPORTS 3 HD
-http://45.5.118.226:8000/play/a0kj/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",SKY SPORTS
-http://45.5.118.226:8000/play/a053/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",TIGO SPORTS GT
-http://45.5.118.226:8000/play/a058/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",TNT SPORTS
-http://45.5.118.226:8000/play/a05b/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",TYC SPORTS
-http://45.5.118.226:8000/play/a059/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",BEIN SPORTS N
-http://45.5.118.226:8000/play/a052/index.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Bein Sports Xtra
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Bein Xtra Espanol
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-tcl/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Setanta Sports 1 HD
-https://livetv.mylifeisgood.ml/channels/setantahd
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Setanta Sports 1 HD
-http://195.2.74.99/channel/n1269af8b/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Setanta Sports 2 HD
-https://livetv.mylifeisgood.ml/channels/setantaplus
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Setanta Sports 2 HD
-http://195.2.74.99/channel/n12693b2c/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
-
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Eurosport 1 HD
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41777
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Eurosport 2 HD
@@ -2359,40 +2177,222 @@ http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/72990
 http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/72991
 #EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 20 HD
 http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/72992
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Inter Tv
-http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/87
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", SPORT UNO HD
-http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/53
-#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Sport Arena HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13571
-#EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Sport Football HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13572
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", calcio HD
-http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/63745
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport Calcio HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13597
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",251 HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13600
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",252 HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13601
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",253 HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13602
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",254 HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13603
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",255 HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13604
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",256 HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13605
+
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Zona 50 FPS AS
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/147625
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Zona 25 FPS AS
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/147626
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",ZONA FHD 50FPS
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/112230
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",ZONA  FHD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/90474
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",ZONA HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/90475
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",ZONA  SD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/90476
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",VETRINA SERIE A
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140853
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 1 H265
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140744
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 1 FHD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140745
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 1 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140746
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 1 SD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140747
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 2 H265
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140748
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 2 FHD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140749
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 2 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140750
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 2 SD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140751
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 3 H265
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140752
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 3 FHD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140753
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 3 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140754
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 3 SD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140755
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 4 H265
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140756
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 4 FHD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140757
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 4 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140758
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 4 SD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140759
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 5 H265
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140760
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 5 FHD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140761
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 5 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140762
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 5 SD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140763
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 6 H265
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140764
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 6 FHD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140765
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 6 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140766
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 6 SD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140767
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 7 H265
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140768
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 7 FHD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140769
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", 7 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140770
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",8 H265
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140771
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",8 FHD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140772
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",8 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/140773
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",9 FHD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/146430
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",9 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/146429
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",9 SD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/146425
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",10 FHD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/146426
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",10 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/146428
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",10 SD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/146427
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 1 HD+
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107514
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 1 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107515
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 2 HD+
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107516
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 2 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107517
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 3 HD+
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107518
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 3 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107519
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 4 HD+
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107520
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 4 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107521
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 5 HD+
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107522
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 5 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107523
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 6 HD+
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107524
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 6 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107525
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 7 HD+
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107526
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 7 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107527
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 8 HD+
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107528
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 8 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107529
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 9 HD+
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107530
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 9 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107531
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 10 HD+
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107532
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 10 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107533
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 11 HD+
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107534
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 11 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107535
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 12 HD+
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107536
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 12 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107537
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 13 HD+
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107538
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 13 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107539
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 14 HD+
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107540
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 14 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107541
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 15 HD+
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107542
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 15 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107543
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 16 HD+
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107544
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 16 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107545
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 17 HD+
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107546
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Evento 17 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/107547
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport 24 FHD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/82
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport 24 HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13567
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",F1 FHD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13558
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",F1 HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13573
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",MGP FHD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13559
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",MGP HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13574
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/78363
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport 24 FHD AS
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/147583
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport 24 HD AS
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/147584
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport Uno FHD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/58
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport Uno HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/16853
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport Uno FHD AS
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/147585
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport Uno HD AS
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/147586
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport Max FHD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/66
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport Max HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/79989
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport Max FHD AS
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/156037
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport Max HD AS
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/156038
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport Arena FHD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/72
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport Arena HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/79990
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport Arena FHD AS
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/147597
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport Arena HD AS
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/147598
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport F1 FHD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/68
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport F1 HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/79992
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport F1 FHD AS
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/147587
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport F1 HD AS
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/147588
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport MotoGP FHD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/64
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport MotoGP HD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/79993
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport MotoGP FHD AS
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/147589
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport MotoGP HD AS
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/147590
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Euro1 FHD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/175
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sky Euro1 FHD AS
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/147601
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sky Euro1 HD AS
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/147602
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Euro2 FHD
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/19205
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sky Euro2 FHD AS
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/147603
+#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sky Euro2 HD AS
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/147604
+
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Zona - Zona Gol
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41687
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",1
@@ -2594,11 +2594,11 @@ https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/world/RSILA1.ch.png",RSI LA 1 HD
 http://185.236.229.31:9981/play/a00m
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/world/RSILA1.ch.png",RSI La 1 HD
-http://62.2.85.68:39981/play/a00p
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/46
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/RSILA2.ch.png",RSI LA 2 HD
 http://185.236.229.31:9981/play/a00n
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/RSILA2.ch.png",RSI La 2 HD
-http://62.2.85.68:39981/play/a00q
+http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/47
 #EXTINF:-1 " group-title="Altri Canali Nazionali",SRF1
 http://185.236.229.31:9981/play/a00h
 #EXTINF:-1 " group-title="Altri Canali Nazionali",SRF2
@@ -2615,8 +2615,6 @@ http://185.234.217.55:8046/play/a06x/index.m3u8
 http://188.12.112.110:4000/play/a04e
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="Altri Canali Nazionali",Cielo HD
 http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13444
-#EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",TELENORBA
-http://45.153.35.249:8000/play/a062
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",TV8 
 https://www.mytivu.it/Application/Channels/TV8.php
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",TV8 HD
