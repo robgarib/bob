@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 15/09/2023 ---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 16/09/2023---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -475,38 +475,12 @@ http://myott.top/stream/D3VTJRDNKLY/206.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-country="US" tvg-language="" tvg-logo="" group-title="BEST CHANNELS",Travel Channel
 https://cdn1.mobiletv.bg/T5/travel_channel/travel_channel_794613_850k.m3u8
-#EXTINF:-1 " group-title="BEST CHANNELS",DISCOVERY (FRA)
-http://190.2.155.162/discoverychannel/index.m3u8
-#EXTINF:-1 " group-title="BEST CHANNELS",DISCOVERY SCIENCE (FRA)
-http://190.2.155.162/discoveryscience/index.m3u8
-#EXTINF:-1 " group-title="BEST CHANNELS",Accuweather
-https://accuweatherx-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 " group-title="BEST CHANNELS",DoveNow
-https://cinedigm-dovenow-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 " group-title="BEST CHANNELS",Racing America
-https://racingamerica-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 " group-title="BEST CHANNELS",Redbox Holiday
-https://redbox-holiday-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 " group-title="BEST CHANNELS",USA | WORLD FISHING NETWORK HD
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100481
 #EXTINF:-1 " group-title="BEST CHANNELS",BBC Travel (EU)
 https://bbceu-bbctravel-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 " group-title="BEST CHANNELS",BBC Food (EU)
 https://bbceu-food-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 " group-title="BEST CHANNELS",ME TV U.S.A.
-https://v-la.mybtv.net/event/268/768x432.m3u8?start_time=2022-01-31T13&end_time=2022-01-31T21
-#EXTINF:-1 " group-title="BEST CHANNELS",RETRO TV
-https://v-pi.theus6tv.tk/hls/2.5/playlist.m3u8
-#EXTINF:-1 " group-title="BEST CHANNELS",ANTENNA TV
-https://v-pi.theus6tv.tk/hls/17.2/playlist.m3u8
-#EXTINF:-1 " group-title="BEST CHANNELS",ACE TV
-https://v-pi.theus6tv.tk/hls/4.2/playlist.m3u8
-#EXTINF:-1 " group-title="BEST CHANNELS",FAMILY CHANNEL
-https://v-pi.theus6tv.tk/hls/4.6/playlist.m3u8
-#EXTINF:-1 " group-title="BEST CHANNELS",GRIT TV
-https://v-pi.theus6tv.tk/hls/2.2/playlist.m3u8
-#EXTINF:-1 " group-title="BEST CHANNELS",COZI TV
-https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
 #EXTINF:-1 nome-tvg-"Pluto TV Travel" tvg-logo"https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="BEST CHANNELS",Pluto TV Travel 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=678&deviceId=59c01b1953680139c6ae9d4d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 nome-tvg="Voyager Documentaries" tvg-logo="https://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="BEST CHANNELS",Voyager Documentaries 
@@ -525,10 +499,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528e
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="BEST CHANNELS",Top Gear
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 " group-title="BEST CHANNELS",PLAYBOY
-https://edge01-fdo-py.cvattv.com.ar/live/c6eds/Playboy/SA_SAGEMCOM/Playboy.m3u8
-#EXTINF:-1 " group-title="BEST CHANNELS",VENUS
-https://edge01-fdo-py.cvattv.com.ar/live/c6eds/Venus/SA_SAGEMCOM/Venus.m3u8
 #EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="BEST CHANNELS",Tuning
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076c74daa05ac0007d0eb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" group-title="BEST CHANNELS" ,Key TV
@@ -1406,6 +1376,8 @@ http://live.sport2u.tv:1935/EvoLive/myStream/playlist.m3u8
 https://bit.ly/38QRMom
 #EXTINF:-1 tvg-ID="Inter Channel" tvg-name="Inter TV" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/inter.png" group-title="SPORT",Inter TV
 http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/159
+#EXTINF:-1 tvg-ID="Inter Channel" tvg-name="Inter TV" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/inter.png" group-title="SPORT",Inter TV (720p)
+https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-24-live.jpg" group-title="SPORT",SportItalia 24 LIVE
 https://sportitaliaamd.akamaized.net/video_1/Sportitalia/hls/1A15BA14BC564CE1C312973FF46193A8969E2C31/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-solocalcio.jpg" group-title="SPORT",SportItalia Solocalcio
@@ -2726,17 +2698,17 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="UK",=== UK ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
-#EXTINF:-1 tvg-ID="BBCOneHD.uk" tvg-name="|UK| BBC 1 HD" tvg-logo="" group-title="BOUQUET ANGLAIS",|UK| BBC 1 HD
+#EXTINF:-1 tvg-ID="BBCOneHD.uk" tvg-name="|UK| BBC 1 HD" tvg-logo="" group-title="UK",|UK| BBC 1 HD
 http://hdlocal.de:8080/alexstar.zapto.org/H1d1PRDz1R/11222
-#EXTINF:-1 tvg-ID="BBC2.uk" tvg-name="|UK| BBC 2 HD" tvg-logo="" group-title="BOUQUET ANGLAIS",|UK| BBC 2 HD
+#EXTINF:-1 tvg-ID="BBC2.uk" tvg-name="|UK| BBC 2 HD" tvg-logo="" group-title="UK",|UK| BBC 2 HD
 http://hdlocal.de:8080/alexstar.zapto.org/H1d1PRDz1R/11223
-#EXTINF:-1 tvg-ID="BBC2.uk" tvg-name="|UK| BBC 2 HD" tvg-logo="" group-title="BOUQUET ANGLAIS",|UK| BBC 2 HD
+#EXTINF:-1 tvg-ID="BBC2.uk" tvg-name="|UK| BBC 2 HD" tvg-logo="" group-title="UK",|UK| BBC 2 HD
 http://hdlocal.de:8080/alexstar.zapto.org/H1d1PRDz1R/11224
-#EXTINF:-1 tvg-ID="BBCThree.uk" tvg-name="|UK| BBC 3 HD" tvg-logo="" group-title="BOUQUET ANGLAIS",|UK| BBC 3 HD
+#EXTINF:-1 tvg-ID="BBCThree.uk" tvg-name="|UK| BBC 3 HD" tvg-logo="" group-title="UK",|UK| BBC 3 HD
 http://hdlocal.de:8080/alexstar.zapto.org/H1d1PRDz1R/11225
-#EXTINF:-1 tvg-ID="BBC4.uk" tvg-name="|UK| BBC 4 HD" tvg-logo="" group-title="BOUQUET ANGLAIS",|UK| BBC 4 HD
+#EXTINF:-1 tvg-ID="BBC4.uk" tvg-name="|UK| BBC 4 HD" tvg-logo="" group-title="UK",|UK| BBC 4 HD
 http://hdlocal.de:8080/alexstar.zapto.org/H1d1PRDz1R/11226
-#EXTINF:-1 tvg-ID="ITV+1.uk" tvg-name="|UK| ITV 1 HD" tvg-logo="" group-title="BOUQUET ANGLAIS",|UK| ITV 1 HD
+#EXTINF:-1 tvg-ID="ITV+1.uk" tvg-name="|UK| ITV 1 HD" tvg-logo="" group-title="UK",|UK| ITV 1 HD
 http://hdlocal.de:8080/alexstar.zapto.org/H1d1PRDz1R/11178
 #EXTINF:-1 tvg-ID="ITV+1.uk" tvg-name="|UK| ITV +1 HD" tvg-logo="" group-title="UK",|UK| ITV +1 HD
 http://hdlocal.de:8080/alexstar.zapto.org/H1d1PRDz1R/11179
@@ -2948,57 +2920,6 @@ http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="USA",=== USA ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
-#EXTINF:-1" group-title="USA",CBS NY
-https://v-ny.mybtv.net/live/545.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1" group-title="USA",CBS SAN FRANCISCO
-https://v-ca.mybtv.net/live/162.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1" group-title="USA",CBS 5 ARIZONA
-https://v-px.mybtv.net/live/48.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1" group-title="USA",NBC NY
-https://v-ny.mybtv.net/live/548.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1" group-title="USA",NBC 4 LA 
-https://v-la.mybtv.net/live/82.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1" group-title="USA",NBC SAN FRANCISCO
-https://v-ca.mybtv.net/live/121.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1" group-title="USA",FOX NY
-https://v-ny.mybtv.net/live/550.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1" group-title="USA",Fox CFB LA
-https://v-la.mybtv.net/live/166.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1" group-title="USA",Fox SAN FRANCISCO 
-https://v-ca.mybtv.net/live/170.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1" group-title="USA",Fox 10 Arizona 
-https://v-px.mybtv.net/live/14.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1" group-title="USA",ABC NY
-https://v-ny.mybtv.net/live/554.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1" group-title="USA",ABC LA
-https://v-la.mybtv.net/live/88.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1" group-title="USA",ABC Localish LA
-https://v-la.mybtv.net/live/89.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1" group-title="USA",ABC SAN FRANCISCO
-https://v-ca.mybtv.net/live/119.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1" group-title="USA",USA: CW Network
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100386
-#EXTINF:-1" group-title="USA",The CW 61 Arizona
-https://v-px.mybtv.net/live/160.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1" group-title="USA",PBS
-https://v-ny.mybtv.net/live/567.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1" group-title="USA",USA: TNT HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100470
-#EXTINF:-1" group-title="USA",USA | STARZ  HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100458
-#EXTINF:-1" group-title="USA",USA | SHOWTIME Next HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100451
-#EXTINF:-1" group-title="USA",USA | HBO HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100414
-#EXTINF:-1" group-title="USA",USA |  HBO 2 FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100411
-#EXTINF:-1" group-title="USA",US A&E FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100336
-#EXTINF:-1" group-title="USA",Rewind TV
-https://v-ny.mybtv.net/live/565.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1" group-title="USA",Azteca Television
-https://v-la.mybtv.net/live/107.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1" group-title="USA",Cozi TV
 https://v-ny.mybtv.net/live/549.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-id="WWLTV.us" tvg-name="CBS 4 New Orleans LA (WWL-TV)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BvlV1dl.jpg" group-title="USA",CBS 4 New Orleans LA (WWL-TV) (1080p)
 https://livevideo01.wwltv.com/hls/live/2016516/newscasts/live.m3u8
@@ -3016,12 +2937,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
 #EXTINF:-1 tvg-name="ABC News International" tvg-id="ABC News International" group-title="USA" tvg-logo="https://i.imgur.com/7sJLzKi.png",ABC News International
 https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8
-#EXTINF:-1 tvg-name="ABC Melbourne AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="USA",ABC Melbourne AU
-https://c.mjh.nz/101002310231/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9HxlD7c.jpg" group-title="USA",NewsNOW from FOX
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="USA", Akaku 55 (Hawaii)
-https://akaku.vod.castus.tv/live/ch3.m3u8
 #EXTINF:-1 tvg-name="Newsy" tvg-id="Newsy" tvg-logo="https://i.imgur.com/Otw0sN1.png" group-title="USA",Newsy 
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 #EXTINF:-1 tvg-id="" nome-tvg="" tvg-lingua="Inglese" tvg-logo="https://i.imgur.com/Bj37ZMY.png" tvg-country="US" tvg-url="" group-title="USA",CTN 
@@ -3038,24 +2955,6 @@ https://livetv.video/stream.php?id=us
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1" group-title="USA",canal 5 Mexixo
 https://v-sd.mybtv.net/live/486/768x432.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1" group-title="USA", Sony Movies Action
-http://51.52.156.22:8888/http/009
-#EXTINF:-1 tvg-name="AMC Absolute Reality" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="USA",AMC Absolute Reality
-https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="AMC IFC Film Picks" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="USA",AMC IFC Film Picks
-https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="AMC Presents" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="USA",AMC Presents
-https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="AMC Rush" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="USA",AMC Rush
-https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="AMC Slightly off" tvg-logo="" group-title="USA",AMC Slightly off
-https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8 
-EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://i.imgur.com/LD97XyN.png" group-title="USA",A&E (Best of)
-https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NO7y3tt.png" group-title="USA",HBCU Game Day
-https://nrpus.bozztv.com/36bay2/gusa-HBCU/index.m3u8
-#EXTINF:-1 tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778" group-title="USA",History Channel (Best of)
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="TRAVEL",=== TRAVEL ===
