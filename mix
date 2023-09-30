@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST  UPDATE 27/09/2023---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 30/09/2023---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -256,19 +256,19 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="TOP ITALIA",=== TOP ITALIA ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italian-fishing-tv.jpg" group-title="TOP ITALIA",Sky Uno HD
-http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/27
+http://51.15.7.149:8080/comune/yGmJCyRFET/142
 #EXTINF:-1 tvg-id="" tvg-name="PESCA HD" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Imaggini/picons/SkySport/SkySportPesca.png" group-title="TOP ITALIA",PESCA HD
-http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41827
+http://51.15.7.149:8080/comune/yGmJCyRFET/445
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italian-fishing-tv.jpg" group-title="TOP ITALIA",Italian Fishing TV 
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/espansione-tv.png" group-title="TOP ITALIA",Inter
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13580
+#EXTINF:-1 tvg-id="" tvg-name="Inter tv" tvg-logo="" group-title="TOP ITALIA",Inter
+http://51.15.7.149:8080/comune/yGmJCyRFET/215
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/espansione-tv.png" group-title="TOP ITALIA",C Uno HD
 http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13530
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/espansione-tv.png" group-title="TOP ITALIA",Uno HD
 http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13623
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/espansione-tv.png" group-title="TOP ITALIA",Atlantic
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13625
+http://51.15.7.149:8080/comune/yGmJCyRFET/144
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/motor-1-tv.png" group-title="TOP ITALIA",Motor 1 TV 
 https://b87f4ca7d206491eb1e66c08df063cf7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Motor1TV/playlist.m3u8
 #EXTINF:-1 tvg-id="biketv.it" tvg-name="Supertennis" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/BikeTv.png" group-title="TOP ITALIA",Bike TV
@@ -1365,7 +1365,7 @@ https://link.theplatform.eu/s/PR1GhC/DlvlNhNoEWfJ
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="SPORT",=== SPORT ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1" group-title="SPORT",Sky sport 24 
-http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41756
+http://51.15.7.149:8080/comune/yGmJCyRFET/186
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/grtv.jpg" group-title="SPORT",Giornale Radio Tv Sport
 https://5e73cf528f404.streamlock.net/GR_sport/livestream/chunklist_w1501899689.m3u8
 #EXTINF:-1 " group-title="SPORT",Rai Sport + HD
@@ -1375,7 +1375,7 @@ http://live.sport2u.tv:1935/EvoLive/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Top Calcio 24" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-top-calcio-24-7160-300x225.jpg" tvg-shift="0" group-title="SPORT",Top Calcio 24
 https://bit.ly/38QRMom
 #EXTINF:-1 tvg-ID="Inter Channel" tvg-name="Inter TV" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/inter.png" group-title="SPORT",Inter TV
-http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/159
+http://51.15.7.149:8080/comune/yGmJCyRFET/215
 #EXTINF:-1 tvg-ID="Inter Channel" tvg-name="Inter TV" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/inter.png" group-title="SPORT",Inter TV (720p)
 https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-24-live.jpg" group-title="SPORT",SportItalia 24 LIVE
@@ -2016,6 +2016,10 @@ http://wrioslio.altervista.org/TV/scapers/match.php?id=eurosport1rus
 http://wrioslio.altervista.org/TV/scapers/match.php?id=ruseuro2
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",bel555
 http://wrioslio.altervista.org/TV/scapers/match.php?id=bel555
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",MATCH! FOOTBALL 1
+http://bl.uma.media/live/126863/HLS/6866944_2/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",MATCH! FOOTBALL 1 fhd
+http://bl.uma.media/live/126863/HLS/6866944_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",MATCH! FOOTBALL 2
 http://bl.uma.media/live/126864/HLS/6866944_2/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",MATCH! FOOTBALL 2 fhd
@@ -2041,10 +2045,7 @@ http://bl.uma.media/live/154036/HLS/154036_2/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",MATCH! IGRA fhd
 http://bl.uma.media/live/154036/HLS/154036_3/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Eurosport 1 HD
-http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41777
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Eurosport 2 HD
-http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41778
+
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 1 H265 NEW" tvg-logo="" group-title="SPORT",1 H265 NEW
 http://otthome.xyz:8080/maryan/maryan1234/94767
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 2 H265 NEW" tvg-logo="" group-title="SPORT",2 H265 NEW
@@ -2113,6 +2114,123 @@ http://world-service.us:6969/MorelloS/Palermo/62689
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", 10 HD
 http://world-service.us:6969/MorelloS/Palermo/62690
 
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SERIE A HD" tvg-logo="" group-title="SPORT", SERIE A HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/379
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SERIE A FHD" tvg-logo="" group-title="SPORT", SERIE A FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/515
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 1 FHD" tvg-logo="" group-title="SPORT",SERIE A 1 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/252
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 1 HD" tvg-logo="" group-title="SPORT",SERIE A 1 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/253
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 2 FHD" tvg-logo="" group-title="SPORT",SERIE A 2 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/258
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 2 HD" tvg-logo="" group-title="SPORT",SERIE A 2 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/259
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 3 FHD" tvg-logo="" group-title="SPORT",SERIE A 3 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/260
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 3 HD" tvg-logo="" group-title="SPORT",SERIE A 3 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/261
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 4 FHD" tvg-logo="" group-title="SPORT",SERIE A 4 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/262
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 4 HD" tvg-logo="" group-title="SPORT",SERIE A 4 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/263
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 5 FHD" tvg-logo="" group-title="SPORT",SERIE A 5 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/365
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 5 HD" tvg-logo="" group-title="SPORT",SERIE A 5 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/366
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 6 FHD" tvg-logo="" group-title="SPORT",SERIE A 6 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/367
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 6 HD" tvg-logo="" group-title="SPORT",SERIE A 6 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/368
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 7 FHD" tvg-logo="" group-title="SPORT",SERIE A 7 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/369
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 7 HD" tvg-logo="" group-title="SPORT",SERIE A 7 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/370
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 8 FHD" tvg-logo="" group-title="SPORT",SERIE A 8 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/389
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 8 HD" tvg-logo="" group-title="SPORT",SERIE A 8 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/390
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 9 FHD" tvg-logo="" group-title="SPORT",SERIE A 9 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/391
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 9 HD" tvg-logo="" group-title="SPORT",SERIE A 9 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/392
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 10 FHD" tvg-logo="" group-title="SPORT",SERIE A 10 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/393
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 10 HD" tvg-logo="" group-title="SPORT",SERIE A 10 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/394
+#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio BAR 1 FHD" tvg-logo="" group-title="SPORT",BAR 1 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/344
+#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio BAR 1 HD" tvg-logo="" group-title="SPORT",BAR 1 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/345
+#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio BAR 2 FHD" tvg-logo="" group-title="SPORT",BAR 2 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/346
+#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio BAR 2 HD" tvg-logo="" group-title="SPORT",BAR 2 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/470
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 24 FHD" tvg-logo="" group-title="SPORT",Sport 24 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/84
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 24  HD" tvg-logo="" group-title="SPORT",Sport 24  HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/186
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 24 " tvg-logo="" group-title="SPORT",Sport 24 
+http://51.15.7.149:8080/comune/yGmJCyRFET/187
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Uno FHD" tvg-logo="" group-title="SPORT",Sport Uno FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/188
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Uno HD" tvg-logo="" group-title="SPORT",Sport Uno HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/83
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Uno" tvg-logo="" group-title="SPORT",Sport Uno
+http://51.15.7.149:8080/comune/yGmJCyRFET/189
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport MotoGp FHD" tvg-logo="" group-title="SPORT",Sport MotoGp FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/199
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport MotoGp HD" tvg-logo="" group-title="SPORT",Sport MotoGp HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/200
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport MotoGP" tvg-logo="" group-title="SPORT",Sport MotoGP
+http://51.15.7.149:8080/comune/yGmJCyRFET/457
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 FHD" tvg-logo="" group-title="SPORT",Sport F1 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/202
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 HD" tvg-logo="" group-title="SPORT",Sport F1 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/203
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="" group-title="SPORT",Sport F1
+http://51.15.7.149:8080/comune/yGmJCyRFET/204
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 FHD" tvg-logo="" group-title="SPORT",Euro 1 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/210
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="SPORT",EURO 1 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/211
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 FHD" tvg-logo="" group-title="SPORT",Euro 2 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/212
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="" group-title="SPORT",	EURO 2 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/213
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Calcio  FHD" tvg-logo="" group-title="SPORT",Calcio  FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/222
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Calcio HD" tvg-logo="" group-title="SPORT",Calcio HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/223
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Calcio" tvg-logo="" group-title="SPORT",Calcio
+http://51.15.7.149:8080/comune/yGmJCyRFET/224
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  251 FHD" tvg-logo="" group-title="SPORT",251 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/225
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  251 HD" tvg-logo="" group-title="SPORT",251 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/229
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  252 FHD" tvg-logo="" group-title="SPORT",252 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/228
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  252 HD" tvg-logo="" group-title="SPORT",252 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/230
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  253 FHD" tvg-logo="" group-title="SPORT",253 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/231
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  253 HD" tvg-logo="" group-title="SPORT",253 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/232
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  254 FHD" tvg-logo="" group-title="SPORT",254 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/234
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  254 HD" tvg-logo="" group-title="SPORT",254 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/235
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  255 FHD" tvg-logo="" group-title="SPORT",255 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/237
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  255 HD" tvg-logo="" group-title="SPORT",255 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/238
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  256 FHD" tvg-logo="" group-title="SPORT",256 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/240
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  256 HD" tvg-logo="" group-title="SPORT",256 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/241
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  257 FHD" tvg-logo="" group-title="SPORT",257 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/243
+
 #EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Zona Dazn HD
 http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/31562
 #EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Zona Dazn 2 HD
@@ -2168,7 +2286,8 @@ http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/72991
 #EXTINF:-1 tvg-id="" tvg-name="Dazn channel FHD NEW" tvg-logo="" group-title="SPORT",Dazn Sport 20 HD
 http://tvpider1.ns0.it:9000/vincentranq/tWsuHtmivpz/72992
 
-
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/24daa976b558fb05e4e7d3896a4933c4.png" group-title="SPORT", Sport Calcio
+http://kuchini.site:8080/4ktezz/YMTYTR6eUVjsx8CQ/84505
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",SPORT 24 HD
 http://world-service.us:6969/MorelloS/Palermo/89
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport 24 SD
@@ -2401,13 +2520,13 @@ https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/world/RSILA1.ch.png",RSI LA 1 HD
 http://185.236.229.31:9981/play/a00m
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/world/RSILA1.ch.png",RSI La 1 HD
-http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/46
+http://51.15.7.149:8080/comune/yGmJCyRFET/46
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/world/RSILA1.ch.png",,RSI LA 1 HD
 http://newstvbnt.org:80/francsx1/Sx1cint/108024
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/RSILA2.ch.png",RSI LA 2 HD
 http://185.236.229.31:9981/play/a00n
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/RSILA2.ch.png",RSI La 2 HD
-http://nostrasalus.dontexist.net:80/PartrSalva232/5UYhsLK8gmgU/47
+http://51.15.7.149:8080/comune/yGmJCyRFET/47
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/RSILA2.ch.png",RSI La 2 HD
 http://newstvbnt.org:80/francsx1/Sx1cint/496
 #EXTINF:-1 " group-title="Altri Canali Nazionali",SRF1
@@ -2421,7 +2540,7 @@ http://185.236.229.31:9981/play/a00j
 #EXTINF:-1 " group-title="Altri Canali Nazionali",RTS2
 http://185.236.229.31:9981/play/a00k
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="Altri Canali Nazionali",Motor Trend
-http://185.234.217.55:8046/play/a06x/index.m3u8
+http://51.15.7.149:8080/comune/yGmJCyRFET/50
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="Altri Canali Nazionali",Sky TG24
 http://188.12.112.110:4000/play/a04e
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="Altri Canali Nazionali",Cielo HD
@@ -2431,7 +2550,7 @@ https://www.mytivu.it/Application/Channels/TV8.php
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",TV8 HD
 http://188.12.112.110:4000/play/a04c
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",NOVE
-http://185.234.217.55:8046/play/a06w/index.m3u8
+http://51.15.7.149:8080/comune/yGmJCyRFET/27
 #EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Nove.png" group-title="Altri Canali Nazionali",Nove
 http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/51316.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cielo" " group-title="Altri Canali Nazionali",Cielo
@@ -2441,7 +2560,7 @@ https://www.mytivu.it/Application/Channels/SkyTG24.php
 #EXTINF:-1" group-title="Altri Canali Nazionali",Sky sport 24 
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41756
 #EXTINF:-1 tvg-id="Dmax.it" tvg-name="Dmax" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Dmax.png" group-title="Altri Canali Nazionali",Dmax
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/95912
+http://51.15.7.149:8080/comune/yGmJCyRFET/28
 #EXTINF:-1 tvg-id="Realtime.it" tvg-name="Real Time" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Realtime.png" group-title="Altri Canali Nazionali",Realtime
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/95798
 #EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Giallo.png" group-title="Altri Canali Nazionali",Giallo
@@ -2449,9 +2568,9 @@ http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/51329.ts
 #EXTINF:-1 tvg-id="Motortrend.it" tvg-name="Motortrend" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/MotorTrend.png" group-title="Altri Canali Nazionali",Motor Trend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-id="FoodNetowrk.it" tvg-name="Foodnetwork" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/FoodNetwork.png" group-title="Altri Canali Nazionali",Food Network
-http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/51346.ts
+http://51.15.7.149:8080/comune/yGmJCyRFET/70
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",DMAX
-http://188.12.112.110:4000/play/a05c
+http://51.15.7.149:8080/comune/yGmJCyRFET/28
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",Food Network
 http://188.12.112.110:4000/play/a056
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",Real Time
@@ -2463,7 +2582,7 @@ http://188.12.112.110:4000/play/a055
 #EXTINF:-1 tvg-id="" tvg-name="PESCA HD" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Imaggini/picons/SkySport/SkySportPesca.png" group-title="Altri Canali Nazionali",PESCA HD
 http://happook147.com:80/Marino4/t8iJ6EsMZk/2218
 #EXTINF:-1 tvg-ID="" tvg-name="HGTV (Case Design)" tvg-logo="" group-title="Altri Canali Nazionali",HGTV (Case Design)
-http://selling-team.net:80/LUnoZpNBtO/iIzuEeyoOq/322189
+http://51.15.7.149:8080/comune/yGmJCyRFET/73
 #EXTINF:-1 tvg-ID="Explorer HD" tvg-name="Explorer HD" tvg-logo="" group-title="Altri Canali Nazionali",Explorer HD
 http://newlookpro.ayproviders.xyz:80/y7895465es/ebkNjL25Px/149240
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="Canali Musicali (Web Radio)",OttO Fm Tv
