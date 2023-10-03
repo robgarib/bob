@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 01/10/2023---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 03/10/2023---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -193,8 +193,6 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="4K",RAI 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: TRAVEL 4K" tvg-logo="" group-title="4K",TRAVELXP 4K
-http://otthome.xyz:8080/maryan/maryan1234/112668
 #EXTINF:-1 tvg-id="travelmix.ro" tvg-name="TRAVEL MIX 4K" tvg-logo="http://5.189.181.7/extract/travelmixhd.png" group-title="4K",TRAVEL MIX 4K
 http://otthome.xyz:8080/maryan/maryan1234/60117
 #EXTINF:-1 tvg-id="LoveNature.us" tvg-name="Love Nature" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AzOvgkV.png" group-title="4K",Love Nature 4K
@@ -225,18 +223,6 @@ https://linear-81.frequency.stream/81/hls/master/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?982608228290.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/C8A5D94F-4F16-404B-A7CD-7D72B7A60C78.jpeg",ODISEA UHD 4K
 http://tribaliptv.com:8080/Gustavo/123456/5195
-#EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/B5A1993A-78DD-4BBD-BD13-73D5EC85DED9.jpeg",MYZEN TV 4K
-http://cdnx1.plusx.tv:8880/myZen/mono.m3u8?token=24cce35b06aecc51433333
-#EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/00290534-F507-42B6-AB8E-8DEE7149079B.jpeg",NASA 4k
-http://cdnx1.plusx.tv:8880/NASA/mono.m3u8?token=24cce35b06aecc51433333
-#EXTINF:-1 group-title="4K",Museum 4K
-http://149.62.177.99:8004/play/a00y/index.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/54E1DBAE-95C7-4DBD-A513-422DBC8E4A4E.jpeg",MOVISTAR LIGA DE CAMPEONES UHD 4K
-http://tribaliptv.com:8080/Gustavo/123456/12401
-#EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EDD40422-068B-429C-80B0-F210D515DF2C.png",Hub Premier Sport 4K
-http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
-#EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EA0DA749-7DA9-420C-A40A-EE49E75B1C37.png",Sport5 4k
-http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
 #EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/ultra-nature.png",HotBird 4K1
 http://185.236.229.31:9981/play/a01d
 #EXTINF:-1 group-title="4K",HotBird 4K1
@@ -459,6 +445,8 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8?rdid=8f35210d-be26-5e0d-8c57-d0f910026ee7&coppa=false&is_lat=1&content=3dde60b40c0c56758a7c4bf81df47691&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="BEST CHANNELS",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA| TRAVEL CHANNEL HD**" tvg-logo="http://miarea.vip:8080/images/033d8ff8ac5198dc1b7ccc98b78d4405.png" group-title="BEST CHANNELS",USA| TRAVEL CHANNEL HD**
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/76116
 #EXTINF:-1 tvg-logo="../Channel/Logo/Travel channel HD.png" group-title="BEST CHANNELS",Travel channel HD
 http://myott.top/stream/D3VTJRDNKLY/231.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Travel channel.png" group-title="BEST CHANNELS",Travel Channel
@@ -1831,7 +1819,7 @@ http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281527
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/75461
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUN| FOX SPORTS PREMIUN HD" tvg-logo="http://miarea.vip:8080/images/65a9e03c8d073b256861480f2746ef3f.png" group-title="SPORT",PREMIUN| FOX SPORTS PREMIUN HD
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/75460
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUN| ESPN 3 HD" tvg-logo="" group-title="ARGENTINA FHD-HD",PREMIUN| ESPN 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUN| ESPN 3 HD" tvg-logo="" group-title="SPORT",PREMIUN| ESPN 3 HD
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/75459
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUN| ESPN 2 HD" tvg-logo="http://miarea.vip:8080/images/a21cb6bf54b6fad9d29ee4ac6a91f508.png" group-title="SPORT",PREMIUN| ESPN 2 HD
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/75458
@@ -1915,6 +1903,12 @@ http://miarea.vip:8080/PicoteDemo/vccjAc89v2/115416
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/115415
 #EXTINF:-1 tvg-id="" tvg-name="CAN| SPORTS NET PPV HD" tvg-logo="" group-title="SPORT",CAN| SPORTS NET PPV HD
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/117287
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports 1 ʜᴅ (υⲕ)" tvg-logo="http://miarea.vip:8080/images/a97907cb5eb7192ef9cafff902cb0df3.png" group-title="SPORT",BT Sports 1 ʜᴅ (υⲕ)
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/252821
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports 2 ʜᴅ (υⲕ)" tvg-logo="http://miarea.vip:8080/images/a8853deee388204a89e5174b2961bc91.png" group-title="SPORT",BT Sports 2 ʜᴅ (υⲕ)
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/252822
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports 3 ʜᴅ (υⲕ)" tvg-logo="http://miarea.vip:8080/images/ef47b1e73aa59c886c9a889857e1afc4.png" group-title="SPORT",BT Sports 3 ʜᴅ (υⲕ)
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/252823
 #EXTINF:-1 tvg-id="" tvg-name="UK| BT SPORTS 1 HD" tvg-logo="http://miarea.vip:8080/images/a97907cb5eb7192ef9cafff902cb0df3.png" group-title="SPORT",UK| BT SPORTS 1 HD
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/83745
 #EXTINF:-1 tvg-id="" tvg-name="UK| BT SPORTS 2 HD " tvg-logo="http://miarea.vip:8080/images/a8853deee388204a89e5174b2961bc91.png" group-title="SPORT",UK| BT SPORTS 2 HD 
@@ -1942,6 +1936,24 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20821
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20820
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT SPORT 3 (UK)" tvg-logo="https://i.imgur.com/iyQKvph.png" group-title="SPORT",BT SPORT 3 (UK)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20819
+#EXTINF:-1 tvg-id="88039" tvg-name="USA| ESPN HD" tvg-logo="http://miarea.vip:8080/images/7e9f2faec802eb9cace2303034565400.png" group-title="SPORT",USA| ESPN HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/694
+#EXTINF:-1 tvg-id="88039" tvg-name="USA| ESPN 2 HD" tvg-logo="http://miarea.vip:8080/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="SPORT",USA| ESPN 2 HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/615
+#EXTINF:-1 tvg-id="" tvg-name="USA| ESPN XTRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1200px-ESPN_Xtra_logo.svg.png" group-title="SPORT",USA| ESPN XTRA HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/932
+#EXTINF:-1 tvg-id="16485" tvg-name="USA| ESPN NEWS HD" tvg-logo="http://miarea.vip:8080/images/c2f4e851a65433a22d8a2ef9c4660653.png" group-title="SPORT",USA| ESPN NEWS HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/36065
+#EXTINF:-1 tvg-id="" tvg-name="USA| SEC ESPN NETWORK HD" tvg-logo="http://miarea.vip:8080/images/ae9716451d68e63931c6fb6f17c52e5f.png" group-title="SPORT",USA| SEC ESPN NETWORK HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/278020
+#EXTINF:-1 tvg-id="" tvg-name="USA|  ESPN  SEC NETWORK HD" tvg-logo="" group-title="SPORT",USA|  ESPN  SEC NETWORK HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/78656
+#EXTINF:-1 tvg-id="" tvg-name="USA| LONGHORN SPORTS HD" tvg-logo="http://miarea.vip:8080/images/095986290ee2f907164972a0b8ac999d.png" group-title="SPORT",USA| LONGHORN SPORTS HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/278019
+#EXTINF:-1 tvg-id="10179" tvg-name="USA| ESPN U HD" tvg-logo="http://miarea.vip:8080/images/8060169e779e646cdd3f369de736b089.png" group-title="SPORT",USA| ESPN U HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/36066
+#EXTINF:-1 tvg-id="" tvg-name="USA| ACC ESPN HD" tvg-logo="http://miarea.vip:8080/images/38409dceee7ed85b9bc3624a27ce284f.png" group-title="SPORT",USA| ACC ESPN HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/77301
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 1 FHD
@@ -2837,10 +2849,8 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41890
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18305
 #EXTINF:-1 tvg-id="KNBC" tvg-name="NBC LOS ANGELES" tvg-logo="https://imgx.fubo.tv/station_logos/nbc_c.png" group-title="USA",NBC LOS ANGELES
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41883
-#EXTINF:-1 tvg-id="cw57wpsg.us" tvg-name="CW PHILADELPHIA" tvg-logo="https://imgx.fubo.tv/station_logos/wpsg_c.png" group-title="USA",CW PHILADELPHIA
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41970
-#EXTINF:-1 tvg-id="KBCW" tvg-name="CW SAN FRANCISCO" tvg-logo="https://imgx.fubo.tv/station_logos/kbcw_c.png" group-title="USA",CW SAN FRANCISCO
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41893
+#EXTINF:-1 tvg-id="" tvg-name="USA| CW58 NASHVILLE HD" tvg-logo="" group-title="USA",USA| CW58 NASHVILLE HD
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/57556
 
 
 
@@ -3036,25 +3046,6 @@ http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/playlist.m3u8
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 
 
-#EXTINF:-1" group-title="Vari",DE: Das Erste HD
-http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/35523.ts
-#EXTINF:-1" group-title="Vari",DE: ZDF HD
-http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/35524.ts
-#EXTINF:-1" group-title="Vari",DE: Pro 7 HD
-http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/35537.ts
-#EXTINF:-1" group-title="Vari",DE: RTL HD
-http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/35543.ts
-#EXTINF:-1" group-title="Vari",DE: RTL 2 HD
-http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/35545.ts
-#EXTINF:-1" group-title="Vari",DE: Sat 1 HD
-http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/35547.ts
-
-#EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo1-dark-bg.png" group-title="Vari",Slovenija 1 Tv
-https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/chunklist_b2328000_DVR.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo2-dark-bg.png" group-title="Vari",Slovenija 2 Tv
-https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo3-dark-bg.png" group-title="Vari",Slovenija 3 Tv
-https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
 
 
 
