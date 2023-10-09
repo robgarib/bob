@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 03/10/2023---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 09/10/2023---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -2523,6 +2523,10 @@ http://185.236.229.31:9981/play/a00j
 http://185.236.229.31:9981/play/a00k
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="Altri Canali Nazionali",Motor Trend
 http://51.15.7.149:8080/comune/yGmJCyRFET/50
+#EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="Altri Canali Nazionali",TV8
+http://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1639498341~exp=1702463400~acl=/*~hmac=c3c4c2de19ff0df4b4bb20587ce59af5232eadab2995f445b7506525413805dd
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="Altri Canali Nazionali",Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnea=st=1639498341~exp=1702463400~acl=/*~hmac=c3c4c2de19ff0df4b4bb20587ce59af5232eadab2995f445b7506525413805dd
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="Altri Canali Nazionali",Sky TG24
 http://188.12.112.110:4000/play/a04e
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="Altri Canali Nazionali",Cielo HD
@@ -2964,7 +2968,7 @@ https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
 http://patbuweb.com/iptv/e2liste/startend.avi 
 #EXTINF:-1 tvg-id="" tvg-name="FR | TF1 Séries Filmsⓧ FHD" tvg-logo="" group-title="Vari",FR | TF1 Séries Filmsⓧ FHD
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/253160
-#EXTINF:-1 tvg-id="" tvg-name="FR | TF1+1ⓧ HD" tvg-logo="" group-title="Vari",FR | TF1+1ⓧ HD
+#EXTINF:-1 tvg-id="" tvg-name="FR | TF1ⓧ HD" tvg-logo="" group-title="Vari",FR | TF1ⓧ HD
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/253161
 #EXTINF:-1 tvg-id="" tvg-name="FR | TFXⓧ FHD" tvg-logo="" group-title="Vari",FR | TFXⓧ FHD
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/253162
