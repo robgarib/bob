@@ -1791,138 +1791,6 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 https://alpha.tv.online.tm/hls/ch004.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PORT| SPORTS TV HD" tvg-logo="http://miarea.vip:8080/images/d255c2876ce578792793fb2fc8918d0d.png" group-title="SPORT",PORT| SPORTS TV HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281513
-#EXTINF:-1 tvg-id="" tvg-name="PORT| SPORTS TV 1 HD" tvg-logo="http://miarea.vip:8080/images/8225f29b46d740c25362401f91c7d0e8.png" group-title="SPORT",PORT| SPORTS TV 1 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281514
-#EXTINF:-1 tvg-id="" tvg-name="PORT| SPORTS TV 2 HD" tvg-logo="http://miarea.vip:8080/images/03c3e40c0772afd58e2df9e2b56bd156.png" group-title="SPORT",PORT| SPORTS TV 2 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281515
-#EXTINF:-1 tvg-id="" tvg-name="PORT| SPORTS TV 3 HD" tvg-logo="http://miarea.vip:8080/images/040d04b3a1ae30084eff1d40abd261c5.png" group-title="SPORT",PORT| SPORTS TV 3 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281516
-#EXTINF:-1 tvg-id="" tvg-name="PORT| SPORTS TV 4 HD" tvg-logo="http://miarea.vip:8080/images/fe5b671841a1a66f73cf339e4a3929de.png" group-title="SPORT",PORT| SPORTS TV 4 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281517
-#EXTINF:-1 tvg-id="" tvg-name="PORT| SPORTS TV 5 HD" tvg-logo="http://miarea.vip:8080/images/c1974dc98cba4165c00d26275f24f07e.png" group-title="SPORT",PORT| SPORTS TV 5 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281518
-#EXTINF:-1 tvg-id="" tvg-name="PORT| SPORTS TV 6 HD" tvg-logo="http://miarea.vip:8080/images/7e923551f473e3cf0ca84f4cd767f960.png" group-title="SPORT",PORT| SPORTS TV 6 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281519
-#EXTINF:-1 tvg-id="" tvg-name="PORT| ELEVEN SPORTS 1 HD" tvg-logo="http://miarea.vip:8080/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SPORT",PORT| ELEVEN SPORTS 1 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281523
-#EXTINF:-1 tvg-id="" tvg-name="PORT| ELEVEN SPORTS 2 HD" tvg-logo="http://miarea.vip:8080/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SPORT",PORT| ELEVEN SPORTS 2 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281524
-#EXTINF:-1 tvg-id="" tvg-name="PORT| ELEVEN SPORTS 4 HD" tvg-logo="http://miarea.vip:8080/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SPORT",PORT| ELEVEN SPORTS 4 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281525
-#EXTINF:-1 tvg-id="" tvg-name="PORT| ELEVEN SPORTS 5 HD" tvg-logo="http://miarea.vip:8080/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SPORT",PORT| ELEVEN SPORTS 5 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281526
-#EXTINF:-1 tvg-id="" tvg-name="PORT| ELEVEN SPORTS 6 HD" tvg-logo="http://miarea.vip:8080/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SPORT",PORT| ELEVEN SPORTS 6 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/281527
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUN| TNT SPORTS HD" tvg-logo="http://miarea.vip:8080/images/77486a5c8373a25a31a2f5f7c66ccdec.png" group-title="SPORT",PREMIUN| TNT SPORTS HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/75461
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUN| FOX SPORTS PREMIUN HD" tvg-logo="http://miarea.vip:8080/images/65a9e03c8d073b256861480f2746ef3f.png" group-title="SPORT",PREMIUN| FOX SPORTS PREMIUN HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/75460
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUN| ESPN 3 HD" tvg-logo="" group-title="SPORT",PREMIUN| ESPN 3 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/75459
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUN| ESPN 2 HD" tvg-logo="http://miarea.vip:8080/images/a21cb6bf54b6fad9d29ee4ac6a91f508.png" group-title="SPORT",PREMIUN| ESPN 2 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/75458
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUN| ESPN_HD " tvg-logo="http://miarea.vip:8080/images/7e9f2faec802eb9cace2303034565400.png" group-title="SPORT",PREMIUN| ESPN_HD 
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/75457
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUN| ESPN HD" tvg-logo="http://miarea.vip:8080/images/7e9f2faec802eb9cace2303034565400.png" group-title="SPORT",PREMIUN| ESPN HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/75456
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUN| TELEFE HD" tvg-logo="http://miarea.vip:8080/images/0a1fb1b929f1978ed2a395c7b249d8da.png" group-title="SPORT",PREMIUN| TELEFE HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/75455
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUN| FOX SPORTS HD" tvg-logo="" group-title="SPORT",PREMIUN| FOX SPORTS HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/75453
-#EXTINF:-1 tvg-id="" tvg-name="VIP| FOX SPORTS 1 ARG" tvg-logo="" group-title="SPORT",VIP| FOX SPORTS 1 ARG
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/74507
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUN| FOX SPORTS 3 HD" tvg-logo="http://miarea.vip:8080/images/4fd6f45cbaeaca8b680911a530e97a58.png" group-title="SPORT",PREMIUN| FOX SPORTS 3 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/75452
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUN| FOX SPORTS 2 HD" tvg-logo="http://miarea.vip:8080/images/cf6c26ecc2f60aa8c5636d3c32a08a08.png" group-title="SPORT",PREMIUN| FOX SPORTS 2 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/75451
-#EXTINF:-1 tvg-id="" tvg-name="FR | beIN Sports 1ⓧ FHD" tvg-logo="" group-title="SPORT",FR | beIN Sports 1ⓧ FHD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/253000
-#EXTINF:-1 tvg-id="" tvg-name="FR | beIN Sports 1ⓧ HD" tvg-logo="" group-title="SPORT",FR | beIN Sports 1ⓧ HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/253001
-#EXTINF:-1 tvg-id="" tvg-name="FR | beIN Sports 2ⓧ FHD" tvg-logo="" group-title="SPORT",FR | beIN Sports 2ⓧ FHD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/253003
-#EXTINF:-1 tvg-id="" tvg-name="FR | beIN Sports 2ⓧ HD" tvg-logo="" group-title="SPORT",FR | beIN Sports 2ⓧ HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/253004
-#EXTINF:-1 tvg-id="" tvg-name="FR | beIN Sports 3ⓧ FHD" tvg-logo="" group-title="SPORT",FR | beIN Sports 3ⓧ FHD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/253006
-#EXTINF:-1 tvg-id="" tvg-name="FR | beIN Sports 3ⓧ HD" tvg-logo="" group-title="SPORT",FR | beIN Sports 3ⓧ HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/253007
-#EXTINF:-1 tvg-id="" tvg-name="FR | beIN Sports 3ⓧ SD" tvg-logo="" group-title="SPORT",FR | beIN Sports 3ⓧ SD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/253008
-#EXTINF:-1 tvg-id="" tvg-name="FR | beIN Sports Max 4ⓧ FHD" tvg-logo="" group-title="SPORT",FR | beIN Sports Max 4ⓧ FHD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/253009
-#EXTINF:-1 tvg-id="" tvg-name="FR | beIN Sports Max 4ⓧ HD" tvg-logo="" group-title="SPORT",FR | beIN Sports Max 4ⓧ HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/253010
-#EXTINF:-1 tvg-id="" tvg-name="FR | beIN Sports Max 5ⓧ FHD" tvg-logo="" group-title="SPORT",FR | beIN Sports Max 5ⓧ FHD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/253011
-#EXTINF:-1 tvg-id="" tvg-name="FR | beIN Sports Max 7ⓧ FHD" tvg-logo="" group-title="SPORT",FR | beIN Sports Max 7ⓧ FHD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/253015
-#EXTINF:-1 tvg-id="" tvg-name="FR | beIN Sports Max 7ⓧ HD" tvg-logo="" group-title="SPORT",FR | beIN Sports Max 7ⓧ HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/253016
-#EXTINF:-1 tvg-id="" tvg-name="FR | beIN Sports Max 8ⓧ FHD" tvg-logo="" group-title="SPORT",FR | beIN Sports Max 8ⓧ FHD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/253017
-#EXTINF:-1 tvg-id="" tvg-name="FR | beIN Sports Max 9ⓧ HD" tvg-logo="" group-title="SPORT",FR | beIN Sports Max 9ⓧ HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/253020
-#EXTINF:-1 tvg-id="" tvg-name="FR | Eurosport 1ⓧ FHD" tvg-logo="" group-title="SPORT",FR | Eurosport 1ⓧ FHD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/253023
-#EXTINF:-1 tvg-id="" tvg-name="FR | Eurosport 1ⓧ HD" tvg-logo="" group-title="SPORT",FR | Eurosport 1ⓧ HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/253024
-#EXTINF:-1 tvg-id="CA: TSN 1 HD" tvg-name="CAN| TSN 1 HD" tvg-logo="http://miarea.vip:8080/images/6341ce82855b31354de5534498f55749.png" group-title="SPORT",CAN| TSN 1 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/36026
-#EXTINF:-1 tvg-id="CA: TSN 2 HD" tvg-name="CAN| TSN 2 HD" tvg-logo="http://miarea.vip:8080/images/061d18d0f440b2cdbeb9c8bd73b8dac8.png" group-title="SPORT",CAN| TSN 2 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/36027
-#EXTINF:-1 tvg-id="CA: TSN 3 HD" tvg-name="CAN| TSN 3 HD" tvg-logo="http://miarea.vip:8080/images/ce83c9dafcbc830749282d5524acfff0.png" group-title="SPORT",CAN| TSN 3 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/36028
-#EXTINF:-1 tvg-id="CA: TSN 4 HD" tvg-name="CAN| TSN 4 HD" tvg-logo="http://miarea.vip:8080/images/06307c61c6134686ec199342a7ff423f.png" group-title="SPORT",CAN| TSN 4 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/36029
-#EXTINF:-1 tvg-id="" tvg-name="CAN| TSN 5 HD" tvg-logo="" group-title="SPORT",CAN| TSN 5 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/84363
-#EXTINF:-1 tvg-id="" tvg-name="CAN| BEIN SPORTS EXTRA HD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BeIN-Sports-Xtra_235x235.png" group-title="SPORT",CAN| BEIN SPORTS EXTRA HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/124851
-#EXTINF:-1 tvg-id="" tvg-name="CAN| BEIN SPORTS CANADA HD" tvg-logo="http://miarea.vip:8080/images/c38d58529ebd5d23861cfb568fe36a67.png" group-title="SPORT",CAN| BEIN SPORTS CANADA HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/271540
-#EXTINF:-1 tvg-id="" tvg-name="CAN| SPORTS NET EAST HD" tvg-logo="" group-title="SPORT",CAN| SPORTS NET EAST HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/94289
-#EXTINF:-1 tvg-id="" tvg-name="CAN| SPORTS NET ONTARIO HD" tvg-logo="" group-title="SPORT",CAN| SPORTS NET ONTARIO HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/94290
-#EXTINF:-1 tvg-id="" tvg-name="CAN| SPORTS NET WEST HD" tvg-logo="" group-title="SPORT",CAN| SPORTS NET WEST HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/94291
-#EXTINF:-1 tvg-id="" tvg-name="CA| TVA SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/TVASports.svg/1200px-TVASports.svg.png" group-title="SPORT",CA| TVA SPORTS HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/35242
-#EXTINF:-1 tvg-id="" tvg-name="CAN| SPORTS NET 360 HD" tvg-logo="http://miarea.vip:8080/images/896cfcf3e2a6f480d612af4b7dd606d5.png" group-title="SPORT",CAN| SPORTS NET 360 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/725
-#EXTINF:-1 tvg-id="" tvg-name="CAN| SPORTS NET ONE HD" tvg-logo="http://miarea.vip:8080/images/ae6efdbf49e3ec85d7988b8fa155483d.png" group-title="SPORT",CAN| SPORTS NET ONE HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/726
-#EXTINF:-1 tvg-id="" tvg-name="CAN| ROGERS TV HD" tvg-logo="" group-title="SPORT",CAN| ROGERS TV HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/117018
-#EXTINF:-1 tvg-id="" tvg-name="CAN| TVA SPORTS 2 HD" tvg-logo="" group-title="SPORT",CAN| TVA SPORTS 2 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/115416
-#EXTINF:-1 tvg-id="" tvg-name="PPV| CA SPORTSNET HD" tvg-logo="http://miarea.vip:8080/images/25b85c3a8e91ac0a7d903e18183776e9.png" group-title="SPORT",PPV| CA SPORTSNET HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/115415
-#EXTINF:-1 tvg-id="" tvg-name="CAN| SPORTS NET PPV HD" tvg-logo="" group-title="SPORT",CAN| SPORTS NET PPV HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/117287
-#EXTINF:-1 tvg-id="" tvg-name="BT Sports 1 ʜᴅ (υⲕ)" tvg-logo="http://miarea.vip:8080/images/a97907cb5eb7192ef9cafff902cb0df3.png" group-title="SPORT",BT Sports 1 ʜᴅ (υⲕ)
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/252821
-#EXTINF:-1 tvg-id="" tvg-name="BT Sports 2 ʜᴅ (υⲕ)" tvg-logo="http://miarea.vip:8080/images/a8853deee388204a89e5174b2961bc91.png" group-title="SPORT",BT Sports 2 ʜᴅ (υⲕ)
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/252822
-#EXTINF:-1 tvg-id="" tvg-name="BT Sports 3 ʜᴅ (υⲕ)" tvg-logo="http://miarea.vip:8080/images/ef47b1e73aa59c886c9a889857e1afc4.png" group-title="SPORT",BT Sports 3 ʜᴅ (υⲕ)
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/252823
-#EXTINF:-1 tvg-id="" tvg-name="UK| BT SPORTS 1 HD" tvg-logo="http://miarea.vip:8080/images/a97907cb5eb7192ef9cafff902cb0df3.png" group-title="SPORT",UK| BT SPORTS 1 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/83745
-#EXTINF:-1 tvg-id="" tvg-name="UK| BT SPORTS 2 HD " tvg-logo="http://miarea.vip:8080/images/a8853deee388204a89e5174b2961bc91.png" group-title="SPORT",UK| BT SPORTS 2 HD 
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/83746
-#EXTINF:-1 tvg-id="" tvg-name="UK| BT SPORTS 3 HD " tvg-logo="http://miarea.vip:8080/images/ef47b1e73aa59c886c9a889857e1afc4.png" group-title="SPORT",UK| BT SPORTS 3 HD 
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/83747
-#EXTINF:-1 tvg-id="" tvg-name="UK| BOX NATION HD " tvg-logo="" group-title="SPORT",UK| BOX NATION HD 
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/83748
-#EXTINF:-1 tvg-id="" tvg-name="UK| PREMIER SPORTS 2 HD" tvg-logo="" group-title="SPORT",UK| PREMIER SPORTS 2 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/84034
-#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS ARENA HD" tvg-logo="" group-title="SPORT",UK| SKY SPORTS ARENA HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/84120
-#EXTINF:-1 tvg-id="" tvg-name="UK| BT SPORTS ESPN HD" tvg-logo="http://miarea.vip:8080/images/c8e676b94969d2f9959e5aedf8fec2af.png" group-title="SPORT",UK| BT SPORTS ESPN HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/84364
 
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21h-OE4-X7L._SY355_.png" group-title="SPORT",ESPN HD
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15976
@@ -1936,24 +1804,6 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20821
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20820
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT SPORT 3 (UK)" tvg-logo="https://i.imgur.com/iyQKvph.png" group-title="SPORT",BT SPORT 3 (UK)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20819
-#EXTINF:-1 tvg-id="88039" tvg-name="USA| ESPN HD" tvg-logo="http://miarea.vip:8080/images/7e9f2faec802eb9cace2303034565400.png" group-title="SPORT",USA| ESPN HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/694
-#EXTINF:-1 tvg-id="88039" tvg-name="USA| ESPN 2 HD" tvg-logo="http://miarea.vip:8080/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="SPORT",USA| ESPN 2 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/615
-#EXTINF:-1 tvg-id="" tvg-name="USA| ESPN XTRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1200px-ESPN_Xtra_logo.svg.png" group-title="SPORT",USA| ESPN XTRA HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/932
-#EXTINF:-1 tvg-id="16485" tvg-name="USA| ESPN NEWS HD" tvg-logo="http://miarea.vip:8080/images/c2f4e851a65433a22d8a2ef9c4660653.png" group-title="SPORT",USA| ESPN NEWS HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/36065
-#EXTINF:-1 tvg-id="" tvg-name="USA| SEC ESPN NETWORK HD" tvg-logo="http://miarea.vip:8080/images/ae9716451d68e63931c6fb6f17c52e5f.png" group-title="SPORT",USA| SEC ESPN NETWORK HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/278020
-#EXTINF:-1 tvg-id="" tvg-name="USA|  ESPN  SEC NETWORK HD" tvg-logo="" group-title="SPORT",USA|  ESPN  SEC NETWORK HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/78656
-#EXTINF:-1 tvg-id="" tvg-name="USA| LONGHORN SPORTS HD" tvg-logo="http://miarea.vip:8080/images/095986290ee2f907164972a0b8ac999d.png" group-title="SPORT",USA| LONGHORN SPORTS HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/278019
-#EXTINF:-1 tvg-id="10179" tvg-name="USA| ESPN U HD" tvg-logo="http://miarea.vip:8080/images/8060169e779e646cdd3f369de736b089.png" group-title="SPORT",USA| ESPN U HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/36066
-#EXTINF:-1 tvg-id="" tvg-name="USA| ACC ESPN HD" tvg-logo="http://miarea.vip:8080/images/38409dceee7ed85b9bc3624a27ce284f.png" group-title="SPORT",USA| ACC ESPN HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/77301
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 1 FHD
@@ -2136,23 +1986,23 @@ http://51.15.7.149:8080/comune/yGmJCyRFET/392
 http://51.15.7.149:8080/comune/yGmJCyRFET/393
 #EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 10 HD" tvg-logo="" group-title="SPORT",SERIE A 10 HD
 http://51.15.7.149:8080/comune/yGmJCyRFET/394
-#EXTINF:-1 tvg-id="" tvg-name="ZONA" tvg-logo="" group-title="SPORT",BAR UNO FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="BAR UNO FULL HD" tvg-logo="" group-title="SPORT",BAR UNO FULL HD
 http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39290
-EXTINF:-1 tvg-id="" tvg-name="ZONA" tvg-logo="" group-title="SPORT",BAR UNO HD
+EXTINF:-1 tvg-id="" tvg-name="BAR UNO HD" tvg-logo="" group-title="SPORT",BAR UNO HD
 http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39291
-EXTINF:-1 tvg-id="" tvg-name="ZONA" tvg-logo="" group-title="SPORT",BAR UNO SD
+EXTINF:-1 tvg-id="" tvg-name="BAR UNO SD" tvg-logo="" group-title="SPORT",BAR UNO SD
 http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39292
-EXTINF:-1 tvg-id="" tvg-name="ZONA" tvg-logo="" group-title="SPORT",BAR DUE FULL HD
+EXTINF:-1 tvg-id="" tvg-name="BAR DUE FULL HD" tvg-logo="" group-title="SPORT",BAR DUE FULL HD
 http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39293
-EXTINF:-1 tvg-id="" tvg-name="ZONA" tvg-logo="" group-title="SPORT",BAR DUE HD
+EXTINF:-1 tvg-id="" tvg-name="BAR DUE HD" tvg-logo="" group-title="SPORT",BAR DUE HD
 http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39294
-EXTINF:-1 tvg-id="" tvg-name="ZONA" tvg-logo="" group-title="SPORT",BAR DUE SD
+EXTINF:-1 tvg-id="" tvg-name="BAR DUE SD" tvg-logo="" group-title="SPORT",BAR DUE SD
 http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39295
-EXTINF:-1 tvg-id="" tvg-name="ZONA" tvg-logo="" group-title="SPORT",BAR Pv FULL HD
+EXTINF:-1 tvg-id="" tvg-name="BAR Pv FULL HD" tvg-logo="" group-title="SPORT",BAR Pv FULL HD
 http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39296
-EXTINF:-1 tvg-id="" tvg-name="ZONA" tvg-logo="" group-title="SPORT",BAR Pv HD
+EXTINF:-1 tvg-id="" tvg-name="BAR Pv HD" tvg-logo="" group-title="SPORT",BAR Pv HD
 http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39297
-EXTINF:-1 tvg-id="" tvg-name="ZONA" tvg-logo="" group-title="SPORT",BAR Pv SD
+EXTINF:-1 tvg-id="" tvg-name="BAR Pv SD" tvg-logo="" group-title="SPORT",BAR Pv SD
 http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39298
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 24 FHD" tvg-logo="" group-title="SPORT",Sport 24 FHD
 http://51.15.7.149:8080/comune/yGmJCyRFET/84
@@ -2505,8 +2355,16 @@ http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 http://210.210.155.35/x6bnqe/s/s63/index2.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="Canali RAI",RAI 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/world/RSILA1.ch.png",RSI LA 1 HD
+http://newstvbnt.org:80/francsx1/Sx1cint/108024
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/world/RSILA1.ch.png",RSI La 1 HD
 http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/38602
+#EXTINF:-1 tvg-id="Rsi La1 HD" tvg-name="RSI LA 1 HD" tvg-logo="http://world-service.us:6969/images/15aed459f6502a11e29a35690910c595.png" group-title="#EXTINF:-1 tvg-id="Rsi La1 HD" tvg-name="RSI LA 1 HD" tvg-logo="http://world-service.us:6969/images/15aed459f6502a11e29a35690910c595.png" group-title="TIVUSAT",RSI LA 1 HD
+http://world-service.us:6969/MorelloS/Palermo/8
+#EXTINF:-1 tvg-id="Rsi La2 HD" tvg-name="RSI LA 2 HD" tvg-logo="http://world-service.us:6969/images/7d0b2dfaa9c721eb69aae8a3fdde3583.png" group-title="#EXTINF:-1 tvg-id="Rsi La1 HD" tvg-name="RSI LA 1 HD" tvg-logo="http://world-service.us:6969/images/15aed459f6502a11e29a35690910c595.png" group-title="TIVUSAT",RSI LA 1 HD
+http://world-service.us:6969/MorelloS/Palermo/8
+#EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/RSILA2.ch.png",RSI La 2 HD
+http://newstvbnt.org:80/francsx1/Sx1cint/496
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/RSILA2.ch.png",RSI La 2 HD
 http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/38603
 #EXTINF:-1 " group-title="Altri Canali Nazionali",SRF1
@@ -2988,18 +2846,21 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plus
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
 
 
-#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="ESP| LA 1 HD" tvg-logo="http://miarea.vip:8080/images/03dc7679b4c21d3ac400524fd51dbd4a.png" group-title="Vari",ESP| LA 1 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/345
-#EXTINF:-1 tvg-id="I2.91206.schedulesdirect.org" tvg-name="ESP| LA 2 HD" tvg-logo="http://miarea.vip:8080/images/1d92d98b45f0c68b1edf048c6dfee1aa.png" group-title="Vari",ESP| LA 2 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/346
-#EXTINF:-1 tvg-id="I4.91199.schedulesdirect.org" tvg-name="ESP| LA CUATRO HD" tvg-logo="http://miarea.vip:8080/images/c7e06739450ba5bb7d1adbb6f6254c55.png" group-title="Vari",ESP| LA CUATRO HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/362
-#EXTINF:-1 tvg-id="I5.91224.schedulesdirect.org" tvg-name="ESP| TELECINCO HD" tvg-logo="http://miarea.vip:8080/images/403853df6f96513354d146c4eace61da.png" group-title="Vari",ESP| TELECINCO HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/368
-#EXTINF:-1 tvg-id="I6.97481.schedulesdirect.org" tvg-name="ESP| LA SEXTA HD" tvg-logo="http://miarea.vip:8080/images/966ee4301686bd3293f32284a44274d5.png" group-title="Vari",ESP| LA SEXTA HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/347
-#EXTINF:-1 tvg-id="I3.91176.schedulesdirect.org" tvg-name="ESP| ANTENA 3 HD" tvg-logo="http://miarea.vip:8080/images/913a4485b8bd8a8849a15a852dd136ab.png" group-title="Vari",ESP| ANTENA 3 HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/376
+http://world-service.us:6969/MorelloS/Palermo/15463
+#EXTINF:-1 tvg-id="" tvg-name="ES-LA 1 HD" tvg-logo="" group-title="Vari",ES-LA 1 HD
+http://world-service.us:6969/MorelloS/Palermo/21777
+#EXTINF:-1 tvg-id="" tvg-name="ES-LA 2" tvg-logo="" group-title="Vari",ES-LA 2
+http://world-service.us:6969/MorelloS/Palermo/21362
+#EXTINF:-1 tvg-id="" tvg-name="ES-ANTENA 3" tvg-logo="" group-title="Vari",ES-ANTENA 3
+http://world-service.us:6969/MorelloS/Palermo/21318
+#EXTINF:-1 tvg-id="" tvg-name="ES-CUATRO" tvg-logo="" group-title="Vari",ES-CUATRO
+http://world-service.us:6969/MorelloS/Palermo/21316
+#EXTINF:-1 tvg-id="" tvg-name="ES-TELECINCO" tvg-logo="" group-title="Vari",ES-TELECINCO
+http://world-service.us:6969/MorelloS/Palermo/21314
+#EXTINF:-1 tvg-id="" tvg-name="ES-LA SEXTA" tvg-logo="" group-title="Vari",ES-LA SEXTA
+http://world-service.us:6969/MorelloS/Palermo/21312
+#EXTINF:-1 tvg-id="" tvg-name="ES - Canal Sur Andalucia HD" tvg-logo="" group-title="Vari",ES - Canal Sur Andalucia HD
+http://world-service.us:6969/MorelloS/Palermo/21310
 #EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",🇪🇸 ➾ Canal Sur Andaluciaᴴᴰ
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="Vari",LA Sexta
@@ -3046,6 +2907,44 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/playlist.m3u8
 #EXTINF:-1" group-title="Vari",Travel Tv
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: ORF 1 HD" tvg-logo="" group-title="Vari",DE: ORF 1 HD
+http://world-service.us:6969/MorelloS/Palermo/57014
+#EXTINF:-1 tvg-id="" tvg-name="DE: ORF 2 HD" tvg-logo="" group-title="Vari",DE: ORF 2 HD
+http://world-service.us:6969/MorelloS/Palermo/57015
+#EXTINF:-1 tvg-id="" tvg-name="DE: ORF 3 HD" tvg-logo="" group-title="Vari",DE: ORF 3 HD
+http://world-service.us:6969/MorelloS/Palermo/57016
+#EXTINF:-1 tvg-id="" tvg-name="DE: ORF SPORT+ HD" tvg-logo="" group-title="Vari",DE: ORF SPORT+ HD
+http://world-service.us:6969/MorelloS/Palermo/57017
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="DE: Das Erste HD" tvg-logo="" group-title="Vari",DE: Das Erste HD
+http://world-service.us:6969/MorelloS/Palermo/56953
+#EXTINF:-1 tvg-id="ZDF" tvg-name="DE: ZDF HD" tvg-logo="" group-title="Vari",DE: ZDF HD
+http://world-service.us:6969/MorelloS/Palermo/56954
+#EXTINF:-1 tvg-id="Sat.1" tvg-name="DE: Sat 1 HD" tvg-logo="" group-title="Vari",DE: Sat 1 HD
+http://world-service.us:6969/MorelloS/Palermo/56955
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL HD" tvg-logo="" group-title="Vari",DE: RTL HD
+http://world-service.us:6969/MorelloS/Palermo/56958
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL 2 HD" tvg-logo="" group-title="Vari",DE: RTL 2 HD
+http://world-service.us:6969/MorelloS/Palermo/56959
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL CRIME HD" tvg-logo="" group-title="Vari",DE: RTL CRIME HD
+http://world-service.us:6969/MorelloS/Palermo/56961
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL LIVING HD" tvg-logo="" group-title="Vari",DE: RTL LIVING HD
+http://world-service.us:6969/MorelloS/Palermo/56962
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL PASSION HD" tvg-logo="" group-title="Vari",DE: RTL PASSION HD
+http://world-service.us:6969/MorelloS/Palermo/56964
+#EXTINF:-1 tvg-id="" tvg-name="DE: Pro 7 HD" tvg-logo="" group-title="Vari",DE: Pro 7 HD
+http://world-service.us:6969/MorelloS/Palermo/56965
+#EXTINF:-1 tvg-id="" tvg-name="DE: Pro 7 Maxx HD" tvg-logo="" group-title="Vari",DE: Pro 7 Maxx HD
+http://world-service.us:6969/MorelloS/Palermo/56966
+#EXTINF:-1 tvg-id="" tvg-name="DE: Prosieben Fun HD" tvg-logo="" group-title="Vari",DE: Prosieben Fun HD
+http://world-service.us:6969/MorelloS/Palermo/56967
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel Eins HD" tvg-logo="" group-title="Vari",DE: Kabel Eins HD
+http://world-service.us:6969/MorelloS/Palermo/56969
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOX HD" tvg-logo="" group-title="Vari",DE: VOX HD
+http://world-service.us:6969/MorelloS/Palermo/56972
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sixx HD" tvg-logo="" group-title="Vari",DE: Sixx HD
+http://world-service.us:6969/MorelloS/Palermo/56973
+#EXTINF:-1 tvg-id="" tvg-name="DE: 3Sat HD" tvg-logo="" group-title="Vari",DE: 3Sat HD
+http://world-service.us:6969/MorelloS/Palermo/56974
 
 
 
