@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 09/10/2023---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 17/10/2023---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -2136,14 +2136,24 @@ http://51.15.7.149:8080/comune/yGmJCyRFET/392
 http://51.15.7.149:8080/comune/yGmJCyRFET/393
 #EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 10 HD" tvg-logo="" group-title="SPORT",SERIE A 10 HD
 http://51.15.7.149:8080/comune/yGmJCyRFET/394
-#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio BAR 1 FHD" tvg-logo="" group-title="SPORT",BAR 1 FHD
-http://51.15.7.149:8080/comune/yGmJCyRFET/344
-#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio BAR 1 HD" tvg-logo="" group-title="SPORT",BAR 1 HD
-http://51.15.7.149:8080/comune/yGmJCyRFET/345
-#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio BAR 2 FHD" tvg-logo="" group-title="SPORT",BAR 2 FHD
-http://51.15.7.149:8080/comune/yGmJCyRFET/346
-#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio BAR 2 HD" tvg-logo="" group-title="SPORT",BAR 2 HD
-http://51.15.7.149:8080/comune/yGmJCyRFET/470
+#EXTINF:-1 tvg-id="" tvg-name="ZONA" tvg-logo="" group-title="SPORT",BAR UNO FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39290
+EXTINF:-1 tvg-id="" tvg-name="ZONA" tvg-logo="" group-title="SPORT",BAR UNO HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39291
+EXTINF:-1 tvg-id="" tvg-name="ZONA" tvg-logo="" group-title="SPORT",BAR UNO SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39292
+EXTINF:-1 tvg-id="" tvg-name="ZONA" tvg-logo="" group-title="SPORT",BAR DUE FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39293
+EXTINF:-1 tvg-id="" tvg-name="ZONA" tvg-logo="" group-title="SPORT",BAR DUE HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39294
+EXTINF:-1 tvg-id="" tvg-name="ZONA" tvg-logo="" group-title="SPORT",BAR DUE SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39295
+EXTINF:-1 tvg-id="" tvg-name="ZONA" tvg-logo="" group-title="SPORT",BAR Pv FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39296
+EXTINF:-1 tvg-id="" tvg-name="ZONA" tvg-logo="" group-title="SPORT",BAR Pv HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39297
+EXTINF:-1 tvg-id="" tvg-name="ZONA" tvg-logo="" group-title="SPORT",BAR Pv SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39298
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 24 FHD" tvg-logo="" group-title="SPORT",Sport 24 FHD
 http://51.15.7.149:8080/comune/yGmJCyRFET/84
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 24  HD" tvg-logo="" group-title="SPORT",Sport 24  HD
@@ -2495,22 +2505,10 @@ http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 http://210.210.155.35/x6bnqe/s/s63/index2.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="Canali RAI",RAI 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/world/RSILA1.ch.png",RSI LA 1 HD
-http://185.236.229.31:9981/play/a00m
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/world/RSILA1.ch.png",RSI La 1 HD
-http://51.15.7.149:8080/comune/yGmJCyRFET/46
-#EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/world/RSILA1.ch.png",,RSI LA 1 HD
-http://newstvbnt.org:80/francsx1/Sx1cint/108024
-#EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/RSILA2.ch.png",RSI LA 2 HD
-http://185.236.229.31:9981/play/a00n
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/38602
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/RSILA2.ch.png",RSI La 2 HD
-http://51.15.7.149:8080/comune/yGmJCyRFET/47
-#EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/RSILA2.ch.png",RSI La 2 HD
-http://newstvbnt.org:80/francsx1/Sx1cint/496
-#EXTINF:-1 tvg-id="" tvg-name="IT- RSI LA 1HD" tvg-logo="" group-title="Altri Canali Nazionali",IT- RSI LA 1HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/255084
-#EXTINF:-1 tvg-id="" tvg-name="IT- RSI LA 2HD" tvg-logo="" group-title="Altri Canali Nazionali",IT- RSI LA 2HD
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/255085
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/38603
 #EXTINF:-1 " group-title="Altri Canali Nazionali",SRF1
 http://185.236.229.31:9981/play/a00h
 #EXTINF:-1 " group-title="Altri Canali Nazionali",SRF2
