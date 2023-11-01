@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 01/11/2023---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 02/11/2023---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -242,19 +242,13 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="TOP ITALIA",=== TOP ITALIA ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italian-fishing-tv.jpg" group-title="TOP ITALIA",Sky Uno HD
-http://51.15.7.149:8080/comune/yGmJCyRFET/142
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/33
 #EXTINF:-1 tvg-id="" tvg-name="PESCA HD" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Imaggini/picons/SkySport/SkySportPesca.png" group-title="TOP ITALIA",PESCA HD
-http://51.15.7.149:8080/comune/yGmJCyRFET/445
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/92
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italian-fishing-tv.jpg" group-title="TOP ITALIA",Italian Fishing TV 
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter tv" tvg-logo="" group-title="TOP ITALIA",Inter
-http://51.15.7.149:8080/comune/yGmJCyRFET/215
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/espansione-tv.png" group-title="TOP ITALIA",C Uno HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13530
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/espansione-tv.png" group-title="TOP ITALIA",Uno HD
-http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13623
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/espansione-tv.png" group-title="TOP ITALIA",Atlantic
-http://51.15.7.149:8080/comune/yGmJCyRFET/144
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/94
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/motor-1-tv.png" group-title="TOP ITALIA",Motor 1 TV 
 https://b87f4ca7d206491eb1e66c08df063cf7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Motor1TV/playlist.m3u8
 #EXTINF:-1 tvg-id="biketv.it" tvg-name="Supertennis" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/BikeTv.png" group-title="TOP ITALIA",Bike TV
@@ -1353,7 +1347,7 @@ https://link.theplatform.eu/s/PR1GhC/DlvlNhNoEWfJ
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="SPORT",=== SPORT ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1" group-title="SPORT",Sky sport 24 
-http://51.15.7.149:8080/comune/yGmJCyRFET/186
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/68
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/grtv.jpg" group-title="SPORT",Giornale Radio Tv Sport
 https://5e73cf528f404.streamlock.net/GR_sport/livestream/chunklist_w1501899689.m3u8
 #EXTINF:-1 " group-title="SPORT",Rai Sport + HD
@@ -1363,7 +1357,7 @@ http://live.sport2u.tv:1935/EvoLive/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Top Calcio 24" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-top-calcio-24-7160-300x225.jpg" tvg-shift="0" group-title="SPORT",Top Calcio 24
 https://bit.ly/38QRMom
 #EXTINF:-1 tvg-ID="Inter Channel" tvg-name="Inter TV" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/inter.png" group-title="SPORT",Inter TV
-http://51.15.7.149:8080/comune/yGmJCyRFET/215
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/94
 #EXTINF:-1 tvg-ID="Inter Channel" tvg-name="Inter TV" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/inter.png" group-title="SPORT",Inter TV (720p)
 https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-24-live.jpg" group-title="SPORT",SportItalia 24 LIVE
@@ -2063,6 +2057,50 @@ http://bl.uma.media/live/154036/HLS/154036_2/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",MATCH! IGRA fhd
 http://bl.uma.media/live/154036/HLS/154036_3/2/1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN HD" tvg-logo="" group-title="SPORT",ZONA  HD
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/36085
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SAT BAR 1 HD" tvg-logo="" group-title="SPORT", SAT BAR 1 HD
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/104
+#EXTINF:-1 tvg-id="" tvg-name="SERIE A SAT DAZN" tvg-logo="" group-title="SPORT",SERIE A SAT 
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/31377
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SAT BAR 1 SD" tvg-logo="" group-title="SPORT", SAT BAR 1 SD
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/24200
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="SPORT", 1 HD
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/103
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 SD" tvg-logo="" group-title="SPORT", 1 SD
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/40206
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="SPORT", 2 HD
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/106
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 2 SD" tvg-logo="" group-title="SPORT", 2 SD
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/30723
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="" group-title="SPORT", 3 HD
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/107
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 3 SD" tvg-logo="" group-title="SPORT", 3 SD
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/30724
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="" group-title="SPORT", 4 HD
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/108
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 HD" tvg-logo="" group-title="SPORT", 5 HD
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/109
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 HD" tvg-logo="" group-title="SPORT", 6 HD
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/110
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 7 HD" tvg-logo="" group-title="SPORT", 7 HD
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/111
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 HD" tvg-logo="" group-title="SPORT", 8 HD
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/112
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 HD" tvg-logo="" group-title="SPORT", 9 HD
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/113
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 HD" tvg-logo="" group-title="SPORT", 10 HD
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/114
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 11 HD" tvg-logo="" group-title="SPORT", 11 HD
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/30677
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 12 HD" tvg-logo="" group-title="SPORT", 12 HD
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/30678
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 13 HD" tvg-logo="" group-title="SPORT", 13 HD
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/30679
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 14 HD" tvg-logo="" group-title="SPORT", 14 HD
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/30680
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 15" tvg-logo="" group-title="SPORT", 15
+http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/30681
 
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Zona HD
 http://world-service.us:6969/MorelloS/Palermo/60962
