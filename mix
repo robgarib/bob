@@ -1822,6 +1822,19 @@ http://iptvmedia.live:8080/dooby1312/b244f7ab/7435
 http://iptvmedia.live:8080/dooby1312/b244f7ab/7438
 #EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 10" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="SPORT,UK: TNT Sports 10
 http://iptvmedia.live:8080/dooby1312/b244f7ab/283203
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21h-OE4-X7L._SY355_.png" group-title="SPORT",ESPN HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15976
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN 2 HD" tvg-logo="https://4.bp.blogspot.com/-FV40qaNYhvc/WhIkUsb15rI/AAAAAAAAACM/8vIjddhfsb8ffPPPlBvjn_5hfzAXNO9DACLcBGAs/s1600/espannn2.jpg" group-title="SPORT",ESPN 2 HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15974
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN U HD" tvg-logo="https://pbs.twimg.com/profile_images/895269310012297216/S6kYh_k1_400x400.jpg" group-title="SPORT",ESPN U HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15972
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",BT SPORT 1 (UK)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20821
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT SPORTS 2 (UK)" tvg-logo="https://i.imgur.com/dM18qVs.png" group-title="SPORT",BT SPORTS 2 (UK)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20820
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT SPORT 3 (UK)" tvg-logo="https://i.imgur.com/iyQKvph.png" group-title="SPORT",BT SPORT 3 (UK)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20819
+#EXTINF:-1 tvg-id="88039" tvg-name="USA| ESPN HD" tvg-logo="http://miarea.vip:8080/images/7e9f2faec802eb9cace2303034565400.png" group-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 1 HD PT" tvg-logo="http://dnsbr.tk:80/images/e81382c429fefb07a713c990725d8b7f.jpg" group-title="SPORT",SPORTV 1 HD PT
