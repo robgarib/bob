@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 02/11/2023---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 04/11/2023---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -245,6 +245,8 @@ http://patbuweb.com/iptv/e2liste/startend.avi
 http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/33
 #EXTINF:-1 tvg-id="" tvg-name="PESCA HD" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Imaggini/picons/SkySport/SkySportPesca.png" group-title="TOP ITALIA",PESCA HD
 http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/92
+#EXTINF:-1 tvg-id="" tvg-name="PESCA HD" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Imaggini/picons/SkySport/SkySportPesca.png" group-title="TOP ITALIA",PESCA HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/38717
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italian-fishing-tv.jpg" group-title="TOP ITALIA",Italian Fishing TV 
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter tv" tvg-logo="" group-title="TOP ITALIA",Inter
@@ -2115,29 +2117,6 @@ http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/30680
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 15" tvg-logo="" group-title="SPORT", 15
 http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/30681
 
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Zona HD
-http://world-service.us:6969/MorelloS/Palermo/60962
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",1 HD 
-http://world-service.us:6969/MorelloS/Palermo/62822
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",2 HD
-http://world-service.us:6969/MorelloS/Palermo/60966
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",3 HD
-http://world-service.us:6969/MorelloS/Palermo/60968
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",4 HD
-http://world-service.us:6969/MorelloS/Palermo/60970
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",5 HD
-http://world-service.us:6969/MorelloS/Palermo/60971
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",6 HD
-http://world-service.us:6969/MorelloS/Palermo/60972
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",7 HD
-http://world-service.us:6969/MorelloS/Palermo/60973
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",8 HD
-http://world-service.us:6969/MorelloS/Palermo/60974
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", 9 HD
-http://world-service.us:6969/MorelloS/Palermo/62689
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", 10 HD
-http://world-service.us:6969/MorelloS/Palermo/62690
-
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",BAR UNO FULL HD
 http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39290
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",BAR UNO HD
@@ -2157,72 +2136,182 @@ http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39297
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",BAR Pv SD
 http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39298
 
-
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",SPORT 24 HD
-http://world-service.us:6969/MorelloS/Palermo/89
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Sport 24 SD
-http://world-service.us:6969/MorelloS/Palermo/1894
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",SPORT UNO HD
-http://world-service.us:6969/MorelloS/Palermo/26370
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",SPORT UNO  SD
-http://world-service.us:6969/MorelloS/Palermo/1896
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",SPORT ARENA HD
-http://world-service.us:6969/MorelloS/Palermo/87
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",SKY SPORT ARENA SD
-http://world-service.us:6969/MorelloS/Palermo/1895
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",SPORT MAX HD
-http://world-service.us:6969/MorelloS/Palermo/88
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",SPORT MAX SD
-http://world-service.us:6969/MorelloS/Palermo/1906
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", SPORT F1 HD
-http://world-service.us:6969/MorelloS/Palermo/90
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", F1 SD
-http://world-service.us:6969/MorelloS/Palermo/1937
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", Moto GP HD
-http://world-service.us:6969/MorelloS/Palermo/91
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Moto GP SD
-http://world-service.us:6969/MorelloS/Palermo/1945
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Euro 1 HD
-http://world-service.us:6969/MorelloS/Palermo/1551
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",EURO 1 SD
-http://world-service.us:6969/MorelloS/Palermo/1909
-#EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT", EURO 2 HD
-http://world-service.us:6969/MorelloS/Palermo/2100
-
-#EXTINF:-1 tvg-id="Sky Sport Calcio HD" tvg-name="Sky sport Calcio HD" tvg-logo="http://world-service.us:6969/images/0fafac437de7680dd6802a320b4fc674.png" group-title="SPORT",Calcio HD
-http://world-service.us:6969/MorelloS/Palermo/96
-#EXTINF:-1 tvg-id="Sky Supercalcio HD" tvg-name="Sky sport Calcio SD" tvg-logo="http://world-service.us:6969/images/45c8964c20cde20f839df97a8f8a3a5d.png" group-title="SPORT",Calcio SD
-http://world-service.us:6969/MorelloS/Palermo/1905
-#EXTINF:-1 tvg-id="Sky Sport 251 HD" tvg-name="Sky DIRETTA  251 HD" tvg-logo="" group-title="SPORT",DIRETTA  251 HD
-http://world-service.us:6969/MorelloS/Palermo/38086
-#EXTINF:-1 tvg-id="Sky Sport 251 HD" tvg-name="Sky DIRETTA 251 SD" tvg-logo="" group-title="SPORT", DIRETTA 251 SD
-http://world-service.us:6969/MorelloS/Palermo/40987
-#EXTINF:-1 tvg-id="Sky Sport 252 HD" tvg-name="Sky Calcio  252 HD" tvg-logo="http://world-service.us:6969/images/ed1329c509171a92f8cb9974b3241c49.png" group-title="SPORT",252 HD
-http://world-service.us:6969/MorelloS/Palermo/97
-#EXTINF:-1 tvg-id="Sky Sport 252 SD" tvg-name="Sky Calcio 252 SD" tvg-logo="http://world-service.us:6969/images/ed1329c509171a92f8cb9974b3241c49.png" group-title="SPORT",252 SD
-http://world-service.us:6969/MorelloS/Palermo/1899
-#EXTINF:-1 tvg-id="Sky Sport 253 HD" tvg-name="Sky Calcio  253 HD" tvg-logo="http://world-service.us:6969/images/a634f80d750e75a4e3f47df09b6733ff.png" group-title="SPORT",253 HD
-http://world-service.us:6969/MorelloS/Palermo/98
-#EXTINF:-1 tvg-id="Sky Sport 253 SD" tvg-name="Sky Calcio 253 SD" tvg-logo="" group-title="SPORT",Sky Calcio 253 SD
-http://world-service.us:6969/MorelloS/Palermo/26556
-#EXTINF:-1 tvg-id="Sky Calcio 254 FHD" tvg-name="Sky Calcio  254 HD" tvg-logo="http://world-service.us:6969/images/dde35d6258b8379fb81c8b32dea1e397.png" group-title="SPORT",254 HD
-http://world-service.us:6969/MorelloS/Palermo/99
-#EXTINF:-1 tvg-id="Sky Calcio 254 FHD" tvg-name="SKY Calcio 254 SD" tvg-logo="http://world-service.us:6969/images/dde35d6258b8379fb81c8b32dea1e397.png" group-title="SPORT",254 SD
-http://world-service.us:6969/MorelloS/Palermo/1897
-#EXTINF:-1 tvg-id="SkySport255.it" tvg-name="Sky Calcio 255 HD" tvg-logo="http://world-service.us:6969/images/d1dbf2bb64ed6b270f8084e57a83f561.png" group-title="SPORT",Sky Calcio 255 HD
-http://world-service.us:6969/MorelloS/Palermo/2619
-#EXTINF:-1 tvg-id="SkySport255.it" tvg-name="SKY  Calcio 255 SD" tvg-logo="http://world-service.us:6969/images/d1dbf2bb64ed6b270f8084e57a83f561.png" group-title="SPORT",255 SD
-http://world-service.us:6969/MorelloS/Palermo/1928
-#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 256 HD" tvg-logo="" group-title="SPORT",256 HD
-http://world-service.us:6969/MorelloS/Palermo/60293
-#EXTINF:-1 tvg-id="Sky Sport 257 HD" tvg-name="Sky Calcio  257 HD" tvg-logo="http://world-service.us:6969/images/1138b9d947de45b0b3cef53a9f046b7a.png" group-title="SPORT",257 HD
-http://world-service.us:6969/MorelloS/Palermo/102
-#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 258 HD" tvg-logo="" group-title="SPORT",258 HD
-http://world-service.us:6969/MorelloS/Palermo/63419
-#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 259 HD" tvg-logo="" group-title="SPORT",259 HD
-http://world-service.us:6969/MorelloS/Palermo/63420
-#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 260 HD" tvg-logo="" group-title="SPORT",260 HD
-http://world-service.us:6969/MorelloS/Palermo/63421
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT", SPORT 24 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/61
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT 24 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/60
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT UNO FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/37
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT UNO HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/36
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT UNO SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/35
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT ARENA HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/58
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT ARENA SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/57
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT F1 FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/55
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT F1 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/54
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT F1 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/53
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT MOTOGP FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/46
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT MOTOGP HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/45
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT MOTOGP SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/44
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT MAX FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/38702
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT MAX HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/38703
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",CALCIO 4K HEVC H265
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/8979
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",CALCIO FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/40
+#EXTINF:-1,SKY SPORT CALCIO HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",CALCIO SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/38
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",251 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/209
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",251 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/208
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",252 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/206
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",252 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/205
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",253 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/203
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",253 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/202
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",254 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/200
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",254 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/199
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",255 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/197
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",255 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/33214
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",INTER FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/108
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT 1 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/38713
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",SPORT 2 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/38715
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ZONA  FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/152
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ZONA  HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/151
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ZONA HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/38739
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ZONA SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/150
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ZONA  FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/38738
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",DIRETTA GOL SERIE A FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39393
+#EXTINF:-1,DAZN DIRETTA GOL SERIE A HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39619
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",DIRETTA GOL SERIE A SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39620
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",DIRETTA GOL SERIE B FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39394
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",DIRETTA GOL SERIE B HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39621
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",GOL SERIE B SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39622
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 1 FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/348
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 1 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39625
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 1 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39626
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 2 FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/346
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 2 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39627
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 2 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39628
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 3 FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/345
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 3 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39629
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 3 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39630
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 4 FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/344
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 4 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39631
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 4 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39632
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 5 FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/343
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 5 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39633
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 5 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39634
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 6 FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/342
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 6 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39635
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 6 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39636
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 7 FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/341
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 7 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39637
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 7 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39638
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 8 FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/340
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 8 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39639
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 8 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39640
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 9 FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/339
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 9 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39641
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 9 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39642
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 10 FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/347
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 10 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39643
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 10 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39644
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 11 FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39870
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 11 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39869
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 11 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39868
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 12 FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39873
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 12 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39872
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 12 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39871
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 13 FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39876
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 13 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39875
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 13 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39874
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 14 FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39879
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 14 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39878
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 14 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39877
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 15 FULL HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39882
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 15 HD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39881
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",WEB 15 SD
+http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/39880
 
 
 #EXTINF:-1 tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Paramount Channel HD.png" group-title="SPORT",Zona - Zona Gol
@@ -2427,14 +2516,10 @@ https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10
 http://newstvbnt.org:80/francsx1/Sx1cint/108024
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/world/RSILA1.ch.png"group-title="Altri Canali Nazionali",RSI La 1 HD
 http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/38602
-#EXTINF:-1 tvg-id="Rsi La1 HD" tvg-name="RSI LA 1 HD" tvg-logo="http://world-service.us:6969/images/15aed459f6502a11e29a35690910c595.png" group-title="Altri Canali Nazionali",RSI LA 1 HD
-http://world-service.us:6969/MorelloS/Palermo/8
 #EXTINF:-1 tvg-id="rsila1.ch" tvg-name="CH: RSI La 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d4fd9dbf9a578a15cc5ca58cb58ebd9.png" group-title="Altri Canali Nazionali",CH: RSI La 1
 http://iptvmedia.live:8080/dooby1312/b244f7ab/9873
 #EXTINF:-1 tvg-id="" tvg-name="CH: RSI La 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c25edfb73d12a43e8193daa91e987e49.svg" group-title="Altri Canali Nazionali",CH: RSI La 2
 http://iptvmedia.live:8080/dooby1312/b244f7ab/1993
-#EXTINF:-1 tvg-id="Rsi La2 HD" tvg-name="RSI LA 2 HD" tvg-logo="http://world-service.us:6969/images/7d0b2dfaa9c721eb69aae8a3fdde3583.png" group-title="Altri Canali Nazionali",RSI LA 2 HD
-http://world-service.us:6969/MorelloS/Palermo/9
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/RSILA2.ch.png"group-title="Altri Canali Nazionali",RSI La 2 HD
 http://newstvbnt.org:80/francsx1/Sx1cint/496
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/RSILA2.ch.png"group-title="Altri Canali Nazionali",RSI La 2 HD
@@ -2943,20 +3028,6 @@ http://iptvmedia.live:8080/dooby1312/b244f7ab/4413
 http://iptvmedia.live:8080/dooby1312/b244f7ab/2805
 #EXTINF:-1 tvg-id="" tvg-name="CH: SRF Zwei" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ebedeef3396154de7043a23cc8781851.svg" group-title="Vari",CH: SRF Zwei
 http://iptvmedia.live:8080/dooby1312/b244f7ab/294454
-#EXTINF:-1 tvg-id="" tvg-name="ES-LA 1 HD" tvg-logo="" group-title="Vari",ES-LA 1 HD
-http://world-service.us:6969/MorelloS/Palermo/21777
-#EXTINF:-1 tvg-id="" tvg-name="ES-LA 2" tvg-logo="" group-title="Vari",ES-LA 2
-http://world-service.us:6969/MorelloS/Palermo/21362
-#EXTINF:-1 tvg-id="" tvg-name="ES-ANTENA 3" tvg-logo="" group-title="Vari",ES-ANTENA 3
-http://world-service.us:6969/MorelloS/Palermo/21318
-#EXTINF:-1 tvg-id="" tvg-name="ES-CUATRO" tvg-logo="" group-title="Vari",ES-CUATRO
-http://world-service.us:6969/MorelloS/Palermo/21316
-#EXTINF:-1 tvg-id="" tvg-name="ES-TELECINCO" tvg-logo="" group-title="Vari",ES-TELECINCO
-http://world-service.us:6969/MorelloS/Palermo/21314
-#EXTINF:-1 tvg-id="" tvg-name="ES-LA SEXTA" tvg-logo="" group-title="Vari",ES-LA SEXTA
-http://world-service.us:6969/MorelloS/Palermo/21312
-#EXTINF:-1 tvg-id="" tvg-name="ES - Canal Sur Andalucia HD" tvg-logo="" group-title="Vari",ES - Canal Sur Andalucia HD
-http://world-service.us:6969/MorelloS/Palermo/21310
 #EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",🇪🇸 ➾ Canal Sur Andaluciaᴴᴰ
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="Vari",LA Sexta
@@ -3003,41 +3074,4 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/playlist.m3u8
 #EXTINF:-1" group-title="Vari",Travel Tv
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: ORF 1 HD" tvg-logo="" group-title="Vari",DE: ORF 1 HD
-http://world-service.us:6969/MorelloS/Palermo/57014
-#EXTINF:-1 tvg-id="" tvg-name="DE: ORF 2 HD" tvg-logo="" group-title="Vari",DE: ORF 2 HD
-http://world-service.us:6969/MorelloS/Palermo/57015
-#EXTINF:-1 tvg-id="" tvg-name="DE: ORF 3 HD" tvg-logo="" group-title="Vari",DE: ORF 3 HD
-http://world-service.us:6969/MorelloS/Palermo/57016
-#EXTINF:-1 tvg-id="" tvg-name="DE: ORF SPORT+ HD" tvg-logo="" group-title="Vari",DE: ORF SPORT+ HD
-http://world-service.us:6969/MorelloS/Palermo/57017
-#EXTINF:-1 tvg-id="Das Erste" tvg-name="DE: Das Erste HD" tvg-logo="" group-title="Vari",DE: Das Erste HD
-http://world-service.us:6969/MorelloS/Palermo/56953
-#EXTINF:-1 tvg-id="ZDF" tvg-name="DE: ZDF HD" tvg-logo="" group-title="Vari",DE: ZDF HD
-http://world-service.us:6969/MorelloS/Palermo/56954
-#EXTINF:-1 tvg-id="Sat.1" tvg-name="DE: Sat 1 HD" tvg-logo="" group-title="Vari",DE: Sat 1 HD
-http://world-service.us:6969/MorelloS/Palermo/56955
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL HD" tvg-logo="" group-title="Vari",DE: RTL HD
-http://world-service.us:6969/MorelloS/Palermo/56958
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL 2 HD" tvg-logo="" group-title="Vari",DE: RTL 2 HD
-http://world-service.us:6969/MorelloS/Palermo/56959
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL CRIME HD" tvg-logo="" group-title="Vari",DE: RTL CRIME HD
-http://world-service.us:6969/MorelloS/Palermo/56961
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL LIVING HD" tvg-logo="" group-title="Vari",DE: RTL LIVING HD
-http://world-service.us:6969/MorelloS/Palermo/56962
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL PASSION HD" tvg-logo="" group-title="Vari",DE: RTL PASSION HD
-http://world-service.us:6969/MorelloS/Palermo/56964
-#EXTINF:-1 tvg-id="" tvg-name="DE: Pro 7 HD" tvg-logo="" group-title="Vari",DE: Pro 7 HD
-http://world-service.us:6969/MorelloS/Palermo/56965
-#EXTINF:-1 tvg-id="" tvg-name="DE: Pro 7 Maxx HD" tvg-logo="" group-title="Vari",DE: Pro 7 Maxx HD
-http://world-service.us:6969/MorelloS/Palermo/56966
-#EXTINF:-1 tvg-id="" tvg-name="DE: Prosieben Fun HD" tvg-logo="" group-title="Vari",DE: Prosieben Fun HD
-http://world-service.us:6969/MorelloS/Palermo/56967
-#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel Eins HD" tvg-logo="" group-title="Vari",DE: Kabel Eins HD
-http://world-service.us:6969/MorelloS/Palermo/56969
-#EXTINF:-1 tvg-id="" tvg-name="DE: VOX HD" tvg-logo="" group-title="Vari",DE: VOX HD
-http://world-service.us:6969/MorelloS/Palermo/56972
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sixx HD" tvg-logo="" group-title="Vari",DE: Sixx HD
-http://world-service.us:6969/MorelloS/Palermo/56973
-#EXTINF:-1 tvg-id="" tvg-name="DE: 3Sat HD" tvg-logo="" group-title="Vari",DE: 3Sat HD
-http://world-service.us:6969/MorelloS/Palermo/56974
+
