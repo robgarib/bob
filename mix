@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 12/12/2023---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 13/12/2023---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -1897,6 +1897,51 @@ http://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 " group-title="SPORT",TürkmenTV Sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
+
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",TNT Sports 1
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",TNT SPORTS 1
+http://142.54.172.138/premium31/playlist.m3u8?ddd=Pl5NHMeCwA
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",TNT SPORTS 1
+https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",TNT Sports 2
+http://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",TNT SPORTS 2
+http://142.54.172.138/premium32/playlist.m3u8?ddd=Pl5NHMeCwA
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",TNT SPORTS 2
+https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",TNT Sports 2 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",TNT Sports 3
+http://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",TNT SPORTS 3
+http://142.54.172.138/premium33/playlist.m3u8?ddd=Pl5NHMeCwA
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",TNT SPORTS 3
+https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
+#EXTINF:-1,TNT Sports 3 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",TNT Sports 4
+http://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",TNT SPORTS 4
+http://142.54.172.138/premium34/playlist.m3u8?ddd=Pl5NHMeCwA
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",TNT SPORTS 4
+https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",TNT Sports 5
+http://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",TNT Sports 5 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",Arena 1HD 🇷🇸
+http://93.155.227.38:555/m3u8/arenasport1.m3u8
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",Arena 2 HD 🇷🇸
+http://93.155.227.38:555/m3u8/arenasport2.m3u8
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",Arena sport 3 HD 🇷🇸
+http://93.155.227.38:555/m3u8/arenasport3.m3u8
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",Arena sport 4 HD 🇷🇸
+http://93.155.227.38:555/m3u8/arenasport4.m3u8
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",Arena sport 5 HD 🇷🇸
+http://93.155.227.38:555/m3u8/arenasport5.m3u8
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1 (UK)" tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT",ARENA SPORTS 3
+http://80.252.37.194:5000/udp/233.233.233.5:12000
 
 
 
