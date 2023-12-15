@@ -3289,6 +3289,92 @@ http://livetv.ktv.zone/120/play.m3u8
 http://livetv.ktv.zone/122/play.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Vari",BFM
 http://livetv.ktv.zone/117/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DE | HD ZDF" tvg-logo="http://exaott.xyz/lagi/GERMANY_HD_4K/DE_HD_ZDF.png" group-title="Vari",DE | HD ZDF
+http://world-ott.com:8080/bruxel9291119/9829291001828/94179
+#EXTINF:-1 tvg-id="" tvg-name="DE | HD 3 SAT" tvg-logo="http://exaott.xyz/lagi/GERMANY_HD_4K/DE_HD_3_SAT.png" group-title="Vari",DE | HD 3 SAT
+http://world-ott.com:8080/bruxel9291119/9829291001828/94188
+#EXTINF:-1 tvg-id="" tvg-name="DE | HD PRO 7" tvg-logo="http://exaott.xyz/lagi/GERMANY_HD_4K/DE_HD_PRO_7.png" group-title="Vari",DE | HD PRO 7
+http://world-ott.com:8080/bruxel9291119/9829291001828/94190
+#EXTINF:-1 tvg-id="" tvg-name="DE | HD RTL" tvg-logo="http://exaott.xyz/lagi/GERMANY_HD_4K/DE_HD_RTL.png" group-title="Vari",DE | HD RTL
+http://world-ott.com:8080/bruxel9291119/9829291001828/94193
+#EXTINF:-1 tvg-id="" tvg-name="DE | HD RTL 2" tvg-logo="http://exaott.xyz/lagi/GERMANY_HD_4K/DE_HD_RTL_2.png" group-title="Vari",DE | HD RTL 2
+http://world-ott.com:8080/bruxel9291119/9829291001828/94194
+#EXTINF:-1 tvg-id="" tvg-name="DE | HD SAT 1" tvg-logo="http://exaott.xyz/lagi/GERMANY_HD_4K/DE_HD_SAT_1.png" group-title="Vari",DE | HD SAT 1
+http://world-ott.com:8080/bruxel9291119/9829291001828/94195
+#EXTINF:-1 tvg-id="" tvg-name="DE | HD VOX" tvg-logo="http://exaott.xyz/lagi/GERMANY_HD_4K/DE_HD_VOX.png" group-title="Vari",DE | HD VOX
+http://world-ott.com:8080/bruxel9291119/9829291001828/94199
+#EXTINF:-1 tvg-id="" tvg-name="DE | HD KABEL 1" tvg-logo="http://exaott.xyz/lagi/GERMANY_HD_4K/DE_HD_KABEL_1.png" group-title="Vari",DE | HD KABEL 1
+http://world-ott.com:8080/bruxel9291119/9829291001828/94201
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD TELE 5" tvg-logo="http://fireott.quest:2052/images/dc1fbfb568aab1291bd5b09c04bdd41b.png" group-title="Vari",DE : HD TELE 5
+http://world-ott.com:8080/bruxel9291119/9829291001828/94213
+#EXTINF:-1 tvg-id="" tvg-name="PT | HD RTP1" tvg-logo="" group-title="Vari",PT | HD RTP1
+http://world-ott.com:8080/bruxel9291119/9829291001828/93851
+#EXTINF:-1 tvg-id="" tvg-name="PT | HD RTP2" tvg-logo="" group-title="Vari",PT | HD RTP2
+http://world-ott.com:8080/bruxel9291119/9829291001828/93852
+#EXTINF:-1 tvg-id="" tvg-name="PT | HD RTP3" tvg-logo="" group-title="Vari",PT | HD RTP3
+http://world-ott.com:8080/bruxel9291119/9829291001828/93853
+#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC ONE" tvg-logo="" group-title="Vari",UK | 4K BBC ONE
+http://world-ott.com:8080/bruxel9291119/9829291001828/87832
+#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC TWO" tvg-logo="" group-title="Vari",UK | 4K BBC TWO
+http://world-ott.com:8080/bruxel9291119/9829291001828/87833
+#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC THREE" tvg-logo="" group-title="Vari",UK | 4K BBC THREE
+http://world-ott.com:8080/bruxel9291119/9829291001828/87834
+#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC NEWS" tvg-logo="" group-title="Vari",UK | 4K BBC NEWS
+http://world-ott.com:8080/bruxel9291119/9829291001828/87835
+#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC SCOTLAND" tvg-logo="" group-title="Vari",UK | 4K BBC SCOTLAND
+http://world-ott.com:8080/bruxel9291119/9829291001828/87836
+#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC ONE PLU" tvg-logo="" group-title="Vari",UK | 4K BBC ONE PLU
+http://world-ott.com:8080/bruxel9291119/9829291001828/87837
+#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC WORLD NEWS" tvg-logo="" group-title="Vari",UK | 4K BBC WORLD NEWS
+http://world-ott.com:8080/bruxel9291119/9829291001828/87838
+#EXTINF:-1 tvg-id="" tvg-name="UK | 4K ITV 1" tvg-logo="" group-title="Vari",UK | 4K ITV 1
+http://world-ott.com:8080/bruxel9291119/9829291001828/87839
+#EXTINF:-1 tvg-id="" tvg-name="UK | HD ITV 2" tvg-logo="" group-title="Vari",UK | HD ITV 2
+http://world-ott.com:8080/bruxel9291119/9829291001828/87840
+#EXTINF:-1 tvg-id="" tvg-name="UK | 4K ITV 2" tvg-logo="" group-title="Vari",UK | 4K ITV 2
+http://world-ott.com:8080/bruxel9291119/9829291001828/87841
+#EXTINF:-1 tvg-id="" tvg-name="UK | 4K ITV 3" tvg-logo="" group-title="Vari",UK | 4K ITV 3
+http://world-ott.com:8080/bruxel9291119/9829291001828/87842
+#EXTINF:-1 tvg-id="" tvg-name="UK | HD ITV 3" tvg-logo="" group-title="Vari",UK | HD ITV 3
+http://world-ott.com:8080/bruxel9291119/9829291001828/87843
+#EXTINF:-1 tvg-id="" tvg-name="UK | 4K ITV 4" tvg-logo="" group-title="Vari",UK | 4K ITV 4
+http://world-ott.com:8080/bruxel9291119/9829291001828/87844
+#EXTINF:-1 tvg-id="" tvg-name="UK | HD ITV 4" tvg-logo="" group-title="Vari",UK | HD ITV 4
+http://world-ott.com:8080/bruxel9291119/9829291001828/87845
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD LA 1" tvg-logo="" group-title="Vari",ES | SD LA 1
+http://world-ott.com:8080/bruxel9291119/9829291001828/86114
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD LA 1" tvg-logo="" group-title="Vari,ES | HD LA 1
+http://world-ott.com:8080/bruxel9291119/9829291001828/86115
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD LA 2" tvg-logo="" group-title="Vari",ES | SD LA 2
+http://world-ott.com:8080/bruxel9291119/9829291001828/86117
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD LA 2" tvg-logo="" group-title="Vari",ES | HD LA 2
+http://world-ott.com:8080/bruxel9291119/9829291001828/86118
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD ANTENA 3" tvg-logo="" group-title="Vari",ES | SD ANTENA 3
+http://world-ott.com:8080/bruxel9291119/9829291001828/86119
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD ANTENA 3" tvg-logo="" group-title="Vari",ES | HD ANTENA 3
+http://world-ott.com:8080/bruxel9291119/9829291001828/86120
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD CUATRO" tvg-logo="" group-title="Vari",ES | SD CUATRO
+http://world-ott.com:8080/bruxel9291119/9829291001828/86122
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD CUATRO" tvg-logo="" group-title="Vari",ES | HD CUATRO
+http://world-ott.com:8080/bruxel9291119/9829291001828/86123
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD TELECINCO" tvg-logo="" group-title="Vari",ES | SD TELECINCO
+http://world-ott.com:8080/bruxel9291119/9829291001828/86125
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD TELECINCO" tvg-logo="" group-title="Vari",ES | HD TELECINCO
+http://world-ott.com:8080/bruxel9291119/9829291001828/86126
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD LA SEXTA" tvg-logo="" group-title="Vari",ES | SD LA SEXTA
+http://world-ott.com:8080/bruxel9291119/9829291001828/86128
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD LA SEXTA" tvg-logo="" group-title="Vari",ES | HD LA SEXTA
+http://world-ott.com:8080/bruxel9291119/9829291001828/86129
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD 24 HORAS" tvg-logo="" group-title="Vari",ES | SD 24 HORAS
+http://world-ott.com:8080/bruxel9291119/9829291001828/86131
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD 24 HORAS" tvg-logo="" group-title="Vari",ES | HD 24 HORAS
+http://world-ott.com:8080/bruxel9291119/9829291001828/86132
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD TELEMADRID" tvg-logo="" group-title="Vari",ES | SD TELEMADRID
+http://world-ott.com:8080/bruxel9291119/9829291001828/86133
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD TELEMADRID" tvg-logo="" group-title="Vari",ES | HD TELEMADRID
+http://world-ott.com:8080/bruxel9291119/9829291001828/86134
+
 #EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",🇪🇸 ➾ Canal Sur Andaluciaᴴᴰ
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="Vari",LA Sexta
