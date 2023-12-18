@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 15/12/2023---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 18/12/2023---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -2113,6 +2113,55 @@ http://dnsbr.shop:80/boxopenalessandro/9571308991/856181.ts
 http://dnsbr.shop:80/boxopenalessandro/9571308991/855990.ts
 
 
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: Bein Sports Max 9" tvg-logo="" group-title="SPORT",FR: Bein Sports Max 9
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/229817
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: Bein Sports Max 8" tvg-logo="" group-title="SPORT",FR: Bein Sports Max 8
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/229816
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: Bein Sports Max 7" tvg-logo="" group-title="SPORT",FR: Bein Sports Max 7
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/229815
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: Bein Sports Max 6" tvg-logo="" group-title="SPORT",FR: Bein Sports Max 6
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/229814
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: Bein Sports Max 5" tvg-logo="" group-title="SPORT",FR: Bein Sports Max 5
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/229813
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: Bein Sports Max 4" tvg-logo="" group-title="SPORT",FR: Bein Sports Max 4
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/229812
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: Bein Sports 3" tvg-logo="" group-title="SPORT",FR: Bein Sports 3
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/229790
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: Bein Sports 2" tvg-logo="" group-title="SPORT",FR: Bein Sports 2
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/229789
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: Bein Sports 12" tvg-logo="" group-title="SPORT",FR: Bein Sports 12
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/229788
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="FR: Bein Sports 1" tvg-logo="" group-title="SPORT",FR: Bein Sports 1
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/229787
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="AL: Tring Sport 4" tvg-logo="" group-title="SPORT",AL: Tring Sport 4
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/241533
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="AL: Tring Sport 3" tvg-logo="" group-title="SPORT",AL: Tring Sport 3
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/241532
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="AL: Tring Sport 2" tvg-logo="" group-title="SPORT",AL: Tring Sport 2
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/241531
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="AL: Tring Sport 1" tvg-logo="" group-title="SPORT",AL: Tring Sport 1
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/241530
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="AL: Super Sport 7" tvg-logo="" group-title="SPORT",AL: Super Sport 7
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/241528
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="AL: Super Sport 6" tvg-logo="" group-title="SPORT",AL: Super Sport 6
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/241527
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="AL: Super Sport 5" tvg-logo="" group-title="SPORT",AL: Super Sport 5
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/241526
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="AL: Super Sport 4" tvg-logo="" group-title="SPORT",AL: Super Sport 4
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/241525
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="AL: Super Sport 3" tvg-logo="" group-title="SPORT",AL: Super Sport 3
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/241524
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="AL: Super Sport 2" tvg-logo="" group-title="SPORT",AL: Super Sport 2
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/241523
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="AL: OVERSPORT 4" tvg-logo="" group-title="SPORT",AL: OVERSPORT 4
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/241423
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="AL: OVERSPORT 3" tvg-logo="" group-title="SPORT",AL: OVERSPORT 3
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/241422
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="AL: OVERSPORT 2" tvg-logo="" group-title="SPORT",AL: OVERSPORT 2
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/241421
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="AL: OVERSPORT 1" tvg-logo="" group-title="SPORT",AL: OVERSPORT 1
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/241420
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="SPORT",Arena Sport 1 FHD
 http://black.goldvisio.co:8000/live/cirorusso/fabio11/48655.ts
@@ -2149,12 +2198,6 @@ http://wrioslio.altervista.org/TV/scapers/match.php?id=ruseuro2
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",bel555
 http://wrioslio.altervista.org/TV/scapers/match.php?id=bel555
 
-#EXTINF:-1 tvg-id="" tvg-name="UKR: Setanta Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2023-08/d92436a2750c3d879373d9ac31f32547.png" group-title="SPORT",UKR: Setanta Sports
-http://iptvmedia.live:8080/dooby1312/b244f7ab/172261
-#EXTINF:-1 tvg-id="" tvg-name="UKR: Setanta Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-08/4d289562aff572ea05baec7e030556a5.png" group-title="SPORT",UKR: Setanta Sports 1
-http://iptvmedia.live:8080/dooby1312/b244f7ab/299608
-#EXTINF:-1 tvg-id="" tvg-name="UKR: Setanta Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-08/8f0640568da1601f39c25b271bb4eec7.png" group-title="SPORT",UKR: Setanta Sports 2
-http://iptvmedia.live:8080/dooby1312/b244f7ab/172258
 
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",MATCH! FOOTBALL 1
 http://bl.uma.media/live/126863/HLS/6866944_2/2/1/playlist.m3u8
@@ -2184,8 +2227,7 @@ http://bl.uma.media/live/126868/HLS/6866944_3/2/1/playlist.m3u8
 http://bl.uma.media/live/154036/HLS/154036_2/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",MATCH! IGRA fhd
 http://bl.uma.media/live/154036/HLS/154036_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA | TLN" tvg-logo="" group-title="SPORT",CA | TLN
-http://world-ott.com:8080/bruxel9291119/9829291001828/95185
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT",Test Channel 1
 http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
@@ -2321,6 +2363,13 @@ http://127.0.0.1:6878/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45
 http://127.0.0.1:6878/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT",Ziggo Sport Voetbal [BE] 
 http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91
+
+#EXTINF:-1 tvg-id="" tvg-name="CA | TLN" tvg-logo="" group-title="SPORT",CA | TLN
+http://world-ott.com:8080/bruxel9291119/9829291001828/95185
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="CA: TLN" tvg-logo="" group-title="SPORT",CA: TLN
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/239548
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="CA: TLN" tvg-logo="" group-title="SPORT",CA: TLN
+http://07server.eu:80/sbati2023/NdZb57mUoG/239548
 
 #EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN HD" tvg-logo="" group-title="SPORT",ZONA  HD
 http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/36085
@@ -3290,6 +3339,8 @@ http://livetv.ktv.zone/122/play.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Vari",BFM
 http://livetv.ktv.zone/117/play.m3u8
 
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="DE: DAS ERSTE" tvg-logo="" group-title="VARI",DE: DAS ERSTE
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/230137
 #EXTINF:-1 tvg-id="" tvg-name="DE | HD ZDF" tvg-logo="http://exaott.xyz/lagi/GERMANY_HD_4K/DE_HD_ZDF.png" group-title="Vari",DE | HD ZDF
 http://world-ott.com:8080/bruxel9291119/9829291001828/94179
 #EXTINF:-1 tvg-id="" tvg-name="DE | HD 3 SAT" tvg-logo="http://exaott.xyz/lagi/GERMANY_HD_4K/DE_HD_3_SAT.png" group-title="Vari",DE | HD 3 SAT
@@ -3314,19 +3365,23 @@ http://world-ott.com:8080/bruxel9291119/9829291001828/93851
 http://world-ott.com:8080/bruxel9291119/9829291001828/93852
 #EXTINF:-1 tvg-id="" tvg-name="PT | HD RTP3" tvg-logo="" group-title="Vari",PT | HD RTP3
 http://world-ott.com:8080/bruxel9291119/9829291001828/93853
-#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC ONE" tvg-logo="" group-title="Vari",UK | 4K BBC ONE
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="CA: BBC AMERICA" tvg-logo="" group-title="VARI", BBC AMERICA
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/239689
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="CA: BBC EARTH" tvg-logo="" group-title="VARI", BBC EARTH
+http://07server.eu:80/gmbdnf972/Z2yPPR9F9/239688
+#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC ONE" tvg-logo="" group-title="Vari",UK |  BBC ONE
 http://world-ott.com:8080/bruxel9291119/9829291001828/87832
-#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC TWO" tvg-logo="" group-title="Vari",UK | 4K BBC TWO
+#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC TWO" tvg-logo="" group-title="Vari",UK |  BBC TWO
 http://world-ott.com:8080/bruxel9291119/9829291001828/87833
-#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC THREE" tvg-logo="" group-title="Vari",UK | 4K BBC THREE
+#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC THREE" tvg-logo="" group-title="Vari",UK |  BBC THREE
 http://world-ott.com:8080/bruxel9291119/9829291001828/87834
-#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC NEWS" tvg-logo="" group-title="Vari",UK | 4K BBC NEWS
+#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC NEWS" tvg-logo="" group-title="Vari",UK |  BBC NEWS
 http://world-ott.com:8080/bruxel9291119/9829291001828/87835
-#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC SCOTLAND" tvg-logo="" group-title="Vari",UK | 4K BBC SCOTLAND
+#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC SCOTLAND" tvg-logo="" group-title="Vari",UK |  BBC SCOTLAND
 http://world-ott.com:8080/bruxel9291119/9829291001828/87836
-#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC ONE PLU" tvg-logo="" group-title="Vari",UK | 4K BBC ONE PLU
+#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC ONE PLU" tvg-logo="" group-title="Vari",UK |  BBC ONE PLU
 http://world-ott.com:8080/bruxel9291119/9829291001828/87837
-#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC WORLD NEWS" tvg-logo="" group-title="Vari",UK | 4K BBC WORLD NEWS
+#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC WORLD NEWS" tvg-logo="" group-title="Vari",UK | BBC WORLD NEWS
 http://world-ott.com:8080/bruxel9291119/9829291001828/87838
 #EXTINF:-1 tvg-id="" tvg-name="UK | 4K ITV 1" tvg-logo="" group-title="Vari",UK | 4K ITV 1
 http://world-ott.com:8080/bruxel9291119/9829291001828/87839
