@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 18/12/2023---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 19/12/2023---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -523,6 +523,8 @@ https://c55c03859e314aff8b21b4a016398bb8.mediatailor.us-east-1.amazonaws.com/v1/
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/atres-series-italy.png" group-title="Samsung Channels ",Cuore Ribelle/Atres Series 
 https://3173d129dc504aeba6d9673e46f04cda.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_A3Series/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax.png" group-title="Samsung Channels ",DMAX
+https://i.mjh.nz/SamsungTVPlus/ITBD4400001X5.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dark-matter-italy.png" group-title="Samsung Channels ",Dark Matter (Italy)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00434-tricoast-darkmatter-italy-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/deluxe-lounge-hd.png" group-title="Samsung Channels ",Deluxe Lounge HD
@@ -545,8 +547,14 @@ https://i.mjh.nz/SamsungTVPlus/ITAJ4500017PG.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesitaly-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/film-e-sorrisi.png" group-title="Samsung Channels ",Film e Sorrisi
 https://i.mjh.nz/SamsungTVPlus/ITBD140000119.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/food-network.png" group-title="Samsung Channels ",Food Network
+https://i.mjh.nz/SamsungTVPlus/ITBD4400002Q8.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/frisbee.png" group-title="Samsung Channels ",Frisbee
+https://i.mjh.nz/SamsungTVPlus/ITBD4400003JF.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/fuel-tv.png" group-title="Samsung Channels ",Fuel Tv
 https://e6f8d6cbe502460789c86d3ba5327c64.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_FuelTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/giallo.png" group-title="Samsung Channels ",Giallo
+https://i.mjh.nz/SamsungTVPlus/ITBD44000047C.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/giornale-radio.png" group-title="Samsung Channels ",Giornale Radio
 https://d2objm2dlouur1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z33qeimgfowbx-prod/giornaleradio/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/got-game.png" group-title="Samsung Channels ",Got Game
@@ -555,12 +563,16 @@ https://21ac05357c4b4baaac719909e5245319.mediatailor.us-east-1.amazonaws.com/v1/
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocs-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/grjngo-film-western.jpg" group-title="Samsung Channels ",Grjngo - Film Western
 https://i.mjh.nz/SamsungTVPlus/ITBD10000019E.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/hgtv-home-garden-tv.png" group-title="Samsung Channels ",H.G.T.V. (Home Garden Tv)
+https://i.mjh.nz/SamsungTVPlus/ITBD44000056I.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/hip-hop-tv.jpg" group-title="Samsung Channels ",Hip Hop Tv
 https://9ea6ba0f84904cf4b17433f6a489638b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_HipHopTV/playlist.m3u8?ads.wurl_channel=1366&ads.wurl_name=HipHopTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/humanity.png" group-title="Samsung Channels ",Humanity Documentari
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-humanitydocit-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italian-fishing-tv.jpg" group-title="Samsung Channels ",Italian Fishing TV
 https://145e69d8f2754bf382ca09be379ac725.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_ItalianFishingTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/k2-239krmgdxnct.png" group-title="Samsung Channels ",K2 
+https://i.mjh.nz/SamsungTVPlus/ITBD440000698.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la7.png" group-title="Samsung Channels ",La7
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/le-vite-degli-altri-jlrbak64i4lx.png" group-title="Samsung Channels ",Le vite degli altri 
@@ -583,6 +595,8 @@ https://5609f25938604dc7bf112c01611de124.mediatailor.us-east-1.amazonaws.com/v1/
 https://84ebc56d880a4e7e8e7553e2b17f13a1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Moods/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/motor-1-tv.png" group-title="Samsung Channels ",Motor 1 TV
 https://b87f4ca7d206491eb1e66c08df063cf7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Motor1TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/motortrend.png" group-title="Samsung Channels ",MotorTrend
+https://i.mjh.nz/SamsungTVPlus/ITBD4400009JI.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/move-italian-active-lives.jpg" group-title="Samsung Channels ",Move Italian Active Lives  
 https://d3i87cms5m5yjq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-75fzs486ayykg/mov.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/museum-tv.png" group-title="Samsung Channels ",Museum tv
@@ -591,6 +605,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-
 https://4514cf56b52446ce9dc2a0abb0688671.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_MySurf/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/my-zen-tv.png" group-title="Samsung Channels ",My Zen TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/nove.png" group-title="Samsung Channels ",Nove
+https://i.mjh.nz/SamsungTVPlus/ITBD4400008Z5.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/onda-blu.png" group-title="Samsung Channels ",Onda blu
 https://i.mjh.nz/SamsungTVPlus/ITBC400005TF.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/people-are-awesome.png" group-title="Samsung Channels ",People are Awesome
@@ -629,6 +645,8 @@ https://i.mjh.nz/SamsungTVPlus/ITAJ45000188Z.m3u8
 https://i.mjh.nz/SamsungTVPlus/ITBC1100007FN.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rakuten-tv-thriller.JPG" group-title="Samsung Channels ",Rakuten Tv Thriller
 https://rakuten-thriller-6-it.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/real-time.png" group-title="Samsung Channels ",Real Time
+https://i.mjh.nz/SamsungTVPlus/ITBD4400007AR.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/risate-allitaliana.png" group-title="Samsung Channels ",Risate all'italiana
 https://04b26963b1274c8a9082b80ea2ed145c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_Risateallitaliana/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rock-tv.jpg" group-title="Samsung Channels ",Rock Tv
@@ -679,6 +697,8 @@ https://60d0ea8ca0368900012b7df9-samsung.eu.ssai.zype.com/60d0ea8ca0368900012b7d
 https://601820eb2b971a000104f40a-samsung.eu.ssai.zype.com/601820eb2b971a000104f40a_samsung_eu/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/vivaldi.png" group-title="Samsung Channels ",Vivaldi
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/wbtv-warner-bros-tv.png" group-title="Samsung Channels ",W.B.T.v.  (Warner Bros Tv)
+https://i.mjh.nz/SamsungTVPlus/ITBD4400010WK.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/wp-minerva-pictures.png" group-title="Samsung Channels ",WP (Minerva Pictures)
 https://1d1ed0dfb4a94f9ea120ff72ce028e9c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_WP/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/waterbear.png" group-title="Samsung Channels ",WaterBear
@@ -2363,6 +2383,10 @@ http://127.0.0.1:6878/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45
 http://127.0.0.1:6878/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT",Ziggo Sport Voetbal [BE] 
 http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT",Math
+http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT",Laliga TV Hipermotion
+http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 
 #EXTINF:-1 tvg-id="" tvg-name="CA | TLN" tvg-logo="" group-title="SPORT",CA | TLN
 http://world-ott.com:8080/bruxel9291119/9829291001828/95185
@@ -2811,16 +2835,8 @@ http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 http://210.210.155.35/x6bnqe/s/s63/index2.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="Canali RAI",RAI 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/world/RSILA1.ch.png"group-title="Altri Canali Nazionali",RSI LA 1 HD
-http://newstvbnt.org:80/francsx1/Sx1cint/108024
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/world/RSILA1.ch.png"group-title="Altri Canali Nazionali",RSI La 1 HD
 http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/38602
-#EXTINF:-1 tvg-id="rsila1.ch" tvg-name="CH: RSI La 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d4fd9dbf9a578a15cc5ca58cb58ebd9.png" group-title="Altri Canali Nazionali",CH: RSI La 1
-http://iptvmedia.live:8080/dooby1312/b244f7ab/9873
-#EXTINF:-1 tvg-id="" tvg-name="CH: RSI La 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c25edfb73d12a43e8193daa91e987e49.svg" group-title="Altri Canali Nazionali",CH: RSI La 2
-http://iptvmedia.live:8080/dooby1312/b244f7ab/1993
-#EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/RSILA2.ch.png"group-title="Altri Canali Nazionali",RSI La 2 HD
-http://newstvbnt.org:80/francsx1/Sx1cint/496
 #EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/RSILA2.ch.png"group-title="Altri Canali Nazionali",RSI La 2 HD
 http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/38603
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="Altri Canali Nazionali",RSI La1
@@ -2836,8 +2852,27 @@ http://livetv.ktv.zone/128/play.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Altri Canali Nazionali",SRF2
 http://livetv.ktv.zone/136/play.m3u8
 
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="Altri Canali Nazionali",Motor Trend
-http://51.15.7.149:8080/comune/yGmJCyRFET/50
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax.png" group-title="Altri Canali Nazionali",DMAX
+https://i.mjh.nz/SamsungTVPlus/ITBD4400001X5.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/food-network.png" group-title="Altri Canali Nazionali",Food Network
+https://i.mjh.nz/SamsungTVPlus/ITBD4400002Q8.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/frisbee.png" group-title="Altri Canali Nazionali",Frisbee
+https://i.mjh.nz/SamsungTVPlus/ITBD4400003JF.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/giallo.png" group-title="Altri Canali Nazionali",Giallo
+https://i.mjh.nz/SamsungTVPlus/ITBD44000047C.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/hgtv-home-garden-tv.png" group-title="Altri Canali Nazionali",H.G.T.V. (Home Garden Tv)
+https://i.mjh.nz/SamsungTVPlus/ITBD44000056I.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/motortrend.png" group-title="Altri Canali Nazionali",MotorTrend
+https://i.mjh.nz/SamsungTVPlus/ITBD4400009JI.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/nove.png" group-title="Altri Canali Nazionali",Nove
+https://i.mjh.nz/SamsungTVPlus/ITBD4400008Z5.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/real-time.png" group-title="Altri Canali Nazionali",Real Time
+https://i.mjh.nz/SamsungTVPlus/ITBD4400007AR.m3u8
+##EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-y2ssyw3p6xna.png" group-title="Altri Canali Nazionali",Sportitalia
+https://sportsitalia-samsungitaly.amagi.tv/hls/amagi_hls_data_sportital-sportitalia-samsung-italy/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/wbtv-warner-bros-tv.png" group-title="Altri Canali Nazionali",Warner Bros Tv
+https://i.mjh.nz/SamsungTVPlus/ITBD4400010WK.m3u8
+
 #EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="Altri Canali Nazionali",TV8
 http://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1639498341~exp=1702463400~acl=/*~hmac=c3c4c2de19ff0df4b4bb20587ce59af5232eadab2995f445b7506525413805dd
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="Altri Canali Nazionali",Sky TG24
@@ -2850,36 +2885,12 @@ http://vip.lotusnet.digital:19051/24:4b:03:a5:c2:5f/SamiOsmani/13444
 https://www.mytivu.it/Application/Channels/TV8.php
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",TV8 HD
 http://188.12.112.110:4000/play/a04c
-#EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",NOVE
-http://51.15.7.149:8080/comune/yGmJCyRFET/27
-#EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Nove.png" group-title="Altri Canali Nazionali",Nove
-http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/51316.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cielo" " group-title="Altri Canali Nazionali",Cielo
 https://www.mytivu.it/Application/Channels/Cielo.php
 #EXTINF:-1 tvg-id="" tvg-name="Sky TG 24" " group-title="Altri Canali Nazionali",Sky TG 24
 https://www.mytivu.it/Application/Channels/SkyTG24.php
 #EXTINF:-1" group-title="Altri Canali Nazionali",Sky sport 24 
 http://andrea3-4.ddns.net:25461/Smemo/oyOmgmVOXx/41756
-#EXTINF:-1 tvg-id="Dmax.it" tvg-name="Dmax" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Dmax.png" group-title="Altri Canali Nazionali",Dmax
-http://51.15.7.149:8080/comune/yGmJCyRFET/28
-#EXTINF:-1 tvg-id="Realtime.it" tvg-name="Real Time" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Realtime.png" group-title="Altri Canali Nazionali",Realtime
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/95798
-#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Giallo.png" group-title="Altri Canali Nazionali",Giallo
-http://ottiptv.us:8080/HasanIpTv@/HMzmPmKsM4/51329.ts
-#EXTINF:-1 tvg-id="Motortrend.it" tvg-name="Motortrend" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/MotorTrend.png" group-title="Altri Canali Nazionali",Motor Trend
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:-1 tvg-id="FoodNetowrk.it" tvg-name="Foodnetwork" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/FoodNetwork.png" group-title="Altri Canali Nazionali",Food Network
-http://51.15.7.149:8080/comune/yGmJCyRFET/70
-#EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",DMAX
-http://51.15.7.149:8080/comune/yGmJCyRFET/28
-#EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",Food Network
-http://188.12.112.110:4000/play/a056
-#EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",Real Time
-http://185.234.217.55:8045/play/a08f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",Warner TV
-http://188.12.112.110:4000/play/a058
-#EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="Altri Canali Nazionali",GIALLO
-http://188.12.112.110:4000/play/a055
 #EXTINF:-1 tvg-id="" tvg-name="PESCA HD" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Imaggini/picons/SkySport/SkySportPesca.png" group-title="Altri Canali Nazionali",PESCA HD
 http://happook147.com:80/Marino4/t8iJ6EsMZk/2218
 #EXTINF:-1 tvg-ID="" tvg-name="HGTV (Case Design)" tvg-logo="" group-title="Altri Canali Nazionali",HGTV (Case Design)
@@ -3339,7 +3350,7 @@ http://livetv.ktv.zone/122/play.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Vari",BFM
 http://livetv.ktv.zone/117/play.m3u8
 
-#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="DE: DAS ERSTE" tvg-logo="" group-title="VARI",DE: DAS ERSTE
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="DE: DAS ERSTE" tvg-logo="" group-title="Vari",DE: DAS ERSTE
 http://07server.eu:80/gmbdnf972/Z2yPPR9F9/230137
 #EXTINF:-1 tvg-id="" tvg-name="DE | HD ZDF" tvg-logo="http://exaott.xyz/lagi/GERMANY_HD_4K/DE_HD_ZDF.png" group-title="Vari",DE | HD ZDF
 http://world-ott.com:8080/bruxel9291119/9829291001828/94179
@@ -3365,9 +3376,9 @@ http://world-ott.com:8080/bruxel9291119/9829291001828/93851
 http://world-ott.com:8080/bruxel9291119/9829291001828/93852
 #EXTINF:-1 tvg-id="" tvg-name="PT | HD RTP3" tvg-logo="" group-title="Vari",PT | HD RTP3
 http://world-ott.com:8080/bruxel9291119/9829291001828/93853
-#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="CA: BBC AMERICA" tvg-logo="" group-title="VARI", BBC AMERICA
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="CA: BBC AMERICA" tvg-logo="" group-title="Vari", BBC AMERICA
 http://07server.eu:80/gmbdnf972/Z2yPPR9F9/239689
-#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="CA: BBC EARTH" tvg-logo="" group-title="VARI", BBC EARTH
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="CA: BBC EARTH" tvg-logo="" group-title="Vari", BBC EARTH
 http://07server.eu:80/gmbdnf972/Z2yPPR9F9/239688
 #EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC ONE" tvg-logo="" group-title="Vari",UK |  BBC ONE
 http://world-ott.com:8080/bruxel9291119/9829291001828/87832
