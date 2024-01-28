@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 21/01/24---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 28/01/24---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -2161,9 +2161,6 @@ http://bl.uma.media/live/154036/HLS/154036_2/2/1/playlist.m3u8
 http://bl.uma.media/live/154036/HLS/154036_3/2/1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CA | TLN" tvg-logo="" group-title="SPORT",CA | TLN
-http://world-ott.com:8080/bruxel9291119/9829291001828/95185
-
 
 #EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN HD" tvg-logo="" group-title="SPORT",ZONA  HD
 http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/36085
@@ -2212,81 +2209,31 @@ http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/30681
 
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="IT: SKY SPORT 24 HD" tvg-logo="" group-title="SPORT",IT: SKY SPORT 24 HD
 http://295617325734750816.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/750816.ts
-#EXTINF:-1 tvg-id="Inter Channel HD" tvg-name="Inter TV HD" tvg-logo="http://loghi98jsajdfbnrr8rewebdbuwd30.ufcfan.org:2222/home/www-data/downloads/Loghi/SKY_SPORT/Inter_Channel.png" group-title="SPORT",Inter TV HD
-http://64.31.4.27:26650/casanicsergmax/1605201/34694
-#EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="Sky Sport Uno HD" tvg-logo="http://loghi98jsajdfbnrr8rewebdbuwd30.ufcfan.org:2222/home/www-data/downloads/Loghi/SKY_SPORT/Sky_Sport_1.png" group-title="SPORT",Sky Sport Uno HD
-http://64.31.4.27:26650/casanicsergmax/1605201/34675
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT CALCIO FHD" tvg-logo="" group-title="SPORT: SKY SPORT CALCIO FHD
-http://295617325734750823.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/750823.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORTS F1 VIP FHD" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaydFsFr0h6jJv8fPNCqYzD7GZvllgnl7ONlXI_2i5mqruDnYEDFH7LHCI5pVU3tgE.png" group-title="SPORT: SKY SPORTS F1 VIP FHD
-http://295617325734750837.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/750837.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT MAX FHD" tvg-logo="" group-title="SPORT: SKY SPORT MAX FHD
-http://295617325734766061.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/766061.ts
-#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="IT: SKY SPORT MOTOGP FHD" tvg-logo="" group-title="SPORT: SKY SPORT MOTOGP FHD
-http://295617325734766062.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/766062.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",ZONA DAZN FHD
-http://64.31.4.27:26650/casanicsergmax/1605201/81419
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN HD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",ZONA DAZN HD
-http://64.31.4.27:26650/casanicsergmax/1605201/81420
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",ZONA DAZN SD
-http://64.31.4.27:26650/casanicsergmax/1605201/81421
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 1 FHD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/81833
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 1 HD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/81896
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 SD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 1 SD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/81895
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2  FHD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 2  FHD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/81834
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 2 HD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/81889
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 SD  (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 2 SD  (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/81888
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3  FHD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 3  FHD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/81835
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 3 HD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/81886
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 SD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 3 SD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/81885
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 FHD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 4 FHD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/81836
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 4 HD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/81883
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 SD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 4 SD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/81882
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 FHD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 5 FHD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/81837
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 HD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 5 HD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/81880
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 SD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 5 SD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/81879
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 FHD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 6 FHD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/81838
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 HD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 6 HD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/81877
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 SD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 6 SD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/81876
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 7 FHD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 7 FHD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/82429
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 7 HD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 7 HD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/82428
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 FHD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 8 FHD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/82426
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 HD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 8 HD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/82425
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 FHD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 9 FHD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/82423
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 HD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 9 HD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/82422
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 SD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 9 SD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/82424
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 FHD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 10 FHD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/82420
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 HD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 10 HD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/82419
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 SD (VIP)" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN 10 SD (VIP)
-http://64.31.4.27:26650/casanicsergmax/1605201/82421
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",ZONA DAZN
+http://pisellino.ddns.net:80/523/ffRSTnh87ydb/142
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 1
+http://pisellino.ddns.net:80/523/ffRSTnh87ydb/145
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 2
+http://pisellino.ddns.net:80/523/ffRSTnh87ydb/15474
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 3
+http://pisellino.ddns.net:80/523/ffRSTnh87ydb/147
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 4
+http://pisellino.ddns.net:80/523/ffRSTnh87ydb/15475
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 5
+http://pisellino.ddns.net:80/523/ffRSTnh87ydb/149
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 6
+http://pisellino.ddns.net:80/523/ffRSTnh87ydb/150
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 7
+http://pisellino.ddns.net:80/523/ffRSTnh87ydb/151
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 8
+http://pisellino.ddns.net:80/523/ffRSTnh87ydb/152
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 10
+http://pisellino.ddns.net:80/523/ffRSTnh87ydb/154
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 11
+http://pisellino.ddns.net:80/523/ffRSTnh87ydb/155
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 12
+http://pisellino.ddns.net:80/523/ffRSTnh87ydb/156
 
 
 
