@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 28/01/24---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 01/02/24---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -2235,11 +2235,44 @@ http://pisellino.ddns.net:80/523/ffRSTnh87ydb/155
 #EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 12
 http://pisellino.ddns.net:80/523/ffRSTnh87ydb/156
 
+#EXTINF:-1 tvg-id="" tvg-name="Zona Dazn" tvg-logo="" group-title="SPORT",Zona Dazn
+http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/67563
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Diretta Gol SERIE A" tvg-logo="" group-title="SPORT",Dazn Diretta Gol SERIE A
+http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/72165
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Diretta Gol SERIE B" tvg-logo="" group-title="SPORT",Dazn Diretta Gol SERIE B
+http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/72166
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 1" tvg-logo="" group-title="SPORT",Dazn 1
+http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/67564
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 2" tvg-logo="" group-title="SPORT",Dazn 2
+http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/67565
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 3" tvg-logo="" group-title="SPORT",Dazn 3
+http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/67566
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 4" tvg-logo="" group-title="SPORT",Dazn 4
+http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/67567
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 5" tvg-logo="" group-title="SPORT",Dazn 5
+http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/67568
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 6" tvg-logo="" group-title="SPORT",Dazn 6
+http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/67569
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 7" tvg-logo="" group-title="SPORT",Dazn 7
+http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/67570
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 8" tvg-logo="" group-title="SPORT",Dazn 8
+http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/67571
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 9 HD" tvg-logo="" group-title="SPORT",Dazn 9 HD
+http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/72167
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 10 HD" tvg-logo="" group-title="SPORT",Dazn 10 HD
+http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/72168
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 11 HD" tvg-logo="" group-title="SPORT",Dazn 11 HD
+http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/72169
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 12 HD" tvg-logo="" group-title="SPORT",Dazn 12 HD
+http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/72170
+
 
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="SPORT ACE",=== SPORT ACE ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
 =========SPAGNOLI===========
+#EXTINF:-1,Test Channel 1
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",GOL TV 1080
 http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",LaLiga TV Bar España HD
@@ -2673,8 +2706,7 @@ http://127.0.0.1:6878/ace/getstream?id=e5d02cb0607d5888b25169ebd23c1bca952b12d3
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",NHL
 http://127.0.0.1:6878/ace/getstream?id=2fab201db52297f9bfbe7c44d6109369cdb29620
-#EXTINF:-1,Test Channel 1
-http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+
 
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="Canali RAI",raitalia
 http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
