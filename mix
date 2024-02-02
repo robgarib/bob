@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 01/02/24---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 02/02/24---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -2106,6 +2106,38 @@ http://295617325734769323.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/769323.ts
 #EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="https://asiagrandiptv.us/logo//SportTV6.png" group-title="SPORT",PT: SPORT TV 6 FHD
 http://295617325734416381.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/416381.ts
 
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN SPORTS 1 FHD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/450
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN SPORTS 2 FHD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/451
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN SPORTS 3 FHD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/453
+##EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN MAX 4 FHD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1972
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN MAX 6 FHD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1973
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN MAX 5 FHD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1974
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN MAX 7 FHD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1975
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN MAX 8 FHD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1976
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN MAX 9 FHD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1977
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORTS 1
+http://78.159.119.122:2082/XPLUS2EXTRA-ChlYdvTe3k/LqzsfeKLit/901
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORTS 2
+http://78.159.119.122:2082/XPLUS2EXTRA-ChlYdvTe3k/LqzsfeKLit/902
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORTS 3
+http://78.159.119.122:2082/XPLUS2EXTRA-ChlYdvTe3k/LqzsfeKLit/903
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORTS 4
+http://78.159.119.122:2082/XPLUS2EXTRA-ChlYdvTe3k/LqzsfeKLit/904
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORTS 5 
+http://78.159.119.122:2082/XPLUS2EXTRA-ChlYdvTe3k/LqzsfeKLit/905
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORTS 6 
+http://78.159.119.122:2082/XPLUS2EXTRA-ChlYdvTe3k/LqzsfeKLit/906
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",BEIN SPORTS 7
+http://78.159.119.122:2082/XPLUS2EXTRA-ChlYdvTe3k/LqzsfeKLit/907
 
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-country="TM" tvg-language="Turkmen" tvg-logo="" group-title="SPORT",Türkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
