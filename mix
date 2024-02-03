@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 02/02/24---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 03/02/24---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -2297,6 +2297,45 @@ http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/72168
 http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/72169
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 12 HD" tvg-logo="" group-title="SPORT",Dazn 12 HD
 http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/72170
+#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO BAR 1 HD" tvg-logo="" group-title="SPORT",SKY CALCIO BAR 1 HD
+http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/679961
+#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO BAR 2 HD" tvg-logo="" group-title="SPORT",SKY CALCIO BAR 2 HD
+http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/679962
+#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO BAR 3 HD" tvg-logo="" group-title="SPORT",SKY CALCIO BAR 3 HD
+http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/679963
+#EXTINF:-1 tvg-id="" tvg-name="DAZN INTER" tvg-logo="" group-title="SPORT",DAZN INTER
+http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/320190
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 H265" tvg-logo="" group-title="SPORT",DAZN 1 H265
+http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/673441
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="" group-title="SPORT",DAZN 1 FHD
+http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/673442
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="SPORT",DAZN 1 HD
+http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/673443
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 SD" tvg-logo="" group-title="SPORT",DAZN 1 SD
+http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/673444
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 H265" tvg-logo="" group-title="SPORT",DAZN 2 H265
+http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/673445
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD" tvg-logo="" group-title="SPORT",DAZN 2 FHD
+http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/673446
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="SPORT",DAZN 2 HD
+http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/673447
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 SD" tvg-logo="" group-title="SPORT",DAZN 2 SD
+http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/673448
+#EXTINF:-1 tvg-id="DAZNZona.it" tvg-name="ZONA DAZN" tvg-logo="http://51.158.63.52:80/images/86c25f64eb68a4696ff0cce2bfd08ff6.png" group-title="SPORT",ZONA DAZN
+http://artemis74.zapto.org:80/Cliefr4004/CzYwkWB5xa/142
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 1" tvg-logo="http://51.158.63.52:80/images/86c25f64eb68a4696ff0cce2bfd08ff6.png" group-title="SPORT",DAZN CALCIO 1
+http://artemis74.zapto.org:80/Cliefr4004/CzYwkWB5xa/145
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="SPORT",DAZN CALCIO 2
+http://artemis74.zapto.org:80/Cliefr4004/CzYwkWB5xa/15474
+#EXTINF:-1 tvg-id="" tvg-name="Zona Dazn" tvg-logo="" group-title="SPORT",Zona Dazn
+http://private.magicalabama.xyz:80/sergiorimini/pfXJuX27NO/67563
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 1" tvg-logo="" group-title="SPORT",Dazn 1
+http://private.magicalabama.xyz:80/sergiorimini/pfXJuX27NO/67564
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 2" tvg-logo="" group-title="SPORT",Dazn 2
+http://private.magicalabama.xyz:80/sergiorimini/pfXJuX27NO/67565
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 3" tvg-logo="" group-title="SPORT",Dazn 3
+http://private.magicalabama.xyz:80/sergiorimini/pfXJuX27NO/67566
+
 
 
 
