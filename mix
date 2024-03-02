@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 03/02/24---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 02/03/24---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -2192,151 +2192,101 @@ http://bl.uma.media/live/154036/HLS/154036_2/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",MATCH! IGRA fhd
 http://bl.uma.media/live/154036/HLS/154036_3/2/1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="SPORT",ES: LIGA DE CAMPEONES FHD
+http://295617325734246282.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/246282.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="SPORT",ES: LIGA DE CAMPEONES HD
+http://295617325734165358.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/165358.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="SPORT",ES: LIGA DE CAMPEONES SD
+http://295617325734165359.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/165359.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES FHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="SPORT",ES: LIGA DE CAMPEONES FHD HEVC
+http://295617325734262412.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/262412.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 4K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png" group-title="SPORT",ES: LIGA DE CAMPEONES 4K
+http://295617325734282468.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/282468.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 2 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" group-title="SPORT",ES: LIGA DE CAMPEONES 2 FHD
+http://295617325734165365.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/165365.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" group-title="SPORT",ES: LIGA DE CAMPEONES 2 HD
+http://295617325734282469.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/282469.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 2 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" group-title="SPORT",ES: LIGA DE CAMPEONES 2 SD
+http://295617325734282458.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/282458.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 2 SD EXTRA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" group-title="ESPORT",ES: LIGA DE CAMPEONES 2 SD EXTRA
+http://295617325734282459.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/282459.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png" group-title="SPORT",ES: LIGA DE CAMPEONES 3 HD
+http://295617325734282470.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/282470.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 3 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png" group-title="SPORT",ES: LIGA DE CAMPEONES 3 HD (OP1)
+http://295617325734282471.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/282471.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png" group-title="SPORT",ES: LIGA DE CAMPEONES 4 HD
+http://295617325734282472.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/282472.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 4 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png" group-title="SPORT",ES: LIGA DE CAMPEONES 4 HD (OP1)
+http://295617325734282473.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/282473.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 5 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-5-es.png" group-title="SPORT",ES: LIGA DE CAMPEONES 5 HD
+http://295617325734282460.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/282460.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 5 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-5-es.png" group-title="SPORT",ES: LIGA DE CAMPEONES 5 HD (OP1)
+http://295617325734282461.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/282461.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 6 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-6-es.png" group-title="SPORT",ES: LIGA DE CAMPEONES 6 HD
+http://295617325734282462.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/282462.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 6 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-6-es.png" group-title="SPORT",ES: LIGA DE CAMPEONES 6 HD (OP1)
+http://295617325734282463.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/282463.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 7 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-7-es.png" group-title="SPORT",ES: LIGA DE CAMPEONES 7 HD
+http://295617325734282464.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/282464.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 7 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-7-es.png" group-title="SPORT",ES: LIGA DE CAMPEONES 7 HD (OP1)
+http://295617325734282465.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/282465.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 8 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-8-es.png" group-title="SPORT",ES: LIGA DE CAMPEONES 8 HD
+http://295617325734282466.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/282466.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN HD" tvg-logo="" group-title="SPORT",ZONA  HD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/36085
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SAT BAR 1 HD" tvg-logo="" group-title="SPORT", SAT BAR 1 HD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/104
-#EXTINF:-1 tvg-id="" tvg-name="SERIE A SAT DAZN" tvg-logo="" group-title="SPORT",SERIE A SAT 
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/31377
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SAT BAR 1 SD" tvg-logo="" group-title="SPORT", SAT BAR 1 SD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/24200
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="SPORT", 1 HD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/103
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 SD" tvg-logo="" group-title="SPORT", 1 SD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/40206
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="SPORT", 2 HD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/106
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 2 SD" tvg-logo="" group-title="SPORT", 2 SD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/30723
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="" group-title="SPORT", 3 HD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/107
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 3 SD" tvg-logo="" group-title="SPORT", 3 SD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/30724
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="" group-title="SPORT", 4 HD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/108
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 HD" tvg-logo="" group-title="SPORT", 5 HD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/109
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 HD" tvg-logo="" group-title="SPORT", 6 HD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/110
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 7 HD" tvg-logo="" group-title="SPORT", 7 HD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/111
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 HD" tvg-logo="" group-title="SPORT", 8 HD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/112
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 HD" tvg-logo="" group-title="SPORT", 9 HD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/113
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 HD" tvg-logo="" group-title="SPORT", 10 HD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/114
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 11 HD" tvg-logo="" group-title="SPORT", 11 HD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/30677
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 12 HD" tvg-logo="" group-title="SPORT", 12 HD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/30678
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 13 HD" tvg-logo="" group-title="SPORT", 13 HD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/30679
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 14 HD" tvg-logo="" group-title="SPORT", 14 HD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/30680
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 15" tvg-logo="" group-title="SPORT", 15
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/30681
+
+
 
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="IT: SKY SPORT 24 HD" tvg-logo="" group-title="SPORT",IT: SKY SPORT 24 HD
 http://295617325734750816.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/750816.ts
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="IT: SKY SPORT 24 HD" tvg-logo="" group-title="SPORT",IT: SKY SPORT 1
+http://295617325734745346.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/745346.ts
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="IT: SKY SPORT 24 HD" tvg-logo="" group-title="SPORT",IT: SKY SPORT F1
+http://295617325734761962.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/761962.ts
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="IT: SKY SPORT 24 HD" tvg-logo="" group-title="SPORT",IT: SKY SPORT Motogp
+http://295617325734765497.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/765497.ts
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="IT: SKY SPORT 24 HD" tvg-logo="" group-title="SPORT",IT: SKY SPORT Max
+http://295617325734761961.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/761961.ts
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="IT: SKY SPORT 24 HD" tvg-logo="" group-title="SPORT",IT: SKY SPORT ARENA HD
+http://295617325734758362.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/758362.ts
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="IT: SKY SPORT 24 HD" tvg-logo="" group-title="SPORT",IT: SKY UNO HD
+http://295617325734598522.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/598522.ts
+#EXTINF:-1 tvg-id="rsila1.ch" tvg-name="CH: RSI 1 HD" tvg-logo="" group-title="SPORT",CH: RSI 1 HD
+http://295617325734317273.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/317273.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: RSI 1 FHD" tvg-logo="" group-title="SPORT",CH: RSI LA 1
+http://295617325734379551.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/379551.ts
+#EXTINF:-1 tvg-id="rsila2.ch" tvg-name="CH: RSI 2 HD" tvg-logo="" group-title="SPORT",CH: RSI 2 HD
+http://295617325734456615.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/456615.ts
+#EXTINF:-1 tvg-id="rsila2.ch" tvg-name="CH: RSI LA 2" tvg-logo="" group-title="SPORT",CH: RSI LA 2
+http://295617325734752974.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/752974.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",ZONA DAZN
-http://pisellino.ddns.net:80/523/ffRSTnh87ydb/142
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 1
-http://pisellino.ddns.net:80/523/ffRSTnh87ydb/145
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 2
-http://pisellino.ddns.net:80/523/ffRSTnh87ydb/15474
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 3
-http://pisellino.ddns.net:80/523/ffRSTnh87ydb/147
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 4
-http://pisellino.ddns.net:80/523/ffRSTnh87ydb/15475
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 5
-http://pisellino.ddns.net:80/523/ffRSTnh87ydb/149
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 6
-http://pisellino.ddns.net:80/523/ffRSTnh87ydb/150
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 7
-http://pisellino.ddns.net:80/523/ffRSTnh87ydb/151
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 8
-http://pisellino.ddns.net:80/523/ffRSTnh87ydb/152
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 10
-http://pisellino.ddns.net:80/523/ffRSTnh87ydb/154
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 11
-http://pisellino.ddns.net:80/523/ffRSTnh87ydb/155
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/dazn-3772617-3147090.png" group-title="SPORT",DAZN CALCIO 12
-http://pisellino.ddns.net:80/523/ffRSTnh87ydb/156
 
-#EXTINF:-1 tvg-id="" tvg-name="Zona Dazn" tvg-logo="" group-title="SPORT",Zona Dazn
-http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/67563
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Diretta Gol SERIE A" tvg-logo="" group-title="SPORT",Dazn Diretta Gol SERIE A
-http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/72165
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Diretta Gol SERIE B" tvg-logo="" group-title="SPORT",Dazn Diretta Gol SERIE B
-http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/72166
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 1" tvg-logo="" group-title="SPORT",Dazn 1
-http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/67564
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 2" tvg-logo="" group-title="SPORT",Dazn 2
-http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/67565
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 3" tvg-logo="" group-title="SPORT",Dazn 3
-http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/67566
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 4" tvg-logo="" group-title="SPORT",Dazn 4
-http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/67567
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 5" tvg-logo="" group-title="SPORT",Dazn 5
-http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/67568
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 6" tvg-logo="" group-title="SPORT",Dazn 6
-http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/67569
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 7" tvg-logo="" group-title="SPORT",Dazn 7
-http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/67570
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 8" tvg-logo="" group-title="SPORT",Dazn 8
-http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/67571
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 9 HD" tvg-logo="" group-title="SPORT",Dazn 9 HD
-http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/72167
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 10 HD" tvg-logo="" group-title="SPORT",Dazn 10 HD
-http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/72168
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 11 HD" tvg-logo="" group-title="SPORT",Dazn 11 HD
-http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/72169
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 12 HD" tvg-logo="" group-title="SPORT",Dazn 12 HD
-http://private.magicalabama.xyz:80/Adevincenzo/UevPcNZOSK/72170
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO BAR 1 HD" tvg-logo="" group-title="SPORT",SKY CALCIO BAR 1 HD
-http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/679961
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO BAR 2 HD" tvg-logo="" group-title="SPORT",SKY CALCIO BAR 2 HD
-http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/679962
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO BAR 3 HD" tvg-logo="" group-title="SPORT",SKY CALCIO BAR 3 HD
-http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/679963
-#EXTINF:-1 tvg-id="" tvg-name="DAZN INTER" tvg-logo="" group-title="SPORT",DAZN INTER
-http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/320190
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 H265" tvg-logo="" group-title="SPORT",DAZN 1 H265
-http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/673441
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="" group-title="SPORT",DAZN 1 FHD
-http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/673442
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="SPORT",DAZN 1 HD
-http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/673443
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 SD" tvg-logo="" group-title="SPORT",DAZN 1 SD
-http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/673444
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 H265" tvg-logo="" group-title="SPORT",DAZN 2 H265
-http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/673445
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD" tvg-logo="" group-title="SPORT",DAZN 2 FHD
-http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/673446
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="SPORT",DAZN 2 HD
-http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/673447
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 SD" tvg-logo="" group-title="SPORT",DAZN 2 SD
-http://lamanodedios.hopto.org:2052/Cogn_genny_nestle/ucJlB7HI7C/673448
-#EXTINF:-1 tvg-id="DAZNZona.it" tvg-name="ZONA DAZN" tvg-logo="http://51.158.63.52:80/images/86c25f64eb68a4696ff0cce2bfd08ff6.png" group-title="SPORT",ZONA DAZN
+#EXTINF:-1 tvg-id="" tvg-name="Diretta Goal DAZN SERIE A" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",Diretta Goal DAZN SERIE A
+http://artemis74.zapto.org:80/Cliefr4004/CzYwkWB5xa/141
+#EXTINF:-1 tvg-id="DAZNZona.it" tvg-name="ZONA DAZN" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",ZONA DAZN
 http://artemis74.zapto.org:80/Cliefr4004/CzYwkWB5xa/142
-#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 1" tvg-logo="http://51.158.63.52:80/images/86c25f64eb68a4696ff0cce2bfd08ff6.png" group-title="SPORT",DAZN CALCIO 1
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 1" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",DAZN CALCIO 1
 http://artemis74.zapto.org:80/Cliefr4004/CzYwkWB5xa/145
-#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="SPORT",DAZN CALCIO 2
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 1 SD" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",DAZN CALCIO 1 SD
+http://artemis74.zapto.org:80/Cliefr4004/CzYwkWB5xa/19409
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 2" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",DAZN CALCIO 2
 http://artemis74.zapto.org:80/Cliefr4004/CzYwkWB5xa/15474
-#EXTINF:-1 tvg-id="" tvg-name="Zona Dazn" tvg-logo="" group-title="SPORT",Zona Dazn
-http://private.magicalabama.xyz:80/sergiorimini/pfXJuX27NO/67563
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 1" tvg-logo="" group-title="SPORT",Dazn 1
-http://private.magicalabama.xyz:80/sergiorimini/pfXJuX27NO/67564
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 2" tvg-logo="" group-title="SPORT",Dazn 2
-http://private.magicalabama.xyz:80/sergiorimini/pfXJuX27NO/67565
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 3" tvg-logo="" group-title="SPORT",Dazn 3
-http://private.magicalabama.xyz:80/sergiorimini/pfXJuX27NO/67566
-
-
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 3" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",DAZN CALCIO 3
+http://artemis74.zapto.org:80/Cliefr4004/CzYwkWB5xa/147
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 4" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",DAZN CALCIO 4
+http://artemis74.zapto.org:80/Cliefr4004/CzYwkWB5xa/15475
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 5" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",DAZN CALCIO 5
+http://artemis74.zapto.org:80/Cliefr4004/CzYwkWB5xa/149
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 6" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",DAZN CALCIO 6
+http://artemis74.zapto.org:80/Cliefr4004/CzYwkWB5xa/150
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 7" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",DAZN CALCIO 7
+http://artemis74.zapto.org:80/Cliefr4004/CzYwkWB5xa/151
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 8" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",DAZN CALCIO 8
+http://artemis74.zapto.org:80/Cliefr4004/CzYwkWB5xa/152
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 10" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",DAZN CALCIO 10
+http://artemis74.zapto.org:80/Cliefr4004/CzYwkWB5xa/154
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SD" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",ZONA DAZN SD
+http://artemis74.zapto.org:80/Cliefr4004/CzYwkWB5xa/156
 
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="SPORT ACE",=== SPORT ACE ===
@@ -2785,22 +2735,16 @@ http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 http://210.210.155.35/x6bnqe/s/s63/index2.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="Canali RAI",RAI 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/world/RSILA1.ch.png"group-title="Altri Canali Nazionali",RSI La 1 HD
-http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/38602
-#EXTINF:-1 group-title="Altri Canali Nazionali" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/RSILA2.ch.png"group-title="Altri Canali Nazionali",RSI La 2 HD
-http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/38603
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="Altri Canali Nazionali",RSI La1
-http://livetv.ktv.zone/129/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Altri Canali Nazionali",RSI La2
-http://livetv.ktv.zone/137/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="Altri Canali Nazionali",RTS1
-http://livetv.ktv.zone/101/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Altri Canali Nazionali",RTS2
-http://livetv.ktv.zone/102/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="Altri Canali Nazionali",SRF1
-http://livetv.ktv.zone/128/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Altri Canali Nazionali",SRF2
-http://livetv.ktv.zone/136/play.m3u8
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="IT: SKY SPORT 24 HD" tvg-logo="" group-title="Altri Canali Nazionali",IT: SKY UNO HD
+http://295617325734598522.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/598522.ts
+#EXTINF:-1 tvg-id="rsila1.ch" tvg-name="CH: RSI 1 HD" tvg-logo="" group-title="Altri Canali Nazionali",CH: RSI 1 HD
+http://295617325734317273.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/317273.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: RSI 1 FHD" tvg-logo="" group-title="Altri Canali Nazionali",CH: RSI LA 1
+http://295617325734379551.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/379551.ts
+#EXTINF:-1 tvg-id="rsila2.ch" tvg-name="CH: RSI 2 HD" tvg-logo="" group-title="Altri Canali Nazionali",CH: RSI 2 HD
+http://295617325734456615.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/456615.ts
+#EXTINF:-1 tvg-id="rsila2.ch" tvg-name="CH: RSI LA 2" tvg-logo="" group-title="Altri Canali Nazionali",CH: RSI LA 2
+http://295617325734752974.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/752974.ts
 
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax.png" group-title="Altri Canali Nazionali",DMAX
 https://i.mjh.nz/SamsungTVPlus/ITBD4400001X5.m3u8
@@ -3251,145 +3195,18 @@ http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Vari",M6 
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="Vari",RSI La1
-http://livetv.ktv.zone/129/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Vari",RSI La2
-http://livetv.ktv.zone/137/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="Vari",SRF1
-http://livetv.ktv.zone/128/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Vari",SRF2
-http://livetv.ktv.zone/136/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="Vari",RTS1
-http://livetv.ktv.zone/101/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Vari",RTS2
-http://livetv.ktv.zone/102/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="Vari",TF1
-http://livetv.ktv.zone/103/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Vari",France 2
-http://livetv.ktv.zone/104/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="Vari",France 3
-http://livetv.ktv.zone/105/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Vari",France 4
-http://livetv.ktv.zone/106/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="Vari",France 5
-http://livetv.ktv.zone/107/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Vari",M6
-http://livetv.ktv.zone/108/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="Vari",Arte
-http://livetv.ktv.zone/109/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Vari",C8
-http://livetv.ktv.zone/110/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="Vari",W9
-http://livetv.ktv.zone/111/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Vari",TMC
-http://livetv.ktv.zone/112/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="Vari",TFX
-http://livetv.ktv.zone/113/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Vari",NRJ
-http://livetv.ktv.zone/114/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="Vari",LCP
-http://livetv.ktv.zone/115/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Vari",CNEWS
-http://livetv.ktv.zone/118/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="Vari",CSTAR
-http://livetv.ktv.zone/119/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Vari",GULLI
-http://livetv.ktv.zone/120/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="Vari",TF1 SERIES
-http://livetv.ktv.zone/122/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Vari",BFM
-http://livetv.ktv.zone/117/play.m3u8
 
-#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="DE: DAS ERSTE" tvg-logo="" group-title="Vari",DE: DAS ERSTE
-http://07server.eu:80/gmbdnf972/Z2yPPR9F9/230137
-#EXTINF:-1 tvg-id="" tvg-name="DE | HD ZDF" tvg-logo="http://exaott.xyz/lagi/GERMANY_HD_4K/DE_HD_ZDF.png" group-title="Vari",DE | HD ZDF
-http://world-ott.com:8080/bruxel9291119/9829291001828/94179
-#EXTINF:-1 tvg-id="" tvg-name="DE | HD 3 SAT" tvg-logo="http://exaott.xyz/lagi/GERMANY_HD_4K/DE_HD_3_SAT.png" group-title="Vari",DE | HD 3 SAT
-http://world-ott.com:8080/bruxel9291119/9829291001828/94188
-#EXTINF:-1 tvg-id="" tvg-name="DE | HD PRO 7" tvg-logo="http://exaott.xyz/lagi/GERMANY_HD_4K/DE_HD_PRO_7.png" group-title="Vari",DE | HD PRO 7
-http://world-ott.com:8080/bruxel9291119/9829291001828/94190
-#EXTINF:-1 tvg-id="" tvg-name="DE | HD RTL" tvg-logo="http://exaott.xyz/lagi/GERMANY_HD_4K/DE_HD_RTL.png" group-title="Vari",DE | HD RTL
-http://world-ott.com:8080/bruxel9291119/9829291001828/94193
-#EXTINF:-1 tvg-id="" tvg-name="DE | HD RTL 2" tvg-logo="http://exaott.xyz/lagi/GERMANY_HD_4K/DE_HD_RTL_2.png" group-title="Vari",DE | HD RTL 2
-http://world-ott.com:8080/bruxel9291119/9829291001828/94194
-#EXTINF:-1 tvg-id="" tvg-name="DE | HD SAT 1" tvg-logo="http://exaott.xyz/lagi/GERMANY_HD_4K/DE_HD_SAT_1.png" group-title="Vari",DE | HD SAT 1
-http://world-ott.com:8080/bruxel9291119/9829291001828/94195
-#EXTINF:-1 tvg-id="" tvg-name="DE | HD VOX" tvg-logo="http://exaott.xyz/lagi/GERMANY_HD_4K/DE_HD_VOX.png" group-title="Vari",DE | HD VOX
-http://world-ott.com:8080/bruxel9291119/9829291001828/94199
-#EXTINF:-1 tvg-id="" tvg-name="DE | HD KABEL 1" tvg-logo="http://exaott.xyz/lagi/GERMANY_HD_4K/DE_HD_KABEL_1.png" group-title="Vari",DE | HD KABEL 1
-http://world-ott.com:8080/bruxel9291119/9829291001828/94201
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD TELE 5" tvg-logo="http://fireott.quest:2052/images/dc1fbfb568aab1291bd5b09c04bdd41b.png" group-title="Vari",DE : HD TELE 5
-http://world-ott.com:8080/bruxel9291119/9829291001828/94213
-#EXTINF:-1 tvg-id="" tvg-name="PT | HD RTP1" tvg-logo="" group-title="Vari",PT | HD RTP1
-http://world-ott.com:8080/bruxel9291119/9829291001828/93851
-#EXTINF:-1 tvg-id="" tvg-name="PT | HD RTP2" tvg-logo="" group-title="Vari",PT | HD RTP2
-http://world-ott.com:8080/bruxel9291119/9829291001828/93852
-#EXTINF:-1 tvg-id="" tvg-name="PT | HD RTP3" tvg-logo="" group-title="Vari",PT | HD RTP3
-http://world-ott.com:8080/bruxel9291119/9829291001828/93853
-#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="CA: BBC AMERICA" tvg-logo="" group-title="Vari", BBC AMERICA
-http://07server.eu:80/gmbdnf972/Z2yPPR9F9/239689
-#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="CA: BBC EARTH" tvg-logo="" group-title="Vari", BBC EARTH
-http://07server.eu:80/gmbdnf972/Z2yPPR9F9/239688
-#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC ONE" tvg-logo="" group-title="Vari",UK |  BBC ONE
-http://world-ott.com:8080/bruxel9291119/9829291001828/87832
-#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC TWO" tvg-logo="" group-title="Vari",UK |  BBC TWO
-http://world-ott.com:8080/bruxel9291119/9829291001828/87833
-#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC THREE" tvg-logo="" group-title="Vari",UK |  BBC THREE
-http://world-ott.com:8080/bruxel9291119/9829291001828/87834
-#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC NEWS" tvg-logo="" group-title="Vari",UK |  BBC NEWS
-http://world-ott.com:8080/bruxel9291119/9829291001828/87835
-#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC SCOTLAND" tvg-logo="" group-title="Vari",UK |  BBC SCOTLAND
-http://world-ott.com:8080/bruxel9291119/9829291001828/87836
-#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC ONE PLU" tvg-logo="" group-title="Vari",UK |  BBC ONE PLU
-http://world-ott.com:8080/bruxel9291119/9829291001828/87837
-#EXTINF:-1 tvg-id="" tvg-name="UK | 4K BBC WORLD NEWS" tvg-logo="" group-title="Vari",UK | BBC WORLD NEWS
-http://world-ott.com:8080/bruxel9291119/9829291001828/87838
-#EXTINF:-1 tvg-id="" tvg-name="UK | 4K ITV 1" tvg-logo="" group-title="Vari",UK | 4K ITV 1
-http://world-ott.com:8080/bruxel9291119/9829291001828/87839
-#EXTINF:-1 tvg-id="" tvg-name="UK | HD ITV 2" tvg-logo="" group-title="Vari",UK | HD ITV 2
-http://world-ott.com:8080/bruxel9291119/9829291001828/87840
-#EXTINF:-1 tvg-id="" tvg-name="UK | 4K ITV 2" tvg-logo="" group-title="Vari",UK | 4K ITV 2
-http://world-ott.com:8080/bruxel9291119/9829291001828/87841
-#EXTINF:-1 tvg-id="" tvg-name="UK | 4K ITV 3" tvg-logo="" group-title="Vari",UK | 4K ITV 3
-http://world-ott.com:8080/bruxel9291119/9829291001828/87842
-#EXTINF:-1 tvg-id="" tvg-name="UK | HD ITV 3" tvg-logo="" group-title="Vari",UK | HD ITV 3
-http://world-ott.com:8080/bruxel9291119/9829291001828/87843
-#EXTINF:-1 tvg-id="" tvg-name="UK | 4K ITV 4" tvg-logo="" group-title="Vari",UK | 4K ITV 4
-http://world-ott.com:8080/bruxel9291119/9829291001828/87844
-#EXTINF:-1 tvg-id="" tvg-name="UK | HD ITV 4" tvg-logo="" group-title="Vari",UK | HD ITV 4
-http://world-ott.com:8080/bruxel9291119/9829291001828/87845
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD LA 1" tvg-logo="" group-title="Vari",ES | SD LA 1
-http://world-ott.com:8080/bruxel9291119/9829291001828/86114
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD LA 1" tvg-logo="" group-title="Vari,ES | HD LA 1
-http://world-ott.com:8080/bruxel9291119/9829291001828/86115
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD LA 2" tvg-logo="" group-title="Vari",ES | SD LA 2
-http://world-ott.com:8080/bruxel9291119/9829291001828/86117
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD LA 2" tvg-logo="" group-title="Vari",ES | HD LA 2
-http://world-ott.com:8080/bruxel9291119/9829291001828/86118
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD ANTENA 3" tvg-logo="" group-title="Vari",ES | SD ANTENA 3
-http://world-ott.com:8080/bruxel9291119/9829291001828/86119
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD ANTENA 3" tvg-logo="" group-title="Vari",ES | HD ANTENA 3
-http://world-ott.com:8080/bruxel9291119/9829291001828/86120
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD CUATRO" tvg-logo="" group-title="Vari",ES | SD CUATRO
-http://world-ott.com:8080/bruxel9291119/9829291001828/86122
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD CUATRO" tvg-logo="" group-title="Vari",ES | HD CUATRO
-http://world-ott.com:8080/bruxel9291119/9829291001828/86123
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD TELECINCO" tvg-logo="" group-title="Vari",ES | SD TELECINCO
-http://world-ott.com:8080/bruxel9291119/9829291001828/86125
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD TELECINCO" tvg-logo="" group-title="Vari",ES | HD TELECINCO
-http://world-ott.com:8080/bruxel9291119/9829291001828/86126
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD LA SEXTA" tvg-logo="" group-title="Vari",ES | SD LA SEXTA
-http://world-ott.com:8080/bruxel9291119/9829291001828/86128
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD LA SEXTA" tvg-logo="" group-title="Vari",ES | HD LA SEXTA
-http://world-ott.com:8080/bruxel9291119/9829291001828/86129
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD 24 HORAS" tvg-logo="" group-title="Vari",ES | SD 24 HORAS
-http://world-ott.com:8080/bruxel9291119/9829291001828/86131
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD 24 HORAS" tvg-logo="" group-title="Vari",ES | HD 24 HORAS
-http://world-ott.com:8080/bruxel9291119/9829291001828/86132
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD TELEMADRID" tvg-logo="" group-title="Vari",ES | SD TELEMADRID
-http://world-ott.com:8080/bruxel9291119/9829291001828/86133
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD TELEMADRID" tvg-logo="" group-title="Vari",ES | HD TELEMADRID
-http://world-ott.com:8080/bruxel9291119/9829291001828/86134
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="Vari",ES: LA 1 HD
+http://295617325734321277.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/321277.ts			
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 HD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="Vari+",ES: LA 2 HD
+http://295617325734321280.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/321280.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: ANTENA 3 HD" tvg-logo="https://miguia.tv/channels/big_10.png" group-title="Vari",ES: ANTENA 3 HD
+http://295617325734321106.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/321106.ts
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO HD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="Vari",ES: TELECINCO HD
+http://295617325734321430.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/321430.ts
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO HD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title="Vari",ES: CUATRO HD
+http://295617325734321197.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/321197.ts
+
 
 #EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",🇪🇸 ➾ Canal Sur Andaluciaᴴᴰ
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
