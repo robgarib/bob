@@ -2064,11 +2064,12 @@ http://ip.yellow-star.info:8080/Erosamico1io95/8YtRsuYRtErqQ78C/161313
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",DE: DAZN 2 HD
 http://ip.yellow-star.info:8080/Erosamico1io95/8YtRsuYRtErqQ78C/161314
 
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ES: DAZN 1 HD
 http://ip.yellow-star.info:8080/Erosamico1io95/8YtRsuYRtErqQ78C/292616
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ES: DAZN 3 HD
-http://ip.yellow-star.info:8080/Erosamico1io95/8YtRsuYRtErqQ78C/292618
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ES: DAZN 2 HD
 http://ip.yellow-star.info:8080/Erosamico1io95/8YtRsuYRtErqQ78C/292617
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ES: DAZN 3 HD
+http://ip.yellow-star.info:8080/Erosamico1io95/8YtRsuYRtErqQ78C/292618
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ES: LIGA DE CAMPEONES FHD
 http://381911711355246282.ofd0226.xyz:80/play/mi91431/sGvhFmWEKN3/246282.ts
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ES: LIGA DE CAMPEONES HD
@@ -3153,7 +3154,7 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 
 #EXTINF:-1 tvg-id="LA 1" tvg-name="ES: LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="Vari",ES: LA 1 HD
 http://295617325734321277.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/321277.ts			
-#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 HD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="Vari+",ES: LA 2 HD
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 HD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="Vari",ES: LA 2 HD
 http://295617325734321280.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/321280.ts
 #EXTINF:-1 tvg-id="LA 1" tvg-name="ES: ANTENA 3 HD" tvg-logo="https://miguia.tv/channels/big_10.png" group-title="Vari",ES: ANTENA 3 HD
 http://295617325734321106.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/321106.ts
