@@ -3,35 +3,35 @@
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="Canali RAI",RAI 1
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="Canali RAI",Rai 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png" group-title="Canali RAI",RAI 2 
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png" group-title="Canali RAI",Rai 2 
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-3-kwvj7ve82k1u.png" group-title="Canali RAI",RAI 3
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-3-kwvj7ve82k1u.png" group-title="Canali RAI",Rai 3
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4-lbz08s5luj9v.png" group-title="Canali RAI",RAI 4
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4-lbz08s5luj9v.png" group-title="Canali RAI",Rai 4
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="Canali RAI",RAI 4K
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="Canali RAI",Rai 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-5-au136o25p81j.png" group-title="Canali RAI",RAI 5
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-5-au136o25p81j.png" group-title="Canali RAI",Rai 5
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-gulp-db8wx0eccr3u.png" group-title="Canali RAI",RAI Gulp
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-gulp-db8wx0eccr3u.png" group-title="Canali RAI",Rai Gulp
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-italia-ty5rx7ftlz8m.jpg" group-title="Canali RAI",RAI Italia
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-italia-ty5rx7ftlz8m.jpg" group-title="Canali RAI",Rai Italia
 http://210.210.155.69/s/s63/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-italia-ty5rx7ftlz8m.jpg" group-title="Canali RAI",RAI Italia (link 2)
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-italia-ty5rx7ftlz8m.jpg" group-title="Canali RAI",Rai Italia (link 2)
 http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-movie-pfi6w4ycsdmh.png" group-title="Canali RAI",RAI Movie
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-movie-pfi6w4ycsdmh.png" group-title="Canali RAI",Rai Movie
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-radio-2-5jrwma08rz0s.jpg" group-title="Canali RAI",RAI Radio 2
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-radio-2-5jrwma08rz0s.jpg" group-title="Canali RAI",Rai Radio 2
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-scuola-dbrhdmlaxwxg.png" group-title="Canali RAI",RAI Scuola
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-scuola-dbrhdmlaxwxg.png" group-title="Canali RAI",Rai Scuola
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-storia-uwdoqlac5rgy.png" group-title="Canali RAI",RAI Storia
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-storia-uwdoqlac5rgy.png" group-title="Canali RAI",Rai Storia
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-yoyo-hi2h5j83aalt.png" group-title="Canali RAI",RAI Yoyo
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-yoyo-hi2h5j83aalt.png" group-title="Canali RAI",Rai Yoyo
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-premium-gdf9izugt6ty.png" group-title="Canali RAI",Rai Premium
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-premium-gdf9izugt6ty.png" group-title="Canali Rai",Rai Premium
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/raiplay-1.png" group-title="Canali RAI",RaiPlay 1 
 https://tivusto.org/sh/raiplay1
@@ -42,35 +42,35 @@ https://tivusto.org/sh/raiplay3
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali Mediaset",=== Canali Mediaset ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/27-twentyseven.jpg" group-title="Canali Mediaset",27 Twentyseven 
-https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-5-3lle0v8ngp9r.png" group-title="Canali Mediaset",Canale 5 
-https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(c5)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/cine-34-n1ul1ub5ggdf.png" group-title="Canali Mediaset",Cine 34 
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/focus-retv97626si2.png" group-title="Canali Mediaset",Focus 
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/gf-regia-1-mediaset-extra.jpg" group-title="Canali Mediaset ",GF Regia 1 Mediaset Extra
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b7)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/gf-regia-2.jpg" group-title="Canali Mediaset ",GF Regia 2
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b8)/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/gf-unora-fa.jpg" group-title="Canali Mediaset ",GF Un'ora fa 
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b9)/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/iris-esdu6qx5lwgz.png" group-title="Canali Mediaset",Iris 
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italia-1-mqv4qqe3s55q.png" group-title="Canali Mediaset",Italia 1 
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italia-2-3k4y9ky8oj8f.png" group-title="Canali Mediaset",Italia 2
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la-5-muo09g2msfvb.png" group-title="Canali Mediaset",La 5 
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/mediaset-20.png" group-title="Canali Mediaset ",Mediaset 20
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/mediaset-extra-pinz1jwpnlj3.png" group-title="Canali Mediaset",Mediaset Extra 
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rete-4-5i5i8lcwinzn.png" group-title="Canali Mediaset",Rete 4 
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/top-crime-s4a5ci5m7mkd.png" group-title="Canali Mediaset",Top Crime 
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Altri Canali Nazionali",=== Altri Canali Nazionali ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/7-gold.jpg" group-title="Altri Canali Nazionali",7Gold
@@ -94,7 +94,7 @@ https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net//ac115_live/canale1.smil/play
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/casa-italia-53.png" group-title="Altri Canali Nazionali",Casa Italia 53
 https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ciao-usa.jpg" group-title="Altri Canali Nazionali",Ciao USA
-http://joe.livebox.co.in/iotieviTVhls/CIAOUSA.m3u8
+https://amg02347-ciaousafast-amg02347c1-ciao-us-1993.playouts.now.amagi.tv/playlist/amg02347-ciaousafast-ciaousalinear-ciaous/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/euro-tv.jpg" group-title="Altri Canali Nazionali",Euro Tv
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/explorer.png" group-title="Altri Canali Nazionali",Explorer
@@ -136,7 +136,7 @@ http://livetv.ktv.zone/129/play.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Altri Canali Nazionali",RSI La2
 http://livetv.ktv.zone/137/play.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtv-smarino.png" group-title="Altri Canali Nazionali",RTV S.Marino
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-italia-cina-tv.jpg" group-title="Altri Canali Nazionali",Radio Italia Cina TV
 https://585b674743bbb.streamlock.net/9054/9054/chunklist_w1750196653.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-libertà.png" group-title="Altri Canali Nazionali",Radio Libertà 
@@ -144,7 +144,7 @@ https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/reklama-tv.jpg" group-title="Altri Canali Nazionali",Reklama Tv
 https://5f22d76e220e1.streamlock.net/reklamatv/reklamatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rete-mia.png" group-title="Altri Canali Nazionali",Rete Mia
-https://5db313b643fd8.streamlock.net/Retemia/Retemia/playlist.m3u8
+https://tivusto.org/sh/retemia
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/retecapri-fascinotv.png" group-title="Altri Canali Nazionali",ReteCapri (FascinoTv) 
 https://5f22d76e220e1.streamlock.net/donnashopping/donnashopping/chunklist_w405408009.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/supersix.png" group-title="Altri Canali Nazionali",SuperSix
@@ -159,6 +159,8 @@ https://diretta.arcapuglia.it:8080/live/medjugorietv/index.m3u8
 https://stream.mariatvcdn.com/trpradio/c92dd777d146ffcd75d0b6cfb13a9153.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/teleticino.png" group-title="Altri Canali Nazionali",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tv-koper-capodistria.png" group-title="Altri Canali Nazionali",Tv Koper Capodistria (usare Wiseplay)
+https://livetv.work/play/tv-koper-capodistria.php
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tv-2000.png" group-title="Altri Canali Nazionali",Tv 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tv-2000.png" group-title="Altri Canali Nazionali",Tv 2000 (link 2)
@@ -180,9 +182,9 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/icon.png" group-title="Canali per Bambini/Ragazzi",=== Canali per Bambini/Ragazzi===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/boing-18t3y17qtt8y.png" group-title="Canali per Bambini/Ragazzi",Boing
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/cartoonito-ddd85wurink4.png" group-title="Canali per Bambini/Ragazzi",Cartoonito
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super.png" group-title="Canali per Bambini/Ragazzi",Super !
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master-2500.m3u8
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="PlutoTV",=== PlutoTV===
@@ -265,6 +267,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619263ee9541940007d20d
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61e9119366401100074dd3fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/halloween.png" group-title="PlutoTV",Halloween 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8d3c2c2db99000787b786/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/house-of-docs.png" group-title="PlutoTV",House Of Docs
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6536608b4f123d000876b78b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/i-jefferson.png" group-title="PlutoTV",I Jefferson
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62442f28afe626000747f195/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ign.png" group-title="PlutoTV",IGN
@@ -285,6 +289,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8b75fb0a68400074b86
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62444e195d2ab7000861694b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/le-sorelle-mcleod.jpg" group-title="PlutoTV",Le sorelle McLeod
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/lo-schiaccianoci.jpg" group-title="PlutoTV",Lo Schiaccianoci
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/653671e77312a400080bff32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/loupe.png" group-title="PlutoTV",Loupe
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802e86a6997500072cfe90/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/macgyver.png" group-title="PlutoTV",MacGyver
@@ -301,6 +307,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/610a9ebe8c2ac200073477
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6500457d3efb510008315e59/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/nickelodeon-ukraine-pluto-tv.png" group-title="PlutoTV",Nickelodeon Ukraine Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/622a2d8da9d8210007d918c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/pfl-mma-daytime-card.png" group-title="PlutoTV",PFL MMA-Daytime Card
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/654a299cab05240008a12639/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/people-are-awesome-vb82cwdge4iy.png" group-title="PlutoTV",People are Awesome
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608017cbe375e400070cc981/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/pimp-my-ride.png" group-title="PlutoTV",Pimp My Ride
@@ -313,6 +321,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b87091a9c310008f733
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6261868633a2890007e87885/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/pluto-tv-anima-latina-dgo1xuw9tz4m.jpg" group-title="PlutoTV",Pluto TV Anima Latina
 https://i.mjh.nz/PlutoTV/6261868633a2890007e87885-alt.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/pluto-tv-anime.png" group-title="PlutoTV",Pluto TV Anime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65b90daed77d450008a43345/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/pluto-tv-christmas-eddecpj03n1n.png" group-title="PlutoTV",Pluto TV Christmas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612e05b885183d0007958101/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/pluto-tv-christmas.png" group-title="PlutoTV",Pluto TV Christmas
@@ -329,6 +339,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c09e3ac210ed00076066
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/pluto-tv-sport.png" group-title="PlutoTV",Pluto TV Sport
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/pluto-tv-storia.png" group-title="PlutoTV",Pluto TV Storia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65253fdf3fd33c00080214a3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/pluto-tv-totò.png" group-title="PlutoTV",Pluto Tv Totò
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65253f9881f942000833ccd5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/viaggi.png" group-title="PlutoTV",Pluto Tv Viaggi
 https://i.mjh.nz/PlutoTV/63c923944207be0007fd0887-alt.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/pluto-tv-western.png" group-title="PlutoTV",Pluto Tv Western
@@ -343,6 +357,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/634926e4b51d2d00077819
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626baa721c279b00072cbedd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ridiculousness.webp" group-title="PlutoTV",Ridiculousness
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd721e5b49e00079bfedc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/robot-wars-by-mech.png" group-title="PlutoTV",Robot Wars by MECH+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/651581ba6a84140008593586/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sanctuary.jpg" group-title="PlutoTV",Sanctuary
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb57d6c111bc0008fe2658/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/scherzi-e-risate.jpg" group-title="PlutoTV",Scherzi e Risate
@@ -355,12 +371,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa400072676
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245d3792792150007e20634/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/shorts.jpg" group-title="PlutoTV",Shorts
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c49ccfcc9cc600070eae5c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/south-park-san-valentino.png" group-title="PlutoTV",South Park San Valentino
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a553d1dfed0300081bf0dd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/south-park.png" group-title="PlutoTV",South Park
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62bc1f502b70e3000706298e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sposaticon-figli.png" group-title="PlutoTV",Sposati...con figli
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62443055c9735d00076feff7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/squadra-speciale-cobra-11.png" group-title="PlutoTV",Squadra Speciale Cobra 11
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625e6cc905e09f00073addee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/star-trek-the-original-series.png" group-title="PlutoTV",Star Trek: The Original Series
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6581a09edfed030008e12b39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super-mamma.png" group-title="PlutoTV",Super ! Mamma
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd59f8cc25c000750facc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super-a-casa-dei-loud.png" group-title="PlutoTV",Super! A casa dei Loud
@@ -405,6 +425,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd4c9e5b49e00079bfe
 https://i.mjh.nz/PlutoTV/61fbd4c9e5b49e00079bfed9-alt.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super-spongebob.jpg" group-title="PlutoTV",Super! SpongeBob
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f9281db477000759fce0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super-spyders.jpg" group-title="PlutoTV",Super! Spyders
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655207f8b9c8a700082c7951/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super-star.jpg" group-title="PlutoTV",Super! Star
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super-summer.png" group-title="PlutoTV",Super! Summer
@@ -417,6 +439,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd31b7365340007f937
 https://i.mjh.nz/PlutoTV/63c012504faf1c0007abfa93-alt.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super-xmas.png" group-title="PlutoTV",Super! Xmas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612ce0ead825b300078b7082/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super-zoey-101-guj779ut0kly.png" group-title="PlutoTV",Super! Zoey 101
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6304ed62410a4c00083c0291/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super-zoey-101.png" group-title="PlutoTV",Super! Zoey 101
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6304ed62410a4c00083c0291/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/super-icarli.jpg" group-title="PlutoTV",Super! iCarli
@@ -439,12 +463,18 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64fee60130ab3300084d91
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801317a0ccef00072aaf75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/top-gear.png" group-title="PlutoTV",Top Gear
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c109a4798def0008a6e03e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ultimate-classic-wrestling.png" group-title="PlutoTV",Ultimate Classic Wrestling
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652516fb7971630008a58e74/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/unbeaten-sports.png" group-title="PlutoTV",Unbeaten Sports
 https://i.mjh.nz/PlutoTV/64c3b106dac71b00080a26d2-alt.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/vh1-love-music-7cu7adds8k7l.png" group-title="PlutoTV",VH1 + Love Music
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636a4431b7fca900075039e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/vh1-love-music.png" group-title="PlutoTV",VH1 Love Music
 https://i.mjh.nz/PlutoTV/636a4431b7fca900075039e2-alt.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/vh1-rock.png" group-title="PlutoTV",VH1 Rock
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636a4173e34fd50007534542/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/vh1-back-to-90s.png" group-title="PlutoTV",VH1+ Back to 90s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6552085aab05240008b05f6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/vh1-canzoni-italiane.png" group-title="PlutoTV",VH1+ Canzoni Italiane
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63724270c7c2360007b170e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/vh1-christmas-hits.png" group-title="PlutoTV",VH1+ Christmas Hits
@@ -477,10 +507,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a7c62ee90dd200076374
 https://i.mjh.nz/PlutoTV/63eb82e24e83e70008ab735f-alt.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/n1.jpg" group-title="PlutoTV",n°1
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6304ec83440dc90007f514c6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Samsung Channels",=== Samsung Channels ===
-http://patbuweb.com/iptv/e2liste/startend.avi
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/5-minuti-creativi.png" group-title="Samsung Channels ",5-Minuti Creativi
-https://i.mjh.nz/SamsungTVPlus/ITBA33000374G.m3u8
+#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Samsung Channels", ==Samsung Channels==
+https://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/alma-tv-food.png" group-title="Samsung Channels ",Alma TV Food
 https://5dc8dd4cf0b5427eabbefe95b3ddfbf0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_AlmaTVFood/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/alma-tv-travel.jpg" group-title="Samsung Channels ",Alma TV Travel
@@ -725,7 +753,6 @@ https://amg02512-nexodigital-amg02512c2-wedotv-eu-869.playouts.now.amagi.tv/play
 https://mvg-mv-wedotv.otteravision.com/mvg/mv/mv_720p_high.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/wedo-movies.JPG" group-title="Wedo Tv",Wedo Movies
 https://wedotv.com/channels?program=wedomovies_it
-
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="4K",=== 4K===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="4K",RAI 4K
@@ -779,15 +806,11 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="TOP ITALIA",=== TOP ITALIA ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italian-fishing-tv.jpg" group-title="TOP ITALIA",Sky Uno HD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/33
+http://295617325734598522.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/598522.ts
 #EXTINF:-1 tvg-id="" tvg-name="PESCA HD" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Imaggini/picons/SkySport/SkySportPesca.png" group-title="TOP ITALIA",PESCA HD
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/92
-#EXTINF:-1 tvg-id="" tvg-name="PESCA HD" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Imaggini/picons/SkySport/SkySportPesca.png" group-title="TOP ITALIA",PESCA HD
-http://cdn.oldtvline.com:23000/dajanalive/C4G97tlUwd/38717
+http://ice.afinrumunn.xyz:80/AJ7HRnHlkD/V4Cm86Ruqt/62144
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italian-fishing-tv.jpg" group-title="TOP ITALIA",Italian Fishing TV 
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Inter tv" tvg-logo="" group-title="TOP ITALIA",Inter
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/94
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/motor-1-tv.png" group-title="TOP ITALIA",Motor 1 TV 
 https://b87f4ca7d206491eb1e66c08df063cf7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Motor1TV/playlist.m3u8
 #EXTINF:-1 tvg-id="biketv.it" tvg-name="Supertennis" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/BikeTv.png" group-title="TOP ITALIA",Bike TV
@@ -952,20 +975,8 @@ https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="TOP ITALIA",Euronews
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1" group-title="TOP ITALIA",DIRETTA MEDIASET 1
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b4)/index.m3u8
-#EXTINF:-1" group-title="TOP ITALIA", DIRETTA MEDIASET 2
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b4)/index.m3u8
-#EXTINF:-1" group-title="TOP ITALIA", DIRETTA MEDIASET B2
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b2)/index.m3u8
-#EXTINF:-1" group-title="TOP ITALIA", DIRETTA MEDIASET B3
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b3)/index.m3u8 
-#EXTINF:-1" group-title="TOP ITALIA", DIRETTA MEDIASET B4
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b4)/index.m3u8
-#EXTINF:-1" group-title="TOP ITALIA", DIRETTA MEDIASET B6
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
-#EXTINF:-1" group-title="TOP ITALIA", DIRETTA MEDIASET YY
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(yy)/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="BEST CHANNELS",=== BEST CHANNELS ===
@@ -1047,36 +1058,24 @@ https://stream1.xdevel.com/video0s975770-326/stream/playlist.m3u8
 https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/bellla-e-monella-tv.png" group-title="Canali Musicali (Web Radio)",Bellla e Monella TV
 https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/cmc-usa-country-music-channel.jpg" group-title="Canali Musicali (Web Radio)",C.M.C. USA  (Country Music Channel)
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/cmc.png" group-title="Canali Musicali (Web Radio)",CMC
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/calabriasona-tv.JPG" group-title="Canali Musicali (Web Radio)",Calabriasona tv
-https://59d7d6f47d7fc.streamlock.net/calabriasona/calabriasona/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ciccio-riccio-tv.jpg" group-title="Canali Musicali (Web Radio)",Ciccio Riccio Tv
 https://stream7.xdevel.com/video0s975942-893/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/company-tv.png" group-title="Canali Musicali (Web Radio)",Company TV
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/country-music-4u.png" group-title="Canali Musicali (Web Radio)",Country Music 4U
-https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/euro-indie-music-chart-eimc.png" group-title="Canali Musicali (Web Radio)",Euro Indie Music Chart (E.I.M.C.)
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+https://57068da1deb21.streamlock.net/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/fm-italia-tv.png" group-title="Canali Musicali (Web Radio)",FM Italia TV
 https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/fisarmonica-tv.webp" group-title="Canali Musicali (Web Radio)",Fisarmonica Tv 
-https://hap3.ipstream.it/fisatv/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/gimusic-tv.jpg" group-title="Canali Musicali (Web Radio)",Gimusic Tv
 https://stream4.xdevel.com/video0s975891-1285/stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/hit-fm-tv.png" group-title="Canali Musicali (Web Radio)",Hit FM Tv
 https://5db313b643fd8.streamlock.net:443/HITTV/HITTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italianissima-tv.jpg" group-title="Canali Musicali (Web Radio)",Italianissima TV
-https://hap3.ipstream.it/italianissima/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ldr-radio-tv.JPG" group-title="Canali Musicali (Web Radio)",LDR Radio Tv
+https://rst.saiuzwebnetwork.it:8081/radioldr/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/lac-on-air.png" group-title="Canali Musicali (Web Radio)",LaC On-Air
 https://streamcdnm8-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/324215/zPnHWY2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/magic-music-tv.jpg" group-title="Canali Musicali (Web Radio)",Magic Music TV
-https://eu1.servers10.com:8081/8016/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/magic-music-tv-pagani.jpg" group-title="Canali Musicali (Web Radio)",Magic Music Tv Pagani
-https://rst.saiuzwebnetwork.it:8081/magicmusictv/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/miami-vice-radio-tv.jpg" group-title="Canali Musicali (Web Radio)",Miami Vice Radio Tv
 https://5926fc9c7c5b2.streamlock.net/9326/9326/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/mito-italia-tv.jpg" group-title="Canali Musicali (Web Radio)",Mito Italia Tv 
@@ -1085,10 +1084,6 @@ https://stream10.xdevel.com/video0s977227-1845/stream/playlist.m3u8
 https://64b16f23efbee.streamlock.net/mitologytv/mitologytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/mojito-tv.png" group-title="Canali Musicali (Web Radio)",Mojito Tv
 http://77.68.40.210:8888/hls/mojitotv.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/mi-vida-radio-tv.jpg" group-title="Canali Musicali (Web Radio)", Mivida Radio Tv
-https://skyradiostream.com/1937/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/musictop.png" group-title="Canali Musicali (Web Radio)",MusicTop
-http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/now-70s.png" group-title="Canali Musicali (Web Radio)",Now 70's
 https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/now-80s.png" group-title="Canali Musicali (Web Radio)",Now 80's
@@ -1107,30 +1102,30 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b26
 https://57068da1deb21.streamlock.net/ondaradioweb/ondaradioweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/otto-fm-anni-80.png" group-title="Canali Musicali (Web Radio)",Otto FM Anni 80
 http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/partenopea-tv.png" group-title="Canali Musicali (Web Radio)",Partenopea Tv
+https://video.partenopeatv.com:3314/stream/play.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/piterpan-tv.png" group-title="Canali Musicali (Web Radio)",PiterPan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/play-radio.jpg" group-title="Canali Musicali (Web Radio)",Play Radio
-https://5db313b643fd8.streamlock.net:443/PlayRadio/PlayRadio/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/punto-radio-tv.png" group-title="Canali Musicali (Web Radio)",Punto Radio TV 
 https://w1.mediastreaming.it/puntoradio/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/r-101-radio-101.png" group-title="Canali Musicali (Web Radio)",R 101 ( Radio 101 )
-https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/r-digiesse-radio-dgs.JPG" group-title="Canali Musicali (Web Radio)",R. Digiesse (Radio D.G.S.)
 https://w1.mediastreaming.it/digiesse/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rav-radio-antenna-verde.jpg" group-title="Canali Musicali (Web Radio)",R.A.V. (Radio Antenna Verde)
+https://585b674743bbb.streamlock.net/9002/9002/chunklist_w1003259961.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsc-tv-radio-studio-centrale.jpg" group-title="Canali Musicali (Web Radio)",R.S.C. Tv (Radio Studio Centrale)
 https://cp1.server89.com:19360/studiocentrale/studiocentrale.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-discount-tv.JPG" group-title="Canali Musicali (Web Radio)",RADIO DISCOunt TV
 https://585b674743bbb.streamlock.net/9030/9030/chunklist_w1253446105.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rds-social-tv.png" group-title="Canali Musicali (Web Radio)",RDS Social TV 
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rg-studio-tv.png" group-title="Canali Musicali (Web Radio)",RG Studio Tv
-https://tivusto.org/sh/rgstudiotv
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rma-salerno.webp" group-title="Canali Musicali (Web Radio)",RMA Salerno
 https://s1.ustreami.net:3942/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rmc-101-tv-2mox9bwh503g.jpg" group-title="Canali Musicali (Web Radio)",RMC 101 Tv
 https://5db313b643fd8.streamlock.net/RMC101TV/RMC101TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rmc-radio-monte-carlo.png" group-title="Canali Musicali (Web Radio)",RMC Radio Monte Carlo
-https://live2.msr.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
+https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtl-1025-best.png" group-title="Canali Musicali (Web Radio)",RTL 102.5 Best
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/chunklist_b2816000.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtl-1025-bro-sis.png" group-title="Canali Musicali (Web Radio)",RTL 102.5 Bro & Sis
@@ -1152,7 +1147,7 @@ https://5e73cf528f404.streamlock.net/RTR99TV/livestream/chunklist_w2019426144.m3
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-104-tv.jpg" group-title="Canali Musicali (Web Radio)",Radio 104 Tv
 https://57068da1deb21.streamlock.net/radio104/radio104/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-105.png" group-title="Canali Musicali (Web Radio)",Radio 105
-https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ec)/index.m3u8
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-4-you-tv.png" group-title="Canali Musicali (Web Radio)",Radio 4 You Tv
 https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-51-tv-lombardia.png" group-title="Canali Musicali (Web Radio)",Radio 51 Tv Lombardia
@@ -1165,10 +1160,12 @@ https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 https://585b674743bbb.streamlock.net/9076/9076/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-adige-tv.png" group-title="Canali Musicali (Web Radio)",Radio Adige Tv
 https://stream9.xdevel.com/video0s976463-1250/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-alfa-piemonte.png" group-title="Canali Musicali (Web Radio)",Radio Alfa Piemonte 
+https://585b674743bbb.streamlock.net/9104/9104/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-alfa-salerno.png" group-title="Canali Musicali (Web Radio)",Radio Alfa Salerno
+https://w1.mediastreaming.it/radioalfa/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-amica-tv.jpg" group-title="Canali Musicali (Web Radio)",Radio Amica Tv
 https://ssh101.bozztv.com/ssh101/LaMusicaIntorno/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-amore-catanzaro-tv.png" group-title="Canali Musicali (Web Radio)",Radio Amore Catanzaro TV 
-https://tivusto.org/sh/radioamorecattv
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-arancia-television.png" group-title="Canali Musicali (Web Radio)",Radio Arancia Television
 http://stream3.xdevel.com/video0s975447-164/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-azzurra-tv.jpg" group-title="Canali Musicali (Web Radio)",Radio Azzurra Tv
@@ -1182,7 +1179,7 @@ https://tv.radiobussola.it/hls/stream/stream1200.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-calima-tv.jpg" group-title="Canali Musicali (Web Radio)",Radio Calima Tv
 https://585b674743bbb.streamlock.net/calimafm/calimafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-carina-tv.jpg" group-title="Canali Musicali (Web Radio)",Radio Carina TV
-https://samson.streamerr.co:8081/carinatv/index.m3u8
+https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-casasanremo.png" group-title="Canali Musicali (Web Radio)",Radio CasaSanremo
 https://stream7.xdevel.com/video0s975911-684/stream/chunks_dvr.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-cittadella.png" group-title="Canali Musicali (Web Radio)",Radio Cittadella
@@ -1190,15 +1187,13 @@ https://59d7d6f47d7fc.streamlock.net/radiocittadella/radiocittadella/playlist.m3
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-concordia-tv.jpg" group-title="Canali Musicali (Web Radio)",Radio Concordia Tv
 https://ssh101.bozztv.com/ssh101/radioconcordia1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-core-de-roma-tv.jpg" group-title="Canali Musicali (Web Radio)",Radio Core de Roma Tv
-https://59bb40cf810aa.streamlock.net:4443/radiosilver/radiosilver/playlist.m3u8
+https://stream3.aswifi.it/radiocore/live/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-deejay-tv.jpg" group-title="Canali Musicali (Web Radio)",Radio Deejay Tv
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-delta-1.png" group-title="Canali Musicali (Web Radio)",Radio Delta 1
 https://stream6.xdevel.com/video0s976486-1271/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-empire-taormina.png" group-title="Canali Musicali (Web Radio)",Radio Empire Taormina
 https://5f22d76e220e1.streamlock.net:443/radioempiretv/radioempiretv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-errevutì.JPG" group-title="Canali Musicali (Web Radio)",Radio Errevutì
-https://flash8.xdevel.com/errevutitv/errevutitv/manifest_w1591550424.mpd
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-fm-faleria.jpg" group-title="Canali Musicali (Web Radio)",Radio FM Faleria
 https://tivusto.org/sh/radiofmfaleria
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-ferentino.png" group-title="Canali Musicali (Web Radio)",Radio Ferentino
@@ -1238,7 +1233,7 @@ https://stream9.xdevel.com/video0s976574-1330/stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-mambo-tv.png" group-title="Canali Musicali (Web Radio)",Radio Mambo Tv
 https://5926fc9c7c5b2.streamlock.net/9044/9044/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-mi-piaci.png" group-title="Canali Musicali (Web Radio)",Radio Mi Piaci 
-https://59bb40cf810aa.streamlock.net:4443/aslive2/aslive2/playlist.m3u8
+https://stream3.aswifi.it/radiomipiace/live/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-milazzo-webtv.jpg" group-title="Canali Musicali (Web Radio)",Radio Milazzo  WebTv
 https://5926fc9c7c5b2.streamlock.net/9318/9318/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-millennium-tv.png" group-title="Canali Musicali (Web Radio)",Radio Millennium Tv
@@ -1266,7 +1261,7 @@ https://video2.azotosolutions.com:1936/pescaratv/pescaratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-play-tag.png" group-title="Canali Musicali (Web Radio)",Radio Play Tag
 https://cdn3.wowza.com/5/ZmtOQVZHUU5ISE1S/radio_playtag1/playtag/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-popizz.png" group-title="Canali Musicali (Web Radio)",Radio PoPizz
-https://59bb40cf810aa.streamlock.net:4443/popizztv/popizztv/chunklist_w1891170252.m3u8
+https://stream3.aswifi.it/radiopopizz/live/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-punto-zero-tv.webp" group-title="Canali Musicali (Web Radio)",Radio Punto Zero Tv
 https://58d921499d3d3.streamlock.net/RPZ/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-rcs-londa-veronese.png" group-title="Canali Musicali (Web Radio)",Radio RCS - L'Onda Veronese
@@ -1280,7 +1275,7 @@ https://585b674743bbb.streamlock.net/9044/9044/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-saba-sound-tv.jpg" group-title="Canali Musicali (Web Radio)",Radio Saba Sound Tv
 https://stream1.xdevel.com/video0s975496-379/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-silver.png" group-title="Canali Musicali (Web Radio)",Radio Silver
-https://59bb40cf810aa.streamlock.net:4443/radiosilver/radiosilver/playlist.m3u8
+https://stream3.aswifi.it/radiosilver/live/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-skylab-puglia.png" group-title="Canali Musicali (Web Radio)",Radio SkyLab Puglia
 https://ns333420.ip-37-187-126.eu/hls/skylab.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-sorriso-tv.jpg" group-title="Canali Musicali (Web Radio)",Radio Sorriso Tv
@@ -1288,7 +1283,7 @@ http://56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-stereo-5-tv.jpg" group-title="Canali Musicali (Web Radio)",Radio Stereo 5 Tv
 https://stream1.aswifi.it/stereo5/live/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-studio-97.jpg" group-title="Canali Musicali (Web Radio)",Radio Studio 97 
-https://tivusto.org/sh/crotone97
+https://stream.cp.ets-sistemi.it:19360/radiostudio97-tv/radiostudio97-tv.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-studio-delta.jpg" group-title="Canali Musicali (Web Radio)",Radio Studio Delta
 https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-studio-one-tv.png" group-title="Canali Musicali (Web Radio)",Radio Studio One Tv
@@ -1299,8 +1294,6 @@ https://5a1178b42cc03.streamlock.net/studiopiutv/studiopiutv/playlist.m3u8
 http://stream2.xdevel.com/video1s3-7/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-ticino-channel.jpg" group-title="Canali Musicali (Web Radio)",Radio Ticino Channel
 https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-time-tv.png" group-title="Canali Musicali (Web Radio)",Radio Time Tv
-https://stream3.xdevel.com/video0s975521-196/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-tivù-azzurra.png" group-title="Canali Musicali (Web Radio)",Radio Tivù Azzurra
 https://video.azotosolutions.com:9553/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-tv-607080.png" group-title="Canali Musicali (Web Radio)",Radio Tv 60/70/80
@@ -1325,50 +1318,44 @@ https://tivusto.org/sh/radiowebsocial
 https://5bb65e9de3fdf.streamlock.net/live/RadiolinaTV/chunklist_w1863349937.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/retro-music.png" group-title="Canali Musicali (Web Radio)",Retro Music
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sea-radio-tv.png" group-title="Canali Musicali (Web Radio)",Sea Radio TV
-https://server.seatv.it:1443/searadiotv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/skyline-radio-e-soul-tv.png" group-title="Canali Musicali (Web Radio)",Skyline Radio e Soul Tv
 https://5db313b643fd8.streamlock.net:443/SkyLineTv/SkyLineTv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/spirit-tv.png" group-title="Canali Musicali (Web Radio)",Spirit Tv
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/stingray-alternative-hd.jpg" group-title="Canali Musicali (Web Radio)",Stingray Alternative HD
-https://stirr.ott-channels.stingray.com/102/master.m3u8
+https://lotus.stingray.com/manifest/ose-102ads-montreal/live/3a92c6bd-d80f-32a1-8b3b-4c5155b52069/1790800/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/stingray-classic-rock-hd.jpg" group-title="Canali Musicali (Web Radio)",Stingray Classic Rock HD
-https://stirr.ott-channels.stingray.com/101/master.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/stingray-exitos-del-momento-hd.jpg" group-title="Canali Musicali (Web Radio)",Stingray Exitos Del Momento HD 
-https://stirr.ott-channels.stingray.com/190/master.m3u8
+https://lotus.stingray.com/manifest/ose-101ads-montreal/live/cb533e3e-7be8-3190-bc65-bdbcac77dc27/1790800/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/stingray-remember-the-80s.jpg" group-title="Canali Musicali (Web Radio)",Stingray Everything 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/live/af7bffd5-5f98-3c6b-bb1b-3d17697a1cc8/1790800/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/stingray-flashback-70s-hd.jpg" group-title="Canali Musicali (Web Radio)",Stingray Flashback 70S HD
-https://stirr.ott-channels.stingray.com/115/master.m3u8
+https://lotus.stingray.com/manifest/ose-115ads-montreal/live/7cbd4681-6131-3833-961a-1d9c67bbd38d/1790800/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/stingray-greatest-hits-hd.jpg" group-title="Canali Musicali (Web Radio)",Stingray Greatest Hits HD
-https://stirr.ott-channels.stingray.com/155/master.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/stingray-hip-hoprb-hd.jpg" group-title="Canali Musicali (Web Radio)",Stingray Hip-Hop/R&B HD
-https://stirr.ott-channels.stingray.com/133/master.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/1920x1080_1790800/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/stingray-hit-list-hd.jpg" group-title="Canali Musicali (Web Radio)",Stingray Hit List HD
-https://stirr.ott-channels.stingray.com/107/master.m3u8
+https://lotus.stingray.com/manifest/ose-107ads-montreal/live/6be527ea-a006-3fd6-b52f-6c305aed938c/1790800/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/stingray-hot-country.jpg" group-title="Canali Musicali (Web Radio)",Stingray Hot Country 
-https://stirr.ott-channels.stingray.com/108/master.m3u8
+https://lotus.stingray.com/manifest/ose-108ads-montreal/live/18073a33-4a69-3812-9a1d-c267ef5e776b/1790800/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/stingray-exitos-del-momento-hd.jpg" group-title="Canali Musicali (Web Radio)",Stingray Jazz 
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/live/1430f09d-8a5e-3d4c-928a-5d5727fff331/5711200/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/stingray-karaoke-hd.jpg" group-title="Canali Musicali (Web Radio)",Stingray Karaoke HD
-https://stirr.ott-channels.stingray.com/karaoke/master_1920x1080_4500kbps.m3u8
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/live/7c100bee-5f46-395d-8d65-7c0476990e6b/3291200/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/stingray-pop-adult.jpg" group-title="Canali Musicali (Web Radio)",Stingray Pop Adult 
-https://stirr.ott-channels.stingray.com/104/master.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/stingray-remember-the-80s.jpg" group-title="Canali Musicali (Web Radio)",Stingray Remember The 80S
-https://stirr.ott-channels.stingray.com/128/master.m3u8
+https://lotus.stingray.com/manifest/ose-104ads-montreal/live/05cb6fca-df58-3409-b50d-38b6646c1945/1790800/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/stingray-rock-alternative.jpg" group-title="Canali Musicali (Web Radio)",Stingray Rock Alternative
-https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
+https://lotus.stingray.com/manifest/ose-102ads-montreal/live/3a92c6bd-d80f-32a1-8b3b-4c5155b52069/1790800/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/stingray-soul-storm.jpg" group-title="Canali Musicali (Web Radio)",Stingray Soul Storm
-https://stirr.ott-channels.stingray.com/134/master.m3u8
+https://lotus.stingray.com/manifest/ose-134ads-montreal/live/8cc9f651-a1d7-38b8-9270-9670273f2157/1790800/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/stingray-todays-latin-pop.jpg" group-title="Canali Musicali (Web Radio)",Stingray Today's Latin Pop
-https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
+https://lotus.stingray.com/manifest/ose-190ads-montreal/live/843fc245-d2d3-32e9-953e-6df7ed2a8e95/1790800/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/stingray-urban-beats.jpg" group-title="Canali Musicali (Web Radio)",Stingray Urban Beats 
-https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+https://lotus.stingray.com/manifest/ose-133ads-montreal/live/7170acfd-ae81-32a2-add9-8c789e668312/1790800/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/studio90-italia.png" group-title="Canali Musicali (Web Radio)",Studio90 Italia
-https://57068da1deb21.streamlock.net/radiostudio90/radiostudio90/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tv-meridionale.png" group-title="Canali Musicali (Web Radio)",TV Meridionale
-https://rst2.saiuzwebnetwork.it:8081/tvmeridionale/index.m3u8
+https://5f22d76e220e1.streamlock.net/studio90italiatv/studio90italiatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-radio-kolbe.jpg" group-title="Canali Musicali (Web Radio)",Tele Radio Kolbe
 https://5a1178b42cc03.streamlock.net/Teleradiokolbe/Teleradiokolbe/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/the-gamers-house-tv.jpg" group-title="Canali Musicali (Web Radio)",The Gamer's House Tv
-https://tivusto.org/sh/gamer
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telecupole-music.jpg" group-title="Canali Musicali (Web Radio)",Telecupole Music 
+https://cdn117-it.azotosolutions.com:8443/cdnedge12/live12/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/trace-brazuca.webp" group-title="Canali Musicali (Web Radio)",Trace Brazuca
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/trace-latina-omf0d0pbgboo.png" group-title="Canali Musicali (Web Radio)",Trace Latina
@@ -1380,23 +1367,21 @@ https://de1se01.v2beat.live/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/vevo-2k.png" group-title="Canali Musicali (Web Radio)",Vevo 2K
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/vevo-70s.png" group-title="Canali Musicali (Web Radio)",Vevo 70s
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/vevo-80s.png" group-title="Canali Musicali (Web Radio)",Vevo 80s
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/vevo-90s.png" group-title="Canali Musicali (Web Radio)",Vevo 90s
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/vevo-country.png" group-title="Canali Musicali (Web Radio)",Vevo Country
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/vevo-pop-tdajtrtwez7k.png" group-title="Canali Musicali (Web Radio)",Vevo Pop
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/vevo-retro-rock.png" group-title="Canali Musicali (Web Radio)",Vevo Retro Rock
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/video-touring-tv.png" group-title="Canali Musicali (Web Radio)",Video Touring Tv
-https://streamingvideo.auranex.cloud/memfs/7b09452f-6331-4a46-a52d-5fc5fe2ceaae.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/vintage-radio-tv.png" group-title="Canali Musicali (Web Radio)",Vintage Radio TV
 https://tivusto.org/sh/vintageradio
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/virgin-radio.png" group-title="Canali Musicali (Web Radio)",Virgin Radio 
-https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/visual-radio-tv.jpg" group-title="Canali Musicali (Web Radio)",Visual Radio Tv
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/vuemme.jpeg" group-title="Canali Musicali (Web Radio)",Vuemme
@@ -1478,435 +1463,16 @@ https://odmsto.com/returned/668726.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-veneto.png" group-title="News e Canali Istituzionali",TGR Veneto
 https://odmsto.com/returned/668727.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-norba-tg-norba-24.png" group-title="News e Canali Istituzionali",Tele Norba (TG Norba 24 )
-#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="SPORT",=== SPORT ===
-http://patbuweb.com/iptv/e2liste/startend.avi
-#EXTINF:-1" group-title="SPORT",Sky sport 24 
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/68
+https://stream3.xdevel.com/video0s976570-1422/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgcom24.png" group-title="News e Canali Istituzionali",Tgcom24
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/grtv.jpg" group-title="SPORT",Giornale Radio Tv Sport
 https://5e73cf528f404.streamlock.net/GR_sport/livestream/chunklist_w1501899689.m3u8
 #EXTINF:-1 " group-title="SPORT",Rai Sport + HD
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
-#EXTINF:-1 group-title="SPORT",Sport2U Tv
-http://live.sport2u.tv:1935/EvoLive/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="Top Calcio 24" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-top-calcio-24-7160-300x225.jpg" tvg-shift="0" group-title="SPORT",Top Calcio 24
-https://bit.ly/38QRMom
-#EXTINF:-1 tvg-ID="Inter Channel" tvg-name="Inter TV" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/inter.png" group-title="SPORT",Inter TV
-http://web.battery050.xyz:80/giannirom/5FLxA5x4LU/94
-#EXTINF:-1 tvg-ID="Inter Channel" tvg-name="Inter TV" tvg-logo="http://webtv.aystream.xyz/webtv/loghi/inter.png" group-title="SPORT",Inter TV (720p)
-https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-24-live.jpg" group-title="SPORT",SportItalia 24 LIVE
-https://sportitaliaamd.akamaized.net/video_1/Sportitalia/hls/1A15BA14BC564CE1C312973FF46193A8969E2C31/index.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-solocalcio.jpg" group-title="SPORT",SportItalia Solocalcio
-https://sportitaliaamd.akamaized.net/video_1/Sportitalia/hls/A35A86245F13B326BB177D133E45311C8D046D71/index.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia.png" group-title="SPORT",SportItalia Plus
-https://sportitaliaamd.akamaized.net/video_1/Sportitalia/hls/B4DF7411EF2D38AD98B7D9FA9612B9753F214EFA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Motor TV" tvg-logo="https://i.imgur.com/muS5HF5.jpg" group-title="SPORT",Motor 1 TV
-https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/MOTOR.png" group-title="SPORT",MotorTrend
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:-1 " group-title="SPORT",Rally Show  
-https://bozztv.com/36bay2/gin/giniko_rallyshow_900kb_36bay2/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Auto Motor News
-https://dotfvxkfj90ca.cloudfront.net/programming/automotornewstv/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Bike Smart Mobility
-https://backup.superstreaming.inaria.me/BikeSmartMobilityDTT/index.m3u8
-#EXTINF:-1 " group-title="SPORT",TMW Radio Tv (TUTTO MERCATO WEB)
-http://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",Top Calcio 24
-http://tivustream.website/urls/topcalcio24
-#EXTINF:-1 group-title="SPORT",UDINEWS Tv
-http://api.new.livestream.com/accounts/UdinewsTV/events/Udinese/live.m3u8
-#EXTINF:-1 tvg-id="" nome-tvg="" tvg-language="" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="SPORT",STIRR Sports 
-https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
-#EXTINF:-1 tvg-id="" nome-tvg="" tvg-language="" tvg-logo="https://i.imgur.com/OFO86K5.jpg" group-title="SPORT",TVS Sports 
-https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
-#EXTINF:-1 tvg-name="Automoto" tvg-name="" tvg-logo="https://i.imgur.com/H3iaTB5.png" group-title="SPORT",Automoto
-https://stitcheraws.unreel.me/wse-node04.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IZCWyc7.png" group-title="SPORT",MAV TV Motorsports Network
-https://f29b0125f5c34020abde7393eb2b43e4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MAVTVMotorSportsNetwork/playlist.m3u8?ads.wurl_channel=611&ads.wurl_name=MAVTVMotorSportsNetwork&ads.us_privacy=1---&ads.psid=df8e1a36-847d-5096-86a7-3803ed330ede&ads.targetopt=0&ads.plex_token=MorUy57ijWhGe4ixZb_T&ads.plex_id=5f90ebc726350a002d40b136&ads.ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20rv%3A83.0)%20Gecko%2F20100101%20Firefox%2F83.0&ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=1&ads.consent=0
-#EXTINF:-1 tvg-id="" nome-tvg="" tvg-language="" tvg-logo="https://i.imgur.com/QIEhpPp.png" tvg-country="US" tvg-url="" group-title="SPORT",Motocycles
-https://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
-#EXTINF:-1 nome-tvg="Pluto TV Cars" tvg-logo="https://images.pluto.tv/channels/5812b3a424944e05d09cc46/colorLogoPNG.png" group-title="SPORT" ,Pluto TV Cars 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=663&deviceId=5812b3a4249444e05d09cc46&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rAkIuW1.png" group-title="SPORT",Cycle World
-http://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
-#EXTINF:-1 nome-tvg-"Red Bull TV" tvg-id "Red Bull TV" logo tvg "https://i.imgur.com/TvmeXd.png" group-title="SPORT", Red Bull TV 
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 " group-title="SPORT"tvg-id="" tvg-logo="http://static.epg.best/gb/Eurosport1.uk.png",Eurosport 1 
-https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
-#EXTINF:-1 " group-title="SPORT"tvg-id="" tvg-logo="http://static.epg.best/gb/Eurosport2.uk.png",Eurosport 2 
-https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
-#EXTINF:-1 tvg-id="Eurosport 1 HD-CZ" nome-tvg="Eurosport 1 HD-CZ" tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="SPORT",EuroSports 1 
-http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
-#EXTINF:-1 tvg-name="Sports News" tvg-logo="https://i.imgur.com/DWcfDc5.png" group-title="SPORT",Sports News
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf221fad5eeee0f5a40941c/playlist.m3u8
-#EXTINF:-1 tvg-id="EDGESport" tvg-name="EDGESport" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9661e155-c5b8-43f3-9e1c-0e87cb75ae94-small3x1_STIRR_Logo_0320_EdgeSport_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="SPORT",EDGESport
-https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
-#EXTINF:-1 tvg-id="SportsGrid" tvg-name="SportsGrid" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b4765251-26e4-48e8-a5ad-f96d8a1eec77-small3x1_STIRR_Logo_0320_SportsGrid_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="SPORT",SportsGrid
-https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 
-#EXTINF:0 group-title="SPORT",ACCDN
-https://dai.google.com/linear/hls/event/yTGvKT7bT7KYi5FXpQLetQ/master.m3u8
-#EXTINF:0 group-title="SPORT",FloSports
-https://dai.google.com/linear/hls/event/VoZhF0i4SJ2t5_GdpIPCJA/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="SPORT" logo="https://1.bp.blogspot.com/-Ms4TszWlxF4/X7LQcdsjlNI/AAAAAAAAPvc/ssOueO1ivsomv1-gHeil_W4ktfp6m5hFQCLcBGAsYHQ/s0/dubai1.png", Dubai Sports
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="SPORT" logo="https://1.bp.blogspot.com/-ptauQAxdHRw/X7LQciB000I/AAAAAAAAPvg/ilOvB3SLUR09onpJm1XAYYVWRXJxQxa1wCLcBGAsYHQ/s0/dubai2.png", Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="SPORT" logo="https://1.bp.blogspot.com/-LGO3Zdy7KXc/X7LQcjjqMfI/AAAAAAAAPvk/0wrIDgVSELgeV0SgBzop46FxhrOKPy4kwCLcBGAsYHQ/s0/dubai3.jpg", Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:0 type="stream" channelId="4980" group-title="SPORT" logo="https://i.imgur.com/eytrf0Y.png", Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1" group-title="SPORT",Türkmenistan Sport
-http://217.174.225.146/legacyhls/ch004_400/index.m3u8
-#EXTINF:-1 tvg-name="Sports News" tvg-logo="https://i.imgur.com/DWcfDc5.png" group-title="SPORT",Sports News
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf221fad5eeee0f5a40941c/playlist.m3u8
-#EXTINF:-1 tvg-name="Action Sports 4U" tvg-id="" group-title="SPORT" tvg-logo="https://i.imgur.com/K2XHhWW.png",Action Sports 4U
-https://nimble.dashstreams.net/onestudio/actionsportstv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",mpremier
-http://wrioslio.altervista.org/TV/scapers/match.php?id=mpremier
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ukrfoot1
-http://wrioslio.altervista.org/TV/scapers/match.php?id=ukrfoot1
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",football2ukraine
-http://wrioslio.altervista.org/TV/scapers/match.php?id=football2ukraine
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ukrfoot3
-http://wrioslio.altervista.org/TV/scapers/match.php?id=ukrfoot3
-
-#EXTINF:-1 " group-title="SPORT",Trace Sports
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Abu Dhabi Sports 1 
-http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Abu Dhabi Sports 2
-http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Eurosports 1
-http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",PLAY SPORTS
-https://playerstv-samsungca.amagi.tv/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Nova Sport
-http://78.83.191.18:8000/play/a04a
-#EXTINF:-1 " group-title="SPORT",A Spor
-https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
-#EXTINF:-1 " group-title="SPORT",A SPOR HD
-https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
-#EXTINF:-1 " group-title="SPORT",A SPOR SD
-http://mugla.tvizlehd.com/live/aspor.m3u8
-#EXTINF:-1 " group-title="SPORT",A Sports
-http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 " group-title="SPORT",A SPORTS HD
-http://103.157.201.11:9000/play/a017/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Abu Dabi Sports 2
-http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 " group-title="SPORT",Abu Dabi Sports 3
-http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 " group-title="SPORT",ABU DHABI SPORT 1 HD
-http://admdn1.cdn.mangomolo.com/adsports1/adsports1.stream_720p/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",ABU DHABI SPORT 2 HD
-http://admdn5.cdn.mangomolo.com/adsports2/adsports2.stream_720p/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",ABU DHABI SPORT 3 HD
-http://admdn3.cdn.mangomolo.com/adsports3/adsports3.stream_720p/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",Abu Dhabi Sports 1
-https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 " group-title="SPORT",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/HasBahCa.m3u8
-#EXTINF:-1 " group-title="SPORT",Abu Dhabi Sports 1
-http://149.62.183.198:8000/play/a08m/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Abu Dhabi Sports 1
-http://45.94.31.195:7001/play/a0d1
-#EXTINF:-1 " group-title="SPORT",Abu Dhabi Sports 1
-http://149.62.183.214:8000/play/a07z/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 " group-title="SPORT",ABU DHABI SPORTS 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 " group-title="SPORT",Abu Dhabi Sports 2
-http://149.62.183.198:8000/play/a08o/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Abu Dhabi Sports 2
-http://45.94.31.195:7001/play/a0d3
-#EXTINF:-1 " group-title="SPORT",Abu Dhabi Sports 2
-http://149.62.183.214:8000/play/a080/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 " group-title="SPORT",Abu Dhabi Sports 3
-https://admdn3ta.cdn.mgmlcdn.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 " group-title="SPORT",Abu Dhabi Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 " group-title="SPORT",ACC Network (720p)
-https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
-#EXTINF:-1 " group-title="SPORT",AD Sport 1 HD
-http://45.94.31.190:7004/play/a0cq
-#EXTINF:-1 " group-title="SPORT",AD Sport 2 HD
-http://45.94.31.190:7004/play/a0cr
-#EXTINF:-1 " group-title="SPORT",Ad Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF:-1 " group-title="SPORT",Ad Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Ad Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF:-1 " group-title="SPORT",Ad Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Ad Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",AD Sports 3 HD
-http://45.94.31.195:7001/play/a0d6
-#EXTINF:-1 " group-title="SPORT",AD Sports 3 HD
-http://149.62.183.214:8000/play/a083/index.m3u8
-#EXTINF:-1 " group-title="SPORT",AD Sports 4 HD
-http://45.94.31.195:7001/play/a0d7
-#EXTINF:-1,AD Sports 4 HD
-http://149.62.183.214:8000/play/a084/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Adventure Sports Network (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",AL Bahrain Sport 1
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/HasBahCa.m3u8
-#EXTINF:-1 " group-title="SPORT",Al Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Al-Nahar Sport
-http://149.62.183.198:8000/play/a05n/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Al-Nahar Sport
-http://149.62.183.214:8000/play/a026/index.m3u8
-#EXTINF:-1 " group-title="SPORT",ALL SPORTS
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w2098688672.m3u8
-#EXTINF:-1 " group-title="SPORT",All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/HasBahCa.m3u8
-#EXTINF:-1 " group-title="SPORT",All Sports (1080p)
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
-#EXTINF:-1 " group-title="SPORT",All Sports (1080p)
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/HasBahCa.m3u8
-#EXTINF:-1 " group-title="SPORT",ALL Sports Brasil
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",ALRabiaa Sport
-http://45.94.31.190:7004/play/a0b2
-#EXTINF:-1 " group-title="SPORT",Antena Sport
-https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",AntenaSport (720p)
-https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",AntenaSport (720p)
-https://stream1.antenaplay.ro/dfs/farasecrete5/HasBahCa.m3u8
-#EXTINF:-1 " group-title="SPORT",Arryadia Спорт HD
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Art Sports
-http://tv3.streampulse.eu:1935/tilesport/movie2/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",Auto Motor Sport
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&deviceId=5f760c3d41aa2d0007bfde19&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:-1 " group-title="SPORT",AZ:CBC SPORT SD
-http://mugla.tvizlehd.com/live/cbcsport.m3u8
-#EXTINF:-1 " group-title="SPORT",Bahrain Sport 1
-http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",Bahrain Sports 1
-http://185.105.4.106:1935/live/Bahrain%20Sports/HasBahCa.m3u8
-#EXTINF:-1 " group-title="SPORT",Bahrain Sports 1 (720p)
-http://185.105.4.106:1935/live/Bahrain+Sports/HasBahCa.m3u8
-#EXTINF:-1 " group-title="SPORT",Bahrain Sports 1 (720p)
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Band Sports
-http://177.104.160.101:8000/play/a006
-#EXTINF:-1 " group-title="SPORT",Bek Sports East | HD
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Bek Sports West
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Bek Sports West | HD
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Best4Sports HD
-http://s1.tvshka.net/~shF4slbHFWtXs/437/
-#EXTINF:-1 " group-title="SPORT",Billiard TV
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-#EXTINF:-1 " group-title="SPORT",BOXING 2
-https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
-#EXTINF:-1 " group-title="SPORT",CANAL+ SPORT HD
-http://89.249.49.78:8000/play/a03q
-#EXTINF:-1 " group-title="SPORT",CANAL+ SPORT HD
-http://89.249.49.78:8000/play/a03k
-#EXTINF:-1 " group-title="SPORT",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 " group-title="SPORT",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 " group-title="SPORT",DD SPORTS
-http://103.153.39.36:9981/stream/channelid/1826215862?profile=pass
-#EXTINF:-1 " group-title="SPORT",DEPOR-Fox Sports 2
-http://190.187.200.69:8000/play/a01k
-#EXTINF:-1 " group-title="SPORT",DEPOR-Fox Sports 3
-http://190.187.200.69:8000/play/a01l
-#EXTINF:-1 " group-title="SPORT",Dogs 24/7 [Pluto]
-https://bit.ly/dogs24-7?/3000.m3u8
-#EXTINF:-1 " group-title="SPORT",Dubai Movie
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 " group-title="SPORT",Dubai Racing 2
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 " group-title="SPORT",Dubai Racing 2 HD
-http://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",Dubai Racing 3
-http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/HasBahCa.m3u8
-#EXTINF:-1 " group-title="SPORT",Dubai Racing 3 HD
-http://dmithrvll.cdn.mangomolo.com/dubaimubasher/dubaimubasher/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",Dubai Racing HD
-http://dmisvthvll.cdn.mangomolo.com/events/events/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",Dubai Sport 3
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/38
-#EXTINF:-1 " group-title="SPORT",Dubai Sports
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/HasBahCa.m3u8
-#EXTINF:-1 " group-title="SPORT",Dubai Sports 1
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 " group-title="SPORT",DUBAI SPORTS 1 FHD
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 " group-title="SPORT",DUBAI SPORTS 2 FHD
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 " group-title="SPORT",Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 " group-title="SPORT",DUBAI SPORTS 3 FHD
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",Edge Sport
-https://edgesports-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Edge Sport
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Edge Sport
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Edge Sport (1080p)
-https://edgesport-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Edge Sportᴴᴰ
-https://edgesport-samsungus.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 " group-title="SPORT",Edge Sportᴴᴰ [plex]
-https://edgesports-plex.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 " group-title="SPORT",EdgeSport
-https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",EDGEsport
-https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Eleven Sports (720p)
-https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",ELEVEN SPORTS 4 HD
-http://89.249.49.78:8000/play/a03h
-#EXTINF:-1 " group-title="SPORT",Esport 3
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Esport3 (1080p)
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
-#EXTINF:-1 " group-title="SPORT",Esport3 (1080p)
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/HasBahCa.m3u8
-#EXTINF:-1 " group-title="SPORT",Esport3hd
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b4128000_DVR.m3u8
-#EXTINF:-1 " group-title="SPORT",ESR eSports Network (1080p)
-https://eyeonesports.com/ES2RA-628g.m3u8
-#EXTINF:-1 " group-title="SPORT",Eurosport
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8
-#EXTINF:-1 " group-title="SPORT",EUROSPORT 1
-http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9408
-#EXTINF:-1 " group-title="SPORT",Eurosport 1 HD
-http://89.249.49.78:8000/play/a0c1
-#EXTINF:-1 " group-title="SPORT",Eurosport 1 HD
-http://185.236.229.53:9981/play/a006
-#EXTINF:-1 " group-title="SPORT",Eurosport 1[osc_tv_srg]
-http://82.194.1.2:8016/play/E36_11785R_SID1329/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Eurosport 2
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8
-#EXTINF:-1 " group-title="SPORT",Extreme Sports
-https://sc.id-tv.kz/ExtremeSportsHD_34_35.m3u8
-#EXTINF:-1 " group-title="SPORT",Extreme Sports
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_EXTREMESPORTS/variant.m3u8
-#EXTINF:-1 " group-title="SPORT",Extreme Sports Channel
-http://78.109.104.240:8000/play/a0cz/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Fidotvhd
-https://dai.google.com/linear/hls/event/qd8D8TtbQ-2fFw5-1sZiWQ/master.m3u8
-#EXTINF:-1 " group-title="SPORT",FIGHT BOX
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 " group-title="SPORT",Fight Network
-https://bit.ly/FightNetwork?/index.m3u8
-#EXTINF:-1 " group-title="SPORT",FIGHT SPORTS (1080p)
-https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Fite (720p)
-https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Fite (720p) [Not 24/7]
-https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Fuel TV (Mexico) (1080p)
-https://fueltv-fueltv-11-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Fuel tvhd [samsungtv]
-https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 " group-title="SPORT",Glory Kickboxing (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Golf New TV HD
-https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",GolfPass [Pluto]
-https://bit.ly/golfpassusa?/5.m3u8
-#EXTINF:-1 " group-title="SPORT",grvty (1080p)
-https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Hard Knocks (720p)
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Harley Davidson Factory TV EN
-https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
-#EXTINF:-1 " group-title="SPORT",Harley Davidson Racing TV EN
-https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
-#EXTINF:-1 " group-title="SPORT",Harley Davidson Rides TV EN
-https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
-#EXTINF:-1 " group-title="SPORT",M4 Sport
-http://78.109.104.240:8000/play/a0ao/index.m3u8
-#EXTINF:-1 " group-title="SPORT",maroc SPORT
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 " group-title="SPORT",Mat TV
-https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",MAVTV Motorsports Network
-https://84f081227bc1418984b9e3dcaa985b2b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_MAVTVMotorSportsNetwork/playlist.m3u8?ads.wurl_channel=611&ads.wurl_name=MAVTVMotorSportsNetwork&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 " group-title="SPORT",Nile Sport
-http://149.62.183.198:8000/play/a08b/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Nile Sport
-http://45.94.31.195:7002/play/a0ek
-#EXTINF:-1 " group-title="SPORT",Nile Sport
-http://149.62.183.214:8000/play/a04b/index.m3u8
-#EXTINF:-1 " group-title="SPORT",Nitro Circus (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?deviceid=&is_lat=&p=redbox&subp=RedboxdesktopWebWindows
-#EXTINF:-1 " group-title="SPORT",Nova Sport
-http://78.83.191.18:8000/play/a04a
-#EXTINF:-1 " group-title="SPORT",Now Spots Prime
-http://livetv.dnsfor.me/channel.12.m3u8
-#EXTINF:-1 " group-title="SPORT",Oman Sports
-http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 " group-title="SPORT",Oman TV Sport HD
-http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/HasBahCa.m3u8
-#EXTINF:-1 " group-title="SPORT",OMAN TV Sport HD
-http://149.62.183.214:8000/play/a058/index.m3u8
-#EXTINF:-1 " group-title="SPORT",ORF Sport + (540p)
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
-#EXTINF:-1 " group-title="SPORT",Pac 12 Insider (1080p)
-https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Palestine Sport
-http://149.62.183.214:8000/play/a0dt/index.m3u8
-#EXTINF:-1 " group-title="SPORT",PTV SPORTS HD
-http://103.157.201.11:9000/play/a00h/index.m3u8
-#EXTINF:-1 " group-title="SPORT",PTV-SPORTS-HD
-http://103.153.39.36:9981/stream/channelid/2015951772?profile=pass
-#EXTINF:-1 " group-title="SPORT",Qazsport KZ HD
-http://92.46.127.146:8080/qazsport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 " group-title="SPORT",Realitatea Sportiva
-https://streamx.realitatea.net/realitatea/sportiva_hd/playlist.m3u8
-#EXTINF:-1 " group-title="SPORT",Red Bull TV HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 " group-title="SPORT",Red Bull TV Sports (akamai)
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 " group-title="SPORT",Red Bull TV UHD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?982608228290.m3u8
-#EXTINF:-1 " group-title="SPORT",Ring of Honor
-https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/3000.m3u8
-#EXTINF:-1 " group-title="SPORT",RTV San Marino Sport HD
-http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
-#EXTINF:-1 " group-title="SPORT",San Marino RTV Sport
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
-#EXTINF:-1 " group-title="SPORT",Swiss Sport TV (Adaptative)
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/HasBahCa.m3u8
-#EXTINF:-1 " group-title="SPORT",TRT 3 Spor
-http://195.155.98.170:5858/play/a09m
-#EXTINF:-1 " group-title="SPORT",TRT SPOR
-https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
-#EXTINF:-1 " group-title="SPORT",TRT SPOR SD
-http://mugla.tvizlehd.com/live/trtspor.m3u8
-#EXTINF:-1 " group-title="SPORT",TRT SPOR YILDIZ SD
-http://mugla.tvizlehd.com/live/trtspor2.m3u8
-#EXTINF:-1 " group-title="SPORT",TRT Spor Yıldız
-https://mn-nl.mncdn.com/blutv_trtsporyildiz_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 " group-title="SPORT",TRT SPOR2 YILDIZ
-https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
-#EXTINF:-1 " group-title="SPORT",TSD SPORT CR
-https://inliveserver.com:1936/15006/15006/HasBahCa.m3u8
 #EXTINF:-1 " group-title="SPORT",Turkmen Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 " group-title="SPORT",Turkmenistan Sport
@@ -2244,6 +1810,38 @@ http://artemis74.zapto.org:80/Cliefr4004/CzYwkWB5xa/154
 #EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SD" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",ZONA DAZN SD
 http://artemis74.zapto.org:80/Cliefr4004/CzYwkWB5xa/156
 
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SD" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",Zona Dazn
+http://ice.afinrumunn.xyz:80/AJ7HRnHlkD/V4Cm86Ruqt/67563
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SD" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",Dazn Diretta Gol SERIE A
+http://ice.afinrumunn.xyz:80/AJ7HRnHlkD/V4Cm86Ruqt/72165
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SD" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",Dazn Diretta Gol SERIE B
+http://ice.afinrumunn.xyz:80/AJ7HRnHlkD/V4Cm86Ruqt/72166
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SD" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",Dazn 1
+http://ice.afinrumunn.xyz:80/AJ7HRnHlkD/V4Cm86Ruqt/67564
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SD" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",Dazn 2
+http://ice.afinrumunn.xyz:80/AJ7HRnHlkD/V4Cm86Ruqt/67565
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SD" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",Dazn 3
+http://ice.afinrumunn.xyz:80/AJ7HRnHlkD/V4Cm86Ruqt/67566
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SD" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",Dazn 4
+http://ice.afinrumunn.xyz:80/AJ7HRnHlkD/V4Cm86Ruqt/67567
+#EXTINF:-1,Dazn 5
+http://ice.afinrumunn.xyz:80/AJ7HRnHlkD/V4Cm86Ruqt/67568
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SD" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",Dazn 6
+http://ice.afinrumunn.xyz:80/AJ7HRnHlkD/V4Cm86Ruqt/67569
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SD" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",Dazn 7
+http://ice.afinrumunn.xyz:80/AJ7HRnHlkD/V4Cm86Ruqt/67570
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SD" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",Dazn 8
+http://ice.afinrumunn.xyz:80/AJ7HRnHlkD/V4Cm86Ruqt/67571
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SD" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",Dazn 9 HD
+http://ice.afinrumunn.xyz:80/AJ7HRnHlkD/V4Cm86Ruqt/72167
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SD" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",Dazn 10 HD
+http://ice.afinrumunn.xyz:80/AJ7HRnHlkD/V4Cm86Ruqt/72168
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SD" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",Dazn 11 HD
+http://ice.afinrumunn.xyz:80/AJ7HRnHlkD/V4Cm86Ruqt/72169
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SD" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",Dazn 12 HD
+http://ice.afinrumunn.xyz:80/AJ7HRnHlkD/V4Cm86Ruqt/72170
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SD" tvg-logo="http://private.artemis74.xyz:80/images/45851ab26a1388021eb1f46c21ed7cd5.png" group-title="SPORT",Dazn Inter TV
+http://ice.afinrumunn.xyz:80/AJ7HRnHlkD/V4Cm86Ruqt/76493
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="SPORT ACE",=== SPORT ACE ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
@@ -2702,6 +2300,8 @@ http://295617325734456615.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/456615.ts
 #EXTINF:-1 tvg-id="rsila2.ch" tvg-name="CH: RSI LA 2" tvg-logo="" group-title="Altri Canali Nazionali",CH: RSI LA 2
 http://295617325734752974.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/752974.ts
 
+#EXTINF:-1 tvg-id="rsila2.ch" tvg-name="CH: RSI LA 2" tvg-logo="" group-title="Altri Canali Nazionali",Caccia e pesca
+http://ice.afinrumunn.xyz:80/AJ7HRnHlkD/V4Cm86Ruqt/62144
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax.png" group-title="Altri Canali Nazionali",DMAX
 https://i.mjh.nz/SamsungTVPlus/ITBD4400001X5.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/food-network.png" group-title="Altri Canali Nazionali",Food Network
