@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 31/03/24---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 01/04/24---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -801,15 +801,15 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/QhJ38Hx.png",Fashion TV UHD (2160p)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-EXTINF:-1 group-title="4K" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",Akwarium 4K
+#EXTINF:-1 group-title="4K" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",Akwarium 4K
 http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
-EXTINF:-1 group-title="4K" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",ANIMALS 4K
+#EXTINF:-1 group-title="4K" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",ANIMALS 4K
 http://iptv.prosto.tv:7000/ch316/video.m3u8?secret=191yc7ul
-EXTINF:-1 group-title="4K" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",NEWS 4K
+#EXTINF:-1 group-title="4K" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",NEWS 4K
 http://iptv.prosto.tv:7000/ch312/video.m3u8?secret=191yc7ul
-EXTINF:-1 group-title="4K" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",Stream CITY 4K
+#EXTINF:-1 group-title="4K" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",Stream CITY 4K
 http://iptv.prosto.tv:7000/ch321/video.m3u8?secret=191yc7ul
-EXTINF:-1 group-title="4K" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",TRAVEL XP 4K
+#EXTINF:-1 group-title="4K" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",TRAVEL XP 4K
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 
 
@@ -1493,6 +1493,21 @@ http://ip.yellow-star.info:8080/Erosamico1io95/8YtRsuYRtErqQ78C/161957
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",PT: SPORT TV 3
 http://ip.yellow-star.info:8080/Erosamico1io95/8YtRsuYRtErqQ78C/161966
 
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="https://docdog.top/logo/countries/portugal/sport-tv-mais-pt.png" group-title="SPORT",PT: SPORT TV +
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/99483
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv1.png" group-title="SPORT",PT: SPORT TV 1 HD
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/99484
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv2.png" group-title="SPORT",PT: SPORT TV 2 HD
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/99485
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv3.png" group-title="SPORT",PT: SPORT TV 3 HD
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/99486
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv4.png" group-title="SPORT",PT: SPORT TV 4 HD
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/99487
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5 HD" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv5.png" group-title="SPORT",PT: Sport TV 5 HD
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/99488
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6 HD" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv6.png" group-title="SPORT",PT: Sport TV 6 HD
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/99489
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV + HD" tvg-logo="http://stream.geoiptv.live/channels_icon/37029653971.png" group-title="SPORT",PT: Sport TV + HD
 http://ott1.live:8080/Livetvontelegram200/Live@400conx/84122
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1 SD" tvg-logo="http://stream.geoiptv.live/channels_icon/63958668851.png" group-title="SPORT",PT: Sport TV 1 SD
@@ -1578,7 +1593,7 @@ http://ott1.live:8080/Livetvontelegram200/Live@400conx/75713
 http://ott1.live:8080/Livetvontelegram200/Live@400conx/75714
 #EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports MAX 5 HD" tvg-logo="https://static.epg.best/fr/Bein5Max.fr.png" group-title="SPORT",FR: beIN Sports MAX 5 HD
 http://ott1.live:8080/Livetvontelegram200/Live@400conx/75715
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 6 HD" tvg-logo="https://static.epg.best/fr/Bein6Max.fr.png" group-title="FRANCE HD & 4K",FR: beIN Sports Max 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 6 HD" tvg-logo="https://static.epg.best/fr/Bein6Max.fr.png" group-title="SPORT",FR: beIN Sports Max 6 HD
 http://ott1.live:8080/Livetvontelegram200/Live@400conx/75716
 #EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports MAX 8 HD" tvg-logo="https://static.epg.best/fr/Bein8Max.fr.png" group-title="SPORT",FR: beIN Sports MAX 8 HD
 http://ott1.live:8080/Livetvontelegram200/Live@400conx/75718
@@ -1620,6 +1635,26 @@ http://ip.yellow-star.info:8080/Erosamico1io95/8YtRsuYRtErqQ78C/73483
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",FR: BEIN SPORT MAX HD 9
 http://ip.yellow-star.info:8080/Erosamico1io95/8YtRsuYRtErqQ78C/73484
 
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/bein-sports-1-french-fr.png" group-title="SPORT",FR: BEIN SPORTS 1
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/373
+#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/france/bein-sports-2-french-fr.png" group-title="SPORT",FR: BEIN SPORTS 2
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/374
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/france/bein-sports-3-french-fr.png" group-title="SPORT",FR: BEIN SPORTS 3
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/375
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/beinsportmax4.png" group-title="SPORT",FR: BEIN SPORT MAX 4
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/376
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/beinsportmax5.png" group-title="SPORT",FR: BEIN SPORT MAX 5
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/377
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/beinsportmax6.png" group-title="SPORT",FR: BEIN SPORT MAX 6
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/378
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/beinsportmax7.png" group-title="SPORT",FR: BEIN SPORT MAX 7
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/379
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/beinsportmax8.png" group-title="SPORT",FR: BEIN SPORT MAX 8
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/380
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 9" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/logo/countries/france/beinsportmax9.png" group-title="SPORT",FR: BEIN SPORT MAX 9
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/381
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/beinsportmax10.png" group-title="SPORT",FR: BEIN SPORT MAX 10
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/382
 
 
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-country="TM" tvg-language="Turkmen" tvg-logo="" group-title="SPORT",Türkmenistan Sport
@@ -1644,6 +1679,13 @@ http://wrioslio.altervista.org/TV/scapers/match.php?id=eurosport1rus
 http://wrioslio.altervista.org/TV/scapers/match.php?id=ruseuro2
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",bel555
 http://wrioslio.altervista.org/TV/scapers/match.php?id=bel555
+
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH FUTBOLL 1" tvg-logo="https://docdog.top/logo/countries/russian/MATCHFUTBOLL1.png" group-title="SPORT",RUS: MATCH FUTBOLL 1
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/4265
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH FUTBOLL 2" tvg-logo="https://docdog.top/logo/countries/russian/MATCHFUTBOLL2.png" group-title="SPORT",RUS: MATCH FUTBOLL 2
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/4266
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH FUTBOLL 3" tvg-logo="https://docdog.top/logo/countries/russian/index.png" group-title="SPORT",RUS: MATCH FUTBOLL 3
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/4267
 
 
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",DE: DAZN 1 HD
@@ -1760,6 +1802,37 @@ http://295617325734379551.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/379551.ts
 http://295617325734456615.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/456615.ts
 #EXTINF:-1 tvg-id="rsila2.ch" tvg-name="CH: RSI LA 2" tvg-logo="" group-title="SPORT",CH: RSI LA 2
 http://295617325734752974.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/752974.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BAR UNO FULL HD (SERIE A)" tvg-logo="" group-title="SPORT",SKY SPORT BAR UNO FULL HD (SERIE A)
+http://magnifictvlive.ddns.net:23000/tIglsLBWGj/Jld5WMMZBZ/39290
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BAR UNO HD (SERIE A)" tvg-logo="" group-title="SPORT",SKY SPORT BAR UNO HD (SERIE A)
+http://magnifictvlive.ddns.net:23000/tIglsLBWGj/Jld5WMMZBZ/39291
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BAR UNO SD (SERIE A)" tvg-logo="" group-title="SPORT",SKY SPORT BAR UNO SD (SERIE A)
+http://magnifictvlive.ddns.net:23000/tIglsLBWGj/Jld5WMMZBZ/39292
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BAR DUE FULL HD (SERIE A)" tvg-logo="" group-title="SPORT",SKY SPORT BAR DUE FULL HD (SERIE A)
+http://magnifictvlive.ddns.net:23000/tIglsLBWGj/Jld5WMMZBZ/39293
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BAR DUE HD (SERIE A)" tvg-logo="" group-title="SPORT",SKY SPORT BAR DUE HD (SERIE A)
+http://magnifictvlive.ddns.net:23000/tIglsLBWGj/Jld5WMMZBZ/39294
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BAR DUE SD (SERIE A)" tvg-logo="" group-title="SPORT",SKY SPORT BAR DUE SD (SERIE A)
+http://magnifictvlive.ddns.net:23000/tIglsLBWGj/Jld5WMMZBZ/39295
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BAR PRIMEVIDEO FULL HD (CHAMPIONS LEAGUE)" tvg-logo="" group-title="SPORT",SKY SPORT BAR PRIMEVIDEO FULL HD (CHAMPIONS LEAGUE)
+http://magnifictvlive.ddns.net:23000/tIglsLBWGj/Jld5WMMZBZ/39296
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BAR PRIMEVIDEO HD (CHAMPIONS LEAGUE)" tvg-logo="" group-title="SPORT",SKY SPORT BAR PRIMEVIDEO HD (CHAMPIONS LEAGUE)
+http://magnifictvlive.ddns.net:23000/tIglsLBWGj/Jld5WMMZBZ/39297
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY SPORT CALCIO FULL HD" tvg-logo="http://live.oldtvline.com:23000/Loghi/Sky%20Sport%20Serie%20A%20Full%20HD.png" group-title="SPORT",SKY SPORT CALCIO FULL HD
+http://magnifictvlive.ddns.net:23000/tIglsLBWGj/Jld5WMMZBZ/40
+#EXTINF:-1 tvg-id="InterChannel.it" tvg-name="SKY INTER FULL HD" tvg-logo="http://live.oldtvline.com:23000/Loghi/Inter%20Channel.png" group-title="SPORT",SKY INTER FULL HD
+http://magnifictvlive.ddns.net:23000/tIglsLBWGj/Jld5WMMZBZ/108
+#EXTINF:-1 tvg-id="DAZN209.it" tvg-name="ZONA DAZN FULL HD" tvg-logo="http://live.oldtvline.com:23000/Loghi/Dazn%20SAT%201.png" group-title="SPORT",ZONA DAZN FULL HD
+http://magnifictvlive.ddns.net:23000/tIglsLBWGj/Jld5WMMZBZ/152
+#EXTINF:-1 tvg-id="DAZN209.it" tvg-name="ZONA DAZN HD" tvg-logo="http://live.oldtvline.com:23000/Loghi/Dazn%20SAT%201.png" group-title="SPORT",ZONA DAZN HD
+http://magnifictvlive.ddns.net:23000/tIglsLBWGj/Jld5WMMZBZ/151
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SD" tvg-logo="http://live.oldtvline.com:23000/Loghi/Dazn%20SAT%201.png" group-title="SPORT",ZONA DAZN SD
+
+#EXTINF:-1 tvg-id="" tvg-name="IT: ZONA DAZN" tvg-logo="https://docdog.top/logo/countries/italy/zona_dazn.png" group-title="SPORT",IT: ZONA DAZN
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/1048
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN | Inter TV" tvg-logo="https://docdog.top/logo/countries/italy/Inter_TV.png" group-title="SPORT",IT: DAZN | Inter TV
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/97240
 
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="SPORT ACE",=== SPORT ACE ===
@@ -2215,8 +2288,20 @@ http://295617325734456615.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/456615.ts
 #EXTINF:-1 tvg-id="rsila2.ch" tvg-name="CH: RSI LA 2" tvg-logo="" group-title="Altri Canali Nazionali",CH: RSI LA 2
 http://295617325734752974.ofd0120.xyz:80/play/FCL231011TR/GFBRY83745/752974.ts
 
-#EXTINF:-1 tvg-id="rsila2.ch" tvg-name="CH: RSI LA 2" tvg-logo="" group-title="Altri Canali Nazionali",Caccia e pesca
-http://ice.afinrumunn.xyz:80/AJ7HRnHlkD/V4Cm86Ruqt/62144
+#EXTINF:-1 tvg-id="Rsi La1 HD" tvg-name="RSI LA 1 HD" tvg-logo="http://live.oldtvline.com:23000/Loghi/Rsi%20LA1%20HD.png" group-title="Altri Canali Nazionali",RSI LA 1 HD
+http://magnifictvlive.ddns.net:23000/tIglsLBWGj/Jld5WMMZBZ/26043
+#EXTINF:-1 tvg-id="Rsi La2 HD" tvg-name="RSI LA 2 HD" tvg-logo="http://live.oldtvline.com:23000/Loghi/Rsi%20LA2%20HD.png" group-title="Altri Canali Nazionali",RSI LA 2 HD
+http://magnifictvlive.ddns.net:23000/tIglsLBWGj/Jld5WMMZBZ/26042
+#EXTINF:-1 tvg-id="" tvg-name="SWS: RSI 1" tvg-logo="" group-title="Altri Canali Nazionali",SWS: RSI 1
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/1982
+#EXTINF:-1 tvg-id="" tvg-name="SWS: RSI LA 2" tvg-logo="https://docdog.top/logo/countries/switzerland/rsila2.png" group-title="Altri Canali Nazionali",SWS: RSI LA 2
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/1965
+#EXTINF:-1 tvg-id="Sky Uno HD" tvg-name="SKY UNO HD" tvg-logo="http://live.oldtvline.com:23000/Loghi/Sky%20Uno%20HD..png" group-title="Altri Canali Nazionali",SKY UNO HD
+http://magnifictvlive.ddns.net:23000/tIglsLBWGj/Jld5WMMZBZ/28
+#EXTINF:-1 tvg-id="Pesca.it" tvg-name="[S+] SKY PESCA FULL HD" tvg-logo="http://live.oldtvline.com:23000/Loghi/Pesca%20e%20Caccia%20Full%20HD.png" group-title="Altri Canali Nazionali",SKY PESCA FULL HD
+http://magnifictvlive.ddns.net:23000/tIglsLBWGj/Jld5WMMZBZ/38717
+
+
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax.png" group-title="Altri Canali Nazionali",DMAX
 https://i.mjh.nz/SamsungTVPlus/ITBD4400001X5.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/food-network.png" group-title="Altri Canali Nazionali",Food Network
@@ -2327,6 +2412,22 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24301
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28883
 #EXTINF:-1 tvg-id="channel5.uk" tvg-name="CHANNEL 5 (UK)" tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQFSP4fxFnljOw/company-logo_200_200/0?e=2159024400&v=beta&t=EgWOtkDYs_M2cwaZ5760mSZC_V46gjqzzxKvA4f8-Q8" group-title="UK",CHANNEL 5 (UK)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28884
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BBC ONE" tvg-logo="https://docdog.top/logo/countries/uk/bbcone.png" group-title="UK",UK: VIP BBC ONE
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/1859
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BBC TWO" tvg-logo="https://docdog.top/logo/countries/uk/bbc2.png" group-title="UK",UK: VIP BBC TWO
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/1860
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BBC THREE" tvg-logo="https://docdog.top/logo/countries/uk/bbc3.png" group-title="UK",UK: VIP BBC THREE
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/1861
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP BBC FOUR" tvg-logo="https://docdog.top/logo/countries/uk/bbc4.png" group-title="UK",UK: VIP BBC FOUR
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/1862
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP ITV" tvg-logo="https://docdog.top/logo/countries/uk/itv1.png" group-title="UK",UK: VIP ITV
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/1773
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP ITV2" tvg-logo="https://docdog.top/logo/countries/uk/itv2.png" group-title="UK",UK: VIP ITV2
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/1774
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP ITV3" tvg-logo="https://docdog.top/logo/countries/uk/itv3.png" group-title="UK",UK: VIP ITV3
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/1775
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP ITV4" tvg-logo="https://docdog.top/logo/countries/uk/itv4.png" group-title="UK",UK: VIP ITV4
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/1776
 #EXTINF:-1 group-title="UK" tvg-logo="http://images.pluto.tv/channels/61325566b3c86a00078e4819/colorLogoPNG.png",BBC Top Gear | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61325566b3c86a00078e4819/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC Toronto
@@ -2421,6 +2522,49 @@ https://v-sd.mybtv.net/live/486/768x432.m3u8?env=prd&uid=-1&x=1
 http://patbuweb.com/iptv/e2liste/startend.avi 
 #EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Vari",M6 
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: TF1" tvg-logo="https://docdog.top/logo/countries/france/tf1-fr.png" group-title="Vari",FR: TF1
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/419
+#EXTINF:-1 tvg-id="TF1 SERIES FILMS" tvg-name="FR: TF1 SERIES AND FILM" tvg-logo="https://docdog.top/logo/countries/france/tf1seriesfilms.png" group-title="Vari",FR: TF1 SERIES AND FILM
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/420
+#EXTINF:-1 tvg-id="M6" tvg-name="FR: M6" tvg-logo="https://docdog.top/logo/countries/france/m6-fr.png" group-title="Vari",FR: M6
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/421
+#EXTINF:-1 tvg-id="W9" tvg-name="FR: W9" tvg-logo="https://docdog.top/logo/countries/france/w9-fr.png" group-title="Vari",FR: W9
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/422
+#EXTINF:-1 tvg-id="C8" tvg-name="FR: C8" tvg-logo="https://docdog.top/logo/countries/france/c8-fr.png" group-title="Vari",FR: C8
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/423
+#EXTINF:-1 tvg-id="TFX" tvg-name="FR: TFX" tvg-logo="https://docdog.top/logo/countries/france/tfx-fr.png" group-title="Vari",FR: TFX
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/424
+#EXTINF:-1 tvg-id="France 2" tvg-name="FR: FRANCE 2" tvg-logo="https://docdog.top/logo/countries/france/france-2-fr.png"Vari",FR: FRANCE 2
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/425
+#EXTINF:-1 tvg-id="France 3" tvg-name="FR: FRANCE 3" tvg-logo="https://docdog.top/logo/countries/france/france-3-fr.png" group-title="Vari",FR: FRANCE 3
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/426
+#EXTINF:-1 tvg-id="France 4" tvg-name="FR: FRANCE 4" tvg-logo="https://docdog.top/logo/countries/france/france-4-fr.png" group-title="Vari",FR: FRANCE 4
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/427
+#EXTINF:-1 tvg-id="France 5" tvg-name="FR: FRANCE 5" tvg-logo="https://docdog.top/logo/countries/france/france-5-fr.png" group-title="Vari",FR: FRANCE 5
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/428
+#EXTINF:-1 tvg-id="NRJ 12" tvg-name="FR: NRJ 12" tvg-logo="https://docdog.top/logo/countries/france/nrj-12-fr.png" group-title="Vari",FR: NRJ 12
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/429
+#EXTINF:-1 tvg-id="TMC" tvg-name="FR: TMC" tvg-logo="https://docdog.top/logo/countries/france/tmc-fr.png" group-title="Vari",FR: TMC
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/432
+#EXTINF:-1 tvg-id="RMC STORY" tvg-name="FR: RMC STORY" tvg-logo="https://docdog.top/logo/countries/france/rmc-story-fr.png" group-title="Vari",FR: RMC STORY
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/433
+#EXTINF:-1 tvg-id="RTS Deux" tvg-name="FR: RTS DEUX" tvg-logo="https://docdog.top/logo/countries/france/rtsdeux.png" group-title="Vari",FR: RTS DEUX
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/613
+#EXTINF:-1 tvg-id="RTS Un" tvg-name="FR: RTS UN" tvg-logo="https://docdog.top/logo/countries/france/rtsun.png" group-title="Vari",FR: RTS UN
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/614
+#EXTINF:-1 tvg-id="" tvg-name="SWS: RTS 2" tvg-logo="https://docdog.top/logo/countries/switzerland/rtsh2.png" group-title="Vari: RTS 2
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/1972
+#EXTINF:-1 tvg-id="" tvg-name="SWS: RTS 1" tvg-logo="https://docdog.top/logo/countries/switzerland/mysports1.png" group-title="Vari",SWS: RTS 1
+#EXTINF:-1 tvg-id="" tvg-name="SWS: RSI 1" tvg-logo="" group-title="Vari",SWS: RSI 1
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/1982
+#EXTINF:-1 tvg-id="" tvg-name="SWS: RSI LA 2" tvg-logo="https://docdog.top/logo/countries/switzerland/rsila2.png" group-title="Vari",SWS: RSI LA 2
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/1965
+#EXTINF:-1 tvg-id="" tvg-name="SWS: SRF 1" tvg-logo="https://docdog.top/logo/countries/switzerland/srf1.png" group-title="Vari",SWS: SRF 1
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/1966
+#EXTINF:-1 tvg-id="" tvg-name="SWS: SRF INFO" tvg-logo="https://docdog.top/logo/countries/switzerland/srfinfo.png" group-title="Vari",SWS: SRF INFO
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/1967
+#EXTINF:-1 tvg-id="" tvg-name="SWS: SRF 2" tvg-logo="https://docdog.top/logo/countries/switzerland/srf2.png" group-title="Vari",SWS: SRF 2
+http://tomoline.top:8080/VIP0164170992374456/44bf7bc07ba5/1974
 
 
 #EXTINF:-1 tvg-id="LA 1" tvg-name="ES: LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="Vari",ES: LA 1 HD
