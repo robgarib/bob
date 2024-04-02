@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 01/04/24---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 02/04/24---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -2302,6 +2302,8 @@ http://magnifictvlive.ddns.net:23000/tIglsLBWGj/Jld5WMMZBZ/28
 http://magnifictvlive.ddns.net:23000/tIglsLBWGj/Jld5WMMZBZ/38717
 
 
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telenorba.jpg" group-title="Altri Canali Nazionali",TeleNorba
+https://stream10.xdevel.com/video2s976570-2117/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax.png" group-title="Altri Canali Nazionali",DMAX
 https://i.mjh.nz/SamsungTVPlus/ITBD4400001X5.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/food-network.png" group-title="Altri Canali Nazionali",Food Network
