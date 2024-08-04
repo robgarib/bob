@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 03/08/24---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 04/08/24---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -1560,31 +1560,6 @@ https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tmw-radio-tv-tutto-mercato-web.png" group-title="SPORT",TMW  Radio Tv (Tutto Mercato Web)
 https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN SPORTS 1 FHD
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/450
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN SPORTS 2 FHD
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/451
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN SPORTS 3 FHD
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/453
-##EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN MAX 4 FHD
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1972
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN MAX 6 FHD
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1973
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN MAX 5 FHD
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1974
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN MAX 7 FHD
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1975
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN MAX 8 FHD
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1976
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN MAX 9 FHD
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1977
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-country="TM" tvg-language="Turkmen" tvg-logo="" group-title="SPORT",Türkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-country="TM" tvg-language="Turkmen" tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg" group-title="SPORT",Türkmenistan Sport
@@ -1608,6 +1583,25 @@ http://wrioslio.altervista.org/TV/scapers/match.php?id=ruseuro2
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",bel555
 http://wrioslio.altervista.org/TV/scapers/match.php?id=bel555
 
+
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN SPORTS 1 FHD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/450
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN SPORTS 2 FHD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/451
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN SPORTS 3 FHD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/453
+##EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN MAX 4 FHD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1972
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN MAX 6 FHD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1973
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN MAX 5 FHD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1974
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN MAX 7 FHD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1975
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN MAX 8 FHD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1976
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",||FR|| BEIN MAX 9 FHD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1977
 
 #EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORT PREMIUM 1 AR)" tvg-logo="http://ondemandvodstreaming.com/images/beinsportshd.png" group-title="SPORT",VIP SPORT: BEIN SPORT PREMIUM 1 AR)
 http://piranha.mytvonline.top:8000/Sammmaury/t4terP8/289620
@@ -1670,6 +1664,55 @@ http://piranha.mytvonline.top:8000/Sammmaury/t4terP8/289655
 #EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Tring Sport 2 (AL)" tvg-logo="http://ondemandvodstreaming.com/images/tringinternational.png" group-title="SPORT",VIP SPORT: Tring Sport 2 (AL)
 http://piranha.mytvonline.top:8000/Sammmaury/t4terP8/289656
 //piranha.mytvonline.top:8000/Sammmaury/t4terP8/307809
+
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT 1 HD" tvg-logo="http://private.artemis74.xyz:80/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SPORT",ELEVEN SPORT 1 HD
+http://artemis74.zapto.org:80/Luisopietro/Amicopietro2/123
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT 2 HD" tvg-logo="http://private.artemis74.xyz:80/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SPORT",ELEVEN SPORT 2 HD
+http://artemis74.zapto.org:80/Luisopietro/Amicopietro2/124
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT 3 HD" tvg-logo="http://private.artemis74.xyz:80/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SPORT",ELEVEN SPORT 3 HD
+http://artemis74.zapto.org:80/Luisopietro/Amicopietro2/125
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT 4 HD" tvg-logo="http://private.artemis74.xyz:80/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SPORT",ELEVEN SPORT 4 HD
+http://artemis74.zapto.org:80/Luisopietro/Amicopietro2/126
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT 5 HD" tvg-logo="http://private.artemis74.xyz:80/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SPORT",ELEVEN SPORT 5 HD
+http://artemis74.zapto.org:80/Luisopietro/Amicopietro2/127
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT 6 HD" tvg-logo="http://private.artemis74.xyz:80/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SPORT",ELEVEN SPORT 6 HD
+http://artemis74.zapto.org:80/Luisopietro/Amicopietro2/128
+
+#EXTINF:-1 tvg-id="DAZN209.it" tvg-name="Zona DAZN FHD (HM)" tvg-logo="http://vpsplug.experiencebay.xyz/loghi/dazn%201.png" group-title="SPORT",Zona DAZN FHD (HM)
+http://rw-str3ampan3l.revengworld.xyz:2052/Gennyfrat/tE406Hvm7X/49562
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Zona DAZN HD (HM)" tvg-logo="http://vpsplug.experiencebay.xyz/loghi/dazn%201.png" group-title="SPORT",Zona DAZN HD (HM)
+http://rw-str3ampan3l.revengworld.xyz:2052/Gennyfrat/tE406Hvm7X/49561
+#EXTINF:-1 tvg-id="" tvg-name="Zona Dazn" tvg-logo="" group-title="**DAZN**",Zona Dazn
+http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/67563
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Diretta Gol SERIE A" tvg-logo="" group-title="SPORT",Dazn Diretta Gol SERIE A
+http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/72165
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Diretta Gol SERIE B" tvg-logo="" group-title="SPORT",Dazn Diretta Gol SERIE B
+http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/72166
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 1" tvg-logo="" group-title="SPORT",Dazn 1
+http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/67564
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 2" tvg-logo="" group-title="SPORT",Dazn 2
+http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/67565
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 3" tvg-logo="" group-title="SPORT",Dazn 3
+http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/67566
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 4" tvg-logo="" group-title="SPORT",Dazn 4
+http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/67567
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 5" tvg-logo="" group-title="SPORT",Dazn 5
+http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/67568
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 6" tvg-logo="" group-title="SPORT",Dazn 6
+http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/67569
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 7" tvg-logo="" group-title="SPORT",Dazn 7
+http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/67570
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 8" tvg-logo="" group-title="SPORT",Dazn 8
+http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/67571
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 9 HD" tvg-logo="" group-title="SPORT",Dazn 9 HD
+http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/72167
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 10 HD" tvg-logo="" group-title="SPORT",Dazn 10 HD
+http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/72168
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 11 HD" tvg-logo="" group-title="SPORT",Dazn 11 HD
+http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/72169
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 12 HD" tvg-logo="" group-title="SPORT",Dazn 12 HD
+http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/72170
+
 #EXTINF:-1 tvg-id="" tvg-name="⚽ Zona Daznᴴᴰ" tvg-logo="http://new.magmanebrodi.xyz/images/zonadazn.png" group-title="SPORT",⚽ Zona Daznᴴᴰ
 http://piranha.mytvonline.top:8000/Sammmaury/t4terP8/307810
 #EXTINF:-1 tvg-id="" tvg-name="⚽ Zona Dazn SD" tvg-logo="http://new.magmanebrodi.xyz/images/zonadazn.png" group-title="SPORT",⚽ Zona Dazn SD
