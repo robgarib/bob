@@ -1109,6 +1109,58 @@ http://piranha.mytvonline.top:8000/Sammmaury/t4terP8/279417
 #EXTINF:-1 tvg-id="Sky Sport Calcio FHD" tvg-name="⚽ Sky Sport Serie Aᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sky_Sport_Serie_A_-_Logo_2020.svg/1280px-Sky_Sport_Serie_A_-_Logo_2020.svg.png" group-title="SPORT",⚽ Sky Sport Serie Aᴴᴰ
 http://piranha.mytvonline.top:8000/Sammmaury/t4terP8/279381
 
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| INTER CHANNEL" tvg-logo="" group-title="SPORT",DAZN IT| INTER CHANNEL
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/310848
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",DAZN IT| Eurosport 1
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/310776
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 2" tvg-logo="" group-title="SPORT",DAZN IT| Eurosport 2
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/310777
+EXTINF:-1 tvg-id="" tvg-name="ZONA SERIE A 1" tvg-logo="" group-title="SPORT",ZONA SERIE A 1
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/318418
+#EXTINF:-1 tvg-id="" tvg-name="ZONA SERIE A 2" tvg-logo="" group-title="SPORT",ZONA SERIE A 2
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/318419
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Zona Dazn" tvg-logo="" group-title="SPORT",DAZN IT| Zona Dazn
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/310775
+#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SAT FHD" tvg-logo="" group-title="SPORT",IT| ZONA DAZN SAT FHD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/334477
+#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SAT FHD HEVC" tvg-logo="" group-title="SPORT",IT| ZONA DAZN SAT FHD HEVC
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/334478
+#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SAT HD" tvg-logo="" group-title="SPORT",IT| ZONA DAZN SAT HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/334479
+#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SAT SD" tvg-logo="" group-title="SPORT",IT| ZONA DAZN SAT SD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/334480
+#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SAT 2 FHD" tvg-logo="" group-title="SPORT",IT| ZONA DAZN SAT 2 FHD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/334481
+#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SAT 2 FHD HEVC" tvg-logo="" group-title="SPORT",IT| ZONA DAZN SAT 2 FHD HEVC
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/334482
+#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SAT 2 HD" tvg-logo="" group-title="SPORT",IT| ZONA DAZN SAT 2 HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/334483
+#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN SAT 2 SD" tvg-logo="" group-title="SPORT",IT| ZONA DAZN SAT 2 SD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/334484
+#EXTINF:-1 tvg-id="" tvg-name="ZonaSerieB" tvg-logo="" group-title="SPORT",ZonaSerieB
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/334316
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="" group-title="SPORT",DAZN 1 FHD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/259163
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="SPORT",DAZN 1 HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/259164
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 SD" tvg-logo="" group-title="SPORT",DAZN 1 SD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/317936
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD" tvg-logo="" group-title="SPORT",DAZN 2 FHD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/264744
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="SPORT",DAZN 2 HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/264746
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 SD" tvg-logo="" group-title="SPORT",DAZN 2 SD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/317937
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 FHD" tvg-logo="" group-title="SPORT",DAZN 3 FHD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/264747
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="" group-title="SPORT",DAZN 3 HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/264749
+#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="SPORT" tvg-logo="http://h05t.tecnolab.top:8080/images/f75fcf9147144d89c77676db1a2042e7.png" group-title="SKY CALCIO ",SKY SPORT Calcio FULL HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/225256
+#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="SKY SPORT Calcio HD" tvg-logo="http://h05t.tecnolab.top:8080/images/f75fcf9147144d89c77676db1a2042e7.png" group-title="SPORT",SKY SPORT Calcio HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/225257
+#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="SKY SPORT Calcio SD" tvg-logo="http://h05t.tecnolab.top:8080/images/f75fcf9147144d89c77676db1a2042e7.png" group-title="SPORT",SKY SPORT Calcio SD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/225258
 
 
 
@@ -1555,17 +1607,15 @@ http://127.0.0.1:6878/ace/getstream?id=2fab201db52297f9bfbe7c44d6109369cdb29620
 
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="Canali RAI",RAI 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 tvg-id="Rsi La1 HD" tvg-name="♛ RSI LA1ᴴᴰ" tvg-logo="http://new.magmanebrodi.xyz/images/rsila1.png" group-title="Altri Canali Nazionali",♛ RSI LA1ᴴᴰ
-http://piranha.mytvonline.top:8000/Sammmaury/t4terP8/279149
-#EXTINF:-1 tvg-id="Rsi La1 HD" tvg-name="♛ RSI LA1 SD" tvg-logo="http://new.magmanebrodi.xyz/images/rsila1.png" group-title="Altri Canali Nazionali",♛ RSI LA1 SD
-http://piranha.mytvonline.top:8000/Sammmaury/t4terP8/279150
-#EXTINF:-1 tvg-id="Rsi La 2 SD" tvg-name="♛ RSI LA2ᴴᴰ" tvg-logo="http://new.magmanebrodi.xyz/images/rsila2.png" group-title="Altri Canali Nazionali",♛ RSI LA2ᴴᴰ
-http://piranha.mytvonline.top:8000/Sammmaury/t4terP8/279151
-#EXTINF:-1 tvg-id="Rsi La 2 SD" tvg-name="♛ RSI LA2 SD" tvg-logo="http://new.magmanebrodi.xyz/images/rsila2.png" group-title="Altri Canali Nazionali",♛ RSI LA2 SD
-http://piranha.mytvonline.top:8000/Sammmaury/t4terP8/279152
+#EXTINF:-1 tvg-id="RSI La1 HD" tvg-name="Rsi la 1 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/594d86867dc5aef35547365a8c32ce5b.png" group-title="Altri Canali Nazionali",Rsi la 1 HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/96434
+#EXTINF:-1 tvg-id="RSILa2.ch" tvg-name="Rsi la 2 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/21e4f1e0825693dcb9ef0670e6ed968e.png" group-title="Altri Canali Nazionali",Rsi la 2 HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/96435
 
-#EXTINF:-1 tvg-id="PESCA e Caccia SD" tvg-name="♛Pescaᴴᴰ" tvg-logo="http://new.magmanebrodi.xyz/images/cacciaepesca.png" group-title="TOP ITALIA",♛Pescaᴴᴰ
-http://piranha.mytvonline.top:8000/Sammmaury/t4terP8/279255
+#EXTINF:-1 tvg-id="ItalianFishingTv.it" tvg-name="Italian Fishing" tvg-logo="http://h05t.tecnolab.top:8080/images/2330b24b69329f6a1e210c37c179ea0e.jpg" group-title="Altri Canali Nazionali",Italian Fishing
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/114168
+#EXTINF:-1 tvg-id="Pesca.it" tvg-name="Pesca e Caccia FHD" tvg-logo="http://h05t.tecnolab.top:8080/images/e56fb1cf611d380003110a7d4dd2c564.png" group-title="Altri Canali Nazionali",Pesca e Caccia FHD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/114170
 
 
 
