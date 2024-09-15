@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 12/09/24---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 15/09/24---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -1160,7 +1160,31 @@ http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/225256
 #EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="SKY SPORT Calcio HD" tvg-logo="http://h05t.tecnolab.top:8080/images/f75fcf9147144d89c77676db1a2042e7.png" group-title="SPORT",SKY SPORT Calcio HD
 http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/225257
 #EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="SKY SPORT Calcio SD" tvg-logo="http://h05t.tecnolab.top:8080/images/f75fcf9147144d89c77676db1a2042e7.png" group-title="SPORT",SKY SPORT Calcio SD
+
 http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/225258
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/6506c36a477292725c4c524ccbf6ab88.png" group-title="SPORT",Sky Sport 24 HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/226335
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO HD" tvg-logo="http://h05t.tecnolab.top:8080/images/bf64655e0331cf5b1110e7af58c9dfd9.png" group-title="SPORT",SKY SPORT UNO HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/226339
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Sport F1 HD" tvg-logo="https://www.dropbox.com/s/o9huvjeg6u05ai0/260px-Sky_Sport_F1_-_Logo_2020_svg.png?dl=1" group-title="SPORT",Sky Sport F1 HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/136160
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGP HD" tvg-logo="https://www.dropbox.com/s/ev7u3hemsi9ix3f/260px-Sky_Sport_MotoGP_-_Logo_2020_svg.png?dl=1" group-title="SPORT",Sky Sport MotoGP HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/136163
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena HD" tvg-logo="http://h05t.tecnolab.top:8080/images/963cc68691e2d225a9fb522e194a9133.png" group-title="SPORT",Sky Sport Arena HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/226342
+#EXTINF:-1 tvg-id="SkySportFootball.it" tvg-name="Sky Sport Max HD" tvg-logo="http://h05t.tecnolab.top:8080/images/ddb5442bb340c1b5d492d86e33b47350.png" group-title="SPORT",Sky Sport Max HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/226345
+#EXTINF:-1 tvg-id="SkySportTennis.it" tvg-name="Sky Sport Tennis HD" tvg-logo="https://www.dropbox.com/s/zeswr0by0ysskh6/download%20%281%29.jpg?dl=1" group-title="SPORT",Sky Sport Tennis HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/226348
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA HD" tvg-logo="http://h05t.tecnolab.top:8080/images/e5b4a466dc44749af30309941a0f131a.png" group-title="SPORT",Sky Sport NBA HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/226352
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA SD" tvg-logo="http://h05t.tecnolab.top:8080/images/e5b4a466dc44749af30309941a0f131a.png" group-title="SPORT",Sky Sport NBA SD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/226353
+#EXTINF:-1 tvg-id="SkySportAction.it" tvg-name="SKY SPORT GOLF HD" tvg-logo="https://www.dropbox.com/s/vadj2g5qmerpm2s/download.png?dl=1" group-title="SPORT", Sky SPORT GOLF HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/226830
+#EXTINF:-1 tvg-id="" tvg-name="SKY INTER" tvg-logo="http://h05t.tecnolab.top:8080/images/ecf15fb2022d7e871281f3ecc36daa8f.jpg" group-title="SPORT",SKY INTER
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/228111
+
 
 
 
@@ -1616,6 +1640,12 @@ http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/96435
 http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/114168
 #EXTINF:-1 tvg-id="Pesca.it" tvg-name="Pesca e Caccia FHD" tvg-logo="http://h05t.tecnolab.top:8080/images/e56fb1cf611d380003110a7d4dd2c564.png" group-title="Altri Canali Nazionali",Pesca e Caccia FHD
 http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/114170
+#EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery Channel FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430" group-title="Altri Canali Nazionali",Discovery Channel FHD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/114146
+#EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430" group-title="Altri Canali Nazionali",Discovery Channel HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/114147
+#EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery Channel SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430" group-title="Altri Canali Nazionali",Discovery Channel SD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/114148
 
 
 
@@ -1633,9 +1663,6 @@ https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/
 https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/nove.png" group-title="Altri Canali Nazionali",Nove
 https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
-#EXTINF:-1,[20] 20
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/real-time.png" group-title="Altri Canali Nazionali",Real Time
 https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
 ##EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-y2ssyw3p6xna.png" group-title="Altri Canali Nazionali",Sportitalia
@@ -1659,6 +1686,8 @@ http://188.12.112.110:4000/play/a04c
 https://www.mytivu.it/Application/Channels/Cielo.php
 #EXTINF:-1 tvg-id="" tvg-name="Sky TG 24" " group-title="Altri Canali Nazionali",Sky TG 24
 https://www.mytivu.it/Application/Channels/SkyTG24.php
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="Sky Uno HD" tvg-logo="http://h05t.tecnolab.top:8080/images/b03b7aa8d8658c027fcf95f46f0734b4.png" group-title="Altri Canali Nazionali",Sky Uno HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/114125
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="Canali Musicali (Web Radio)",OttO Fm Tv
 http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
