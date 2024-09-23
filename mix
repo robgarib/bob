@@ -554,7 +554,7 @@ https://beanostudios-beanotv-1-gb.lg.wurl.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-biggestlooser-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="LG",Bigtjme (GB)
 https://amogonetworx-bigtjme-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Bizzarro Movies (IT)
+#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="LG",Bizzarro Movies (IT)
 https://minerva-bizzarromovies-1-it.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="LG",,Bloomberg TV (IT)
 https://bloomberg-bloombergtv-1-it.lg.wurl.tv/playlist.m3u8
@@ -663,7 +663,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallife-lggb
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="LG",Sportsgrid
 https://sportsgrid-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1,Strong Mans Champion League (US)
+#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="LG",Strong Mans Champion League (US)
 https://rightsboosterltd-scl-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="LG",The Pet Collective (IT)
 https://jukin-thepetcollective-1-it.lg.wurl.tv/playlist.m3u8
