@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 23/09/24---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 24/09/24---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -1288,6 +1288,67 @@ http://artemis74.zapto.org:80/Luisopietro/Amicopietro2/127
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT 6 HD" tvg-logo="http://private.artemis74.xyz:80/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SPORT",ELEVEN SPORT 6 HD
 http://artemis74.zapto.org:80/Luisopietro/Amicopietro2/128
 
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",EL3VEN SPORTS 1
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XtFV2MJ6M-RbIAD9HxTVIbE/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",EL3VEN SPORTS 1 HD
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0Xsa4SBTHKwkaH_Ie42TmsZM/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",*EL3VEN SPORTS 2
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XsIQUDt81UyT_v5rHYMuVA-/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",*EL3VEN SPORTS 2 HD
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XtvuLZAziN5lA1W41-2yxx8/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",*EL3VEN SPORTS 3
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0Xs2LFRd6W5HWN53FSbzAZjh/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",*EL3VEN SPORTS 3 HD
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XsZi73brCgAnYkTK-bPtA-6/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",*EL3VEN SPORTS 4
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XvTsIlZSy4mgmLTKJfZSoyY/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",*EL3VEN SPORTS 4 HD
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XsO1fIwuJvRxxHzIjgOV-HK/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",*EL3VEN SPORTS 5
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XsD4_icP6ecHKme5i5wzAOG/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",*EL3VEN SPORTS 5 HD
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XuCq30JxgqD3Q02tBHQm2ae/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",*EL3VEN SPORTS 6
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0Xt2qiML1kkPUxUA2RlUaAE7/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",ELEVEN SPORTS 6 HD
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0Xti5NziVJaHOj6_KrMcodDp/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",*EL3VEN XTRA 1 Full HD
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XuwRaHLBe8GuvQeo-NpK6H2/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",*EL3VEN XTRA 2 Full HD
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0Xst8k3S68PQQHdLkDpE5Dcs/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",*EL3VEN XTRA 3 Full HD
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XsarHYgSry51KMGpy9ObDrf/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",*EL3VEN XTRA 4 Full HD
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0Xu28SDx5efr2Z202ALSRR47/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",**SPORT TV 1 LOW**
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0Xvx5ca_tAp2urtyEqnjcB4r/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",**SP0RT TV 2 HD ᴴᵉᵛᶜ**
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XtU-v0DGA8ZyGuA5_JHtdYJ/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",SP0RT TV 2 HD
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XvhhMWJkhxaWPMo3vIf2UZo/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",**SP0RT TV 3**
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0Xt4jwatanjxuAnF_Bgk3Bai/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",**SP0RT TV 3 HD**
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XsP9o2Ern2dbayaf9T2ketT/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",**SPORT TV 4**
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XvN8zNFeV8eAefVaL512FoM/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",SP0RT TV 4 HD
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XvcfNSrb8WJW3_cPHmUnqNg/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",SP0RT TV 5 HD
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XuHBnjSijyfjO_1F8CSsr8R/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",**SPORT TV 6 LOW**
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0Xs5BoTobftKTDjm1Yczo7p1/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",SP0RT TV +  HD
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XvUqnxCpkWckRjgSn4Lx6TI/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",*SP0RT TV 1
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0Xuhiv9XB959k8avim7IvO5P/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",SP0RT TV 1 HD
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XtcyXU46lrpC1NhJaRuj7Bw/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",SP0RT TV 2 LOW
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XvxX5wYJyUchCUFO50DMsMe/ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN IT| Eurosport 1" tvg-logo="" group-title="SPORT",SP0RT TV 2 HD ᴴᵉᵛᶜ
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0Xtv3MAvxqTFTcYr0SCQHbUp/ts
+
 #EXTINF:-1 tvg-id="DAZN209.it" tvg-name="Zona DAZN FHD (HM)" tvg-logo="http://vpsplug.experiencebay.xyz/loghi/dazn%201.png" group-title="SPORT",Zona DAZN FHD (HM)
 http://rw-str3ampan3l.revengworld.xyz:2052/Gennyfrat/tE406Hvm7X/49562
 #EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Zona DAZN HD (HM)" tvg-logo="http://vpsplug.experiencebay.xyz/loghi/dazn%201.png" group-title="SPORT",Zona DAZN HD (HM)
@@ -2013,6 +2074,20 @@ http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",🇪🇸 ➾ TVE LA1
 https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
+#EXTINF:-1 tvg-logo="https://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png" group-title="Vari",**LA 1**
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XvT12eZxmUCJWviIAyL5ZNc/ts
+#EXTINF:-1 tvg-logo="https://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png" group-title="Vari",LA 2
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0Xsu2JXrZPTN20rh1nORpf_p/ts
+#EXTINF:-1 tvg-logo="https://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png" group-title="Vari",**TVE INTERNACIONAL**
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XsG-dDyUS7LJNbbq2SEa6-X/ts
+#EXTINF:-1 tvg-logo="https://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png" group-title="Vari",**ANTENA 3**
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XuVDPCQPHf37fOqsUPZKH0U/ts
+#EXTINF:-1 tvg-logo="https://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png" group-title="Vari",CUATRO
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0Xs32x-nclEIE0jlF-OFFlty/ts
+#EXTINF:-1 tvg-logo="https://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png" group-title="Vari",**TELECINCO**
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0Xt3-yyJ0GCj129x_ALh73PW/ts
+#EXTINF:-1 tvg-logo="https://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png" group-title="Vari",LA SEXTA
+http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XthMUpxfAssrOwxJ7YX8nnz/ts
 #EXTINF:-1 tvg-logo="https://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png" group-title="Vari",Canal 4 Tenerife
 https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" group-title="Vari",Aragon TV
