@@ -33,7 +33,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&force
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-italia-ty5rx7ftlz8m.jpg" group-title="Canali RAI",RAI Italia Africa 
 https://ilglobotv-live.global.ssl.fastly.net/RAIItaliaSudAfrica/Live.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-italia-usa.png" group-title="Canali RAI",RAI Italia USA
-https://tln-live.pc.cdn.bitgravity.com/live/content/TLN8-RAI-Italia/TLN_HLS_CLEAR/TLN8-RAI-Italia.m3u8
+https://la7live-secure.akamaized.net/RaiLatam/Live_1080_5000k.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-movie-pfi6w4ycsdmh.png" group-title="Canali RAI",Rai Movie
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
@@ -1942,7 +1942,7 @@ http://127.0.0.1:6878/ace/getstream?id=2fab201db52297f9bfbe7c44d6109369cdb29620
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-italia-ty5rx7ftlz8m.jpg" group-title="Canali RAI",RAI Italia Africa 
 https://ilglobotv-live.global.ssl.fastly.net/RAIItaliaSudAfrica/Live.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-italia-usa.png" group-title="Canali RAI",RAI Italia USA
-https://tln-live.pc.cdn.bitgravity.com/live/content/TLN8-RAI-Italia/TLN_HLS_CLEAR/TLN8-RAI-Italia.m3u8
+https://la7live-secure.akamaized.net/RaiLatam/Live_1080_5000k.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/mediaset-italia.png" group-title="Canali Mediaset ",Mediaset Italia
 https://ilglobotv-live.global.ssl.fastly.net/MediasetItalia/Live.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="Canali RAI",RAI 4K
