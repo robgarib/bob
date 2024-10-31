@@ -2283,16 +2283,12 @@ http://miarea.vip:8080/PicoteDemo/vccjAc89v2/57556
 https://livevideo01.wwltv.com/hls/live/2016516/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="KGW.us" tvg-name="NBC 8 Portland OR (KGW)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tekKgXi.jpg" group-title="USA",NBC 8 Portland OR (KGW) (1080p)
 https://livevideo01.kgw.com/hls/live/2015506/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" nome-tvg="NBC New York" tvg-logo="https://i.imgur.com/vn7yHlF.jpg" group-title="USA",NBC New York 
-http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-id="WJLA.us" tvg-name="ABC 7 Washington DC (WJLA)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LttuGfq.png" group-title="USA",ABC 7 Washington DC (WJLA) (720p)
 https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9HxlD7c.jpg" group-title="USA",NewsNOW from FOX
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" nome-tvg="" tvg-language="" tvg-logo="https://i.imgur.com/ocMGZM6.png" group-title="USA",PBS KET 
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/QbkW7zY.png" tvg-name="Las Vegas - 13 Action News" group-title="USA",Las Vegas - 13 Action News
-https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live
 
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Vari",=== Vari ===
