@@ -2363,7 +2363,7 @@ http://200.59.188.3:8000/play/a08n
 http://200.59.188.3:8000/play/a08y
 #EXTINF:-1 tvg-id="" tvg-name="ES | Antena 3 Int" tvg-logo="" group-title="Vari",ES | Antena 3 Int
 http://simplesolutions123.com:2999/kratorius/opLcbhlXaT/10794
-EXTINF:-1 tvg-id="" tvg-name="|FR.4K| TF1" tvg-logo="https://i.hizliresim.com/31ogwpv.png" group-title="Vari",|FR.4K| TF1
+#EXTINF:-1 tvg-id="" tvg-name="|FR.4K| TF1" tvg-logo="https://i.hizliresim.com/31ogwpv.png" group-title="Vari",|FR.4K| TF1
 http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813490.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|FR.4K| TF1 +1" tvg-logo="https://i.hizliresim.com/31ogwpv.png" group-title="Vari",|FR.4K| TF1 +1
 http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813491.m3u8
