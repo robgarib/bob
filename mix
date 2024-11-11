@@ -1486,7 +1486,7 @@ http://smartnow.tk:8080/hudsongalo/qwe123321/2206
 #EXTINF:-1 tvg-id="ELEVENSPORT 6 HD" tvg-name="Portugal- Eleven Sports 6 HD 720" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports6.png" group-title="SPORT",Portugal- Eleven Sports 6 HD 720
 http://smartnow.tk:8080/hudsongalo/qwe123321/2207
 
-EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 1 FHD" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 1 FHD" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 1 FHD
 http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813164.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 2 HD" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 2 HD
 http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813165.m3u8
@@ -2295,7 +2295,7 @@ http://miarea.vip:8080/PicoteDemo/vccjAc89v2/57556
 http://smartnow.tk:8080/hudsongalo/qwe123321/4800
 #EXTINF:-1 tvg-id="" tvg-name="USA- BBC AMERICA" tvg-logo="" group-title="USA",USA- BBC AMERICA
 http://smartnow.tk:8080/hudsongalo/qwe123321/4972
-#EXTINF:-1 tvg-id="" tvg-name="USA: BBC America FHD" tvg-logo="https://logo.iptveditor.com/bbcamerica.png" group-title="USA)",USA: BBC America FHD
+#EXTINF:-1 tvg-id="" tvg-name="USA: BBC America FHD" tvg-logo="https://logo.iptveditor.com/bbcamerica.png" group-title="USA",USA: BBC America FHD
 http://smartnow.tk:8080/hudsongalo/qwe123321/17031
 #EXTINF:-1 tvg-id="" tvg-name="BBC Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/BBC_Entertainment_Logo.svg/1280px-BBC_Entertainment_Logo.svg.png" group-title="USA",BBC Entertainment
 http://smartnow.tk:8080/hudsongalo/qwe123321/15848
