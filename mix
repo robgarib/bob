@@ -2304,4 +2304,43 @@ http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XthMUpxfAssr
 https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" group-title="Vari",Aragon TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTM3U
+#EXTINF:-1,CARAC TV 1
+https://edge11.vedge.infomaniak.com/livecast/ik:event/chunklist_w265470790_DVR.m3u8
+#EXTINF:-1,CARAC TV 2
+https://edge17.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist_w1449050382_b3000000.m3u8
+#EXTINF:-1,CARAC TV 3
+https://edge13.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist_w337012339_b3000000.m3u8
+#EXTINF:-1,CARAC TV 4
+https://edge19.vedge.infomaniak.com/livecast/ik:compack_media_1/chunklist_w1458474290_b3000000.m3u8
+#EXTINF:-1 group-title="India Bangladesh-BANGLA",Travel Channel
+https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
+#EXTINF:-1 group-title="India Bangladesh-BANGLA" tvg-logo="http://tv.bapacom.net/assets/images/Travel%20XP1664976451.png",Travel Channel (BD)
+https://varun-iptv.netlify.app/m3u/TRAVEL_Channel.m3u8
+#EXTINF:-1 group-title="Latino_MIX 1",TVE
+http://45.167.3.81:45000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="Latino_MIX 2",TVE
+http://200.59.188.3:8000/play/a05n
+#EXTINF:-1 group-title="Spain" tvg-logo="https://i.ibb.co/fqg1vfr/24h.png",TVE 24 H
+https://d3pfmk89wc0vm9.cloudfront.net/24H_ES.m3u8
+#EXTINF:-1 group-title="Spain" tvg-logo="https://i.ibb.co/fqg1vfr/24h.png",TVE 24 H (backup)
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0020/3380/brand.gif?itok=EYTnR2xN",TVE 24h
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_576.m3u8
+#EXTINF:-1 group-title="Spain" tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg",TVE CLAN
+https://d3nnqrdb77sy13.cloudfront.net/Clan_ES.m3u8
+#EXTINF:-1 group-title="Spanish" tvg-logo="https://i.imgur.com/ITx8bTj.png",Tve Internacional Europa HD (geobloqueo)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
+#EXTINF:-1 group-title="Spain" tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg",TVE LA 1
+https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
+#EXTINF:-1 group-title="Spain" tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg",TVE LA 2
+https://di2qeq48iv8ps.cloudfront.net/La_2_ES.m3u8
+#EXTINF:-1 group-title="Anguilla" tvg-logo="https://i.imgur.com/zsCZHMh.png",TVE Star HD (1080p)
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:-1 group-title="Spain" tvg-logo="https://i.ibb.co/D1Djbfj/tdp.jpg",TVE TDP
+https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8
+#EXTINF:-1 group-title="Latino_MIX 2",TVES
+http://200.59.188.3:8000/play/a08n
+#EXTINF:-1 group-title="Latino_MIX 2",TVFANB
+http://200.59.188.3:8000/play/a08y
 
