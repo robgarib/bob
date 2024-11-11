@@ -1421,6 +1421,70 @@ https://gg.hls2.xyz/live/netotv/playlist.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",TVE TeleDeporte
 https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8
 
+#EXTINF:-1 tvg-id="SPORTV +" tvg-name="Portugal- SPORT TV +  HD" tvg-logo="http://media.c-x-c.media/picons/PT/sporttvplusHDB.png" group-title="SPORT",Portugal- SPORT TV +  HD
+http://smartnow.tk:8080/hudsongalo/qwe123321/2165
+#EXTINF:-1 tvg-id="SPORT.TV 1 HD" tvg-name="Portugal- Sport TV 1 FHD" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv1hdB.png" group-title="SPORT",Portugal- Sport TV 1 FHD
+http://smartnow.tk:8080/hudsongalo/qwe123321/2176
+#EXTINF:-1 tvg-id="SPORT.TVJH 1 FULL HD" tvg-name="Portugal- SPORT TV 1 HD (720P)" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv1hdB.png" group-title="SPORT",Portugal- SPORT TV 1 HD (720P)
+http://smartnow.tk:8080/hudsongalo/qwe123321/2177
+#EXTINF:-1 tvg-id="SPORT.TV 1 HD" tvg-name="Portugal- Sport TV 1" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv1hdB.png" group-title="SPORT",Portugal- Sport TV 1
+http://smartnow.tk:8080/hudsongalo/qwe123321/2178
+#EXTINF:-1 tvg-id="SPORT.TV 2 HD" tvg-name="Portugal- Sport TV 2 FHD" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv2hdB.png" group-title="SPORT",Portugal- Sport TV 2 FHD
+http://smartnow.tk:8080/hudsongalo/qwe123321/2179
+#EXTINF:-1 tvg-id="SPORT.TV 2 HD" tvg-name="Portugal- Sport TV 2" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv2hdB.png" group-title="SPORT",Portugal- Sport TV 2
+http://smartnow.tk:8080/hudsongalo/qwe123321/2180
+#EXTINF:-1 tvg-id="SPORT.TV 3 HD" tvg-name="Portugal- Sport TV 3 FHD" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv3hdB.png" group-title="SPORT",Portugal- Sport TV 3 FHD
+http://smartnow.tk:8080/hudsongalo/qwe123321/2181
+#EXTINF:-1 tvg-id="SPORT.TV 3 HD" tvg-name="Portugal- Sport TV 3" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv3hdB.png" group-title="SPORT",Portugal- Sport TV 3
+http://smartnow.tk:8080/hudsongalo/qwe123321/2182
+#EXTINF:-1 tvg-id="SPORT.TV 4 HD" tvg-name="Portugal- Sport TV 4" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv4hdB.png" group-title="SPORT",Portugal- Sport TV 4
+http://smartnow.tk:8080/hudsongalo/qwe123321/2184
+#EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-name="Portugal- Sport TV 5" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv5HDB.png" group-title="SPORT",Portugal- Sport TV 5
+http://smartnow.tk:8080/hudsongalo/qwe123321/2185
+#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="Portugal- Eleven Sports 1 FHD 1080" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports1.png" group-title="SPORT",Portugal- Eleven Sports 1 FHD 1080
+http://smartnow.tk:8080/hudsongalo/qwe123321/2186
+#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="Portugal- Eleven Sports 1 FHD (back up)" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports1.png" group-title="SPORT",Portugal- Eleven Sports 1 FHD (back up)
+http://smartnow.tk:8080/hudsongalo/qwe123321/2187
+#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="Portugal- Eleven Sports 1 HD 720" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports1.png" group-title="SPORT",Portugal- Eleven Sports 1 HD 720
+http://smartnow.tk:8080/hudsongalo/qwe123321/2188
+#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="Portugal- Eleven Sports 1 SD" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports1.png" group-title="SPORT",Portugal- Eleven Sports 1 SD
+http://smartnow.tk:8080/hudsongalo/qwe123321/2189
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="Portugal- Eleven Sports 2 FHD 1080" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports2.png" group-title="SPORT",Portugal- Eleven Sports 2 FHD 1080
+http://smartnow.tk:8080/hudsongalo/qwe123321/2190
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="Portugal- Eleven Sports 2 FHD (back up)" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports2.png" group-title="SPORT",Portugal- Eleven Sports 2 FHD (back up)
+http://smartnow.tk:8080/hudsongalo/qwe123321/2191
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="Portugal- Eleven Sports 2 HD 720" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports2.png" group-title="SPORT",Portugal- Eleven Sports 2 HD 720
+http://smartnow.tk:8080/hudsongalo/qwe123321/2192
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="Portugal- Eleven Sports 2 SD" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports2.png" group-title="SPORT",Portugal- Eleven Sports 2 SD
+http://smartnow.tk:8080/hudsongalo/qwe123321/2193
+#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="Portugal- Eleven Sports 3 FHD 1080" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports3.png" group-title="SPORT",Portugal- Eleven Sports 3 FHD 1080
+http://smartnow.tk:8080/hudsongalo/qwe123321/2194
+#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="Portugal- Eleven Sports 3 HD 720" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports3.png" group-title="SPORT",Portugal- Eleven Sports 3 HD 720
+http://smartnow.tk:8080/hudsongalo/qwe123321/2195
+#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="Portugal- Eleven Sports 3 SD" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports3.png" group-title="SPORT",Portugal- Eleven Sports 3 SD
+http://smartnow.tk:8080/hudsongalo/qwe123321/2196
+#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="Portugal- Eleven Sports 3 SD (back up)" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports3.png" group-title="SPORT",Portugal- Eleven Sports 3 SD (back up)
+http://smartnow.tk:8080/hudsongalo/qwe123321/2197
+#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="Portugal- Eleven Sports 4 FHD 1080" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports4.png" group-title="SPORT",Portugal- Eleven Sports 4 FHD 1080
+http://smartnow.tk:8080/hudsongalo/qwe123321/2199
+#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="Portugal- Eleven Sports 4 HD 720" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports4.png" group-title="SPORT",Portugal- Eleven Sports 4 HD 720
+http://smartnow.tk:8080/hudsongalo/qwe123321/2200
+#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="Portugal- Eleven Sports 4 SD" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports4.png" group-title="SPORT",Portugal- Eleven Sports 4 SD
+http://smartnow.tk:8080/hudsongalo/qwe123321/2201
+#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="Portugal- Eleven Sports 4 SD (back up)" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports4.png" group-title="SPORT",Portugal- Eleven Sports 4 SD (back up)
+http://smartnow.tk:8080/hudsongalo/qwe123321/2202
+#EXTINF:-1 tvg-id="ELEVENSPORT 5 HD" tvg-name="Portugal- Eleven Sports 5 FHD 1080" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports5.png" group-title="SPORT",Portugal- Eleven Sports 5 FHD 1080
+http://smartnow.tk:8080/hudsongalo/qwe123321/2203
+#EXTINF:-1 tvg-id="ELEVENSPORT 5 HD" tvg-name="Portugal- Eleven Sports 5 HD 720" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports5.png" group-title="SPORT",Portugal- Eleven Sports 5 HD 720
+http://smartnow.tk:8080/hudsongalo/qwe123321/2204
+#EXTINF:-1 tvg-id="ELEVENSPORT 5 HD" tvg-name="Portugal- Eleven Sports 5 SD" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports5.png" group-title="SPORT",Portugal- Eleven Sports 5 SD
+http://smartnow.tk:8080/hudsongalo/qwe123321/2205
+#EXTINF:-1 tvg-id="ELEVENSPORT 6 HD" tvg-name="Portugal- Eleven Sports 6 SD" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports6.png" group-title="SPORT",Portugal- Eleven Sports 6 SD
+http://smartnow.tk:8080/hudsongalo/qwe123321/2198
+#EXTINF:-1 tvg-id="ELEVENSPORT 6 HD" tvg-name="Portugal- Eleven Sports 6 FHD 1080" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports6.png" group-title="SPORT",Portugal- Eleven Sports 6 FHD 1080
+http://smartnow.tk:8080/hudsongalo/qwe123321/2206
+#EXTINF:-1 tvg-id="ELEVENSPORT 6 HD" tvg-name="Portugal- Eleven Sports 6 HD 720" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports6.png" group-title="SPORT",Portugal- Eleven Sports 6 HD 720
+http://smartnow.tk:8080/hudsongalo/qwe123321/2207
 
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Golazo Network by CBS Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7elivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
@@ -2139,6 +2203,8 @@ https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
 #EXTINF:-1 tvg-id="5starmax.us" tvg-name="FOX NEW YORK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi3vf83v536JTNVpomUTkisYmX6p3J9lN5eSSWt08jd4W9Mgcs&s" group-title="USA", FOX HD
 https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/57556
+#EXTINF:-1 tvg-id="" tvg-name="USA- THE CW HD - CHICAGO" tvg-logo="" group-title="USA",USA- THE CW HD - CHICAGO
+http://smartnow.tk:8080/hudsongalo/qwe123321/4800
 
 
 #EXTINF:-1 tvg-id="WWLTV.us" tvg-name="CBS 4 New Orleans LA (WWL-TV)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BvlV1dl.jpg" group-title="USA",CBS 4 New Orleans LA (WWL-TV) (1080p)
