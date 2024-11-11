@@ -1418,6 +1418,12 @@ https://alpha.tv.online.tm/legacyhls/ch004.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",NETO TV
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://gg.hls2.xyz/live/netotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Varzish TV
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/IR%20-%20Varzish%20TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",IRIB Varzesh
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+https://ss.90minlive.online/var/var/playlist.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",TVE TeleDeporte
 https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8
 
