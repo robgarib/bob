@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 11/11/24---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 12/11/24---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -1390,31 +1390,13 @@ https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-country="TM" tvg-language="Turkmen" tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg" group-title="SPORT",Türkmenistan Sport
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",rusmatchtv
-http://wrioslio.altervista.org/TV/scapers/match.php?id=rusmatchtv
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",rumatcharena
-http://wrioslio.altervista.org/TV/scapers/match.php?id=rumatcharena
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",rumatchf2
-http://wrioslio.altervista.org/TV/scapers/match.php?id=rumatchf2
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",matfoot3
-http://wrioslio.altervista.org/TV/scapers/match.php?id=matfoot3
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",setanta
-http://wrioslio.altervista.org/TV/scapers/match.php?id=setanta
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",setanta2ru
-http://wrioslio.altervista.org/TV/scapers/match.php?id=setanta2ru
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",eurosport1rus
-http://wrioslio.altervista.org/TV/scapers/match.php?id=eurosport1rus
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ruseuro2
-http://wrioslio.altervista.org/TV/scapers/match.php?id=ruseuro2
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",bel555
-http://wrioslio.altervista.org/TV/scapers/match.php?id=bel555
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Turkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",CBC Sport
 https://str2.yodacdn.net/cbcsport/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Persiana Sport
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://gg.hls2.xyz/live/Persiana%20Sports/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Turkmenistan Sport
-https://alpha.tv.online.tm/legacyhls/ch004.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",NETO TV
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://gg.hls2.xyz/live/netotv/playlist.m3u8
@@ -1491,6 +1473,30 @@ http://smartnow.tk:8080/hudsongalo/qwe123321/2198
 http://smartnow.tk:8080/hudsongalo/qwe123321/2206
 #EXTINF:-1 tvg-id="ELEVENSPORT 6 HD" tvg-name="Portugal- Eleven Sports 6 HD 720" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports6.png" group-title="SPORT",Portugal- Eleven Sports 6 HD 720
 http://smartnow.tk:8080/hudsongalo/qwe123321/2207
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="E.S.P.N FHD#" tvg-logo="http://p6.vc/AOJ" group-title="SPORT",E.S.P.N FHD#
+http://smartnow.tk:8080/hudsongalo/qwe123321/12719
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="E.S.P.N HD" tvg-logo="http://p6.vc/AOJ" group-title="SPORT",E.S.P.N HD
+http://smartnow.tk:8080/hudsongalo/qwe123321/12716
+#EXTINF:-1 tvg-id="AE" tvg-name="[BR] E.S.P.N 2 HD#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="SPORT",[BR] E.S.P.N 2 HD#
+http://smartnow.tk:8080/hudsongalo/qwe123321/12727
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="E.S.P.N 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="SPORT",E.S.P.N 2 FHD
+http://smartnow.tk:8080/hudsongalo/qwe123321/12734
+#EXTINF:-1 tvg-id="" tvg-name="E.S.P.N 3. HD*" tvg-logo="https://i.imgur.com/7sQsxWB.png" group-title="SPORT",E.S.P.N 3. HD*
+http://smartnow.tk:8080/hudsongalo/qwe123321/12741
+#EXTINF:-1 tvg-id="" tvg-name="E.S.P.N 3 FHD" tvg-logo="https://i.imgur.com/7sQsxWB.png" group-title="SPORT",E.S.P.N 3 FHD
+http://smartnow.tk:8080/hudsongalo/qwe123321/12745
+#EXTINF:-1 tvg-id="" tvg-name="[BR] E.S.P.N 4 HD#" tvg-logo="https://i.imgur.com/RLn8voc.png" group-title="SPORT",[BR] E.S.P.N 4 HD#
+http://smartnow.tk:8080/hudsongalo/qwe123321/12751
+#EXTINF:-1 tvg-id="" tvg-name="E.S.P.N 4 FHD" tvg-logo="https://i.imgur.com/RLn8voc.png" group-title="SPORT",E.S.P.N 4 FHD
+http://smartnow.tk:8080/hudsongalo/qwe123321/12754
+#EXTINF:-1 tvg-id="" tvg-name="ESPN5 HD" tvg-logo="" group-title="SPORT",ESPN5 HD
+http://smartnow.tk:8080/hudsongalo/qwe123321/29158
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 FHD" tvg-logo="" group-title="SPORT",ESPN 5 FHD
+http://smartnow.tk:8080/hudsongalo/qwe123321/29162
+#EXTINF:-1 tvg-id="" tvg-name="E.S.P.N EXTRA HD" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="SPORT",E.S.P.N EXTRA HD
+http://smartnow.tk:8080/hudsongalo/qwe123321/12759
+#EXTINF:-1 tvg-id="" tvg-name="[BR] E.S.P.N EXTRA. FHD" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="SPORT",[BR] E.S.P.N EXTRA. FHD
+http://smartnow.tk:8080/hudsongalo/qwe123321/12763
 
 #EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 1 FHD" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 1 FHD
 http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813164.m3u8
