@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 13/11/24---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 16/11/24---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -1473,6 +1473,24 @@ http://smartnow.tk:8080/hudsongalo/qwe123321/2198
 http://smartnow.tk:8080/hudsongalo/qwe123321/2206
 #EXTINF:-1 tvg-id="ELEVENSPORT 6 HD" tvg-name="Portugal- Eleven Sports 6 HD 720" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports6.png" group-title="SPORT",Portugal- Eleven Sports 6 HD 720
 http://smartnow.tk:8080/hudsongalo/qwe123321/2207
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN PT: DAZN ELEVEN 6 HD" tvg-logo="https://logosmig.fyi/gialli/worldmix.png" group-title="SPORT",DAZN PT: DAZN ELEVEN 6 HD
+http://sar.nobip.online:80/Pino01/1Logpino1/490173
+#EXTINF:-1 tvg-id="" tvg-name="DAZN PT: DAZN ELEVEN 5 HD" tvg-logo="https://logosmig.fyi/gialli/worldmix.png" group-title="SPORT",DAZN PT: DAZN ELEVEN 5 HD
+http://sar.nobip.online:80/Pino01/1Logpino1/490172
+#EXTINF:-1 tvg-id="" tvg-name="DAZN PT: DAZN ELEVEN 4 HD" tvg-logo="https://logosmig.fyi/gialli/worldmix.png" group-title="SPORT",DAZN PT: DAZN ELEVEN 4 HD
+http://sar.nobip.online:80/Pino01/1Logpino1/490171
+#EXTINF:-1 tvg-id="" tvg-name="DAZN PT: DAZN ELEVEN 3 HD" tvg-logo="https://logosmig.fyi/gialli/worldmix.png" group-title="SPORT",DAZN PT: DAZN ELEVEN 3 HD
+http://sar.nobip.online:80/Pino01/1Logpino1/490170
+#EXTINF:-1 tvg-id="" tvg-name="DAZN PT: DAZN ELEVEN 2 HD" tvg-logo="https://logosmig.fyi/gialli/worldmix.png" group-title="SPORT",DAZN PT: DAZN ELEVEN 2 HD
+http://sar.nobip.online:80/Pino01/1Logpino1/490169
+#EXTINF:-1 tvg-id="" tvg-name="DAZN PT: DAZN ELEVEN 1 HD" tvg-logo="https://logosmig.fyi/gialli/worldmix.png" group-title="SPORT",DAZN PT: DAZN ELEVEN 1 HD
+http://sar.nobip.online:80/Pino01/1Logpino1/490168
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FR: DAZN ELEVEN 1 MAX HD" tvg-logo="https://logosmig.fyi/gialli/worldmix.png" group-title="SPORT",DAZN FR: DAZN ELEVEN 1 MAX HD
+http://sar.nobip.online:80/Pino01/1Logpino1/490167
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FR: DAZN ELEVEN 1 HD" tvg-logo="https://logosmig.fyi/gialli/worldmix.png" group-title="SPORT",DAZN FR: DAZN ELEVEN 1 HD
+http://sar.nobip.online:80/Pino01/1Logpino1/490166
+
 #EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="E.S.P.N FHD#" tvg-logo="http://p6.vc/AOJ" group-title="SPORT",E.S.P.N FHD#
 http://smartnow.tk:8080/hudsongalo/qwe123321/12719
 #EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="E.S.P.N HD" tvg-logo="http://p6.vc/AOJ" group-title="SPORT",E.S.P.N HD
@@ -1607,10 +1625,7 @@ http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/821134.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Golazo Network by CBS Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7elivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 tvg-id="DAZN209.it" tvg-name="Zona DAZN FHD (HM)" tvg-logo="http://vpsplug.experiencebay.xyz/loghi/dazn%201.png" group-title="SPORT",Zona DAZN FHD (HM)
-http://rw-str3ampan3l.revengworld.xyz:2052/Gennyfrat/tE406Hvm7X/49562
-#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Zona DAZN HD (HM)" tvg-logo="http://vpsplug.experiencebay.xyz/loghi/dazn%201.png" group-title="SPORT",Zona DAZN HD (HM)
-http://rw-str3ampan3l.revengworld.xyz:2052/Gennyfrat/tE406Hvm7X/49561
+
 #EXTINF:-1 tvg-id="" tvg-name="Zona Dazn" tvg-logo="" group-title="SPORT",Zona Dazn
 http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/67563
 #EXTINF:-1 tvg-id="" tvg-name="Dazn Diretta Gol SERIE A" tvg-logo="" group-title="SPORT",Dazn Diretta Gol SERIE A
@@ -1641,6 +1656,29 @@ http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/72168
 http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/72169
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 12 HD" tvg-logo="" group-title="SPORT",Dazn 12 HD
 http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/72170
+
+#EXTINF:-1 tvg-id="Sky Sport Bar Uno HEVC" tvg-name="DAZN SPORT SERIE A 1 HD" tvg-logo="https://logosmig.fyi/barRed/a1hd.png" group-title="SPORT",DAZN SPORT SERIE A 1 HD
+http://sar.nobip.online:80/Pino01/1Logpino1/279931
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN BAR HD" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",ZONA DAZN BAR HD
+http://sar.nobip.online:80/Pino01/1Logpino1/548199
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN BAR SD" tvg-logo="https://logosmig.fyi/zona_sd.png" group-title="SPORT",ZONA DAZN BAR SD
+http://sar.nobip.online:80/Pino01/1Logpino1/548198
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN BAR 2 HD" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",ZONA DAZN BAR 2 HD
+http://sar.nobip.online:80/Pino01/1Logpino1/548195
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN BAR 2 SD" tvg-logo="https://logosmig.fyi/zona_sd.png" group-title="SPORT",ZONA DAZN BAR 2 SD
+http://sar.nobip.online:80/Pino01/1Logpino1/548194
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN BAR 3 HD" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",ZONA DAZN BAR 3 HD
+http://sar.nobip.online:80/Pino01/1Logpino1/548191
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN BAR 3 SD" tvg-logo="https://logosmig.fyi/zona_sd.png" group-title="SPORT",ZONA DAZN BAR 3 SD
+http://sar.nobip.online:80/Pino01/1Logpino1/548190
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN HD" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",ZONA DAZN HD
+http://sar.nobip.online:80/Pino01/1Logpino1/548319
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SD" tvg-logo="https://logosmig.fyi/zona_sd.png" group-title="SPORT",ZONA DAZN SD
+http://sar.nobip.online:80/Pino01/1Logpino1/548318
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN 2 HD" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",ZONA DAZN 2 HD
+http://sar.nobip.online:80/Pino01/1Logpino1/548315
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN 2 SD" tvg-logo="https://logosmig.fyi/zona_sd.png" group-title="SPORT",ZONA DAZN 2 SD
+http://sar.nobip.online:80/Pino01/1Logpino1/548314
 
 #EXTINF:-1 tvg-id="" tvg-name="⚽ Zona Daznᴴᴰ" tvg-logo="http://new.magmanebrodi.xyz/images/zonadazn.png" group-title="SPORT",⚽ Zona Daznᴴᴰ
 http://piranha.mytvonline.top:8000/Sammmaury/t4terP8/307810
