@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 22/12/24---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 23/12/24---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -1039,6 +1039,38 @@ https://sportsitalia-samsungitaly.amagi.tv/hls/amagi_hls_data_sportital-sportita
 https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Svizzera",===Svizzera===
+http://patbuweb.com/iptv/e2liste/startend.avi
+#EXTINF:-1 tvg-id="RSI La1 HD" tvg-name="Rsi la 1 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/594d86867dc5aef35547365a8c32ce5b.png" group-title="Svizzera",RSI LA 1
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd 
+#EXTINF:-1 tvg-id="RSILa2.ch" tvg-name="Rsi la 2 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/21e4f1e0825693dcb9ef0670e6ed968e.png" group-title="Svizzera",RSI LA 2
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+#EXTINF:-1 tvg-id="RSI La1 HD" tvg-name="Rsi la 1 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/594d86867dc5aef35547365a8c32ce5b.png" group-title="Svizzera",Rsi la 1 HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/96434
+#EXTINF:-1 tvg-id="RSILa2.ch" tvg-name="Rsi la 2 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/21e4f1e0825693dcb9ef0670e6ed968e.png" group-title="Svizzera",Rsi la 2 HD
+http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/96435
+#EXTINF:-1 tvg-id="RSI La1 HD" tvg-name="Rsi la 1 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/594d86867dc5aef35547365a8c32ce5b.png" group-title="Svizzera",Rsi la 1 HD
+https://cachehsi1a.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+#EXTINF:-1 tvg-id="RSILa2.ch" tvg-name="Rsi la 2 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/21e4f1e0825693dcb9ef0670e6ed968e.png" group-title="Svizzera",Rsi la 2 HD
+https://cachehsi1a.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+#EXTINF:-1 tvg-id="" tvg-name="|CH| RSI La 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c25edfb73d12a43e8193daa91e987e49.svg" group-title="Svizzera",|CH| RSI La 1
+http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/826408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|CH| RSI La 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c25edfb73d12a43e8193daa91e987e49.svg" group-title="Svizzera",|CH| RSI La 2
+http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/826409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|CH| RTS 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4847db52e23df3782fd26e974c09bf85.png" group-title="Svizzera",|CH| RTS 1
+http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/826411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|CH| RTS 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/60828eab0f4b53f84f6197b9464bfd9c.png" group-title="Svizzera",|CH| RTS 2
+http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/826412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|.SW.| SRF 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZXYK94tHB0xVPE2UKH9Dgv3xqTLiZcncDcCyee4qIagSoUCV0r393Mqs" group-title="Svizzera",|.SW.| SRF 1 HD
+http://tv.pure-onetv.com:25443/live/3KOSE1503/4YS8GRAYOK/20601.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.SW.| SRF INFO " tvg-logo="http://g5g.best:8080/aminelast/5CuY0l0gms/23353" group-title="Svizzera",|.SW.| SRF INFO 
+http://tv.pure-onetv.com:25443/live/3KOSE1503/4YS8GRAYOK/81056.ts
+#EXTINF:-1 tvg-id="" tvg-name="|CH| SRF 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ff137efd29cc494420c97edfb7462ce9.png" group-title="Svizzera",|CH| SRF 1
+http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/826414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|CH| SRF Info" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/10e1c1a91b05d33a3a07b3b688214138.png" group-title="Svizzera",|CH| SRF Info
+http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/826415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|CH| SRF Zwei" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/ebedeef3396154de7043a23cc8781851.svg" group-title="Svizzera",|CH| SRF Zwei
+http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/826416.m3u8
 
 
 
@@ -2221,6 +2253,19 @@ http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814170.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|UK|TNT SPORTS EXTRA 4 HD" tvg-logo="https://logo.iptveditor.com/btsportextra4.png" group-title="SPORT",|UK|TNT SPORTS EXTRA 4 HD
 http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814171.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN BRASIL 1
+https://brflu.walk-tv.com/5912/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN BRASIL 2
+https://brflu.walk-tv.com/5910/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN BRASIL 3
+https://brflu.walk-tv.com/5907/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN BRASIL 4
+https://cdn-3.nxplay.com.br/ESPN_4/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN BRASIL 5
+http://138.255.0.30/FOXSPORTS2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN BRASIL EXTRA
+https://cdn-3.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/index.m3u8
+
 #EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS SPORTS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/CBS_Sports_Network_Logo.png" group-title="SPORT",CBS SPORTS
 http://tkosportz.live:25461/rodneyb5777/5777/8459
 #EXTINF:-1 tvg-id="" tvg-name="USA: CBS Sports Network FHD" tvg-logo="https://logo.iptveditor.com/cbssportsnetwork.png" group-title="SPORT",USA- CBS SPORTS NETWORK
@@ -2840,14 +2885,8 @@ https://la7live-secure.akamaized.net/RaiLatam/Live_1080_5000k.m3u8
 https://ilglobotv-live.global.ssl.fastly.net/MediasetItalia/Live.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="Canali RAI",RAI 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 tvg-id="RSI La1 HD" tvg-name="Rsi la 1 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/594d86867dc5aef35547365a8c32ce5b.png" group-title="Altri Canali Nazionali",Rsi la 1 HD
-http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/96434
-#EXTINF:-1 tvg-id="RSILa2.ch" tvg-name="Rsi la 2 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/21e4f1e0825693dcb9ef0670e6ed968e.png" group-title="Altri Canali Nazionali",Rsi la 2 HD
-http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/96435
-#EXTINF:-1 tvg-id="RSI La1 HD" tvg-name="Rsi la 1 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/594d86867dc5aef35547365a8c32ce5b.png" group-title="Altri Canali Nazionali",Rsi la 1 HD
-https://cachehsi1a.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
-#EXTINF:-1 tvg-id="RSILa2.ch" tvg-name="Rsi la 2 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/21e4f1e0825693dcb9ef0670e6ed968e.png" group-title="Altri Canali Nazionali",Rsi la 2 HD
-https://cachehsi1a.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+
+
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telenorba.jpg" group-title="Altri Canali Nazionali",TeleNorba
 https://stream10.xdevel.com/video2s976570-2117/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2rr827OYMVc/YMHyInS64mI/AAAAAAAAACU/2h1u3d3XcT8WoQXOCZsF4G0IrI-jBr8MgCK4BGAYYCw/s1600/EURO%2BTV-LOGO-960.png" tvg-shift="0" group-title="Altri Canali Nazionali",Euro Tv
@@ -3162,22 +3201,6 @@ http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813494.m3u8
 http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813495.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|FR.4K| M6" tvg-logo="https://i.hizliresim.com/31ogwpv.png" group-title="Vari",|FR.4K| M6
 http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813496.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|.SW.| SRF 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZXYK94tHB0xVPE2UKH9Dgv3xqTLiZcncDcCyee4qIagSoUCV0r393Mqs" group-title="Vari",|.SW.| SRF 1 HD
-http://tv.pure-onetv.com:25443/live/3KOSE1503/4YS8GRAYOK/20601.ts
-#EXTINF:-1 tvg-id="" tvg-name="|.SW.| SRF INFO " tvg-logo="http://g5g.best:8080/aminelast/5CuY0l0gms/23353" group-title="Vari",|.SW.| SRF INFO 
-http://tv.pure-onetv.com:25443/live/3KOSE1503/4YS8GRAYOK/81056.ts
-#EXTINF:-1 tvg-id="" tvg-name="|CH| SRF 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ff137efd29cc494420c97edfb7462ce9.png" group-title="Vari",|CH| SRF 1
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/826414.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|CH| RSI La 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c25edfb73d12a43e8193daa91e987e49.svg" group-title="Vari",|CH| RSI La 1
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/826408.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|CH| RSI La 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c25edfb73d12a43e8193daa91e987e49.svg" group-title="Vari",|CH| RSI La 2
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/826409.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|CH| RTL" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/87c26e164238471525ed4c208b9f3785.png" group-title="Vari",|CH| RTL
+#EXTINF:-1 tvg-id="" tvg-name="|CH| RTL" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/87c26e164238471525ed4c208b9f3785.png" group-title="Vari", RTL
 http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/826410.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|CH| RTS 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4847db52e23df3782fd26e974c09bf85.png" group-title="Vari",|CH| RTS 1
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/826411.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|CH| RTS 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/60828eab0f4b53f84f6197b9464bfd9c.png" group-title="Vari",|CH| RTS 2
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/826412.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|CH| SRF Info" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/10e1c1a91b05d33a3a07b3b688214138.png" group-title="Vari",|CH| SRF Info
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/826415.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|CH| SRF Zwei" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/ebedeef3396154de7043a23cc8781851.svg" group-title="Vari",|CH| SRF Zwei
+
