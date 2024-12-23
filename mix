@@ -3096,6 +3096,12 @@ https://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 https://fl2.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png" group-title="USA",MTV2
 https://fl5.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Tnt_tv_romania.png" group-title="USA",TNT
+http://fl2.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 tvg-logo="https://q.adsy.me/images/KIuWI__tv-one.svg" group-title="USA",TV One
+http://fl2.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/2560px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network
+http://fl2.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="USA",HBO
 http://143.244.60.30/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title="USA",HBO 2
