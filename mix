@@ -3086,4 +3086,20 @@ http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813495.m3u8
 http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813496.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|CH| RTL" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/87c26e164238471525ed4c208b9f3785.png" group-title="Vari", RTL
 http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/826410.m3u8
+#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",Das Erste HD
+http://mio.cielo.tf:2052/0C€UWx-Mi8$Lo/J3S8$-LS€yFif45/687299
+#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",ZDF HD
+http://mio.cielo.tf:2052/0C€UWx-Mi8$Lo/J3S8$-LS€yFif45/687300
+#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",RTL HD
+http://mio.cielo.tf:2052/0C€UWx-Mi8$Lo/J3S8$-LS€yFif45/687301
+#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",Sat 1 HD
+http://mio.cielo.tf:2052/0C€UWx-Mi8$Lo/J3S8$-LS€yFif45/687302
+#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",VOX HD
+http://mio.cielo.tf:2052/0C€UWx-Mi8$Lo/J3S8$-LS€yFif45/687303
+#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",Kabel Eins HD
+http://mio.cielo.tf:2052/0C€UWx-Mi8$Lo/J3S8$-LS€yFif45/687304
+#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",ProSieben HD
+http://mio.cielo.tf:2052/0C€UWx-Mi8$Lo/J3S8$-LS€yFif45/687305
+#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",RTL 2 HD
+http://mio.cielo.tf:2052/0C€UWx-Mi8$Lo/J3S8$-LS€yFif45/687306
 
