@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 23/12/24---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 24/12/24---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -1061,10 +1061,6 @@ http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/826409.m3u8
 http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/826411.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|CH| RTS 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/60828eab0f4b53f84f6197b9464bfd9c.png" group-title="Svizzera",|CH| RTS 2
 http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/826412.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|.SW.| SRF 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZXYK94tHB0xVPE2UKH9Dgv3xqTLiZcncDcCyee4qIagSoUCV0r393Mqs" group-title="Svizzera",|.SW.| SRF 1 HD
-http://tv.pure-onetv.com:25443/live/3KOSE1503/4YS8GRAYOK/20601.ts
-#EXTINF:-1 tvg-id="" tvg-name="|.SW.| SRF INFO " tvg-logo="http://g5g.best:8080/aminelast/5CuY0l0gms/23353" group-title="Svizzera",|.SW.| SRF INFO 
-http://tv.pure-onetv.com:25443/live/3KOSE1503/4YS8GRAYOK/81056.ts
 #EXTINF:-1 tvg-id="" tvg-name="|CH| SRF 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ff137efd29cc494420c97edfb7462ce9.png" group-title="Svizzera",|CH| SRF 1
 http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/826414.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|CH| SRF Info" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/10e1c1a91b05d33a3a07b3b688214138.png" group-title="Svizzera",|CH| SRF Info
@@ -2048,112 +2044,7 @@ https://ss.90minlive.online/var/var/playlist.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",TVE TeleDeporte
 https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8
 
-#EXTINF:-1 tvg-id="SPORTV +" tvg-name="Portugal- SPORT TV +  HD" tvg-logo="http://media.c-x-c.media/picons/PT/sporttvplusHDB.png" group-title="SPORT",Portugal- SPORT TV +  HD
-http://smartnow.tk:8080/hudsongalo/qwe123321/2165
-#EXTINF:-1 tvg-id="SPORT.TV 1 HD" tvg-name="Portugal- Sport TV 1 FHD" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv1hdB.png" group-title="SPORT",Portugal- Sport TV 1 FHD
-http://smartnow.tk:8080/hudsongalo/qwe123321/2176
-#EXTINF:-1 tvg-id="SPORT.TVJH 1 FULL HD" tvg-name="Portugal- SPORT TV 1 HD (720P)" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv1hdB.png" group-title="SPORT",Portugal- SPORT TV 1 HD (720P)
-http://smartnow.tk:8080/hudsongalo/qwe123321/2177
-#EXTINF:-1 tvg-id="SPORT.TV 1 HD" tvg-name="Portugal- Sport TV 1" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv1hdB.png" group-title="SPORT",Portugal- Sport TV 1
-http://smartnow.tk:8080/hudsongalo/qwe123321/2178
-#EXTINF:-1 tvg-id="SPORT.TV 2 HD" tvg-name="Portugal- Sport TV 2 FHD" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv2hdB.png" group-title="SPORT",Portugal- Sport TV 2 FHD
-http://smartnow.tk:8080/hudsongalo/qwe123321/2179
-#EXTINF:-1 tvg-id="SPORT.TV 2 HD" tvg-name="Portugal- Sport TV 2" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv2hdB.png" group-title="SPORT",Portugal- Sport TV 2
-http://smartnow.tk:8080/hudsongalo/qwe123321/2180
-#EXTINF:-1 tvg-id="SPORT.TV 3 HD" tvg-name="Portugal- Sport TV 3 FHD" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv3hdB.png" group-title="SPORT",Portugal- Sport TV 3 FHD
-http://smartnow.tk:8080/hudsongalo/qwe123321/2181
-#EXTINF:-1 tvg-id="SPORT.TV 3 HD" tvg-name="Portugal- Sport TV 3" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv3hdB.png" group-title="SPORT",Portugal- Sport TV 3
-http://smartnow.tk:8080/hudsongalo/qwe123321/2182
-#EXTINF:-1 tvg-id="SPORT.TV 4 HD" tvg-name="Portugal- Sport TV 4" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv4hdB.png" group-title="SPORT",Portugal- Sport TV 4
-http://smartnow.tk:8080/hudsongalo/qwe123321/2184
-#EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-name="Portugal- Sport TV 5" tvg-logo="http://media.c-x-c.media/picons/PT/sporttv5HDB.png" group-title="SPORT",Portugal- Sport TV 5
-http://smartnow.tk:8080/hudsongalo/qwe123321/2185
-#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="Portugal- Eleven Sports 1 FHD 1080" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports1.png" group-title="SPORT",Portugal- Eleven Sports 1 FHD 1080
-http://smartnow.tk:8080/hudsongalo/qwe123321/2186
-#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="Portugal- Eleven Sports 1 FHD (back up)" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports1.png" group-title="SPORT",Portugal- Eleven Sports 1 FHD (back up)
-http://smartnow.tk:8080/hudsongalo/qwe123321/2187
-#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="Portugal- Eleven Sports 1 HD 720" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports1.png" group-title="SPORT",Portugal- Eleven Sports 1 HD 720
-http://smartnow.tk:8080/hudsongalo/qwe123321/2188
-#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="Portugal- Eleven Sports 1 SD" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports1.png" group-title="SPORT",Portugal- Eleven Sports 1 SD
-http://smartnow.tk:8080/hudsongalo/qwe123321/2189
-#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="Portugal- Eleven Sports 2 FHD 1080" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports2.png" group-title="SPORT",Portugal- Eleven Sports 2 FHD 1080
-http://smartnow.tk:8080/hudsongalo/qwe123321/2190
-#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="Portugal- Eleven Sports 2 FHD (back up)" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports2.png" group-title="SPORT",Portugal- Eleven Sports 2 FHD (back up)
-http://smartnow.tk:8080/hudsongalo/qwe123321/2191
-#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="Portugal- Eleven Sports 2 HD 720" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports2.png" group-title="SPORT",Portugal- Eleven Sports 2 HD 720
-http://smartnow.tk:8080/hudsongalo/qwe123321/2192
-#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="Portugal- Eleven Sports 2 SD" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports2.png" group-title="SPORT",Portugal- Eleven Sports 2 SD
-http://smartnow.tk:8080/hudsongalo/qwe123321/2193
-#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="Portugal- Eleven Sports 3 FHD 1080" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports3.png" group-title="SPORT",Portugal- Eleven Sports 3 FHD 1080
-http://smartnow.tk:8080/hudsongalo/qwe123321/2194
-#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="Portugal- Eleven Sports 3 HD 720" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports3.png" group-title="SPORT",Portugal- Eleven Sports 3 HD 720
-http://smartnow.tk:8080/hudsongalo/qwe123321/2195
-#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="Portugal- Eleven Sports 3 SD" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports3.png" group-title="SPORT",Portugal- Eleven Sports 3 SD
-http://smartnow.tk:8080/hudsongalo/qwe123321/2196
-#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="Portugal- Eleven Sports 3 SD (back up)" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports3.png" group-title="SPORT",Portugal- Eleven Sports 3 SD (back up)
-http://smartnow.tk:8080/hudsongalo/qwe123321/2197
-#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="Portugal- Eleven Sports 4 FHD 1080" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports4.png" group-title="SPORT",Portugal- Eleven Sports 4 FHD 1080
-http://smartnow.tk:8080/hudsongalo/qwe123321/2199
-#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="Portugal- Eleven Sports 4 HD 720" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports4.png" group-title="SPORT",Portugal- Eleven Sports 4 HD 720
-http://smartnow.tk:8080/hudsongalo/qwe123321/2200
-#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="Portugal- Eleven Sports 4 SD" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports4.png" group-title="SPORT",Portugal- Eleven Sports 4 SD
-http://smartnow.tk:8080/hudsongalo/qwe123321/2201
-#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="Portugal- Eleven Sports 4 SD (back up)" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports4.png" group-title="SPORT",Portugal- Eleven Sports 4 SD (back up)
-http://smartnow.tk:8080/hudsongalo/qwe123321/2202
-#EXTINF:-1 tvg-id="ELEVENSPORT 5 HD" tvg-name="Portugal- Eleven Sports 5 FHD 1080" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports5.png" group-title="SPORT",Portugal- Eleven Sports 5 FHD 1080
-http://smartnow.tk:8080/hudsongalo/qwe123321/2203
-#EXTINF:-1 tvg-id="ELEVENSPORT 5 HD" tvg-name="Portugal- Eleven Sports 5 HD 720" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports5.png" group-title="SPORT",Portugal- Eleven Sports 5 HD 720
-http://smartnow.tk:8080/hudsongalo/qwe123321/2204
-#EXTINF:-1 tvg-id="ELEVENSPORT 5 HD" tvg-name="Portugal- Eleven Sports 5 SD" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports5.png" group-title="SPORT",Portugal- Eleven Sports 5 SD
-http://smartnow.tk:8080/hudsongalo/qwe123321/2205
-#EXTINF:-1 tvg-id="ELEVENSPORT 6 HD" tvg-name="Portugal- Eleven Sports 6 SD" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports6.png" group-title="SPORT",Portugal- Eleven Sports 6 SD
-http://smartnow.tk:8080/hudsongalo/qwe123321/2198
-#EXTINF:-1 tvg-id="ELEVENSPORT 6 HD" tvg-name="Portugal- Eleven Sports 6 FHD 1080" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports6.png" group-title="SPORT",Portugal- Eleven Sports 6 FHD 1080
-http://smartnow.tk:8080/hudsongalo/qwe123321/2206
-#EXTINF:-1 tvg-id="ELEVENSPORT 6 HD" tvg-name="Portugal- Eleven Sports 6 HD 720" tvg-logo="http://media.c-x-c.media/picons/PT/elevensports6.png" group-title="SPORT",Portugal- Eleven Sports 6 HD 720
-http://smartnow.tk:8080/hudsongalo/qwe123321/2207
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN PT: DAZN ELEVEN 6 HD" tvg-logo="https://logosmig.fyi/gialli/worldmix.png" group-title="SPORT",DAZN PT: DAZN ELEVEN 6 HD
-http://sar.nobip.online:80/Pino01/1Logpino1/490173
-#EXTINF:-1 tvg-id="" tvg-name="DAZN PT: DAZN ELEVEN 5 HD" tvg-logo="https://logosmig.fyi/gialli/worldmix.png" group-title="SPORT",DAZN PT: DAZN ELEVEN 5 HD
-http://sar.nobip.online:80/Pino01/1Logpino1/490172
-#EXTINF:-1 tvg-id="" tvg-name="DAZN PT: DAZN ELEVEN 4 HD" tvg-logo="https://logosmig.fyi/gialli/worldmix.png" group-title="SPORT",DAZN PT: DAZN ELEVEN 4 HD
-http://sar.nobip.online:80/Pino01/1Logpino1/490171
-#EXTINF:-1 tvg-id="" tvg-name="DAZN PT: DAZN ELEVEN 3 HD" tvg-logo="https://logosmig.fyi/gialli/worldmix.png" group-title="SPORT",DAZN PT: DAZN ELEVEN 3 HD
-http://sar.nobip.online:80/Pino01/1Logpino1/490170
-#EXTINF:-1 tvg-id="" tvg-name="DAZN PT: DAZN ELEVEN 2 HD" tvg-logo="https://logosmig.fyi/gialli/worldmix.png" group-title="SPORT",DAZN PT: DAZN ELEVEN 2 HD
-http://sar.nobip.online:80/Pino01/1Logpino1/490169
-#EXTINF:-1 tvg-id="" tvg-name="DAZN PT: DAZN ELEVEN 1 HD" tvg-logo="https://logosmig.fyi/gialli/worldmix.png" group-title="SPORT",DAZN PT: DAZN ELEVEN 1 HD
-http://sar.nobip.online:80/Pino01/1Logpino1/490168
-#EXTINF:-1 tvg-id="" tvg-name="DAZN FR: DAZN ELEVEN 1 MAX HD" tvg-logo="https://logosmig.fyi/gialli/worldmix.png" group-title="SPORT",DAZN FR: DAZN ELEVEN 1 MAX HD
-http://sar.nobip.online:80/Pino01/1Logpino1/490167
-#EXTINF:-1 tvg-id="" tvg-name="DAZN FR: DAZN ELEVEN 1 HD" tvg-logo="https://logosmig.fyi/gialli/worldmix.png" group-title="SPORT",DAZN FR: DAZN ELEVEN 1 HD
-http://sar.nobip.online:80/Pino01/1Logpino1/490166
-
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="E.S.P.N FHD#" tvg-logo="http://p6.vc/AOJ" group-title="SPORT",E.S.P.N FHD#
-http://smartnow.tk:8080/hudsongalo/qwe123321/12719
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="E.S.P.N HD" tvg-logo="http://p6.vc/AOJ" group-title="SPORT",E.S.P.N HD
-http://smartnow.tk:8080/hudsongalo/qwe123321/12716
-#EXTINF:-1 tvg-id="AE" tvg-name="[BR] E.S.P.N 2 HD#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="SPORT",[BR] E.S.P.N 2 HD#
-http://smartnow.tk:8080/hudsongalo/qwe123321/12727
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="E.S.P.N 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="SPORT",E.S.P.N 2 FHD
-http://smartnow.tk:8080/hudsongalo/qwe123321/12734
-#EXTINF:-1 tvg-id="" tvg-name="E.S.P.N 3. HD*" tvg-logo="https://i.imgur.com/7sQsxWB.png" group-title="SPORT",E.S.P.N 3. HD*
-http://smartnow.tk:8080/hudsongalo/qwe123321/12741
-#EXTINF:-1 tvg-id="" tvg-name="E.S.P.N 3 FHD" tvg-logo="https://i.imgur.com/7sQsxWB.png" group-title="SPORT",E.S.P.N 3 FHD
-http://smartnow.tk:8080/hudsongalo/qwe123321/12745
-#EXTINF:-1 tvg-id="" tvg-name="[BR] E.S.P.N 4 HD#" tvg-logo="https://i.imgur.com/RLn8voc.png" group-title="SPORT",[BR] E.S.P.N 4 HD#
-http://smartnow.tk:8080/hudsongalo/qwe123321/12751
-#EXTINF:-1 tvg-id="" tvg-name="E.S.P.N 4 FHD" tvg-logo="https://i.imgur.com/RLn8voc.png" group-title="SPORT",E.S.P.N 4 FHD
-http://smartnow.tk:8080/hudsongalo/qwe123321/12754
-#EXTINF:-1 tvg-id="" tvg-name="ESPN5 HD" tvg-logo="" group-title="SPORT",ESPN5 HD
-http://smartnow.tk:8080/hudsongalo/qwe123321/29158
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 FHD" tvg-logo="" group-title="SPORT",ESPN 5 FHD
-http://smartnow.tk:8080/hudsongalo/qwe123321/29162
-#EXTINF:-1 tvg-id="" tvg-name="E.S.P.N EXTRA HD" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="SPORT",E.S.P.N EXTRA HD
-http://smartnow.tk:8080/hudsongalo/qwe123321/12759
-#EXTINF:-1 tvg-id="" tvg-name="[BR] E.S.P.N EXTRA. FHD" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="SPORT",[BR] E.S.P.N EXTRA. FHD
-http://smartnow.tk:8080/hudsongalo/qwe123321/12763
 
 #EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 1 FHD" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 1 FHD
 http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813164.m3u8
@@ -2221,7 +2112,6 @@ http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814183.m3u8
 http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814184.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|UK| BT SPORTS 3 FHD" tvg-logo="https://i.hizliresim.com/mfldnsh.png" group-title="SPORT",|UK| BT SPORTS 3 FHD
 http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814185.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BT SPORTS 4 FHD" tvg-logo="https://i.hizliresim.com/mfldnsh.png" group-title="SPORT",|UK| BT SPORTS 4 FHD
 #EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 1 FHD 4K" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="SPORT",|UK| TNT SPORTS 1 FHD 4K
 http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814157.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|UK|TNT SPORTS 2 FHD 4K" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="SPORT",|UK|TNT SPORTS 2 FHD 4K
@@ -2253,29 +2143,15 @@ http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814170.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|UK|TNT SPORTS EXTRA 4 HD" tvg-logo="https://logo.iptveditor.com/btsportextra4.png" group-title="SPORT",|UK|TNT SPORTS EXTRA 4 HD
 http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814171.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN BRASIL 1
-https://brflu.walk-tv.com/5912/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN BRASIL 2
-https://brflu.walk-tv.com/5910/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN BRASIL 3
-https://brflu.walk-tv.com/5907/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN BRASIL 4
 https://cdn-3.nxplay.com.br/ESPN_4/tracks-v2a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN BRASIL 5
-http://138.255.0.30/FOXSPORTS2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN BRASIL EXTRA
 https://cdn-3.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/index.m3u8
 
 #EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS SPORTS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/CBS_Sports_Network_Logo.png" group-title="SPORT",CBS SPORTS
 http://tkosportz.live:25461/rodneyb5777/5777/8459
-#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Sports Network FHD" tvg-logo="https://logo.iptveditor.com/cbssportsnetwork.png" group-title="SPORT",USA- CBS SPORTS NETWORK
-http://smartnow.tk:8080/hudsongalo/qwe123321/4959
-#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Sports Network FHD" tvg-logo="https://logo.iptveditor.com/cbssportsnetwork.png" group-title="SPORT",USA: CBS Sports Network FHD
-http://smartnow.tk:8080/hudsongalo/qwe123321/17172
 #EXTINF:-1 tvg-id="" tvg-name="|US| CBS SPORTS NETWORK FHD" tvg-logo="https://i.hizliresim.com/kvow04u.png" group-title="SPORT",|US| CBS SPORTS NETWORK FHD
 http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/821134.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Golazo Network by CBS Sports
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7elivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="SPORT",CBS Sports Network
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="espn.us" tvg-name="USA | ESPN" tvg-logo="http://lonewolftvpr.com/logos/espn.png" group-title="SPORT",ESPN
@@ -2290,7 +2166,8 @@ http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="SPORT",Fox Sports 2
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Golazo Network by CBS Sports
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7elivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 #EXTINF:-1 tvg-id="" tvg-name="Zona Dazn" tvg-logo="" group-title="SPORT",Zona Dazn
 http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/67563
