@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 24/12/24---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 25/12/24---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -2028,11 +2028,13 @@ https://str2.yodacdn.net/cbcsport/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Persiana Sport
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://gg.hls2.xyz/live/Persiana%20Sports/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Persiana Sport
+https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",NETO TV
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://gg.hls2.xyz/live/netotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Persiana Sport
-https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",NETO TV
+https://netohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",NETO TV
 https://netohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Varzish TV
@@ -2045,25 +2047,6 @@ https://ss.90minlive.online/var/var/playlist.m3u8
 https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 1 FHD" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 1 FHD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 2 HD" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 2 HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN FUSSBALL HD" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN FUSSBALL HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 2 BAR HD" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 2 BAR HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 1 BAR HD" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 1 BAR HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 1 FHD-Kabel" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 1 FHD-Kabel
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/812803.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 1 HD-Kabel" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 1 HD-Kabel
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/812804.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 2 FHD-Kabel" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 2 FHD-Kabel
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/812805.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 2 HD-Kabel" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 2 HD-Kabel
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/812806.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UKR: Setanta Sports" tvg-logo="" group-title="SPORT",UKR: Setanta Sports
 http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/833881.m3u8
@@ -2090,28 +2073,60 @@ http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/830327.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RU: Match! Futbol 3" tvg-logo="" group-title="SPORT",RU: Match! Futbol 3
 http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/830328.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 1 FHD" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 1 FHD
+http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 2 HD" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 2 HD
+http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN FUSSBALL HD" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN FUSSBALL HD
+http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 2 BAR HD" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 2 BAR HD
+http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 1 BAR HD" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 1 BAR HD
+http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 1 FHD-Kabel" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 1 FHD-Kabel
+http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/812803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 1 HD-Kabel" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 1 HD-Kabel
+http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/812804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 2 FHD-Kabel" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 2 FHD-Kabel
+http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/812805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 2 HD-Kabel" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 2 HD-Kabel
+http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/812806.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Eleven Sports 1 HD
+http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105525
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Eleven Sports 2 HD
+http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105526
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Eleven Sports 3 HD
+http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105527
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Eleven Sports 4 HD
+http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105528
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Eleven Sports 1
+http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155250
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Eleven Sports 2
+http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155251
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Eleven Sports 3
+http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155252
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Eleven Sports 4
+http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155253
 
-#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 1 HD" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="SPORT",|UK| TNT SPORTS 1 HD
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK|TNT SPORTS 2 HD" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="SPORT",|UK|TNT SPORTS 2 HD
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK|TNT SPORTS 3 HD" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="SPORT",|UK|TNT SPORTS 3 HD
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 4 HD" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="SPORT",|UK| TNT SPORTS 4 HD
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK|TNT SPORTS EXTRA 1 HD" tvg-logo="https://logo.iptveditor.com/btsportextra1.png" group-title="SPORT",|UK|TNT SPORTS EXTRA 1 HD
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK|TNT SPORTS EXTRA 2 HD" tvg-logo="https://logo.iptveditor.com/btsportextra2.png" group-title="SPORT",|UK|TNT SPORTS EXTRA 2 HD
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814169.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK|TNT SPORTS EXTRA 3 HD" tvg-logo="https://logo.iptveditor.com/btsportextra3.png" group-title="SPORT",|UK|TNT SPORTS EXTRA 3 HD
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814170.m3u8
-EXTINF:-1 tvg-id="" tvg-name="|UK| BT SPORTS 1 FHD" tvg-logo="https://i.hizliresim.com/mfldnsh.png" group-title="SPORT",|UK| BT SPORTS 1 FHD
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814183.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BT SPORTS 2 FHD" tvg-logo="https://i.hizliresim.com/mfldnsh.png" group-title="SPORT",|UK| BT SPORTS 2 FHD
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814184.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BT SPORTS 3 FHD" tvg-logo="https://i.hizliresim.com/mfldnsh.png" group-title="SPORT",|UK| BT SPORTS 3 FHD
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814185.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Sportv 1 HD
+http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/14
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Sportv 2 HD
+http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/9
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Sportv 3 HD
+http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Sportv 4k
+http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/80
+
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",PARAMOUNT PLUS 4 HD
+http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/37
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Paramount plus 3
+http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/36
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Paramount plus 2
+http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/35
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Paramount plus 1 hd
+http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/34
+
 #EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 1 FHD 4K" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="SPORT",|UK| TNT SPORTS 1 FHD 4K
 http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814157.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|UK|TNT SPORTS 2 FHD 4K" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="SPORT",|UK|TNT SPORTS 2 FHD 4K
@@ -2148,12 +2163,7 @@ https://cdn-3.nxplay.com.br/ESPN_4/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ESPN BRASIL EXTRA
 https://cdn-3.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/index.m3u8
 
-#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS SPORTS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/CBS_Sports_Network_Logo.png" group-title="SPORT",CBS SPORTS
-http://tkosportz.live:25461/rodneyb5777/5777/8459
-#EXTINF:-1 tvg-id="" tvg-name="|US| CBS SPORTS NETWORK FHD" tvg-logo="https://i.hizliresim.com/kvow04u.png" group-title="SPORT",|US| CBS SPORTS NETWORK FHD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/821134.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="SPORT",CBS Sports Network
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="espn.us" tvg-name="USA | ESPN" tvg-logo="http://lonewolftvpr.com/logos/espn.png" group-title="SPORT",ESPN
 http://simplesolutions123.com:2999/Jaley1990/L6KomjzBxv/9381
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png" group-title="SPORT",ESPN 2
@@ -2166,6 +2176,12 @@ http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="SPORT",Fox Sports 2
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS SPORTS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/CBS_Sports_Network_Logo.png" group-title="SPORT",CBS SPORTS
+http://tkosportz.live:25461/rodneyb5777/5777/8459
+#EXTINF:-1 tvg-id="" tvg-name="|US| CBS SPORTS NETWORK FHD" tvg-logo="https://i.hizliresim.com/kvow04u.png" group-title="SPORT",|US| CBS SPORTS NETWORK FHD
+http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/821134.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="SPORT",CBS Sports Network
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Golazo Network by CBS Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7elivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
