@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 25/12/24---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 26/12/24---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -2181,9 +2181,13 @@ http://tkosportz.live:25461/rodneyb5777/5777/8459
 #EXTINF:-1 tvg-id="" tvg-name="|US| CBS SPORTS NETWORK FHD" tvg-logo="https://i.hizliresim.com/kvow04u.png" group-title="SPORT",|US| CBS SPORTS NETWORK FHD
 http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/821134.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="SPORT",CBS Sports Network
+https://list.iptvcat.com/my_list/s/7fc143e0af670a67e53605ffb740732f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="SPORT",CBS Sports Network
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Golazo Network by CBS Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7elivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Golazo Network by CBS Sports link 2
+https://list.iptvcat.com/my_list/s/713373277fcc3bd0906e9296c7bdfee5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Zona Dazn" tvg-logo="" group-title="SPORT",Zona Dazn
 http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/67563
