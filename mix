@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 27/12/24---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 12/01/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -2053,51 +2053,6 @@ https://ss.90minlive.online/var/var/playlist.m3u8
 https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="UKR: Setanta Sports" tvg-logo="" group-title="SPORT",UKR: Setanta Sports
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/833881.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UKR: Setanta Sports 1" tvg-logo="" group-title="SPORT",UKR: Setanta Sports 1
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/833882.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UKR: Setanta Sports 2" tvg-logo="" group-title="SPORT",UKR: Setanta Sports 2
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/833883.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RU: Match! Futbol 1" tvg-logo="" group-title="SPORT",RU: Match! Futbol 1
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/830326.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RU: Match! Futbol 2" tvg-logo="" group-title="SPORT",RU: Match! Futbol 2
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/830327.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RU: Match! Futbol 3" tvg-logo="" group-title="SPORT",RU: Match! Futbol 3
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/830328.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UKR: Setanta Sports" tvg-logo="" group-title="SPORT",UKR: Setanta Sports
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/833881.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UKR: Setanta Sports 1" tvg-logo="" group-title="SPORT",UKR: Setanta Sports 1
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/833882.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UKR: Setanta Sports 2" tvg-logo="" group-title="SPORT",UKR: Setanta Sports 2
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/833883.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RU: Match! Futbol 1" tvg-logo="" group-title="SPORT",RU: Match! Futbol 1
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/830326.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RU: Match! Futbol 2" tvg-logo="" group-title="SPORT",RU: Match! Futbol 2
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/830327.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RU: Match! Futbol 3" tvg-logo="" group-title="SPORT",RU: Match! Futbol 3
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/830328.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 1 FHD" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 1 FHD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 2 HD" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 2 HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN FUSSBALL HD" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN FUSSBALL HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 2 BAR HD" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 2 BAR HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 1 BAR HD" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 1 BAR HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 1 FHD-Kabel" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 1 FHD-Kabel
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/812803.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 1 HD-Kabel" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 1 HD-Kabel
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/812804.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 2 FHD-Kabel" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 2 FHD-Kabel
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/812805.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 2 HD-Kabel" tvg-logo="https://i.hizliresim.com/5gcfcrt.png" group-title="SPORT",|DE| DAZN 2 HD-Kabel
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/812806.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Eleven Sports 1 HD
 http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/105525
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Eleven Sports 2 HD
@@ -2115,37 +2070,6 @@ http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155252
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Eleven Sports 4
 http://bocian.io:8880/gogi1gogi/Mzc5MDc2MTg4/155253
 
-
-#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 1 FHD 4K" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="SPORT",|UK| TNT SPORTS 1 FHD 4K
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK|TNT SPORTS 2 FHD 4K" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="SPORT",|UK|TNT SPORTS 2 FHD 4K
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814158.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK|TNT SPORTS 3  4K" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="SPORT",|UK|TNT SPORTS 3  4K
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814159.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK|TNT SPORTS 1 FHD" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="SPORT",|UK|TNT SPORTS 1 FHD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814160.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 2 FHD" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="SPORT",|UK| TNT SPORTS 2 FHD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814161.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK|TNT SPORTS 3 FHD" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="SPORT",|UK|TNT SPORTS 3 FHD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814162.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK|TNT SPORTS 4 FHD" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="SPORT",|UK|TNT SPORTS 4 FHD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814163.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 1 HD" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="SPORT",|UK| TNT SPORTS 1 HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK|TNT SPORTS 2 HD" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="SPORT",|UK|TNT SPORTS 2 HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK|TNT SPORTS 3 HD" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="SPORT",|UK|TNT SPORTS 3 HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 4 HD" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="SPORT",|UK| TNT SPORTS 4 HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK|TNT SPORTS EXTRA 1 HD" tvg-logo="https://logo.iptveditor.com/btsportextra1.png" group-title="SPORT",|UK|TNT SPORTS EXTRA 1 HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK|TNT SPORTS EXTRA 2 HD" tvg-logo="https://logo.iptveditor.com/btsportextra2.png" group-title="SPORT",|UK|TNT SPORTS EXTRA 2 HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814169.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK|TNT SPORTS EXTRA 3 HD" tvg-logo="https://logo.iptveditor.com/btsportextra3.png" group-title="SPORT",|UK|TNT SPORTS EXTRA 3 HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814170.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK|TNT SPORTS EXTRA 4 HD" tvg-logo="https://logo.iptveditor.com/btsportextra4.png" group-title="SPORT",|UK|TNT SPORTS EXTRA 4 HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814171.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Latino_ESPN
 http://45.167.3.81:45000/play/a042/index.m3u8
@@ -2168,15 +2092,6 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Sportv 4k
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/80
 
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",PARAMOUNT PLUS 4 HD
-http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/37
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Paramount plus 3
-http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/36
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Paramount plus 2
-http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/35
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Paramount plus 1 hd
-http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/34
-
 #EXTINF:-1 tvg-id="espn.us" tvg-name="USA | ESPN" tvg-logo="http://lonewolftvpr.com/logos/espn.png" group-title="SPORT",ESPN
 http://simplesolutions123.com:2999/Jaley1990/L6KomjzBxv/9381
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png" group-title="SPORT",ESPN 2
@@ -2191,16 +2106,15 @@ http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 #EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS SPORTS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/CBS_Sports_Network_Logo.png" group-title="SPORT",CBS SPORTS
 http://tkosportz.live:25461/rodneyb5777/5777/8459
-#EXTINF:-1 tvg-id="" tvg-name="|US| CBS SPORTS NETWORK FHD" tvg-logo="https://i.hizliresim.com/kvow04u.png" group-title="SPORT",|US| CBS SPORTS NETWORK FHD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/821134.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="SPORT",CBS Sports Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="SPORT",CBS Sports Network link pc
 https://list.iptvcat.com/my_list/s/7fc143e0af670a67e53605ffb740732f.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Golazo Network by CBS Sports link pc
+https://list.iptvcat.com/my_list/s/713373277fcc3bd0906e9296c7bdfee5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="SPORT",CBS Sports Network
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Golazo Network by CBS Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7elivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Golazo Network by CBS Sports link 2
-https://list.iptvcat.com/my_list/s/713373277fcc3bd0906e9296c7bdfee5.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Zona Dazn" tvg-logo="" group-title="SPORT",Zona Dazn
 http://micio.afinrumunn.xyz:80/danielewatzap/q8axai2Ifb/67563
@@ -2859,71 +2773,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984784ccb4de0007
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="UK",=== UK ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
-#EXTINF:-1 tvg-id="" tvg-name="UK| ITV 1" tvg-logo="https://i.hizliresim.com/olh21v2.png" group-title="UK",UK| ITV 1
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814198.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK| ITV2" tvg-logo="https://i.hizliresim.com/olh21v2.png" group-title="UK",UK| ITV2
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814199.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK| ITV2 HD" tvg-logo="https://i.hizliresim.com/olh21v2.png" group-title="UK",UK| ITV2 HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK| ITV3" tvg-logo="https://i.hizliresim.com/olh21v2.png" group-title="UK",UK| ITV3
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814201.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| ITV4" tvg-logo="https://i.hizliresim.com/olh21v2.png" group-title="UK",|UK| ITV4
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814211.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| ITVBe" tvg-logo="https://i.hizliresim.com/olh21v2.png" group-title="UK",|UK| ITVBe
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814212.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK| ITV 1" tvg-logo="https://i.hizliresim.com/olh21v2.png" group-title="UK",UK| ITV 1
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814198.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK| ITV2" tvg-logo="https://i.hizliresim.com/olh21v2.png" group-title="UK",UK| ITV2
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814199.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK| ITV2 HD" tvg-logo="https://i.hizliresim.com/olh21v2.png" group-title="UK",UK| ITV2 HD
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK| ITV3" tvg-logo="https://i.hizliresim.com/olh21v2.png" group-title="UK",UK| ITV3
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814201.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| ITV4" tvg-logo="https://i.hizliresim.com/olh21v2.png" group-title="UK",|UK| ITV4
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814211.m3u8
-ps://i.hizliresim.com/etowi33.png" group-title="UK",|UK| BBC News HD
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| UK| BBC One" tvg-logo="https://i.hizliresim.com/6ww71h1.png" group-title="UK",| UK| BBC One
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814205.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BBC Scotland" tvg-logo="https://i.hizliresim.com/9e8won3.png" group-title="UK",|UK| BBC Scotland
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814206.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BBC Two HD" tvg-logo="https://i.hizliresim.com/swagh3e.png" group-title="UK",|UK| BBC Two HD
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814207.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BBC World News" tvg-logo="https://i.hizliresim.com/etowi33.png" group-title="UK",|UK| BBC World News
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814208.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| CNN" tvg-logo="https://i.hizliresim.com/rryysn1.png" group-title="UK",|UK| CNN
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814209.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| GOLD" tvg-logo="https://i.hizliresim.com/2igkm2v.png" group-title="UK",|UK| GOLD
-http://12redoyeni.xyz:80/live/Zekeriye61/VeOxNgLiRy/814210.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky News HD" tvg-logo="https://i.hizliresim.com/qkfgy39.png" group-title="UK",|UK| Sky News HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814213.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BBC Four HD" tvg-logo="https://i.hizliresim.com/n0w26pw.png" group-title="UK",|UK| BBC Four HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BBC News HD" tvg-logo="https://i.hizliresim.com/etowi33.png" group-title="UK",|UK| BBC News HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="| UK| BBC One" tvg-logo="https://i.hizliresim.com/6ww71h1.png" group-title="UK",| UK| BBC One
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814205.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BBC Scotland" tvg-logo="https://i.hizliresim.com/9e8won3.png" group-title="UK",|UK| BBC Scotland
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814206.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BBC Two HD" tvg-logo="https://i.hizliresim.com/swagh3e.png" group-title="UK",|UK| BBC Two HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814207.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK| BBC One HD" tvg-logo="https://i.hizliresim.com/6ww71h1.png" group-title="UK",UK| BBC One HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814196.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK| BBC Three HD" tvg-logo="https://i.hizliresim.com/alw8awf.png" group-title="UK",UK| BBC Three HD
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/814197.m3u8
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC Toronto
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC Travel
-https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8?ads.wurl_channel=985&ads.wurl_name=BBCTravel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC Travel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4519e6873180007d3cddb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC Food
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC Food
-https://c367ab159c494e0daa775bd24aac404d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCFood/playlist.m3u8?ads.wurl_channel=1016&ads.wurl_name=BBCFood&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC History
-https://7a0978fa08424aa3b473d22dc144bd01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCHistory/playlist.m3u8?ads.wurl_channel=947&ads.wurl_name=BBCHistory&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="" tvg-name="Wonder" tvg-logo="https://i.imgur.com/450pJvs.png" group-title="UK",Wonder
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="XITE" tvg-logo="https://i.imgur.com/VaDrfKr.png" group-title="UK",XITE
@@ -3103,22 +2958,7 @@ http://200.59.188.3:8000/play/a08n
 http://200.59.188.3:8000/play/a08y
 #EXTINF:-1 tvg-id="" tvg-name="ES | Antena 3 Int" tvg-logo="" group-title="Vari",ES | Antena 3 Int
 http://simplesolutions123.com:2999/kratorius/opLcbhlXaT/10794
-#EXTINF:-1 tvg-id="" tvg-name="|FR.4K| TF1" tvg-logo="https://i.hizliresim.com/31ogwpv.png" group-title="Vari",|FR.4K| TF1
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813490.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR.4K| TF1 +1" tvg-logo="https://i.hizliresim.com/31ogwpv.png" group-title="Vari",|FR.4K| TF1 +1
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813491.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR.4K| FRANCE 2" tvg-logo="https://i.hizliresim.com/31ogwpv.png" group-title="Vari",|FR.4K| FRANCE 2
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813492.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR.4K| FRANCE 3" tvg-logo="https://i.hizliresim.com/31ogwpv.png" group-title="Vari",|FR.4K| FRANCE 3
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813493.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR.4K| FRANCE 4" tvg-logo="https://i.hizliresim.com/31ogwpv.png" group-title="Vari",|FR.4K| FRANCE 4
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813494.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR.4K| FRANCE 5" tvg-logo="https://i.hizliresim.com/31ogwpv.png" group-title="Vari",|FR.4K| FRANCE 5
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813495.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR.4K| M6" tvg-logo="https://i.hizliresim.com/31ogwpv.png" group-title="Vari",|FR.4K| M6
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/813496.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|CH| RTL" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/87c26e164238471525ed4c208b9f3785.png" group-title="Vari", RTL
-http://12redoyeni.xyz:80/live/turhangencol/030622.sdrs/826410.m3u8
+
 #EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",Das Erste HD
 http://mio.cielo.tf:2052/0C€UWx-Mi8$Lo/J3S8$-LS€yFif45/687299
 #EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",ZDF HD
