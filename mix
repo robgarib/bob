@@ -2090,8 +2090,6 @@ http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/210161.ts
 http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/391132
 #EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Bar 2 ⁴ᴷ" tvg-logo="https://i.imgur.com/BmjcLqD.jpg" group-title="SPORT",DE: DAZN Bar 2 ⁴ᴷ
 http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/391130
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Sport 1 EN ⁴ᵏ" tvg-logo="" group-title="International Sport Channels",DE: DAZN Sport 1 EN ⁴ᵏ
-http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/454437
 #EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Sport 1 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/EJcSPXg.jpg" group-title="SPORT",DE: Dazn Sport 1 ᶠᴴᴰ
 http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/391128
 #EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Sport 2 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/BmjcLqD.jpg" group-title="SPORT",DE: Dazn Sport 2 ᶠᴴᴰ
@@ -2300,7 +2298,7 @@ http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/142165.ts
 http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/142167.ts
 #EXTINF:-1 tvg-id="SkySportMax.it" tvg-name="Sky Sport Max HD Vip" tvg-logo="https://i.imgur.com/WS3JZ4F.png" group-title="SPORT",Sky Sport Max HD Vip
 http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/142169.ts
-#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena HD Vip" tvg-logo="https://a.bnt-team.it/PICON/SPORT/Sky_Sport_Arena.png" SPORT",Sky Sport Arena HD Vip
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena HD Vip" tvg-logo="https://a.bnt-team.it/PICON/SPORT/Sky_Sport_Arena.png" group-title="SPORT",Sky Sport Arena HD Vip
 http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/142171.ts
 #EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA HD Vip" tvg-logo="https://a.bnt-team.it/PICON/SPORT/Sky_Sport_NBA.png" group-title="SPORT",Sky Sport NBA HD Vip
 http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/142173.ts
