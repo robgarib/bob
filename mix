@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 09/02/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 16/03/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -1052,13 +1052,13 @@ https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 #EXTINF:-1 tvg-id="RSILa2.ch" tvg-name="Rsi la 2 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/21e4f1e0825693dcb9ef0670e6ed968e.png" group-title="Svizzera",RSI LA 2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 #EXTINF:-1 tvg-id="RSI La1 HD" tvg-name="Rsi la 1 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/594d86867dc5aef35547365a8c32ce5b.png" group-title="Svizzera",Rsi la 1 HD
-http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/96434
-#EXTINF:-1 tvg-id="RSILa2.ch" tvg-name="Rsi la 2 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/21e4f1e0825693dcb9ef0670e6ed968e.png" group-title="Svizzera",Rsi la 2 HD
-http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/96435
-#EXTINF:-1 tvg-id="RSI La1 HD" tvg-name="Rsi la 1 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/594d86867dc5aef35547365a8c32ce5b.png" group-title="Svizzera",Rsi la 1 HD
 https://cachehsi1a.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 #EXTINF:-1 tvg-id="RSILa2.ch" tvg-name="Rsi la 2 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/21e4f1e0825693dcb9ef0670e6ed968e.png" group-title="Svizzera",Rsi la 2 HD
 https://cachehsi1a.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+#EXTINF:-1 tvg-id="RSILa1.ch" tvg-name="Rsi La1 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_4337_300C_13E_820000_0_0_0.png" group-title="Svizzera",Rsi La1 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/268
+#EXTINF:-1 tvg-id="RSILa2.ch" tvg-name="Rsi La2 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_4338_300C_13E_820000_0_0_0.png" group-title="Svizzera",Rsi La2 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/267
 
 
 
@@ -2015,20 +2015,11 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Turkmenistan Sport
 https://alpha.tv.online.tm/legacyhls/ch004.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",CBC Sport
-https://str2.yodacdn.net/cbcsport/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Persiana Sport
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://gg.hls2.xyz/live/Persiana%20Sports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Persiana Sport
 https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",NETO TV
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-https://gg.hls2.xyz/live/netotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",NETO TV
-https://netohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",NETO TV
-https://netohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Varzish TV
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://gg.hls2.xyz/live/IR%20-%20Varzish%20TV/playlist.m3u8
@@ -2038,6 +2029,18 @@ https://ss.90minlive.online/var/var/playlist.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",TVE TeleDeporte
 https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ATV1 MONO
+https://ts.suricloud.com/atv1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ATV2 MONO
+https://ts.suricloud.com/atv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ATV3 MONO
+https://ts.suricloud.com/atv3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ATV1
+https://ts.suricloud.com/atv1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ATV2
+https://ts.suricloud.com/atv2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",ATV3
+https://ts.suricloud.com/atv3/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Voetbal" tvg-logo="" group-title="SPORT",NL: Ziggo Sport Voetbal
 http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/391004
@@ -2076,10 +2079,7 @@ http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/454318
 #EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 10 HD" tvg-logo="" group-title="SPORT",UK: TNT SPORTS 10 HD
 http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/454326
 
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 HD" tvg-logo="https://bnt-team.it/PICON/DAZN/120px-DAZN_logo.svg.png" group-title="SPORT",DE: DAZN 1 HD
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/210162.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DE: DAZN2 HD" tvg-logo="https://bnt-team.it/PICON/DAZN/120px-DAZN_logo.svg.png" group-title="SPORT",DAZN DE: DAZN2 HD
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/210161.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Bar 1 ⁴ᴷ" tvg-logo="https://i.imgur.com/EJcSPXg.jpg" group-title="SPORT",DE: DAZN Bar 1 ⁴ᴷ
 http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/391132
 #EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Bar 2 ⁴ᴷ" tvg-logo="https://i.imgur.com/BmjcLqD.jpg" group-title="SPORT",DE: DAZN Bar 2 ⁴ᴷ
@@ -2125,6 +2125,42 @@ http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/454427
 http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/454426
 #EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn 4 ⁴ᴷ" tvg-logo="" group-title="SPORT",ES: Movistar Dazn 4 ⁴ᴷ
 
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1 ⁴ᵏ" tvg-logo="" group-title="SPORT",PT: Eleven Sports 1 ⁴ᵏ
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/454366
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2 ⁴ᵏ" tvg-logo="" group-title="SPORT",PT: Eleven Sports 2 ⁴ᵏ
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/454365
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3 ⁴ᵏ" tvg-logo="" group-title="SPORT",PT: Eleven Sports 3 ⁴ᵏ
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/454364
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4 ⁴ᵏ" tvg-logo="" group-title="SPORT",PT: Eleven Sports 4 ⁴ᵏ
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/454363
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 5 ⁴ᵏ" tvg-logo="" group-title="SPORT",PT: Eleven Sports 5 ⁴ᵏ
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/454362
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 6 ⁴ᵏ" tvg-logo="" group-title="SPORT",PT: Eleven Sports 6 ⁴ᵏ
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/454361
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="SPORT",PT: SPORT TV 1 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/390986
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6 | PT ⁴ᴷ" tvg-logo="" group-title="SPORT",PT: Sport TV 6 | PT ⁴ᴷ
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/454360
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 1 ⁴ᵏ" tvg-logo="" group-title="SPORT",RO: Digi Sport 1 ⁴ᵏ
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/454359
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 2 ⁴ᵏ" tvg-logo="" group-title="SPORT",RO: Digi Sport 2 ⁴ᵏ
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/454358
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 3 ⁴ᵏ" tvg-logo="" group-title="SPORT",RO: Digi Sport 3 ⁴ᵏ
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/454357
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 4 ⁴ᵏ" tvg-logo="" group-title="SPORT",RO: Digi Sport 4 ⁴ᵏ
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/454356
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 1 HD" tvg-logo="" group-title="SPORT",PL: Eleven Sports 1 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/390994
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 1 ⁴ᴷ ᵁᴴᴰ" tvg-logo="" group-title="SPORT",PL: Eleven Sports 1 ⁴ᴷ ᵁᴴᴰ
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/454374
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 2 HD" tvg-logo="" group-title="SPORT",PL: Eleven Sports 2 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/390993
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 3 HD" tvg-logo="" group-title="SPORT",PL: Eleven Sports 3 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/390992
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 3 ⁴ᵏ PL" tvg-logo="" group-title="SPORT",PL: Eleven Sports 3 ⁴ᵏ PL
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/454373
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 4 HD" tvg-logo="" group-title="SPORT",PL: Eleven Sports 4 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/390991
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png" group-title="SPORT",ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
@@ -2192,77 +2228,60 @@ http://sar.nobip.online:80/Pino01/1Logpino1/548318
 http://sar.nobip.online:80/Pino01/1Logpino1/548315
 #EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN 2 SD" tvg-logo="https://logosmig.fyi/zona_sd.png" group-title="SPORT",ZONA DAZN 2 SD
 http://sar.nobip.online:80/Pino01/1Logpino1/548314
-
-#EXTINF:-1 tvg-id="" tvg-name="Zona Gool Serie A FHD" tvg-logo="https://a.bnt-team.it/PICON/DAZN/Dazn.png" group-title="SPORT",Zona Gool Serie A FHD
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/210643.ts
-#EXTINF:-1 tvg-id="" tvg-name="Zona Gool Serie A FHD" tvg-logo="https://a.bnt-team.it/PICON/DAZN/Dazn.png" group-title="SPORT",Zona Gool Serie A FHD
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/375795.ts
-#EXTINF:-1 tvg-id="" tvg-name="Zona Gool Serie A HD" tvg-logo="https://a.bnt-team.it/PICON/DAZN/Dazn.png" group-title="SPORT",Zona Gool Serie A HD
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/375796.ts
-#EXTINF:-1 tvg-id="" tvg-name="Zona Gool Serie A SD" tvg-logo="https://a.bnt-team.it/PICON/DAZN/Dazn.png" group-title="SPORT",Zona Gool Serie A SD
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/375797.ts
-#EXTINF:-1 tvg-id="DAZNZona.it" tvg-name="DAZN 1 FHD Vip" tvg-logo="https://a.bnt-team.it/PICON/DAZN/Dazn.png" group-title="SPORT",DAZN 1 FHD Vip
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/142337.ts
-#EXTINF:-1 tvg-id="DAZNZona.it" tvg-name="DAZN 1 FHD" tvg-logo="https://a.bnt-team.it/PICON/DAZN/Dazn.png" group-title="SPORT",DAZN 1 FHD
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/210645.ts
-#EXTINF:-1 tvg-id="DAZNZona.it" tvg-name="DAZN 1 HD Vip" tvg-logo="https://a.bnt-team.it/PICON/DAZN/Dazn.png" group-title="SPORT",DAZN 1 HD Vip
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/142338.ts
-#EXTINF:-1 tvg-id="DAZNZona.it" tvg-name="DAZN 1 HD" tvg-logo="https://a.bnt-team.it/PICON/DAZN/Dazn.png" group-title="SPORT",DAZN 1 HD
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/210646.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 SD Vip" tvg-logo="https://a.bnt-team.it/PICON/DAZN/Dazn.png" group-title="SPORT",DAZN 1 SD Vip
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/341585.ts
-#EXTINF:-1 tvg-id="DAZNZona.it" tvg-name="DAZN 1 SD" tvg-logo="https://a.bnt-team.it/PICON/DAZN/Dazn.png" group-title="SPORT",DAZN 1 SD
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/210647.ts
-#EXTINF:-1 tvg-id="SERIE_A_01.it" tvg-name="DAZN 1 HD" tvg-logo="https://a.bnt-team.it/PICON/DAZN/Dazn.png" group-title="SPORT",DAZN 1 HD
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/375116.ts
-#EXTINF:-1 tvg-id="SERIE_A_01.it" tvg-name="DAZN 01 SERIE A FHD Vip" tvg-logo="https://a.bnt-team.it/PICON/DAZN/Dazn.png" group-title="SPORT",DAZN 01 SERIE A FHD Vip
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/142340.ts
-#EXTINF:-1 tvg-id="SERIE_A_01.it" tvg-name="DAZN 01 SERIE A FHD" tvg-logo="https://a.bnt-team.it/PICON/DAZN/Dazn.png" group-title="SPORT",DAZN 01 SERIE A FHD
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/210585.ts
-#EXTINF:-1 tvg-id="SERIE_A_01.it" tvg-name="DAZN 01 SERIE A HD Vip" tvg-logo="https://a.bnt-team.it/PICON/DAZN/Dazn.png" group-title="SPORT",DAZN 01 SERIE A HD Vip
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/144216.ts
-#EXTINF:-1 tvg-id="SERIE_A_03.it" tvg-name="DAZN 03 SERIE A HD Vip" tvg-logo="https://a.bnt-team.it/PICON/DAZN/Dazn.png" group-title="SPORT",DAZN 03 SERIE A HD Vip
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/144218.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 04 SERIE A HD" tvg-logo="https://a.bnt-team.it/PICON/DAZN/Dazn.png" group-title="SPORT",DAZN 04 SERIE A HD
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/210600.ts
-#EXTINF:-1 tvg-id="SERIE_A_05.it" tvg-name="DAZN 05 SERIE A HD Vip" tvg-logo="https://a.bnt-team.it/PICON/DAZN/Dazn.png" group-title="SPORT",DAZN 05 SERIE A HD Vip
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/144220.ts
-#EXTINF:-1 tvg-id="SERIE_A_06.it" tvg-name="DAZN 06 SERIE A HD Vip" tvg-logo="https://a.bnt-team.it/PICON/DAZN/Dazn.png" group-title="SPORT",DAZN 06 SERIE A HD Vip
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/144221.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 06 SERIE A HD" tvg-logo="https://a.bnt-team.it/PICON/DAZN/Dazn.png" group-title="SPORT",DAZN 06 SERIE A HD
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/210619.ts
-#EXTINF:-1 tvg-id="SERIE_A_07.it" tvg-name="DAZN 07 SERIE A HD Vip" tvg-logo="https://a.bnt-team.it/PICON/DAZN/Dazn.png" group-title="SPORT",DAZN 07 SERIE A HD Vip
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/144222.ts
-#EXTINF:-1 tvg-id="SkySport251.it" tvg-name="Sky Calcio 251 HD Vip" tvg-logo="https://a.bnt-team.it/PICON/CALCIO/SkyCalcio1HD.png" group-title="SPORT",Sky Calcio 251 HD Vip
-EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Calcio 252 HD Vip" tvg-logo="https://a.bnt-team.it/PICON/CALCIO/SkyCalcio2HD.png" group-title="SPORT",Sky Calcio 252 HD Vip
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/142320.ts
-#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Calcio 253 HD Vip" tvg-logo="https://a.bnt-team.it/PICON/CALCIO/SkyCalcio3HD.png" group-title="SPORT",Sky Calcio 253 HD Vip
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/142322.ts
-#EXTINF:-1 tvg-id="SkySport254.it" tvg-name="Sky Calcio 254 HD" tvg-logo="https://a.bnt-team.it/PICON/CALCIO/SkyCalcio4HD.png" group-title="SPORT",Sky Calcio 254 HD
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/196.ts
-EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio FHD" tvg-logo="https://a.bnt-team.it/PICON/SKY_SPORT/Sky_Sport_Calcio.png" group-title="SPORT",Sky Sport Calcio FHD
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/137567.ts
-#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24 HD Vip" tvg-logo="https://a.bnt-team.it/PICON/SPORT/Sky_Sport_24.png" group-title="SPORT",Sky Sport 24 HD Vip
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/142165.ts
-#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno HD Vip" tvg-logo="https://a.bnt-team.it/PICON/SPORT/Sky_Sport_Uno.png" group-title="SPORT",Sky Sport Uno HD Vip
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/142167.ts
-#EXTINF:-1 tvg-id="SkySportMax.it" tvg-name="Sky Sport Max HD Vip" tvg-logo="https://i.imgur.com/WS3JZ4F.png" group-title="SPORT",Sky Sport Max HD Vip
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/142169.ts
-#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena HD Vip" tvg-logo="https://a.bnt-team.it/PICON/SPORT/Sky_Sport_Arena.png" group-title="SPORT",Sky Sport Arena HD Vip
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/142171.ts
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA HD Vip" tvg-logo="https://a.bnt-team.it/PICON/SPORT/Sky_Sport_NBA.png" group-title="SPORT",Sky Sport NBA HD Vip
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/142173.ts
-#EXTINF:-1 tvg-id="SkySportAction.it" tvg-name="Sky Sport Golf HD Vip" tvg-logo="https://a.bnt-team.it/PICON/SPORT/Sky_Sport_Golf.png" group-title="SPORT",Sky Sport Golf HD Vip
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/142174.ts
-#EXTINF:-1 tvg-id="SkySportTennis.it" tvg-name="Sky Sport Tennis HD Vip" tvg-logo="https://a.bnt-team.it/PICON/SKY_SPORT/Sky_Sport_Tennis.png" group-title="SPORT",Sky Sport Tennis HD Vip
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/142192.ts
-#EXTINF:-1 tvg-id="20 Mediaset" tvg-name="Inter Channel FHD" tvg-logo="https://a.bnt-team.it/PICON/SPORT/Inter_Channel.png" group-title="SPORT",Inter Channel FHD
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/203.ts
-#EXTINF:-1 tvg-id="Eurosport 1 Full HD" tvg-name="EuroSport 1 FHD" tvg-logo="http://appbnt.newstvbnt.org/PICON/SPORT/EuroSport_1.png" group-title="SPORT",EuroSport 1 FHD
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/268.ts
-#EXTINF:-1 tvg-id="Eurosport 2 FHD" tvg-name="EuroSport 2 FHD" tvg-logo="http://appbnt.newstvbnt.org/PICON/SPORT/EuroSport_2.png" group-title="SPORT",EuroSport 2 FHD
-http://fluxprivate.org:80/live/Ca3UQBD43q/gVy6ZEKzD7/269.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 1 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_1_0_0_0_0_0_0_9.png" group-title="SPORT",Dazn 1 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/253400
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 2 HD" tvg-logo="http://picon.koolmedia.live/images/9b83d052aa497851a3e55bbd2bedf35d.png" group-title="SPORT",Dazn 2 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/253398
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 3 HD" tvg-logo="http://picon.koolmedia.live/images/9b83d052aa497851a3e55bbd2bedf35d.png" group-title="SPORT",Dazn 3 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/253396
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 4 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_1_0_0_0_0_0_0_9.png" group-title="SPORT",Dazn 4 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/253394
+#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_1C29_1838_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport Calcio HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452291
+#EXTINF:-1 tvg-id="SkySport251.it" tvg-name="Sky Calcio 1 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_F4D_2198_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Calcio 1 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452263
+#EXTINF:-1 tvg-id="SkySport252.it" tvg-name="Sky Calcio 2 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_F6F_1900_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Calcio 2 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452265
+#EXTINF:-1 tvg-id="SkySport253.it" tvg-name="Sky Calcio 3 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_1089_2008_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Calcio 3 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452268
+#EXTINF:-1 tvg-id="SkySport254.it" tvg-name="Sky Calcio 4 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_108A_2008_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Calcio 4 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452270
+#EXTINF:-1 tvg-id="SkySport255.it" tvg-name="Sky Calcio 5 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_F46_2198_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Calcio 5 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452272
+#EXTINF:-1 tvg-id="SkySport256.it" tvg-name="Sky Calcio 6 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_F48_2198_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Calcio 6 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452274
+#EXTINF:-1 tvg-id="SkySport257.it" tvg-name="Sky Calcio 7 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_1E5F_170C_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Calcio 7 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452276
+#EXTINF:-1 tvg-id="SkySport258.it" tvg-name="Sky Calcio 8 HD" tvg-logo="https://www.davidemaggio.it/pics3/2021/06/Sky-Calcio.jpg" group-title="SPORT",Sky Calcio 8 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452278
+#EXTINF:-1 tvg-id="SkySport259.it" tvg-name="Sky Calcio 9 HD" tvg-logo="https://www.davidemaggio.it/pics3/2021/06/Sky-Calcio.jpg" group-title="SPORT",Sky Calcio 9 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452280
+#EXTINF:-1 tvg-id="Inter Channel" tvg-name="Inter TV" tvg-logo="http://picon.koolmedia.live/images/1_0_19_250F_189C_FBFF_820000_0_0_0.png" group-title="SPORT",Inter TV
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452255
+EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24 HD" tvg-logo="http://picon.koolmedia.live/images/ccec66c13fc661737e9bb8c24b4c32c7.png" group-title="SPORT",Sky Sport 24 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452139
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_2B0F_1838_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport Uno HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452140
+#EXTINF:-1 tvg-id="SkySportMax.it" tvg-name="Sky Sport Max HD" tvg-logo="http://picon.koolmedia.live/images/sky-sport-max-it.png" group-title="SPORT",Sky Sport Max HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452176
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_2B10_1900_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport Arena HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452137
+#EXTINF:-1 tvg-id="SkySportTennis.it" tvg-name="Sky Sport Tennis HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_DE7_15E0_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport Tennis HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452134
+#EXTINF:-1 tvg-id="SkySportAction.it" tvg-name="Sky Sport Golf HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_1E58_2198_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport Golf HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452150
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_2506_170C_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport F1 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452135
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGp HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_250B_170C_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport MotoGp HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452171
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_1E54_15E0_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport NBA HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452133
+#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="Eurosport 1 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_1_3311_190_13E_820000_0_0_0.png" group-title="SPORT",Eurosport 1 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452129
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="Eurosport 2 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_1036_206C_FBFF_820000_0_0_0.png" group-title="SPORT",Eurosport 2 HD
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452191
+#EXTINF:-1 tvg-id="Pesca.it" tvg-name="Pesca" tvg-logo="http://picon.koolmedia.live/images/1_0_1_10FE_1A2C_FBFF_820000_0_0_0.png" group-title="SPORT",Pesca
+http://pablisa69n.dnsalias.net:80/r2_nunzioferr/F3rrNunz18/452127
 
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="SPORT ACE",=== SPORT ACE ===
