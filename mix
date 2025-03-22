@@ -1977,7 +1977,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7|User
 https://5e73cf528f404.streamlock.net/GR_sport/livestream/chunklist_w1501899689.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/aci-sport-tv.JPG" group-title="SPORT",ACI Sport Tv
 https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
-EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ms-channel.JPG" group-title="SPORT",MS Channel
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ms-channel.JPG" group-title="SPORT",MS Channel
 https://96vd9q7ryxq7-hls-live.mariatvcdn.it/ms/ea0e4a77baa23e917acaf517042ac7d8.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ms-motors-tv.JPG" group-title="SPORT",MS Motors Tv
 https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
@@ -1994,7 +1994,7 @@ https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3
 
 #EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: TNT SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",UK: TNT SPORTS 1
 http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/508184
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: TNT SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT: TNT SPORTS 2
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: TNT SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",UK: TNT SPORTS 2
 http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/508186
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: TNT SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",UK: TNT SPORTS 3
 http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/508187
