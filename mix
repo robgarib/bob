@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 22/03/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 23/03/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
@@ -2173,6 +2173,10 @@ http://sar.nobip.online:80/Pino01/1Logpino1/548315
 #EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN 2 SD" tvg-logo="https://logosmig.fyi/zona_sd.png" group-title="SPORT",ZONA DAZN 2 SD
 http://sar.nobip.online:80/Pino01/1Logpino1/548314
 
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN 1 HD" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=12dpnhddhmpm71228raanhyxs2_image-header_pDach_1662550662000&quality=70" group-title="⚡️DAZN SERIE A⚡️",ZONA DAZN 1 HD
+http://188.211.233.202:80/Casacesaranomarzano/Cimitile10/483118
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN 1 SD" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=12dpnhddhmpm71228raanhyxs2_image-header_pDach_1662550662000&quality=70" group-title="⚡️DAZN SERIE A⚡️",ZONA DAZN 1 SD
+http://188.211.233.202:80/Casacesaranomarzano/Cimitile10/483117
 #EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN 1 HD" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=12dpnhddhmpm71228raanhyxs2_image-header_pDach_1662550662000&quality=70" group-title="SPORT",ZONA DAZN 1 HD
 http://188.211.233.202:80/Santaniello/cimitile10/483118
 #EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN 1 SD" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=12dpnhddhmpm71228raanhyxs2_image-header_pDach_1662550662000&quality=70" group-title="SPORT",ZONA DAZN 1 SD
@@ -2939,7 +2943,7 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_576.m3u8
 #EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",TVE CLAN
 https://d3nnqrdb77sy13.cloudfront.net/Clan_ES.m3u8
-#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",Tve Internacional Europa HD (geobloqueo)
+#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",Tve Internacional Europa HD (geobloqued)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
 #EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",TVE LA 1
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
