@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 23/03/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 24/03/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
@@ -1975,14 +1975,18 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 OPR/89.0.4447.48
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/grtv.jpg" group-title="SPORT",Giornale Radio Tv Sport
 https://5e73cf528f404.streamlock.net/GR_sport/livestream/chunklist_w1501899689.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/calciomercatoit.png" group-title="SPORT",CalcioMercato.it
+https://tivusto.org/sh/calciomercatoit
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/aci-sport-tv.JPG" group-title="SPORT",ACI Sport Tv
-https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ms-channel.JPG" group-title="SPORT",MS Channel
 https://96vd9q7ryxq7-hls-live.mariatvcdn.it/ms/ea0e4a77baa23e917acaf517042ac7d8.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ms-motors-tv.JPG" group-title="SPORT",MS Motors Tv
 https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/media-sport-tv.png" group-title="SPORT",Media Sport Tv
+https://tivusto.org/sh/medsport
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/motori-tv.png" group-title="SPORT",Motori Tv
-https://tivustream.website/urls/motoritv
+https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-24-live.jpg" group-title="SPORT",SportItalia 24 LIVE
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia.png" group-title="SPORT",SportItalia HD Plus
@@ -2173,9 +2177,9 @@ http://sar.nobip.online:80/Pino01/1Logpino1/548315
 #EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN 2 SD" tvg-logo="https://logosmig.fyi/zona_sd.png" group-title="SPORT",ZONA DAZN 2 SD
 http://sar.nobip.online:80/Pino01/1Logpino1/548314
 
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN 1 HD" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=12dpnhddhmpm71228raanhyxs2_image-header_pDach_1662550662000&quality=70" group-title="⚡️DAZN SERIE A⚡️",ZONA DAZN 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN 1 HD" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=12dpnhddhmpm71228raanhyxs2_image-header_pDach_1662550662000&quality=70" group-title="SPORT",ZONA DAZN 1 HD
 http://188.211.233.202:80/Casacesaranomarzano/Cimitile10/483118
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN 1 SD" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=12dpnhddhmpm71228raanhyxs2_image-header_pDach_1662550662000&quality=70" group-title="⚡️DAZN SERIE A⚡️",ZONA DAZN 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN 1 SD" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=12dpnhddhmpm71228raanhyxs2_image-header_pDach_1662550662000&quality=70" group-title="SPORT",ZONA DAZN 1 SD
 http://188.211.233.202:80/Casacesaranomarzano/Cimitile10/483117
 #EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN 1 HD" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=12dpnhddhmpm71228raanhyxs2_image-header_pDach_1662550662000&quality=70" group-title="SPORT",ZONA DAZN 1 HD
 http://188.211.233.202:80/Santaniello/cimitile10/483118
@@ -2185,7 +2189,7 @@ http://188.211.233.202:80/Santaniello/cimitile10/483117
 http://188.211.233.202:80/Santaniello/cimitile10/483116
 #EXTINF:-1 tvg-id="" tvg-name="Serie A2 HD" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL_400x400.jpg" group-title="SPORT",Serie A2 HD
 http://188.211.233.202:80/Santaniello/cimitile10/483115
-#EXTINF:-1 tvg-id="" tvg-name="Serie A3 HD" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL_400x400.jpg" group-title="SPORT⚡️",Serie A3 HD
+
 
 
 #EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="SKY Glass Sport Calcio Full HD (Canale 249)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Sky_Glass_logo.svg/revision/latest/scale-to-width-down/300" group-title="SPORT",SKY Glass Sport Calcio Full HD (Canale 249)
