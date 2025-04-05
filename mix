@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 24/03/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 05/04/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
@@ -1066,7 +1066,8 @@ https://cachehsi1a.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="4K",=== 4K===
 http://patbuweb.com/iptv/e2liste/startend.avi
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="4K",RAI 4K
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="Canali RAI",Rai 4K
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-id="travelmix.ro" tvg-name="TRAVEL MIX 4K" tvg-logo="http://5.189.181.7/extract/travelmixhd.png" group-title="4K",TRAVEL MIX 4K
 http://otthome.xyz:8080/maryan/maryan1234/60117
@@ -1996,6 +1997,81 @@ https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tmw-radio-tv-tutto-mercato-web.png" group-title="SPORT",TMW  Radio Tv (Tutto Mercato Web)
 https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS 1
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659109
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS 2
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659110
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS 3
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659111
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 4" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS MAX 4
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659113
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 5" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS MAX 5
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659114
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 6" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS MAX 6
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659115
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 7" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS MAX 7
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659116
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 8" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS MAX 8
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659117
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 9" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS MAX 9
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659118
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 10" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS MAX 10
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659112
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="SPORT",BR: ESPN
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659718
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="SPORT",BR: ESPN 2
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659719
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 3" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="SPORT",BR: ESPN 3
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659720
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 4" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="SPORT",BR: ESPN 4
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659721
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 5" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="SPORT",BR: ESPN 5
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659722
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 6" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="SPORT",BR: ESPN 6
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659723
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PL (C+PL) Eleven Sports 1" tvg-logo="http://www.esuo.eu/wp-content/uploads/2020/03/poland-1500641_1920.png" group-title="SPORT",PL (C+PL) Eleven Sports 1
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/518158
+#EXTINF:-1 tvg-id="" tvg-name="PL (C+PL) Eleven Sports 1 UHD/4K (D)" tvg-logo="http://www.esuo.eu/wp-content/uploads/2020/03/poland-1500641_1920.png" group-title="SPORT",PL (C+PL) Eleven Sports 1 UHD/4K (D)
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/518160
+#EXTINF:-1 tvg-id="" tvg-name="PL (C+PL) ELEVEN SPORTS 2 (D)" tvg-logo="http://www.esuo.eu/wp-content/uploads/2020/03/poland-1500641_1920.png" group-title="SPORT",PL (C+PL) ELEVEN SPORTS 2 (D)
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/518162
+#EXTINF:-1 tvg-id="" tvg-name="PL (C+PL) ELEVEN SPORTS 3 (D)" tvg-logo="http://www.esuo.eu/wp-content/uploads/2020/03/poland-1500641_1920.png" group-title="SPORT",PL (C+PL) ELEVEN SPORTS 3 (D)
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/518164
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Dazn 1
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660582
+#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 2" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Dazn 2
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660581
+#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 3" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Dazn 3
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660580
+#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 4" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Dazn 4
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660579
+#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 5" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Dazn 5
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660578
+#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 6" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Dazn 6
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660577
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTTV 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: SPORTTV 1
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660584
+#EXTINF:-1 tvg-id="" tvg-name="PT: SportTV 2" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: SportTV 2
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660583
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Sport TV 3
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660576
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Sport TV 4
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660575
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Sport TV 5
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660574
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Sport TV 6
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660573
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 7" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Sport TV 7
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660566
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV Plus" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Sport TV Plus
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660682
+
+
 #EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: TNT SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",UK: TNT SPORTS 1
 http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/508184
 #EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: TNT SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",UK: TNT SPORTS 2
@@ -2147,6 +2223,8 @@ https://list.iptvcat.com/my_list/s/7fc143e0af670a67e53605ffb740732f.m3u8
 https://list.iptvcat.com/my_list/s/713373277fcc3bd0906e9296c7bdfee5.m3u8
 #EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS SPORTS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/CBS_Sports_Network_Logo.png" group-title="SPORT",CBS SPORTS
 http://tkosportz.live:25461/rodneyb5777/5777/8459
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS SPORTS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/CBS_Sports_Network_Logo.png" group-title="SPORT",CBS SPORTS
+http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/433795
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="SPORT",CBS Sports Network
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Golazo Network by CBS Sports
@@ -2915,6 +2993,34 @@ http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Vari",=== Vari ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Vari",TF1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Vari",TF1 (backup)
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Vari",TF1 (backup)
+https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="Vari",GULLI
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="Vari",GULLI
+https://lbcdn.6cloud.fr/resource/m6web/l/gulli_hls_sd_short_q2hyb21h.m3u8?groups[]=m6web-live-gulli_ext
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="Vari",M6 [drm-keycrypted]
+https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Vari",ARD Das Erste
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Vari",3 | ANTENA 3 ᴴᴰ 1 |
+http://185.189.225.150:85/Antena3HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Vari",3.1 | ANTENA 3 ᴴᴰ 2 |
+http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/11826
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Vari",3.2 | ANTENA 3 ᴴᴰ 3 |
+http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/20878
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Vari",6 | LA SEXTA HD |
+http://185.189.225.150:85/LaSexta/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Vari",CUATRO
+https://gitlab.com/movrey/movrel/-/raw/main/cuatro.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Vari",TELECINCO
+https://gitlab.com/movrey/movrel/-/raw/main/telecinco.m3u8
+
 
 #EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",🇪🇸 ➾ TVE LA1
 https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
