@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 05/04/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 06/04/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
@@ -87,31 +87,25 @@ http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ans-tv-italia.png" group-title="Altri Canali Nazionali",ANS Tv Italia
 https://tivusto.org/sh/ansitalia
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/alma-tv.png" group-title="Altri Canali Nazionali",Alma Tv
-https://almatv.grupposciscione.knoxstreaming.com/live/1080p/livestream_def.m3u8
+https://5a1178b42cc03.streamlock.net/alma/alma/chunklist_w1670943417.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/arte-investimenti-tv.jpg" group-title="Altri Canali Nazionali",Arte Investimenti Tv 
-https://tivusto.org/sh/arteinvest
+https://5a1178b42cc03.streamlock.net/chiossone/chiossone/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/arte-network-orler.png" group-title="Altri Canali Nazionali",Arte Network Orler Canale Uno
 https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/aurora-arte-tv.jpg" group-title="Altri Canali Nazionali",Aurora Arte Tv
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/azzura-tv-italia.png" group-title="Altri Canali Nazionali",Azzura TV Italia
 https://59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/bike-smart-mobilty-bike-tv.png" group-title="Altri Canali Nazionali",Bike Tv
-https://62becaa5a1e2f.streamlock.net/BIKE/BIKE/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/bom-channel-canale-68.JPG" group-title="Altri Canali Nazionali",Bom Channel (canale 68)
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/byoblu-davvero-tv.jpg" group-title="Altri Canali Nazionali",Byoblu -Davvero Tv
 https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-6-tv.png" group-title="Altri Canali Nazionali",Canale 6 Tv
-https://tivusto.org/sh/can6tv
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-italia.jpg" group-title="Altri Canali Nazionali",Canale Italia
 https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-totò.png" group-title="Altri Canali Nazionali",Canale Totò
-http://www.mutina.eu:8088/hls/toto.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/casa-italia-53.png" group-title="Altri Canali Nazionali",Casa Italia 53
 https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ciao-usa.jpg" group-title="Altri Canali Nazionali",Ciao USA
-https://amg02347-ciaousafast-amg02347c1-ciao-us-1993.playouts.now.amagi.tv/playlist/amg02347-ciaousafast-ciaousalinear-ciaous/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/donna-tv.png" group-title="Altri Canali Nazionali",Donna Tv
+https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/euro-tv.jpg" group-title="Altri Canali Nazionali",Euro Tv
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/explorer.png" group-title="Altri Canali Nazionali",Explorer
@@ -122,28 +116,24 @@ https://bbtv.intvstream.net:3919/hybrid/play.m3u8
 https://5f22d76e220e1.streamlock.net/canale157/canale157/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/fashion-tv.jpg" group-title="Altri Canali Nazionali",Fashion Tv
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/gambero-rosso.png" group-title="Altri Canali Nazionali",Gambero Rosso
+https://streamcdnf31-2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/gold-tivù-sat.png" group-title="Altri Canali Nazionali",Gold Tivù SAT 
-https://goldtv.grupposciscione.knoxstreaming.com/live/1080p/livestream_def.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/in-lire-tv.png" group-title="Altri Canali Nazionali",In-Lire-Tv
-https://5f22d76e220e1.streamlock.net/inlire/inlire/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/insurance-tv.jpg" group-title="Altri Canali Nazionali",Insurance Tv
-https://tsw.streamingwebtv24.it:1936/insuranceconnect/insuranceconnect/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italia-7.jpg" group-title="Altri Canali Nazionali",Italia 7
-https://streaming.softwarecreation.it/Italia7/Italia7/chunklist_w1969623802.m3u8
+https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italia-channel.png" group-title="Altri Canali Nazionali",Italia Channel
 https://stream1.aswifi.it/italiachannel/stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/iunior-tv.png" group-title="Altri Canali Nazionali",Iunior Tv
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la7.png" group-title="Altri Canali Nazionali",La7
+https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la7d.png" group-title="Altri Canali Nazionali",La7d (stream mdp)
+https://cachehsi1a.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la-fornace-tv.jpg" group-title="Altri Canali Nazionali",La Fornace Tv
 https://tivusto.org/sh/lafornacetv
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la-tv-dei-viaggi.png" group-title="Altri Canali Nazionali",La Tv dei Viaggi 
 https://bbtv.intvstream.net:3783/stream/play.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la-grande-italia.png" group-title="Altri Canali Nazionali",La Grande Italia
 https://64b16f23efbee.streamlock.net/grandeitaliatv/grandeitaliatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la7d.png" group-title="Altri Canali Nazionali",La7d
-https://vavoo.to/play/881846038/index.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/media-service.png" group-title="Altri Canali Nazionali",Media Service 
-https://tivusto.org/sh/ansmedservice
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/mondoweb-tv.png" group-title="Altri Canali Nazionali",MondoWeb TV
 https://tivusto.org/sh/mondowebtv
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/nuova-tv-nazionale-ntn.png" group-title="Altri Canali Nazionali",Nuova TV Nazionale ( NTN )
@@ -158,32 +148,26 @@ https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/parole-di-vita.jpg" group-title="Altri Canali Nazionali",Parole di Vita 
 https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/chunklist_w2067011949.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/pop-tv.png" group-title="Altri Canali Nazionali",Pop Tv 
-https://stream1.aswifi.it/poptelevision/live/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/qvc-italia.jpg" group-title="Altri Canali Nazionali",QVC Italia
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="Altri Canali Nazionali",RSI La1 (Offline)
-http://livetv.ktv.zone/129/play.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Altri Canali Nazionali",RSI La2 (Offline)
-http://livetv.ktv.zone/137/play.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="Altri Canali Nazionali",RSI La1 (stream mdp)
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Altri Canali Nazionali",RSI La2 (stream mdp)
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtv-smarino.png" group-title="Altri Canali Nazionali",RTV S.Marino
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1192000_slita.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-italia-cina-tv.jpg" group-title="Altri Canali Nazionali",Radio Italia Cina TV
 https://585b674743bbb.streamlock.net/9054/9054/chunklist_w1750196653.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-libertà.png" group-title="Altri Canali Nazionali",Radio Libertà 
 https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/reklama-tv.jpg" group-title="Altri Canali Nazionali",Reklama Tv
-https://5f22d76e220e1.streamlock.net/reklamatv/reklamatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rete-mia.png" group-title="Altri Canali Nazionali",Rete Mia
 https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/supersix.png" group-title="Altri Canali Nazionali",SuperSix
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tva-italia.png" group-title="Altri Canali Nazionali",TVA Italia 
-https://tivusto.org/sh/tvaita
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tvplayit.png" group-title="Altri Canali Nazionali",TvPlay.it
 http://fms.premio.link/premio-sport/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/teleambiente.png" group-title="Altri Canali Nazionali",TeleAmbiente
-https://5f22d76e220e1.streamlock.net/teleambiente3/teleambiente3/playlist.m3u8
+https://5f22d76e220e1.streamlock.net/teleambiente2024/teleambiente2024/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telecampione.png" group-title="Altri Canali Nazionali",TeleCampione
 https://5f22d76e220e1.streamlock.net/telecampione/telecampione/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telearte-tv.jpg" group-title="Altri Canali Nazionali",Telearte Tv
@@ -200,28 +184,10 @@ https://di-4anhezkv.vo.lswcdn.net/promosrl/smil:byoblu.smil/playlist.m3u8
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/hls_1_3000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/uninettuno-tv.png" group-title="Altri Canali Nazionali",Uninettuno TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/up-tv.png" group-title="Altri Canali Nazionali",Up Tv
-https://streamcdnm11-689c9d69918644cb8be56d90f35aac9a.msvdn.net/live/S94321257/0Jaxet7oOAm1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/vh1-italia.png" group-title="Altri Canali Nazionali",VH1 Italia
-http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/vivaldi-tv-classic-music.jpg" group-title="Altri Canali Nazionali",Vivaldi Tv (Classic Music) 
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01523-mezzo-vivalditv-tcl/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/web-tv-servizi.png" group-title="Altri Canali Nazionali",Web Tv Servizi
-https://stmv1.srvif.com/8/8/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/web-tv-story.png" group-title="Altri Canali Nazionali",Web Tv Story
-https://stmv1.srvif.com/7/7/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/web-tv-interattiva-1.png" group-title="Altri Canali Nazionali",Web Tv interattiva 1
-https://stmv1.srvif.com/1/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/web-tv-interattiva-2.png" group-title="Altri Canali Nazionali",Web Tv interattiva 2
-https://stmv1.srvif.com/2/2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/web-tv-interattiva-3.png" group-title="Altri Canali Nazionali",Web Tv interattiva 3
-https://stmv1.srvif.com/3/3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/web-tv-interattiva-4.png" group-title="Altri Canali Nazionali",Web Tv interattiva 4
-https://stmv1.srvif.com/4/4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/wedding-tv.jpg" group-title="Altri Canali Nazionali",Wedding TV
 https://604e46ac2bdee.streamlock.net:1936/marcorenzi/marcorenzi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/well-tv.jpeg" group-title="Altri Canali Nazionali",Well Tv
-https://59d7d6f47d7fc.streamlock.net/welltv/welltv/playlist.m3u8
+https://well-tv.it/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/world-fashion-international-hd.jpg" group-title="Altri Canali Nazionali",World Fashion International HD
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/icon.png" group-title="Canali per Bambini/Ragazzi",=== Canali per Bambini/Ragazzi ===
@@ -1007,6 +973,8 @@ https://vavoo.to/play/881846038/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="SKY",=== SKY ===
 http://patbuweb.com/iptv/e2liste/startend.avi
+#EXTINF:-1 tvg-chno="8" tvg-id="tv8" tvg-name="Tv8" tvg-logo="https://pbs.twimg.com/profile_images/1074677376217427968/C9GfHiLI.jpg" group-title="SKY",Tv8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 #EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="SKY",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="26" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png" group-title="SKY",Cielo
@@ -1019,6 +987,8 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 https://www.mytivu.it/Application/Channels/TV8.php
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="SKY",TV8 HD
 http://188.12.112.110:4000/play/a04c
+#EXTINF:-1 tvg-chno="50" tvg-id="sky tg24" tvg-name="Sky TG24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sky_TG24_-_Logo_2018.svg/1280px-Sky_TG24_-_Logo_2018.svg.png" group-title="SKY",Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 #EXTINF:-1 tvg-id="" tvg-name="Sky TG 24" " group-title="SKY",Sky TG 24
 https://www.mytivu.it/Application/Channels/SkyTG24.php
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="SKY",Sky TG24
@@ -1029,6 +999,8 @@ http://188.12.112.110:4000/play/a04e
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Cielo" " group-title="SKY",Cielo
 https://www.mytivu.it/Application/Channels/Cielo.php
+#EXTINF:-1 tvg-chno="26" tvg-id="cielo" tvg-name="Cielo" tvg-logo="https://static.sky.it/static_clientlibs/skycielo/clientlibs/clientlib-site/resources/images/facebook.jpg" group-title="SKY",Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Discovery",=== Discovery ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -1211,7 +1183,7 @@ https://64b16f23efbee.streamlock.net/tv33tn/tv33tn/playlist.m3u8
 https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8
 
 
-##EXTINF:-1 tvg-logo="https://tivustream.website/logoz/icon.png" group-title="Veneto",=== Veneto ===
+#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/icon.png" group-title="Veneto",=== Veneto ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/antenna-tre-nordest-4v2laxrwvsgn.png" group-title="Veneto",Antenna Tre Nordest
 https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
@@ -1234,7 +1206,7 @@ https://58d921499d3d3.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telechiara.png" group-title="Veneto",Telechiara
 https://fms.telemar.it:1936/telechiara/diretta/chunklist_w285735564.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telecittà-padova.png" group-title="Veneto",Telecittà Padova 
-https://tango.wifi4all.it/telecitta/telecitta.m3u8
+https://soobeat.fluid.stream/Telecitta/livestream/playlist.m3u8?FLID=2&type=.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telenuovo.png" group-title="Veneto",Telenuovo (Offline)
 https://ovp2-live.akamaized.net/ac106_live/ac106_source_001_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/televenezia.jpg" group-title="Veneto",TeleVenezia
@@ -1243,9 +1215,6 @@ https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia/playlist.m3u8
 http://217.61.26.46:8080/hls/triveneta.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tva-vicenza.png" group-title="Veneto",Tva Vicenza
 https://fms.telemar.it:1936/live/diretta_1/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="LG",=== LG ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
@@ -1542,7 +1511,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 
-EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali musicali (Web Radio)",=== PlutoTV e RADIO TV ===
+#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali musicali (Web Radio)",=== PlutoTV e RADIO TV ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 group-title="Canali musicali (Web Radio)",[COLOR lime]---LAST UPDATE 01-12-2023 H. 00.30---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -1717,7 +1686,7 @@ https://www.radiosaiuz.it/retereggio2.html
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-gioconda.png" group-title="Canali musicali (Web Radio)",Radio Gioconda
 https://tivusto.org/sh/radiogioconda
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-gold-alessandria.png" group-title="Canali musicali (Web Radio)",Radio Gold Alessandria
-https://cdn102-fra.azotosolutions.com:8443/cdnedge5/live5/playlist.m3u8
+https://load-balancer.azotosolutions.com/cdnedge5/smil:live5.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-ibiza-tv.jpg" group-title="Canali musicali (Web Radio)",Radio Ibiza Tv
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1961450240.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-iglesias-tv.png" group-title="Canali musicali (Web Radio)",Radio Iglesias TV
@@ -1782,6 +1751,8 @@ https://58d921499d3d3.streamlock.net/RPZ/livestream/playlist.m3u8
 https://5c389faa13be3.streamlock.net:9553/radiorcstv/radiorcstv/chunklist_w558119878.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-radiosa-tv.png" group-title="Canali musicali (Web Radio)",Radio Radiosa TV
 https://stream7.zivoli.it/radiosatv/radiosatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-ricordi-tv.png" group-title="Canali Musicali (Web Radio)",Radio Ricordi Tv
+https://5f22d76e220e1.streamlock.net/radioricorditv/radioricorditv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-ritmo-80-tv-forever-young.png" group-title="Canali musicali (Web Radio)",Radio Ritmo 80  Tv (Forever Young)
 https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/chunklist_w1976860884.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-roma-tv.png" group-title="Canali musicali (Web Radio)",Radio Roma Tv
@@ -1971,13 +1942,14 @@ https://stream3.xdevel.com/video0s976570-1422/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgcom24.png" group-title="News e Canali Istituzionali",Tgcom24
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-sport-hd.png" group-title="SPORT",Rai Sport + Hd
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 OPR/89.0.4447.48
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/grtv.jpg" group-title="SPORT",Giornale Radio Tv Sport
 https://5e73cf528f404.streamlock.net/GR_sport/livestream/chunklist_w1501899689.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/calciomercatoit.png" group-title="SPORT",CalcioMercato.it
 https://tivusto.org/sh/calciomercatoit
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/bike-channel.jpg" group-title="SPORT",Bike Channel
+https://cdn06.milano.nxmedge.net/bikechannel/video.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/aci-sport-tv.JPG" group-title="SPORT",ACI Sport Tv
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ms-channel.JPG" group-title="SPORT",MS Channel
@@ -1996,6 +1968,7 @@ https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tmw-radio-tv-tutto-mercato-web.png" group-title="SPORT",TMW  Radio Tv (Tutto Mercato Web)
 https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS 1
@@ -2169,6 +2142,14 @@ http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/660573
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 7" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Sport TV 7
 http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/660566
 
+#EXTINF:-1 channel-id="66461e4394d5580008cfd9c5" tvg-id="66461e4394d5580008cfd9c5" tvg-name="DFB Play TV" tvg-logo="https://images.pluto.tv/channels/66461e4394d5580008cfd9c5/colorLogoPNG.png" group-title="SPORT", DFB Play TV
+https://jmp2.uk/plu-66461e4394d5580008cfd9c5.m3u8
+#EXTINF:-1 tvg-id="eurosport1" tvg-name="eurosport1" tvg-logo="https://t3.ftcdn.net/jpg/05/17/13/48/360_F_517134830_khmyeQ5beRJeAR4kIBgZKeygKAW151Dn.jpg" group-title="SPORT",Eurosport 1
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(EUROSPORT)/index.m3u8
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="eurosport2" tvg-logo="https://t3.ftcdn.net/jpg/05/17/13/48/360_F_517134830_khmyeQ5beRJeAR4kIBgZKeygKAW151Dn.jpg" group-title="SPORT",Eurosport 2
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(EUROSPORT2)/index.m3u8
+#EXTINF:-1 tvg-id="sport turkmenistan" tvg-name="Sport Turkmenistan" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/b/b4/TurkmenistanSport.jpg" group-title="SPORT",Sport Turkmenistan
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-country="TM" tvg-language="Turkmen" tvg-logo="" group-title="SPORT",Türkmenistan Sport
