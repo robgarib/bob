@@ -970,6 +970,8 @@ http://patbuweb.com/iptv/e2liste/startend.avi
 https://jmp2.uk/sam-ITBD1500002NL.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la7d.png" group-title="La 7",La7d
 https://vavoo.to/play/881846038/index.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-id="la7 d" tvg-name="La7 D" tvg-logo="http://odmsto.com/uploads/tv_image/sm/la7d.png" group-title="La 7",La7 D
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="SKY",=== SKY ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -1043,6 +1045,8 @@ http://patbuweb.com/iptv/e2liste/startend.avi
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-id="travelmix.ro" tvg-name="TRAVEL MIX 4K" tvg-logo="http://5.189.181.7/extract/travelmixhd.png" group-title="4K",TRAVEL MIX 4K
 http://otthome.xyz:8080/maryan/maryan1234/60117
+#EXTINF:-1 tvg-id="loupe 4k (us)" tvg-name="Loupe 4k (US)" tvg-logo="http://tv.10dailythings.com/images/channels/US/loupe-4k/normal.png" group-title="4K",Loupe 4k (US)
+https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.us" tvg-name="Love Nature" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AzOvgkV.png" group-title="4K",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="http://hasbahca.net/TVLogo/world/Love nature 4K.png",LoveNature4K
@@ -1485,30 +1489,74 @@ https://xite-rockoneu-lg.amagi.tv/playlist.m3u8
 https://newidco-ygtv-1-us.lg.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="TRAVEL",=== TRAVEL ===
+#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Documentari",=== Documentari ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="TRAVEL",Travel XP
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Documentari",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/wildearth.png" group-title="TRAVEL",WildEarth
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/wildearth.png" group-title="Documentari",WildEarth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="TRAVEL",Pluto TV Fishing
+#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Documentari",Pluto TV Fishing
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528eda/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="TRAVEL",All Nature
+#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Documentari",All Nature
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="TRAVEL",Top Gear
+#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Documentari",Top Gear
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="TRAVEL",Tuning
+#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Documentari",Tuning
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076c74daa05ac0007d0eb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" group-title="TRAVEL" ,Key TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" group-title="Documentari" ,Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-#EXTINF:-1 nome-tvg-"Red Bull TV" tvg-id "Red Bull TV" logo tvg "https://i.imgur.com/TvmeXd.png" group-title="TRAVEL", Red Bull TV 
+#EXTINF:-1 nome-tvg-"Red Bull TV" tvg-id "Red Bull TV" logo tvg "https://i.imgur.com/TvmeXd.png" group-title="Documentari", Red Bull TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="TRAVEL",Travel XP
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Documentari",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="TRAVEL",Canal 10 Cancun
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="Documentari",Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="TRAVEL",CANAL 10 CHETUMAL
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="Documentari",CANAL 10 CHETUMAL
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-id="ItalianFishingTv.it" tvg-name="Italian Fishing" tvg-logo="http://h05t.tecnolab.top:8080/images/2330b24b69329f6a1e210c37c179ea0e.jpg" group-title="Altri Canali Nazionali",Italian Fishing
+https://jmp2.uk/sam-IT600001L6.m3u8
+#EXTINF:-1 tvg-id="worldfishingnetwork.us" tvg-name="WORLD FISHING NETWORK" tvg-logo="http://epg.justco.cc/guide/logos/us/WorldFishingNetwork.us.png" group-title="Altri Canali Nazionali",WORLD FISHING NETWORK
+http://tkosportz.live:25461/rodneyb5777/5777/4615
+
+#EXTINF:-1 channel-id="pluto-60802b37709d6b0007b0c549" tvg-id="PlutoTvNatura.it" tvg-name="Tv Natura" tvg-logo="https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG.png" group-title="Documentari",Pluto TV Natura
+http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?deviceId=0&deviceModel=web&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=0&deviceDNT=true
+#EXTINF:-1 channel-id="pluto-608aa8a5709d6b0007b132fe" tvg-id="PlutoTvDocumentari.it" tvg-name="Tv Documentari" tvg-logo="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png" group-title="Documentari",Pluto Tv Documentari
+http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceId=0&deviceModel=web&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=0&deviceDNT=true
+#EXTINF:-1 channel-id="samsung-ITBD300001GI" tvg-id="ITBD300001GI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD300001GI_20230208T013156SQUARE.png_20230208013157.png" group-title="Documentari",Move - Italian Active Lives
+https://d3i87cms5m5yjq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-75fzs486ayykg/mov.m3u8
+#EXTINF:-1 channel-id="samsung-ITBC35000016T" tvg-id="RakutenWedoBigStories.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC35000016T_20230208T013151SQUARE.png_20230208013152.png" group-title="Documentari",Wedo big stories (Grandi Documentari)
+https://videosolutions-wedobigstories-rakuten.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 channel-id="samsung-ITBD1100001B7" tvg-id="RakutenHouseOfDocs.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100001B7_20230412T042554SQUARE.png_20230412042554.png" group-title="Documentari",House of Docs
+https://amg02512-nexodigital-amg02512c1-wedotv-eu-871.playouts.now.amagi.tv/playlist/amg02512-nexodigital-houseofdocs-wedotveu/playlist.m3u8
+#EXTINF:-1 channel-id="samsung-ITBC4700003GR" tvg-id="ITBC4700003GR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700003GR_20230412T042555SQUARE.png_20230412042556.png" group-title="Documentari",Love the Planet
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetitsamsung-samsungit/playlist.m3u8
+#EXTINF:-1 channel-id="pluto-65253fdf3fd33c00080214a3" tvg-id="PlutoTvStoria.it" tvg-logo="https://images.pluto.tv/channels/65253fdf3fd33c00080214a3/colorLogoPNG.png" group-title="Documentari",Pluto TV Storia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65253fdf3fd33c00080214a3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-63c923944207be0007fd0887" tvg-id="PlutoTvViaggi.it" tvg-name="Pluto Tv Viaggi" tvg-logo="https://images.pluto.tv/channels/63c923944207be0007fd0887/colorLogoPNG.png" group-title="Documentari",Pluto Tv Viaggi
+http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63c923944207be0007fd0887/master.m3u8?deviceId=0&deviceModel=web&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=0&deviceDNT=true
+#EXTINF:-1 tvg-id="travelmix.ro" tvg-name="TRAVEL MIX 4K" tvg-logo="http://5.189.181.7/extract/travelmixhd.png" group-title="Documentari",TRAVEL MIX 4K
+http://otthome.xyz:8080/maryan/maryan1234/60117
+#EXTINF:-1 tvg-id="loupe 4k (us)" tvg-name="Loupe 4k (US)" tvg-logo="http://tv.10dailythings.com/images/channels/US/loupe-4k/normal.png" group-title="Documentari",Loupe 4k (US)
+https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.us" tvg-name="Love Nature" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AzOvgkV.png" group-title="Documentari",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Documentari" tvg-logo="http://hasbahca.net/TVLogo/world/Love nature 4K.png",LoveNature4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="Documentari" tvg-logo="https://i.imgur.com/m3jRPof.png",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1 group-title="Documentari" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62e04436101b94ce1d0ff5cb",4K Travel
+https://4k-travel-local-now.evrideo.tv/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="LocalNow_4KTravel" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62e04436101b94ce1d0ff5cb" group-title="Documentari",4K Travel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23064&ads.content_duration=18000&ads.episode_id=83817&ads.show_id=3193&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=4K%20TRAVEL%20TV&ads.episodetitle=4K%20TRAVEL
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/Clarity_4K_190x190_Circle.png?raw=true" group-title="Documentari",Clarity 4k
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+EXTINF:-1 group-title="Documentari" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 group-title="Documentari" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20220330T045012.png",Clarity 4K (2160p)
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+#EXTINF:-1 group-title="4K" tvg-logo="http://hasbahca.net/TVLogo/world/Vh1 classic.png",Clarity4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="Loupe4K.us" tvg-name="Loupe 4K" tvg-country="US" tvg-language="" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true" group-title="Documentari",Loupe 4K
 
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali musicali (Web Radio)",=== PlutoTV e RADIO TV ===
@@ -1944,6 +1992,12 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-sport-hd.png" group-title="SPORT",Rai Sport + Hd
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 OPR/89.0.4447.48
+#EXTINF:-1 tvg-name="RaiPlaySport 1" tvg-id="" tvg-logo="https://www.raiplay.it/dl/img/2024/04/30/1714492163377_Canale3x.png" group-title="SPORT",RaiPlaySport 1 (sab,dom)
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay4/hls/raiplay4_2400/chunklist.m3u8
+#EXTINF:-1 tvg-name="RaiPlaySport 2" tvg-id="" tvg-logo="https://www.raiplay.it/dl/img/2024/04/30/1714492217998_Canale%20non-optimized3x.png" group-title="SPORT",RaiPlaySport 2 (sab,dom)
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay5/hls/raiplay5_2400/chunklist.m3u8
+#EXTINF:-1 tvg-name="RaiPlaySport 3" tvg-id="" tvg-logo="https://www.raiplay.it/dl/img/2024/04/30/1714492239159_Canale3x.png" group-title="SPORT",RaiPlaySport 3 (sab,dom)
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay6/hls/raiplay6_2400/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/grtv.jpg" group-title="SPORT",Giornale Radio Tv Sport
 https://5e73cf528f404.streamlock.net/GR_sport/livestream/chunklist_w1501899689.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/calciomercatoit.png" group-title="SPORT",CalcioMercato.it
@@ -1968,7 +2022,28 @@ https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tmw-radio-tv-tutto-mercato-web.png" group-title="SPORT",TMW  Radio Tv (Tutto Mercato Web)
 https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-id="sportitalia24live" tvg-name="SportItalia24live" tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-24-live.jpg" group-title="SPORT",SportItalia24live
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sportitaliacalcio" tvg-name="SportItaliacalcio" tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-solocalcio.jpg" group-title="SPORT",SportItaliacalcio
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sportoutdoor.tv" tvg-name="SportOutdoor.tv" tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportoutdoortv-italy.jpg" group-title="SPORT",SportOutdoor.tv
+https://502f86d03b3c403a9057ca656866c9c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_SportOutdoorTV/playlist.m3u8
+#EXTINF:-1 tvg-id="rds serie a" tvg-name="Rds Serie A" tvg-logo="https://www.fm-world.it/wp-content/uploads/2023/08/radioseriea1.jpg" group-title="SPORT",Rds Serie A
+https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index_7.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/TENNIS_CHANNEL_176x122.png" group-title="SPORT",Tennis Channel
+https://amg01444-tennischannelth-tennischannelspain-orangees-gpx6v.amagi.tv/playlist/amg01444-tennischannelth-tennischannelspain-orangees/playlist.m3u8
+#EXTINF:-1 tvg-id="t2 tennis" tvg-name="T2 Tennis" tvg-logo="https://images.tennis.com/image/private/t_16-9_768/f_png/tenniscom-prd/ikebrhr6qoaxbzfyxvct.png" group-title="Sport",T2 Tennis
+https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
+#EXTINF:-1 tvg-id="rtv s.marino sport" tvg-name="RTV S.Marino Sport" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtv-smarino-sport.png" group-title="SPORT",RTV S.Marino Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
+#EXTINF:-1 tvg-id="radio bianconera tv" tvg-name="Radio Bianconera TV" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-bianconera-tv-juventus-rbn.png" group-title="SPORT",Radio Bianconera TV
+https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="tmw" tvg-name="TMW" tvg-logo="http://odmsto.com/uploads/tv_image/sm/tmw-tutto-mercato-web.png" group-title="SPORT",TMW
+https://tmw.fluid.stream/TMWRadioTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/img/giocabet-tv.png" group-title="SPORT", Gioca Bet Tv
+https://live1.giocabet.tv/stream/1/index.m3u8
+#EXTINF:-1 tvg-id="ms channel" tvg-name="MS Channel" tvg-logo="http://mschannel.tv/wp-content/uploads/2019/11/mschannel-coming-soon.png" group-title="SPORT",MS Channel
+https://96vd9q7ryxq7-hls-live.mariatvcdn.it/ms/ea0e4a77baa23e917acaf517042ac7d8.sdp/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS 1
@@ -2142,13 +2217,17 @@ http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/660573
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 7" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Sport TV 7
 http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/660566
 
+#EXTINF:-1 tvg-id="bein sport xtra" tvg-name="Bein sport xtra" tvg-logo="http://tv.10dailythings.com/images/channels/UNS/bein-sports-xtra-en-espanol/normal.png" group-title="SPORT",Bein sport xtra
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceId=0&deviceModel=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&deviceDNT=0
+#EXTINF:-1 tvg-id="redbull tv" tvg-name="RedBull Tv" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41PJEF5JKLL.jpg" group-title="SPORT",RedBull Tv
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 channel-id="66461e4394d5580008cfd9c5" tvg-id="66461e4394d5580008cfd9c5" tvg-name="DFB Play TV" tvg-logo="https://images.pluto.tv/channels/66461e4394d5580008cfd9c5/colorLogoPNG.png" group-title="SPORT", DFB Play TV
 https://jmp2.uk/plu-66461e4394d5580008cfd9c5.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="eurosport1" tvg-logo="https://t3.ftcdn.net/jpg/05/17/13/48/360_F_517134830_khmyeQ5beRJeAR4kIBgZKeygKAW151Dn.jpg" group-title="SPORT",Eurosport 1
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(EUROSPORT)/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="eurosport2" tvg-logo="https://t3.ftcdn.net/jpg/05/17/13/48/360_F_517134830_khmyeQ5beRJeAR4kIBgZKeygKAW151Dn.jpg" group-title="SPORT",Eurosport 2
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(EUROSPORT2)/index.m3u8
-#EXTINF:-1 tvg-id="sport turkmenistan" tvg-name="Sport Turkmenistan" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/b/b4/TurkmenistanSport.jpg" group-title="SPORT",Sport Turkmenistan
+#EXTINF:-1 tvg-id="sport turkmenistan" tvg-name="Sport Turkmenistan" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/b/b4/TurkmenistanSport.jpg" group-title="Sport",SPORT Turkmenistan
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
@@ -2210,6 +2289,8 @@ http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/433795
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Golazo Network by CBS Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7elivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 channel-id="pluto-63a0e33a45264d000850ed7e" tvg-id="63a0e33a45264d000850ed7e" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="SPORT", Golazo (SerieA)
+http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
@@ -2788,15 +2869,7 @@ https://di-l1o0e8cu.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3
 https://di-l1o0e8cu.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ItalianFishingTv.it" tvg-name="Italian Fishing" tvg-logo="http://h05t.tecnolab.top:8080/images/2330b24b69329f6a1e210c37c179ea0e.jpg" group-title="Altri Canali Nazionali",Italian Fishing
-http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/114168
-#EXTINF:-1 tvg-id="Pesca.it" tvg-name="Pesca e Caccia FHD" tvg-logo="http://h05t.tecnolab.top:8080/images/e56fb1cf611d380003110a7d4dd2c564.png" group-title="Altri Canali Nazionali",Pesca e Caccia FHD
-http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/114170
-#EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery Channel FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430" group-title="Altri Canali Nazionali",Discovery Channel FHD
-http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/114146
-#EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430" group-title="Altri Canali Nazionali",Discovery Channel HD
-http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/114147
-#EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery Channel SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430" group-title="Altri Canali Nazionali",Discovery Channel SD
-http://1209.tecnolab.top:8080/t7Abyh3q2k/vZoy07J3/114148
+https://jmp2.uk/sam-IT600001L6.m3u8
 #EXTINF:-1 tvg-id="worldfishingnetwork.us" tvg-name="WORLD FISHING NETWORK" tvg-logo="http://epg.justco.cc/guide/logos/us/WorldFishingNetwork.us.png" group-title="Altri Canali Nazionali",WORLD FISHING NETWORK
 http://tkosportz.live:25461/rodneyb5777/5777/4615
 
