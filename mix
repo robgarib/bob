@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 06/04/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 14/04/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
@@ -1042,6 +1042,8 @@ https://cachehsi1a.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 http://patbuweb.com/iptv/e2liste/startend.avi 
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Documentari",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC Travel
+https://list.iptvcat.com/my_list/s/621671f3023f2615033453d4f550039d.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/wildearth.png" group-title="Documentari",WildEarth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="ItalianFishingTv.it" tvg-name="Italian Fishing" tvg-logo="http://h05t.tecnolab.top:8080/images/2330b24b69329f6a1e210c37c179ea0e.jpg" group-title="Documentari",Italian Fishing
@@ -2811,14 +2813,6 @@ http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 http://127.0.0.1:6878/ace/getstream?id=2fab201db52297f9bfbe7c44d6109369cdb29620
 
 
-
-
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-italia-ty5rx7ftlz8m.jpg" group-title="Canali RAI",RAI Italia Africa 
-https://ilglobotv-live.global.ssl.fastly.net/RAIItaliaSudAfrica/Live.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-italia-usa.png" group-title="Canali RAI",RAI Italia USA
-https://la7live-secure.akamaized.net/RaiLatam/Live_1080_5000k.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/mediaset-italia.png" group-title="Canali Mediaset",Mediaset Italia
-https://ilglobotv-live.global.ssl.fastly.net/MediasetItalia/Live.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="Canali RAI",RAI 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 
@@ -2877,12 +2871,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984784ccb4de0007
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="UK",=== UK ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
-#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC Toronto
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC One
+https://list.iptvcat.com/my_list/s/847abe5b4bf9ced5c87c680f15774fb5.m3u8
 #EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC Travel
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4519e6873180007d3cddb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="UK" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC Food
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://list.iptvcat.com/my_list/s/621671f3023f2615033453d4f550039d.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Wonder" tvg-logo="https://i.imgur.com/450pJvs.png" group-title="UK",Wonder
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="XITE" tvg-logo="https://i.imgur.com/VaDrfKr.png" group-title="UK",XITE
@@ -3023,6 +3017,8 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="Vari",GULLI
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="Vari",France 2
+https://list.iptvcat.com/my_list/s/f5551bd4b7dbddf26bc1f39ba2bdfe5b.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="Vari",GULLI
 https://lbcdn.6cloud.fr/resource/m6web/l/gulli_hls_sd_short_q2hyb21h.m3u8?groups[]=m6web-live-gulli_ext
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="Vari",M6 [drm-keycrypted]
