@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 10/05/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 11/05/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
@@ -337,6 +337,8 @@ https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-4-fr.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="IT3200002L5" tvg-id="IT3200002L5" tvg-chno="4487" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20241030T140840SQUARE.png" group-title="Documentari", BBC Earth
 https://jmp2.uk/sam-IT3200002L5.m3u8
+#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Documentari",PESCA E CACCIA 
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2733
 #EXTINF:-1 channel-id="pluto-60802b37709d6b0007b0c549" tvg-id="PlutoTvNatura.it" tvg-name="Tv Natura" tvg-logo="https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG.png" group-title="Documentari",Pluto TV Natura
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?deviceId=0&deviceModel=web&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=0&deviceDNT=true
 #EXTINF:-1 channel-id="pluto-608aa8a5709d6b0007b132fe" tvg-id="PlutoTvDocumentari.it" tvg-name="Tv Documentari" tvg-logo="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png" group-title="Documentari",Pluto Tv Documentari
@@ -2031,78 +2033,7 @@ https://live1.giocabet.tv/stream/1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS 1
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659109
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS 2
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659110
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS 3
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659111
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 4" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS MAX 4
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659113
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 5" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS MAX 5
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659114
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 6" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS MAX 6
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659115
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 7" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS MAX 7
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659116
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 8" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS MAX 8
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659117
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 9" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS MAX 9
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659118
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 10" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="SPORT",FR: BEIN SPORTS MAX 10
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659112
 
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="SPORT",BR: ESPN
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659718
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="SPORT",BR: ESPN 2
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659719
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 3" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="SPORT",BR: ESPN 3
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659720
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 4" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="SPORT",BR: ESPN 4
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659721
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 5" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="SPORT",BR: ESPN 5
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659722
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 6" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="SPORT",BR: ESPN 6
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/659723
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PL (C+PL) Eleven Sports 1" tvg-logo="http://www.esuo.eu/wp-content/uploads/2020/03/poland-1500641_1920.png" group-title="SPORT",PL (C+PL) Eleven Sports 1
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/518158
-#EXTINF:-1 tvg-id="" tvg-name="PL (C+PL) Eleven Sports 1 UHD/4K (D)" tvg-logo="http://www.esuo.eu/wp-content/uploads/2020/03/poland-1500641_1920.png" group-title="SPORT",PL (C+PL) Eleven Sports 1 UHD/4K (D)
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/518160
-#EXTINF:-1 tvg-id="" tvg-name="PL (C+PL) ELEVEN SPORTS 2 (D)" tvg-logo="http://www.esuo.eu/wp-content/uploads/2020/03/poland-1500641_1920.png" group-title="SPORT",PL (C+PL) ELEVEN SPORTS 2 (D)
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/518162
-#EXTINF:-1 tvg-id="" tvg-name="PL (C+PL) ELEVEN SPORTS 3 (D)" tvg-logo="http://www.esuo.eu/wp-content/uploads/2020/03/poland-1500641_1920.png" group-title="SPORT",PL (C+PL) ELEVEN SPORTS 3 (D)
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/518164
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Dazn 1
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660582
-#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 2" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Dazn 2
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660581
-#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 3" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Dazn 3
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660580
-#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 4" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Dazn 4
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660579
-#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 5" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Dazn 5
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660578
-#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 6" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Dazn 6
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660577
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTTV 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: SPORTTV 1
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660584
-#EXTINF:-1 tvg-id="" tvg-name="PT: SportTV 2" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: SportTV 2
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660583
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Sport TV 3
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660576
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Sport TV 4
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660575
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Sport TV 5
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660574
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Sport TV 6
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660573
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 7" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Sport TV 7
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660566
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV Plus" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="SPORT",PT: Sport TV Plus
-http://defaultgen.com:3050/c32jackson@yahoo.com/eVetDH88tP/660682
 
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="" group-title="SPORT",PT: ELEVEN SPORTS 1
 http://visitmy.collegefan.org:80/sswann/3468072195/780280
@@ -2159,33 +2090,96 @@ http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/508189
 #EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",UK: TNT SPORTS 5
 http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/508191
 
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",BT Sport 1 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2943
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",BT Sport 2 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2942
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",BT Sport 3 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2941
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",BT Sport ESPN FHD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2940
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",Euro Sport 1 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2917
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",Euro Sport 2 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2916
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",BT Sports 4 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/28947
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",TNT SPORTS 1 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/28946
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",TNT SPORTS 2 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/28945
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",TNT SPORTS 3 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/28943
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",TNT SPORTS 4 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/28942
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",TNT SPORTS 5 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/28941
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",TNT SPORTS 6 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/28940
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",TNT SPORTS 7 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/28939
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",TNT SPORTS ESPN
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/28800
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",TNT SPORTS EXTRA 1
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/28767
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",TNT SPORTS EXTRA 2
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/28831
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",TNT SPORTS EXTRA 4
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/28820
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",TNT SPORTS EXTRA 3
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/28815
 
-#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports 1" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SPORT",ARB: beIN Sports 1
-http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/605231
-#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports 1 English" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SPORT",ARB: beIN Sports 1 English
-http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/605221
-#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports 1 French" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SPORT",ARB: beIN Sports 1 French
-http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/605224
-#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports 2" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SPORT",ARB: beIN Sports 2
-http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/605232
-#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports 2 English" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SPORT",ARB: beIN Sports 2 English
-http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/605222
-#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports 2 French" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SPORT",ARB: beIN Sports 2 French
-http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/605225
-#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports 3" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SPORT",ARB: beIN Sports 3
-http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/605233
-#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports 3 English" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SPORT",ARB: beIN Sports 3 English
-http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/605223
-#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports 4" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SPORT",ARB: beIN Sports 4
-http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/605227
-#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports 5" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SPORT",ARB: beIN Sports 5
-http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/605226
-#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports Premium 1" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SPORT",ARB: beIN Sports Premium 1
-http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/605228
-#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports Premium 2" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SPORT",ARB: beIN Sports Premium 2
-http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/605229
-#EXTINF:-1 tvg-id="" tvg-name="ARB: beIN Sports Premium 3" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="SPORT",ARB: beIN Sports Premium 3
-http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/605230
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",DAZN 1
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2557
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",DAZN 2
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2556
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",DAZN 3
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2555
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",DAZN 4
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2554
+
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",M+ DEPORTES
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/29295
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",M+ DEPORTES 2
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/29294
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",M+ DEPORTES 3
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/29293
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",M+ DEPORTES 4
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/29292
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",M+ DEPORTES 5
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/29291
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",M+ DEPORTES 6
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/29290
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",M+ DEPORTES 7
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/29289
+
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",DAZN 1
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2659
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",DAZN 2
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2658
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",DAZN 1 BAR
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2657
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",DAZN 2 BAR
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2656
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",DAZN 1 HEVC
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2655
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",DAZN 2 HEVC
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2654
+
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",Sport TV 1 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/3192
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",Sport TV 2 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/3191
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",Sport TV 3 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/3190
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",Sport TV 4 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/3189
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",Sport TV 5 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/3188
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",SPORT TV 6 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/29342
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT",SPORT TV+
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/3187
 
 #EXTINF:-1 tvg-id="" tvg-name="AR: FOX SPORTS" tvg-logo="https://pnghq.com/wp-content/uploads/argentina-png-817-download-24246.png" group-title="SPORT",AR: FOX SPORTS
 http://bedroombullyonline.com:3050/alexanderbolalek@icloud.com/vxx5jeBw9W/659597
@@ -2887,6 +2881,27 @@ http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC One
 https://list.iptvcat.com/my_list/s/847abe5b4bf9ced5c87c680f15774fb5.m3u8
+
+#EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC 1 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2950
+#EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC 2 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2949
+#EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",3
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2948
+#EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC 4 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2947
+#EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",ITV 1 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2906
+#EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",ITV 2 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2905
+#EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",ITV 3 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2904
+#EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",ITV 4 HD
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2903
+#EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",Channel 4
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2932
+#EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",Channel 5
+http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2931
 
 #EXTINF:-1 tvg-id="" tvg-name="Wonder" tvg-logo="https://i.imgur.com/450pJvs.png" group-title="UK-USA",Wonder
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8 
