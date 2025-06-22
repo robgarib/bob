@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 16/06/05/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 22/06/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -313,6 +313,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="ItalianFishingTv.it" tvg-name="Italian Fishing" tvg-logo="http://h05t.tecnolab.top:8080/images/2330b24b69329f6a1e210c37c179ea0e.jpg" group-title="Documentari",Italian Fishing
 https://jmp2.uk/sam-IT600001L6.m3u8
+#EXTINF:-1 group-title="Documentari",Sport Fishing TV
+https://streams.sofast.tv/ptnr-yupptv/title-SPORT-FISHING-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
 #EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Documentari",All Nature
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-name="Top Gear" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2400001AE_20241022T043908SQUARE.png" group-title="Documentari",BBC Top Gear Italia
@@ -2047,6 +2049,115 @@ https://stream3.xdevel.com/video0s976570-1422/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgcom24.png" group-title="News e Canali Istituzionali",Tgcom24
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Musicali Esteri",=== Musicali Esteri ===
+http://patbuweb.com/iptv/e2liste/startend.avi
+#EXTINF:-1 tvg-id="clubbing tv" tvg-name="Clubbing Tv" tvg-logo="http://odmsto.com/uploads/tv_image/sm/clubbing-tv.png" group-title="Musicali Esteri",Clubbing Tv
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="65a7b3bf07e03a00089148a9" tvg-id="65a7b3bf07e03a00089148a9" tvg-name="MTV: Best of" tvg-logo="https://images.pluto.tv/channels/65a7b3bf07e03a00089148a9/colorLogoPNG.png" group-title="Musicali Esteri", MTV:Best of
+https://jmp2.uk/plu-65a7b3bf07e03a00089148a9.m3u8
+#EXTINF:-1 channel-id="654100b4bdf3cf0008aa49c7" tvg-id="654100b4bdf3cf0008aa49c7" tvg-name="MTV Classic" tvg-logo="https://images.pluto.tv/channels/654100b4bdf3cf0008aa49c7/colorLogoPNG.png" group-title="Musicali Esteri", MTV Classic
+https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
+#EXTINF:-1 tvg-id="MTVDANCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/MTV_Dance_2017_logo.svg/1200px-MTV_Dance_2017_logo.svg.png" group-title="Musicali Esteri", MTV Dance
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(MTVDANCE)/index.m3u8
+#EXTINF:-1 tvg-id="MTV Hits HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJknIMS79OBess3ml4x41fYrzvDX_GpMyAag&s" group-title="Musicali Esteri",MTV Hits
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(MTVHITS)/index.m3u8
+#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/MTV_80s_2022.png/800px-MTV_80s_2022.png" group-title="Musicali Esteri",MTV 80s
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(VH1CLASSIC)/index.m3u8
+#EXTINF:-1 tvg-id="MTV 90S" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJZoTHNk-OXwRTvJd7roJDSpjrlpGs2pSorA&s" group-title="Musicali Esteri",MTV 90s
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(MTVROCKS)/index.m3u8
+#EXTINF:-1 tvg-id="MTV 00s" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/08/14110659/MTV-00s-300x225.jpg" group-title="Musicali Esteri",MTV 00s
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(VH1)/index.m3u8
+#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-logo="https://allvectorlogo.com/img/2016/07/mtv-music-television-espanol-logo.png" group-title="Musicali Esteri",MTV Espana
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(MTVHD)/index.m3u8
+#EXTINF:-1 tvg-id="mtv germany" tvg-name="MTV Germany" tvg-logo="https://www.chillglobal.com/images/channels/mtvchannel-1432635375.jpg" group-title="Musicali Esteri",MTV Germany
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245d15062cd1f00070a2338/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=0&appVersion=0&deviceDNT=0&deviceId=0&advertisingId=0&us_privacy=1NNN&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="now 70s" tvg-name="Now 70s" tvg-logo="https://tv.assets.pressassociation.io/99435f7c-81dc-5fd1-b98d-0cec084d136e.png" group-title="Musicali Esteri",Now 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="now 80s" tvg-name="Now 80s" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/NOW_80s_2023.png/revision/latest/scale-to-width-down/200?cb=20231025230507" group-title="Musicali Esteri",Now 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="now rock" tvg-name="Now Rock" tvg-logo="https://www.thebelfastempire.com/wp-content/uploads/2019/03/Now-The-90s.jpg" group-title="Musicali Esteri",Now 90s00s
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="6568a78d635c3c0008765f41" tvg-id="6568a78d635c3c0008765f41" tvg-name="Now Rock" tvg-logo="https://images.pluto.tv/channels/6568a78d635c3c0008765f41/colorLogoPNG.png" group-title="Musicali Esteri", Now Rock
+https://jmp2.uk/plu-6568a78d635c3c0008765f41.m3u8
+#EXTINF:-1 tvg-id="power dance" tvg-name="Power Dance" tvg-logo="http://tv.10dailythings.com/images/channels/TR/power-dance/normal.png" group-title="Musicali Esteri",Power Dance
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="q*music" tvg-name="Q*Music" tvg-logo="http://tv.10dailythings.com/images/channels/NL/qmusic-3/normal.png" group-title="Musicali Esteri",Q*Music
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 tvg-id="vevo 70s" tvg-name="Vevo 70s" tvg-logo="http://odmsto.com/uploads/tv_image/sm/vevo-70s.png" group-title="Musicali Esteri",Vevo 70s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="vevo 80s" tvg-name="Vevo 80s" tvg-logo="http://odmsto.com/uploads/tv_image/sm/vevo-80s.png" group-title="Musicali Esteri",Vevo 80s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="vevo '90s" tvg-name="Vevo '90s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20230322T000023SQUARE.png_20230322000024.png" group-title="Musicali Esteri",Vevo '90s
+https://d36vl7sxn34m5q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m63zgwps7b87g/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="vevo 2k" tvg-name="Vevo 2K" tvg-logo="http://odmsto.com/uploads/tv_image/sm/vevo-2k.png" group-title="Musicali Esteri",Vevo 2K
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="vevo 2010s" tvg-name="Vevo 2010s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20230627T215025SQUARE.png_20230627215025.png" group-title="Musicali Esteri",Vevo 2010s
+https://d21cpy4ek4aipj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gchcemfivgmyw/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="vevo country" tvg-name="Vevo Country" tvg-logo="http://odmsto.com/uploads/tv_image/sm/vevo-country.png" group-title="Musicali Esteri",Vevo Country
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="vevo pop" tvg-name="Vevo Pop" tvg-logo="http://odmsto.com/uploads/tv_image/sm/vevo-pop-tdajtrtwez7k.png" group-title="Musicali Esteri",Vevo Pop
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="vevo retro rock" tvg-name="Vevo Retro Rock" tvg-logo="http://odmsto.com/uploads/tv_image/sm/vevo-retro-rock.png" group-title="Musicali Esteri",Vevo Retro Rock
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="vevo latino" tvg-name="Vevo Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20230322T000033SQUARE.png_20230322000034.png" group-title="Musicali Esteri",Vevo Latino
+https://d1jg19cd16tz4s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nx7h5jeuhw79b-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="vevo hip-hop" tvg-name="Vevo Hip-Hop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20230322T000030SQUARE.png_20230322000031.png" group-title="Musicali Esteri",Vevo Hip-Hop
+https://d2p8vga36q26tv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tbi3tu3ko2mz4-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="vevo r&b" tvg-name="Vevo R&B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20230322T000038SQUARE.png_20230322000039.png" group-title="Musicali Esteri",Vevo R&B
+https://d188921up0bidw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlgl4ktqwvge1-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 channel-id="5f32f26bcd8aea00071240e5" tvg-id="5f32f26bcd8aea00071240e5" tvg-name="Vevo '70s" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Musicali Esteri", Vevo '70s (US)
+https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
+#EXTINF:-1 channel-id="5fd7b8bf927e090007685853" tvg-id="5fd7b8bf927e090007685853" tvg-name="Vevo '80s" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Musicali Esteri", Vevo '80s (US)
+https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
+#EXTINF:-1 channel-id="5fd7bb1f86d94a000796e2c2" tvg-id="5fd7bb1f86d94a000796e2c2" tvg-name="Vevo '90s" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Musicali Esteri", Vevo '90s (US)
+https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
+#EXTINF:-1 channel-id="5fd7bca3e0a4ee0007a38e8c" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-name="Vevo 2K" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Musicali Esteri", Vevo 2K (US)
+https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
+#EXTINF:-1 channel-id="5da0d75e84830900098a1ea0" tvg-id="5da0d75e84830900098a1ea0" tvg-name="Vevo Country" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="Musicali Esteri", Vevo Country (US)
+https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
+#EXTINF:-1 channel-id="64d161c93c785e0008df575e" tvg-id="64d161c93c785e0008df575e" tvg-name="Vevo Íconos Latinos" tvg-logo="https://images.pluto.tv/channels/64d161c93c785e0008df575e/colorLogoPNG.png" group-title="Musicali Esteri", Vevo Íconos Latinos (US)
+https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
+#EXTINF:-1 channel-id="5d93b635b43dd1a399b39eee" tvg-id="5d93b635b43dd1a399b39eee" tvg-name="Vevo Pop" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Musicali Esteri", Vevo Pop (US)
+https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
+#EXTINF:-1 channel-id="5da0d83f66c9700009b96d0e" tvg-id="5da0d83f66c9700009b96d0e" tvg-name="Vevo R&B" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="Musicali Esteri", Vevo R&B (US)
+https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
+#EXTINF:-1 channel-id="61d4b38226b8a50007fe03a6" tvg-id="61d4b38226b8a50007fe03a6" tvg-name="Vevo Retro Rock" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" group-title="Musicali Esteri", Vevo Retro Rock (US)
+https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
+#EXTINF:-1 channel-id="61d4c2817a823d00070ba53e" tvg-id="61d4c2817a823d00070ba53e" tvg-name="Vevo True School Hip-Hop" tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" group-title="Musicali Esteri", Vevo True School Hip-Hop
+https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
+#EXTINF:-1 tvg-id="vh1 classic" tvg-name="Vh1 Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/1200px-VH1_Classic_UK.svg.png" group-title="Musicali Esteri",Vh1 Classic
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="vh1+ music legends" tvg-name="Vh1+ Music Legends" tvg-logo="http://odmsto.com/uploads/tv_image/sm/vh1-music-legends.png" group-title="Musicali Esteri",Vh1+ Music Legends
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="xite 80s flashback" tvg-name="XITE 80s Flashback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20221214T015113SQUARE.png_20221214015114.png" group-title="Musicali Esteri",XITE 80s Flashback
+https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="xite 90s throwback" tvg-name="XITE 90s Throwback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20221214T015117SQUARE.png_20221214015119.png" group-title="Musicali Esteri",XITE 90s Throwback
+https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="xite rock on" tvg-name="XITE Rock On" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20221214T015111SQUARE.png_20221214015112.png" group-title="Musicali Esteri",XITE Rock On
+https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="xite just chill" tvg-name="XITE Just Chill" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20221214T015016SQUARE.png_20221214015016.png" group-title="Musicali Esteri",XITE Just Chill
+https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="new kpop" tvg-name="NEW KPOP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20230627T214901SQUARE.png_20230627214902.png" group-title="Musicali Esteri",NEW KPOP
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="deep house" tvg-name="Deep House" tvg-logo="http://inthemix.altervista.org/dt.jpg" group-title="Musicali Esteri",Deep House
+https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-id="downtempo" tvg-name="Downtempo" tvg-logo="http://inthemix.altervista.org/dt.jpg" group-title="Musicali Esteri",Downtempo
+https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
+#EXTINF:-1 tvg-id="dt edm" tvg-name="DT Edm" tvg-logo="http://inthemix.altervista.org/dt.jpg" group-title="Musicali Esteri",DT Edm
+https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
+#EXTINF:-1 tvg-id="melodic tech" tvg-name="Melodic Tech" tvg-logo="http://inthemix.altervista.org/dt.jpg" group-title="Musicali Esteri",Melodic Tech
+https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
+#EXTINF:-1 tvg-id="dt minimal" tvg-name="DT Minimal" tvg-logo="http://inthemix.altervista.org/dt.jpg" group-title="Musicali Esteri",DT Minimal
+https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
+#EXTINF:-1 tvg-id="dt house" tvg-name="DT House" tvg-logo="http://inthemix.altervista.org/dt.jpg" group-title="Musicali Esteri",DT House
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+#EXTINF:-1 tvg-id="dt techno" tvg-name="DT Techno" tvg-logo="http://inthemix.altervista.org/dt.jpg" group-title="Musicali Esteri",DT Techno
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+#EXTINF:-1 tvg-id="dt tech house" tvg-name="DT Tech House" tvg-logo="http://inthemix.altervista.org/dt.jpg" group-title="Musicali Esteri",DT Tech House
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
+
+#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Sport",=== Sport ===
+http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-sport-hd.png" group-title="SPORT",Rai Sport + Hd
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 OPR/89.0.4447.48
 #EXTINF:-1 tvg-name="RaiPlaySport 1" tvg-id="" tvg-logo="https://www.raiplay.it/dl/img/2024/04/30/1714492163377_Canale3x.png" group-title="SPORT",RaiPlaySport 1 (sab,dom)
@@ -2338,10 +2449,6 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="SPORT",BeIN Sports
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="SPORT",CBS Sports Network link pc
-https://list.iptvcat.com/my_list/s/7fc143e0af670a67e53605ffb740732f.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Golazo Network by CBS Sports link pc
-https://list.iptvcat.com/my_list/s/713373277fcc3bd0906e9296c7bdfee5.m3u8
 #EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS SPORTS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/CBS_Sports_Network_Logo.png" group-title="SPORT",CBS SPORTS
 http://tkosportz.live:25461/rodneyb5777/5777/8459
 #EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS SPORTS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/CBS_Sports_Network_Logo.png" group-title="SPORT",CBS SPORTS
@@ -2387,91 +2494,7 @@ http://sar.nobip.online:80/Pino01/1Logpino1/548315
 #EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN 2 SD" tvg-logo="https://logosmig.fyi/zona_sd.png" group-title="SPORT",ZONA DAZN 2 SD
 http://sar.nobip.online:80/Pino01/1Logpino1/548314
 
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN 1 HD" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=12dpnhddhmpm71228raanhyxs2_image-header_pDach_1662550662000&quality=70" group-title="SPORT",ZONA DAZN 1 HD
-http://188.211.233.202:80/Casacesaranomarzano/Cimitile10/483118
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN 1 SD" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=12dpnhddhmpm71228raanhyxs2_image-header_pDach_1662550662000&quality=70" group-title="SPORT",ZONA DAZN 1 SD
-http://188.211.233.202:80/Casacesaranomarzano/Cimitile10/483117
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN 1 HD" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=12dpnhddhmpm71228raanhyxs2_image-header_pDach_1662550662000&quality=70" group-title="SPORT",ZONA DAZN 1 HD
-http://188.211.233.202:80/Santaniello/cimitile10/483118
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN 1 SD" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=12dpnhddhmpm71228raanhyxs2_image-header_pDach_1662550662000&quality=70" group-title="SPORT",ZONA DAZN 1 SD
-http://188.211.233.202:80/Santaniello/cimitile10/483117
-#EXTINF:-1 tvg-id="" tvg-name="Serie A1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL_400x400.jpg" group-title="SPORT",Serie A1 HD
-http://188.211.233.202:80/Santaniello/cimitile10/483116
-#EXTINF:-1 tvg-id="" tvg-name="Serie A2 HD" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL_400x400.jpg" group-title="SPORT",Serie A2 HD
-http://188.211.233.202:80/Santaniello/cimitile10/483115
 
-
-
-#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="SKY Glass Sport Calcio Full HD (Canale 249)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Sky_Glass_logo.svg/revision/latest/scale-to-width-down/300" group-title="SPORT",SKY Glass Sport Calcio Full HD (Canale 249)
-http://188.211.233.202:80/Santaniello/cimitile10/477510
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport24 Hevc/H.265" tvg-logo="https://guidatv.sky.it/logo/929skysport24_Light_Padding.png" group-title="SPORT",SKY Sport24 Hevc/H.265
-http://188.211.233.202:80/Santaniello/cimitile10/480760
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport24 Full HD" tvg-logo="https://guidatv.sky.it/logo/929skysport24_Light_Padding.png" group-title="SPORT",SKY Sport24 Full HD
-http://188.211.233.202:80/Santaniello/cimitile10/480759
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport24 HD" tvg-logo="https://guidatv.sky.it/logo/929skysport24_Light_Padding.png" group-title="SPORT",SKY Sport24 HD
-http://188.211.233.202:80/Santaniello/cimitile10/480758
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport24 SD" tvg-logo="https://guidatv.sky.it/logo/929skysport24_Light_Padding.png" group-title="SPORT",SKY Sport24 SD
-http://188.211.233.202:80/Santaniello/cimitile10/480757
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport Uno Hevc/H.265" tvg-logo="https://guidatv.sky.it/logo/920skysportuno_Light_Padding.png" group-title="SPORT",SKY Sport Uno Hevc/H.265
-http://188.211.233.202:80/Santaniello/cimitile10/480756
-#EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="SKY Sport Uno Full HD" tvg-logo="https://guidatv.sky.it/logo/920skysportuno_Light_Padding.png" group-title="SPORT",SKY Sport Uno Full HD
-http://188.211.233.202:80/Santaniello/cimitile10/480755
-#EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="SKY Sport Uno HD" tvg-logo="https://guidatv.sky.it/logo/920skysportuno_Light_Padding.png" group-title="SPORT",SKY Sport Uno HD
-http://188.211.233.202:80/Santaniello/cimitile10/480754
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport Uno SD" tvg-logo="https://guidatv.sky.it/logo/920skysportuno_Light_Padding.png" group-title="SPORT",SKY Sport Uno SD
-http://188.211.233.202:80/Santaniello/cimitile10/480753
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport Golf Hevc/H265" tvg-logo="https://guidatv.sky.it/logo/768skysportgolfhd_Light_Padding.png" group-title="SPORT",SKY Sport Golf Hevc/H265
-http://188.211.233.202:80/Santaniello/cimitile10/480752
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport Golf Full HD" tvg-logo="https://guidatv.sky.it/logo/768skysportgolfhd_Light_Padding.png" group-title="SPORT",SKY Sport Golf Full HD
-http://188.211.233.202:80/Santaniello/cimitile10/480751
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport Golf HD" tvg-logo="https://guidatv.sky.it/logo/768skysportgolfhd_Light_Padding.png" group-title="SPORT",SKY Sport Golf HD
-http://188.211.233.202:80/Santaniello/cimitile10/480750
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport Golf SD" tvg-logo="https://guidatv.sky.it/logo/768skysportgolfhd_Light_Padding.png" group-title="SPORT",SKY Sport Golf SD
-http://188.211.233.202:80/Santaniello/cimitile10/480749
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport Max Hevc/H.265" tvg-logo="https://guidatv.sky.it/logo/248skysportfootballhd_Light_Padding.png" group-title="SPORT",SKY Sport Max Hevc/H.265
-http://188.211.233.202:80/Santaniello/cimitile10/480748
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport Max Full HD" tvg-logo="https://guidatv.sky.it/logo/248skysportfootballhd_Light_Padding.png" group-title="SPORT",SKY Sport Max Full HD
-http://188.211.233.202:80/Santaniello/cimitile10/480747
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport Max HD" tvg-logo="https://guidatv.sky.it/logo/248skysportfootballhd_Light_Padding.png" group-title="SPORT",SKY Sport Max HD
-http://188.211.233.202:80/Santaniello/cimitile10/480746
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport MAX SD" tvg-logo="https://guidatv.sky.it/logo/248skysportfootballhd_Light_Padding.png" group-title="SPORT",SKY Sport MAX SD
-http://188.211.233.202:80/Santaniello/cimitile10/480745
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport Arena Hevc/H.265" tvg-logo="https://guidatv.sky.it/logo/921skysportarena_Light_Padding.png" group-title="SPORT",SKY Sport Arena Hevc/H.265
-http://188.211.233.202:80/Santaniello/cimitile10/480744
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport Arena Full HD" tvg-logo="https://guidatv.sky.it/logo/921skysportarena_Light_Padding.png" group-title="SPORT",SKY Sport Arena Full HD
-http://188.211.233.202:80/Santaniello/cimitile10/480743
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport Arena HD" tvg-logo="https://guidatv.sky.it/logo/921skysportarena_Light_Padding.png" group-title="SPORT",SKY Sport Arena HD
-http://188.211.233.202:80/Santaniello/cimitile10/480742
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport Arena SD" tvg-logo="https://guidatv.sky.it/logo/921skysportarena_Light_Padding.png" group-title="SPORT",SKY Sport Arena SD
-http://188.211.233.202:80/Santaniello/cimitile10/480741
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport NBA Hevc/H.265" tvg-logo="https://guidatv.sky.it/logo/611skysportnba_Light_Padding.png" group-title="SPORT",SKY Sport NBA Hevc/H.265
-http://188.211.233.202:80/Santaniello/cimitile10/480740
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport NBA Full HD" tvg-logo="https://guidatv.sky.it/logo/611skysportnba_Light_Padding.png" group-title="SPORT",SKY Sport NBA Full HD
-http://188.211.233.202:80/Santaniello/cimitile10/480739
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport NBA HD" tvg-logo="https://guidatv.sky.it/logo/611skysportnba_Light_Padding.png" group-title="SPORT",SKY Sport NBA HD
-http://188.211.233.202:80/Santaniello/cimitile10/480738
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport NBA SD" tvg-logo="https://guidatv.sky.it/logo/611skysportnba_Light_Padding.png" group-title="SPORT",SKY Sport NBA SD
-http://188.211.233.202:80/Santaniello/cimitile10/480737
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport Tennis Hevc/H2.65" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png" group-title="SPORT",SKY Sport Tennis Hevc/H2.65
-http://188.211.233.202:80/Santaniello/cimitile10/480736
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport Tennis Full HD" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png" group-title="SPORT",SKY Sport Tennis Full HD
-http://188.211.233.202:80/Santaniello/cimitile10/480735
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport Tennis HD" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png" group-title="SPORT",SKY Sport Tennis HD
-http://188.211.233.202:80/Santaniello/cimitile10/480734
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport Tennis SD" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png" group-title="SPORT",SKY Sport Tennis SD
-http://188.211.233.202:80/Santaniello/cimitile10/480733
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport F1 Full HD" tvg-logo="https://guidatv.sky.it/logo/478skysportf1hd_Light_Padding.png" group-title="SPORT",SKY Sport F1 Full HD
-http://188.211.233.202:80/Santaniello/cimitile10/480732
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport F1 HD" tvg-logo="https://guidatv.sky.it/logo/478skysportf1hd_Light_Padding.png" group-title="SPORT",SKY Sport F1 HD
-http://188.211.233.202:80/Santaniello/cimitile10/480731
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport F1 SD" tvg-logo="https://guidatv.sky.it/logo/478skysportf1hd_Light_Padding.png" group-title="SPORT",SKY Sport F1 SD
-http://188.211.233.202:80/Santaniello/cimitile10/480730
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport MotoGP Full HD" tvg-logo="https://guidatv.sky.it/logo/914skysportmotogp_Light_Padding.png" group-title="SPORT",SKY Sport MotoGP Full HD
-http://188.211.233.202:80/Santaniello/cimitile10/480729
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport MotoGP HD" tvg-logo="https://guidatv.sky.it/logo/914skysportmotogp_Light_Padding.png" group-title="SPORT",SKY Sport MotoGP HD
-http://188.211.233.202:80/Santaniello/cimitile10/480728
-#EXTINF:-1 tvg-id="" tvg-name="Inter Channel HD" tvg-logo="" group-title="SPORT",Inter Channel HD
-http://188.211.233.202:80/Santaniello/cimitile10/480721
 
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="SPORT ACE",=== SPORT ACE ===
