@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 23/06/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 29/06/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -2174,6 +2174,10 @@ https://tivusto.org/sh/calciomercatoit
 https://cdn06.milano.nxmedge.net/bikechannel/video.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/aci-sport-tv.JPG" group-title="SPORT",ACI Sport Tv
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/plus-tv-motori.jpg" group-title="SPORT",Plus+ Tv Motori
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/plus-tv-sport.png" group-title="SPORT",Plus+ Tv Sport
+https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb82.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ms-motors-tv.JPG" group-title="SPORT",MS Motors Tv
 https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/media-sport-tv.png" group-title="SPORT",Media Sport Tv
@@ -2210,7 +2214,42 @@ https://tmw.fluid.stream/TMWRadioTV/livestream/playlist.m3u8
 https://live1.giocabet.tv/stream/1/index.m3u8
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="SPORT",PT: SPORT TV 1
+http://visitmy.collegefan.org:80/dillin/4852719360/780328
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1(opcao 2)" tvg-logo="" group-title="SPORT",PT: SPORT TV 1(opcao 2)
+http://visitmy.collegefan.org:80/dillin/4852719360/780329
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1(opcao 3)" tvg-logo="" group-title="SPORT",PT: SPORT TV 1(opcao 3)
+http://visitmy.collegefan.org:80/dillin/4852719360/780330
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="SPORT",PT: SPORT TV 2
+http://visitmy.collegefan.org:80/dillin/4852719360/780331
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2(opcao 2)" tvg-logo="" group-title="SPORT",PT: SPORT TV 2(opcao 2)
+http://visitmy.collegefan.org:80/dillin/4852719360/780332
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="SPORT",PT: SPORT TV 3
+http://visitmy.collegefan.org:80/dillin/4852719360/780333
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="SPORT",PT: SPORT TV 4
+http://visitmy.collegefan.org:80/dillin/4852719360/780334
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="SPORT",PT: SPORT TV 5
+http://visitmy.collegefan.org:80/dillin/4852719360/780335
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6" tvg-logo="" group-title="SPORT",PT: Sport TV 6
+http://visitmy.collegefan.org:80/dillin/4852719360/780336
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+" tvg-logo="" group-title="SPORT",PT: SPORT TV+
+http://visitmy.collegefan.org:80/dillin/4852719360/780337
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="" group-title="SPORT",PT: ELEVEN SPORTS 1
+http://visitmy.collegefan.org:80/dillin/4852719360/780280
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="" group-title="SPORT",PT: ELEVEN SPORTS 2
+http://visitmy.collegefan.org:80/dillin/4852719360/780281
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="" group-title="SPORT",PT: ELEVEN SPORTS 3
+http://visitmy.collegefan.org:80/dillin/4852719360/780282
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="" group-title="SPORT",PT: ELEVEN SPORTS 4
+http://visitmy.collegefan.org:80/dillin/4852719360/780283
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="" group-title="SPORT",PT: ELEVEN SPORTS 5
+http://visitmy.collegefan.org:80/dillin/4852719360/780284
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="" group-title="SPORT",PT: ELEVEN SPORTS 6
+http://visitmy.collegefan.org:80/dillin/4852719360/780285
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT" tvg-logo="" group-title="SPORT",PT: EUROSPORT
+http://visitmy.collegefan.org:80/dillin/4852719360/780286
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2" tvg-logo="" group-title="SPORT",PT: EUROSPORT 2
+http://visitmy.collegefan.org:80/dillin/4852719360/780287
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="" group-title="SPORT",PT: ELEVEN SPORTS 1
@@ -2433,14 +2472,26 @@ https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png" group-title="SPORT",ESPN 2
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="SPORT",ESPN News
-http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="SPORT",ESPN U
-http://fl2.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="SPORT",Fox Sports 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="USA: ESPN" tvg-logo="http://puddintap.click/ico/IPTVLogo/espn.png" group-title="SPORT",USA: ESPN
+http://visitmy.collegefan.org:80/dillin/4852719360/815000
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="USA: ESPN 2" tvg-logo="https://puddintap.click/ico/USA/ESPN2.png" group-title="SPORT",USA: ESPN 2
+http://visitmy.collegefan.org:80/dillin/4852719360/815001
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",USA: ESPN DEPORTES
+http://visitmy.collegefan.org:80/dillin/4852719360/815002
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="USA: ESPN NEWS" tvg-logo="https://puddintap.click/ico/USA/ESPNews.png" group-title="SPORT",USA: ESPN NEWS
+http://visitmy.collegefan.org:80/dillin/4852719360/815003
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="USA: ESPN U" tvg-logo="https://puddintap.click/ico/USA/ESPNU.png" group-title="SPORT",USA: ESPN U
+http://visitmy.collegefan.org:80/dillin/4852719360/815004
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="USA: FOX DEPORTES" tvg-logo="" group-title="SPORT",USA: FOX DEPORTES
+http://visitmy.collegefan.org:80/dillin/4852719360/815034
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="USA: FOX SOCCER PLUS" tvg-logo="" group-title="SPORT",USA: FOX SOCCER PLUS
+http://visitmy.collegefan.org:80/dillin/4852719360/815035
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="USA: FOX SPORTS 1" tvg-logo="" group-title="SPORT",USA: FOX SPORTS 1
+http://visitmy.collegefan.org:80/dillin/4852719360/815036
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="USA: FOX SPORTS 2" tvg-logo="" group-title="SPORT",USA: FOX SPORTS 2
+http://visitmy.collegefan.org:80/dillin/4852719360/815037
+#EXTINF:-1 tvg-id="US: FUBO SPORTS NETWORK" tvg-name="USA: FUBO SPORTS" tvg-logo="https://puddintap.click/ico/new/USA/USA_FUBO_SPORTS.png" group-title="SPORT",USA: FUBO SPORTS
+http://visitmy.collegefan.org:80/dillin/4852719360/815042
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="SPORT",Fubo Sports Network
 https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993008/600x200.png?type=white_cropped" group-title="SPORT",NBC Sports NOW
@@ -2455,6 +2506,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/logo_1731835913114.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="SPORT",CBS Sports HQ
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="https://puddintap.click/ico/USA/CBSSpNet.png" group-title="SPORT",USA: CBS SPORTS NETWORK
+http://visitmy.collegefan.org:80/dillin/4852719360/815026
+#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="" group-title="SPORT",CA: TLN
+http://visitmy.collegefan.org:80/dillin/4852719360/761495
 
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Golazo Network by CBS Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7elivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
