@@ -2156,7 +2156,7 @@ https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
 #EXTINF:-1 tvg-id="dt tech house" tvg-name="DT Tech House" tvg-logo="http://inthemix.altervista.org/dt.jpg" group-title="Musicali Esteri",DT Tech House
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
 
-#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Sport",=== Sport ===
+#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="SPORT",=== Sport ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-sport-hd.png" group-title="SPORT",Rai Sport + Hd
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 OPR/89.0.4447.48
@@ -2508,8 +2508,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="https://puddintap.click/ico/USA/CBSSpNet.png" group-title="SPORT",USA: CBS SPORTS NETWORK
 http://visitmy.collegefan.org:80/dillin/4852719360/815026
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="https://puddintap.click/ico/USA/CBSSpNet.png" group-title="SPORT",USA: CBS SPORTS NETWORK
+http://visitmy.collegefan.org:80/Kenneth63/2740839516/815026
 #EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="" group-title="SPORT",CA: TLN
 http://visitmy.collegefan.org:80/dillin/4852719360/761495
+#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="" group-title="SPORT",CA: TLN
+http://visitmy.collegefan.org:80/Kenneth63/2740839516/761495
 
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Golazo Network by CBS Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7elivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
