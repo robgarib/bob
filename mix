@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 14/07/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 16/07/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -2450,12 +2450,22 @@ https://jmp2.uk/plu-66461e4394d5580008cfd9c5.m3u8
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(EUROSPORT)/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="eurosport2" tvg-logo="https://t3.ftcdn.net/jpg/05/17/13/48/360_F_517134830_khmyeQ5beRJeAR4kIBgZKeygKAW151Dn.jpg" group-title="SPORT",Eurosport 2
 http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(EUROSPORT2)/index.m3u8
-#EXTINF:-1 tvg-id="sport turkmenistan" tvg-name="Sport Turkmenistan" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/b/b4/TurkmenistanSport.jpg" group-title="SPORT",SPORT Turkmenistan
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
+#EXTINF:-1 group-title="SPORT",Match Futbol 1 HD
+http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8
+#EXTINF:-1 group-title="*SPORT" tvg-logo="https://epgx.site/p/match-football3.png",Match Futbol 3 HD
+http://185.57.68.33/110/mpegts
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/udTzwzu.png",Match! Arena
+http://194.143.148.28:8080/MatchArena/index.m3u8
+#EXTINF:-1 group-title="SPORT",Match Igra
+http://31.148.48.15/Match_Igra/index.m3u8
+#EXTINF:-1 group-title="SPORT",Match Boec
+http://31.148.48.15:80/Match_Boec/index.m3u8
 #EXTINF:-1 tvg-id="CBCSport.az"" group-title="SPORT",CBC Sport  Azerbaigian [Geo-blocked-vpn]
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1 tvg-id="sport turkmenistan" tvg-name="Sport Turkmenistan" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/b/b4/TurkmenistanSport.jpg" group-title="SPORT",SPORT Turkmenistan
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-country="TM" tvg-language="Turkmen" tvg-logo="" group-title="SPORT",Türkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-country="TM" tvg-language="Turkmen" tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg" group-title="SPORT",Türkmenistan Sport
