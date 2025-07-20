@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 17/07/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 20/07/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -52,6 +52,7 @@ https://tivusto.org/sh/raiplay3
 #EXTINF:-1 tvg-id="RaiItalia.it@EuropeAfrica" tvg-logo="https://i.imgur.com/1nN4rEP.png" group-title="Canali RAI",Rai Italia
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
 
+
 EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Rai Tv",=== Rai Tv ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-chno="1" tvg-id="rai 1" tvg-name="Rai 1" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="Rai Tv" user-agent="raiplayappletv",Rai 1
@@ -78,6 +79,12 @@ https://raipremium1-dash-live.akamaized.net/dash/live/663979/raipremium1/manifes
 https://raistoria1-dash-live.akamaized.net/dash/live/663959/raistoria1/manifest.mpd
 #EXTINF:-1 tvg-chno="57" tvg-id="rai scuola" tvg-name="Rai Scuola" tvg-logo="https://www.digitaleterrestrefacile.it/wp-content/uploads/2020/05/che-canale-e-rai-scuola-frequenza-rai-play.jpg" group-title="Rai Tv",Rai Scuola
 https://raiscuola1-dash-live.akamaized.net/dash/live/663975/raiscuola1/manifest.mpd
+#EXTINF:-1 tvg-name="RaiPlaySport 1" tvg-id="" tvg-logo="https://www.raiplay.it/dl/img/2024/04/30/1714492163377_Canale3x.png" group-title="Rai Tv",RaiPlaySport 1 (sab,dom)
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay4/hls/raiplay4_2400/chunklist.m3u8
+#EXTINF:-1 tvg-name="RaiPlaySport 2" tvg-id="" tvg-logo="https://www.raiplay.it/dl/img/2024/04/30/1714492217998_Canale%20non-optimized3x.png" group-title="Rai Tv",RaiPlaySport 2 (sab,dom)
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay5/hls/raiplay5_2400/chunklist.m3u8
+#EXTINF:-1 tvg-name="RaiPlaySport 3" tvg-id="" tvg-logo="https://www.raiplay.it/dl/img/2024/04/30/1714492239159_Canale3x.png" group-title="Rai Tv",RaiPlaySport 3 (sab,dom)
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay6/hls/raiplay6_2400/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali Mediaset",=== Canali Mediaset ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -2543,6 +2550,21 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65ea8b928145cb0008509426/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
 
 
+#EXTINF:-1 tvg-id="eurosport1" tvg-name="eurosport1" tvg-logo="https://t3.ftcdn.net/jpg/05/17/13/48/360_F_517134830_khmyeQ5beRJeAR4kIBgZKeygKAW151Dn.jpg" group-title="SPORT",Eurosport 1
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(EUROSPORT)/index.m3u8
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="eurosport2" tvg-logo="https://t3.ftcdn.net/jpg/05/17/13/48/360_F_517134830_khmyeQ5beRJeAR4kIBgZKeygKAW151Dn.jpg" group-title="SPORT",Eurosport 2
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(EUROSPORT2)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",EUROSPORT 1 HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17351.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",EUROSPORT 1 FULL HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17350.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",EUROSPORT 2 HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17353.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",EUROSPORT 2 FULL HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17352.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",INTER CHANNEL FULL HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17355.ts
+
 #EXTINF:-1 tvg-id="Sky Sport Bar Uno HEVC" tvg-name="DAZN SPORT SERIE A 1 HD" tvg-logo="https://logosmig.fyi/barRed/a1hd.png" group-title="SPORT",DAZN SPORT SERIE A 1 HD
 http://sar.nobip.online:80/Pino01/1Logpino1/279931
 #EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN BAR HD" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",ZONA DAZN BAR HD
@@ -2566,6 +2588,46 @@ http://sar.nobip.online:80/Pino01/1Logpino1/548315
 #EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN 2 SD" tvg-logo="https://logosmig.fyi/zona_sd.png" group-title="SPORT",ZONA DAZN 2 SD
 http://sar.nobip.online:80/Pino01/1Logpino1/548314
 
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",SKY SPORT 24 HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17327.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",SKY SPORT 24 FULL HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17326.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",SKY SPORT CALCIO HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17364.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",SKY SPORT CALCIO FULL HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17363.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",SKY SPORT UNO HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17330.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",SKY SPORT UNO FULL HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17329.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",SKY SPORT GOLF HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/95401.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",SKY SPORT GOLF FHD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/95400.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",SKY SPORT ARENA HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17333.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",SKY SPORT ARENA FULL HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17332.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",SKY SPORT FOOTBALL HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17336.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",SKY SPORT FOOTBALL FULL HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17335.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",SKY SPORT NBA HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17339.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",SKY SPORT NBA FULL HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17340.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",SKY SPORT TENNIS HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17342.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",SKY SPORT TENNIS FULL HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17341.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",SKY SPORT MOTOGP HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17345.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",SKY SPORT MOTOGP FULL HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17344.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",SKY SPORT F1 HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17348.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT" tvg-logo="https://logosmig.fyi/zona_hd.png" group-title="SPORT",SKY SPORT F1 FULL HD
+http://s5l524k46474s3n443f3.b468gz2xujcv.net:80/live/FrancescoNa/khbocgOv8I/17347.ts
 
 
 
