@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 07/09/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 11/09/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Rai Tv",=== Rai Tv ===
@@ -3893,28 +3893,28 @@ http://patbuweb.com/iptv/e2liste/startend.avi
 https://list.iptvcat.com/my_list/s/847abe5b4bf9ced5c87c680f15774fb5.m3u8
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="UK-USA",BBC One (720p)
 https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
-#EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC 1 HD
-http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2950
 #EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="UK-USA",BBC Two HD (720p)
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
-#EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC 2 HD
-http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2949
-#EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",3
-http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2948
-#EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC 4 HD
-http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2947
-#EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",ITV 1 HD
-http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2906
-#EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",ITV 2 HD
-http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2905
-#EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",ITV 3 HD
-http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2904
-#EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",ITV 4 HD
-http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2903
-#EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",Channel 4
-http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2932
-#EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",Channel 5
-http://mu3241218.oknirvana.club:8880/DAALM9789/vsjbHNJFqF/2931
+#EXTINF:-1 tvg-id="bbc.one.gb" tvg-name="UK-BBC One" tvg-logo="" group-title="UK-USA",UK-BBC One
+http://1tv41.icu:8080/30065823/63154294/53649
+#EXTINF:-1 tvg-id="bbc1scotland.uk" tvg-name="UK-BBC One Scotland" tvg-logo="" group-title="UK-USA",UK-BBC One Scotland
+http://1tv41.icu:8080/30065823/63154294/53755
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC TWO HD" tvg-logo="" group-title="UK-USA",UK: BBC TWO HD
+http://1tv41.icu:8080/30065823/63154294/53650
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK-ITV" tvg-logo="" group-title="UK-USA",UK-ITV
+http://1tv41.icu:8080/30065823/63154294/53651
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK ITV2 HD " tvg-logo="" group-title="UK-USA",UK ITV2 HD 
+http://1tv41.icu:8080/30065823/63154294/53671
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK-ITV 3" tvg-logo="" group-title="UK-USA",UK-ITV 3
+http://1tv41.icu:8080/30065823/63154294/53665
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK-ITV 4" tvg-logo="" group-title="UK-USA",UK-ITV 4
+http://1tv41.icu:8080/30065823/63154294/53666
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK: Channel 4" tvg-logo="" group-title="UK-USA",UK: Channel 4
+http://1tv41.icu:8080/30065823/63154294/99138
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK-Channel 5" tvg-logo="" group-title="UK-USA",UK-Channel 5
+http://1tv41.icu:8080/30065823/63154294/53653
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US CBS Sports Network HD " tvg-logo="https://juicetv.app/channellogo/cbs.png" group-title="UK-USA",US CBS Sports Network HD 
+http://1tv41.icu:8080/30065823/63154294/10454
 
 #EXTINF:-1 tvg-id="" tvg-name="Wonder" tvg-logo="https://i.imgur.com/450pJvs.png" group-title="UK-USA",Wonder
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8 
