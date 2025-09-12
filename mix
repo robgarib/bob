@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 11/09/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 12/09/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Rai",=== Rai ===
@@ -12,6 +12,7 @@ https://raiuno1-dash-live.akamaized.net/dash/live/652296/raiuno1/manifest.mpd
 https://raidue1-dash-live.akamaized.net/dash/live/662448/raidue1/manifest.mpd
 #EXTINF:-1 tvg-name="Rai 3" tvg-id="Rai3.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/320px-Rai_3_-_Logo_2016.svg.png" tvg-chno="3" channel-number="3" group-title="Rai" catchup="default",Rai 3 HD
 #EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
+https://raitre1-dash-live.akamaized.net/dash/live/663957/raitre1/manifest.mpd
 #EXTINF:-1 tvg-name="Rai 4" tvg-id="rai4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/320px-Rai_4_-_Logo_2016.svg.png" tvg-chno="21" channel-number="21" group-title="Rai" catchup="default",Rai 4 HD
 #EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
 https://raiquattro1-dash-live.akamaized.net/dash/live/663977/raiquattro1/manifest.mpd
@@ -76,7 +77,7 @@ https://live02-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 https://live02-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Rai 4" tvg-id="rai4" tvg-logo="" tvg-chno="521" group-title="Rai",Rai 4
 https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
-#EXTINF:-1 tvg-name="Rai News 24 HD" tvg-id="RaiNews24.it" tvg-logo="" tvg-chno="548" group-title="Notizie",RaiNews 24 (dash)
+#EXTINF:-1 tvg-name="Rai News 24 HD" tvg-id="RaiNews24.it" tvg-logo="" tvg-chno="548" group-title="Rai",RaiNews 24 (dash)
 #EXTVLCOPT:http-user-agent=rainet/4.0.8 (Linux;Android 14) ExoPlayerLib/2.18.0
 https://rainews1-dash-live.akamaized.net/dash/live/663981/rainews1/manifest.mpd
 #EXTINF:-1 tvg-name="Rai 3" tvg-id="rai3" tvg-logo="" group-title="Rai",Rai 3 (hls)
@@ -153,7 +154,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-name="Italia 2" tvg-id="Italia2.it" tvg-logo="" tvg-chno="49" group-title="Mediaset",Italia 2 HD
 #EXTVLCOPT:http-user-agent=RTILabSDK/2.11.4 (Linux;Android 14) AndroidXMedia3/1.5.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-name="TGCOM 24" tvg-id="TGCom24.it" tvg-logo="" tvg-chno="51" group-title="Notizie",TGCOM 24
+#EXTINF:-1 tvg-name="TGCOM 24" tvg-id="TGCom24.it" tvg-logo="" tvg-chno="51" group-title="Mediaset",TGCOM 24
 #EXTVLCOPT:http-user-agent=RTILabSDK/2.11.4 (Linux;Android 14) AndroidXMedia3/1.5.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-name="Mediaset Extra" tvg-id="MediasetExtra.it" tvg-logo="" tvg-chno="55" group-title="Mediaset",Mediaset Extra HD
@@ -249,7 +250,8 @@ https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
 #EXTINF:-1 tvg-name="Motor Trend" channel-id="motor trend" tvg-id="MotorTrend.it" tvg-logo="" tvg-chno="59" group-title="Discovery",MotorTrend
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
-
+#EXTINF:-1 channel-id="IT3000282Q-it" tvg-name="Motor1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000282Q_20250811T173011SQUARE.png" group-title="Discovery", Motor1
+https://amg00614-amg00614c1-amgplt0007.playout.now3.amagi.tv/playlist/amg00614-amg00614c1-amgplt0007/playlist.m3u8
 
 
 
@@ -503,7 +505,7 @@ https://jmp2.uk/stvp-IT900003FU
 #EXTINF:-1 channel-id="IT600001L6" tvg-id="IT600001L6" tvg-chno="4619" tvg-name="Italian Fishing TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT600001L6_20241022T051638SQUARE.png" group-title="Documentari", Italian Fishing TV
 https://jmp2.uk/stvp-IT600001L6
 #EXTINF:-1 channel-id="IT3000282Q" tvg-id="IT3000282Q" tvg-chno="4660" tvg-name="Motor1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000282Q_20250811T173011SQUARE.png" group-title="Documentari", Motor1
-https://jmp2.uk/stvp-IT3000282Q
+https://amg00614-amg00614c1-amgplt0007.playout.now3.amagi.tv/playlist/amg00614-amg00614c1-amgplt0007/playlist.m3u8
 #EXTINF:-1 channel-id="IT900004Y5" tvg-id="IT900004Y5" tvg-chno="4656" tvg-name="Motortrend" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900004Y5_20250408T021501SQUARE.png" group-title="Documentari", Motortrend
 #EXTINF:-1 channel-id="IT900007I0" tvg-id="IT900007I0" tvg-chno="4069" tvg-name="Real time" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900007I0_20250408T021507SQUARE.png" group-title="Documentari", Real time
 https://jmp2.uk/stvp-IT900007I0
