@@ -2742,8 +2742,46 @@ https://gg.hls2.xyz/live/IR%20-%20Varzish%20TV/playlist.m3u8
 https://ss.90minlive.online/var/var/playlist.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",TVE TeleDeporte
 http://nortxpnyy.top:8080/19173211418728/21734542347426/5735
-
-
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",TVR Sport FHD
+http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/59935
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Digi Sport 1 4K
+http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/82437
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Digi Sport 1 HD
+http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/82433
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Digi Sport 1 FHD
+http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/82429
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Digi Sport 1 HDR (Net Bun)
+http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/82438
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Digi Sport 2 HD
+http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/82434
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Digi Sport 2 FHD
+http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/82430
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Digi Sport 2 HDR (Net Bun)
+http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/82439
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Digi Sport 3 HD
+http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/82435
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Digi Sport 3 FHD
+http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/82431
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Digi Sport 3 HDR (Net Bun)
+http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/82440
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Digi Sport 4 HD
+http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/82436
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Digi Sport 4 FHD
+http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/82432
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Digi Sport 4 HDR (Net Bun)
+http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/82441
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Eurosport 4K
+http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/17995
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",EuroSport1 Romania FHD
+http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/70382
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",EuroSport 1 HD
+http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/70387
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",EuroSport 1 FHD
+http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/70385
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",EuroSport 2 HD
+http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/70384
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",EuroSport 2 FHD
+http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/70388
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="USA: ESPN" tvg-logo="http://puddintap.click/ico/IPTVLogo/espn.png" group-title="SPORT",USA: ESPN
 http://visitmy.collegefan.org:80/dillin/4852719360/815000
