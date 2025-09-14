@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 12/09/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 14/09/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Rai",=== Rai ===
@@ -272,13 +272,6 @@ https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
 #EXTINF:-1 tvg-id="RTS2.ch@SD"" group-title="Svizzera",RTS 2 (1080p)
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SWS: SRF 1" tvg-logo="https://docdog.top/logo/countries/switzerland/srf1.png" group-title="Svizzera",SWS: SRF 1
-http://nortxpnyy.top:8080/19173211418728/21734542347426/18041
-#EXTINF:-1 tvg-id="" tvg-name="SWS: SRF INFO" tvg-logo="https://docdog.top/logo/countries/switzerland/srfinfo.png" group-title="Svizzera",SWS: SRF INFO
-http://nortxpnyy.top:8080/19173211418728/21734542347426/18042
-#EXTINF:-1 tvg-id="" tvg-name="SWS: SRF 2" tvg-logo="https://docdog.top/logo/countries/switzerland/srf2.png" group-title="Svizzera",SWS: SRF 2
-http://nortxpnyy.top:8080/19173211418728/21734542347426/18059
-
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Estero",=== Estero ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-name="Rai 1" tvg-id=""tvg-logo="" group-title="Estero", Rai 1
@@ -468,6 +461,8 @@ https://travelxp-travelxp-2-de.xiaomi.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Documentari",Travel XP (FR)
 https://travelxp-travelxp-4-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA-HD Travel XP 4K" tvg-logo="" group-title="Documentari",CA-HD Travel XP 4K
+http://thevdm.xyz:25461/JillChristiansen/Christiansen/128017
 #EXTINF:-1 group-title="Documentari" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",TRAVEL XP 4K
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/wildearth.png" group-title="Documentari",WildEarth
@@ -2616,24 +2611,38 @@ https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRn
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS SPORTS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/CBS_Sports_Network_Logo.png" group-title="SPORT",CBS Sports HQ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/logo_1731835913114.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="SPORT",CBS Sports HQ
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/logo_1731835913114.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="SPORT",CBS Sports HQ
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="https://puddintap.click/ico/USA/CBSSpNet.png" group-title="SPORT",USA: CBS SPORTS NETWORK
 http://visitmy.collegefan.org:80/dillin/4852719360/815026
+
 #EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="" group-title="SPORT",CA: TLN
 http://visitmy.collegefan.org:80/dillin/4852719360/761495
+#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="" group-title="SPORT",CA: TLN
+http://visitmy.collegefan.org:80/Damien123/9567314082/761495
+#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="" group-title="SPORT",CA: TLN
+http://visitmy.collegefan.org:80/heins21/4230598761/761495
+#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="" group-title="SPORT",CA: TLN
+http://visitmy.collegefan.org:80/Barry23/6741582903/761495
+#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="" group-title="SPORT",CA: TLN
+http://visitmy.collegefan.org:80/GregDeg/0642815379/761495
+#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="" group-title="SPORT",CA: TLN
+http://visitmy.collegefan.org:80/MJALLEN/2586741093/761495
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/eMjutHS.png",CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="(L) CBSSN" tvg-logo="https://imgx.fubo.tv/station_logos/cbs_sn_c.png" group-title="SPORT",(L) CBSSN
+http://thevdm.xyz:25461/JillChristiansen/Christiansen/44012
+
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/q8BENJg.png",CBS Sports HQ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/A8CnA8g.png",CBS Sports Network USA
 http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="https://puddintap.click/ico/USA/CBSSpNet.png" group-title="SPORT",USA: CBS SPORTS NETWORK
 https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Golazo Network by CBS Sports
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS SPORTS" tvg-logo="https://i.ibb.co/GV6hpqS/cbs-sports-network-us.png" group-title="SPORT",CBS SPORTS
+http://thevdm.xyz:25461/JillChristiansen/Christiansen/77788
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" 
+group-title="SPORT",Golazo Network by CBS Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7elivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 channel-id="pluto-63a0e33a45264d000850ed7e" tvg-id="63a0e33a45264d000850ed7e" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="SPORT", Golazo (SerieA)
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
