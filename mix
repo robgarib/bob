@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 25/09/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 27/09/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Rai",=== Rai ===
@@ -255,14 +255,14 @@ https://amg00614-amg00614c1-amgplt0007.playout.now3.amagi.tv/playlist/amg00614-a
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Svizzera",===Svizzera===
 http://patbuweb.com/iptv/e2liste/startend.avi
-#EXTINF:-1 tvg-id="RSI La1 HD" tvg-name="Rsi la 1 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/594d86867dc5aef35547365a8c32ce5b.png" group-title="Svizzera",RSI LA 1
+#EXTINF:-1 tvg-id="RSI LA1 HD" tvg-name="RSI LA 1 HD" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la%201/la1-hd.png" group-title="Svizzera",RSI LA 1
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd 
-#EXTINF:-1 tvg-id="RSILa2.ch" tvg-name="Rsi la 2 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/21e4f1e0825693dcb9ef0670e6ed968e.png" group-title="Svizzera",RSI LA 2
+#EXTINF:-1 tvg-id="RSI La 2 HD" tvg-name="RSI LA 2 HD" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title=" Svizzera,RSI LA 2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 
-#EXTINF:-1 tvg-id="RSI LA1 HD" tvg-name="RSI LA 1 HD" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la%201/la1-hd.png" group-title="SVIZZERA",RSI LA 1 HD
+#EXTINF:-1 tvg-id="RSI LA1 HD" tvg-name="RSI LA 1 HD" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la%201/la1-hd.png" group-title="Svizzera",RSI LA 1 HD
 http://15h5n3f4k344s2v2h4p4.onlus.online:80/live/StiXWLi1eX/TcKfK314nF/199638.ts
-#EXTINF:-1 tvg-id="RSI La 2 HD" tvg-name="RSI LA 2 HD" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title=" SVIZZERA,RSI LA 2 HD
+#EXTINF:-1 tvg-id="RSI La 2 HD" tvg-name="RSI LA 2 HD" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title=" Svizzera,RSI LA 2 HD
 http://15h5n3f4k344s2v2h4p4.onlus.online:80/live/StiXWLi1eX/TcKfK314nF/199639.ts
 
 
@@ -1371,7 +1371,7 @@ https://amg00793-amg00793c41-lg-it-7740.playouts.now.amagi.tv/playlist/amg00793-
 https://amg00793-amg00793c17-lg-it-7752.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-drwhoitaly-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.coppa=0&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1882-LG-Logo-PNG-100x100_v1.png" group-title="LG Channels",323 Soap Latino
 https://1fbaf747613a448d85e6926243fa57eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-it_SoapLatino/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1883-LG-Logo-PNG-100x100_v1.png",324 Soap Turco
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1883-LG-Logo-PNG-100x100_v1.png" group-title="LG Channels",324 Soap Turco
 https://2168330f7c4a40e9b716867989ecdcaf.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-it_SoapTurco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6245d3792792150007e20634/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="LG Channels",325 Settimo Cielo
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d3792792150007e20634/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
