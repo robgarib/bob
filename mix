@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 27/09/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 28/09/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Rai",=== Rai ===
@@ -258,7 +258,7 @@ http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-id="RSI LA1 HD" tvg-name="RSI LA 1 HD" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la%201/la1-hd.png" group-title="Svizzera",RSI LA 1 HD
 http://15h5n3f4k344s2v2h4p4.onlus.online:80/live/StiXWLi1eX/TcKfK314nF/199638.ts
-#EXTINF:-1 tvg-id="RSI La 2 HD" tvg-name="RSI LA 2 HD" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title=" Svizzera,RSI LA 2 HD
+#EXTINF:-1 tvg-id="RSI La 2 HD" tvg-name="RSI LA 2 HD" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title="Svizzera,RSI LA 2 HD
 http://15h5n3f4k344s2v2h4p4.onlus.online:80/live/StiXWLi1eX/TcKfK314nF/199639.ts
 
 #EXTINF:-1 tvg-id="RSI LA1 HD" tvg-name="RSI LA 1 HD" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la%201/la1-hd.png" group-title="Svizzera",RSI LA 1
@@ -266,6 +266,14 @@ https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 #EXTINF:-1 tvg-id="RSI La 2 HD" tvg-name="RSI LA 2 HD" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title=" Svizzera,RSI LA 2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 
+#EXTINF:-1 tvg-ID="la7.it" tvg-name="|IT| RSI LA1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/1344.png" group-title="Svizzera",|IT| RSI LA1 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/9558
+#EXTINF:-1 tvg-ID="la5.it" tvg-name="|IT| RSI LA2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/1345.png" group-title="Svizzera",|IT| RSI LA2 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/9559
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| RTS 1 HD" tvg-logo="http://138.199.27.237:8080/FRANCE/RTS1.png" group-title="Svizzera",|FR| RTS 1 HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/43951
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| RTS 2 HD" tvg-logo="http://138.199.27.237:8080/FRANCE/RTS2.png" group-title="Svizzera",|FR| RTS 2 HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/43952
 
 
 #EXTINF:-1 tvg-id="RTS1.ch@SD"" group-title="Svizzera",RTS 1 (1080p)
@@ -2656,6 +2664,99 @@ http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Pro Arena FHD
 http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/9006
 
+#EXTINF:-1 tvg-ID="dazn1.es" tvg-name="|ES| DAZN 1  ᴴᴰ" tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="SPORT,|ES| DAZN 1  ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/21044
+#EXTINF:-1 tvg-ID="dazn1.es" tvg-name="|ES| DAZN 1 ˢᴰ" tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="SPORT",|ES| DAZN 1 ˢᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/202691
+#EXTINF:-1 tvg-ID="dazn2.es" tvg-name="|ES| DAZN 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="SPORT",|ES| DAZN 2 ᴴᴰ
+#EXTINF:-1 tvg-ID="eurosport1.es" tvg-name="|ES| Eurosport 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/SPAIN/EUROSPORT1.png" group-title="SPORT",|ES| Eurosport 1 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/10101
+#EXTINF:-1 tvg-ID="eurosport2.es" tvg-name="|ES| Eurosport 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/SPAIN/EUROSPORT2.png" group-title="SPORT",|ES| Eurosport 2 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/10100
+
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="beIN Sports 1 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="SPORT",beIN Sports 1 HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/1
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN Sports 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="SPORT",beIN Sports 2 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/534830
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="SPORT",beIN Sports 3 HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/4
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="SPORT",beIN Sports 4 HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/5
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN Sports 5 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="SPORT",beIN Sports 5 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/534827
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="beIN Sports 6 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="SPORT",beIN Sports 6 HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/7
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN Sports 7 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="SPORT",beIN Sports 7 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/578834
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="beIN Sports 8 ᴴᴰ" tvg-logo="" group-title="SPORT",beIN Sports 8 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/578835
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="beIN Sports 9 ᴴᴰ" tvg-logo="" group-title=SPORT",beIN Sports 9 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/578836
+
+#EXTINF:-1 tvg-ID="ziggosportselect.nl" tvg-name="|NL| Sport 1 Select" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTSELECT.png" group-title="SPORT",|NL| Sport 1 Select
+http://royalibox.com:80/02092021iptv/pwqopprrct/4865
+EXTINF:-1 tvg-ID="ziggosportvoetbal.nl" tvg-name="|NL| Sport 1Voetbal" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTVOETBAL.png" group-title="SPORT",|NL| Sport 1Voetbal
+http://royalibox.com:80/02092021iptv/pwqopprrct/4862
+#EXTINF:-1 tvg-ID="ziggosportextra1.nl" tvg-name="|NL| Ziggo Sport Extra 1" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORT.png" group-title="SPORT",|NL| Ziggo Sport Extra 1
+http://royalibox.com:80/02092021iptv/pwqopprrct/4857
+#EXTINF:-1 tvg-ID="ziggosport.nl" tvg-name="|NL| Ziggo Sport ᴴᴰ" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORT.png" group-title="SPORT",|NL| Ziggo Sport ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/4859
+#EXTINF:-1 tvg-ID="ziggosportracing.nl" tvg-name="|NL| Ziggo Sport Racing ᴴᴰ" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTRACING.png" group-title="SPORT",|NL| Ziggo Sport Racing ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/4851
+#EXTINF:-1 tvg-ID="ziggosportselect.nl" tvg-name="|NL| Ziggo Sport Select ᴴᴰ" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTSELECT.png" group-title="SPORT",|NL| Ziggo Sport Select ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/4864
+#EXTINF:-1 tvg-ID="ziggosportvoetbal.nl" tvg-name="|NL| Ziggo Sport Voetbal ᴴᴰ" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTVOETBAL.png" group-title="SPORT",|NL| Ziggo Sport Voetbal ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/4861
+
+#EXTINF:-1 tvg-ID="sportingtv.pt" tvg-name="|PT| SPORT TV +   ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png" group-title="SPORT",|PT| SPORT TV +   ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/9081
+#EXTINF:-1 tvg-ID="sportingtv.pt" tvg-name="|PT| SPORT TV +   ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png" group-title="SPORT",|PT| SPORT TV +   ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/9079
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="|PT| SPORT TV  1" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png" group-title="SPORT",|PT| SPORT TV  1
+http://royalibox.com:80/02092021iptv/pwqopprrct/9080
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="|PT|  SPORT TV 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png" group-title="SPORT",|PT|  SPORT TV 2 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/156954
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="|PT| SPORT TV  3" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png" group-title="SPORT",|PT| SPORT TV  3
+http://royalibox.com:80/02092021iptv/pwqopprrct/9076
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="|PT| SPORT TV  4" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png" group-title="SPORT",|PT| SPORT TV  4
+http://royalibox.com:80/02092021iptv/pwqopprrct/9074
+#EXTINF:-1 tvg-ID="" tvg-name="|PT|  SPORT TV 5 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV5.png" group-title="SPORT",|PT|  SPORT TV 5 ᵁᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/156957
+#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="|PT| SPORT TV 5" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png" group-title="SPORT",|PT| SPORT TV 5
+http://royalibox.com:80/02092021iptv/pwqopprrct/9072
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SPORT  TV 6 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png" group-title="SPORT",|PT| SPORT  TV 6 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/225805
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SPORT TV7" tvg-logo="" group-title="SPORT",|PT| SPORT TV7
+http://royalibox.com:80/02092021iptv/pwqopprrct/1270848
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| DAZN ELEVEN 1 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12401.jpg?ver=50787" group-title="SPORT",|PT| DAZN ELEVEN 1 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/403744
+#EXTINF:-1 tvg-ID="" tvg-name="|PT|DAZN ELEVEN 2 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12401.jpg?ver=50787" group-title="SPORT",|PT|DAZN ELEVEN 2 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/403745
+#EXTINF:-1 tvg-ID="" tvg-name="|PT|DAZN ELEVEN 3 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12401.jpg?ver=50787" group-title="SPORT",|PT|DAZN ELEVEN 3 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/403746
+#EXTINF:-1 tvg-ID="" tvg-name="|PT|DAZN ELEVEN 4 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12401.jpg?ver=50787" group-title="SPORT",|PT|DAZN ELEVEN 4 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/403747
+#EXTINF:-1 tvg-ID="" tvg-name="|PT|DAZN ELEVEN 5 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12401.jpg?ver=50787" group-title="SPORT",|PT|DAZN ELEVEN 5 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/40374
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| DAZN ELEVEN 6 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12401.jpg?ver=50787" group-title="SPORT",|PT| DAZN ELEVEN 6 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/403749
+
+#EXTINF:-1 tvg-ID="daznbar1.de" tvg-name="|DE|DAZN 1 BAR ᵁᴴᴰ ᵁᴴᴰ/ᴴᴰR" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="SPORT",|DE|DAZN 1 BAR ᵁᴴᴰ ᵁᴴᴰ/ᴴᴰR
+http://royalibox.com:80/02092021iptv/pwqopprrct/79325
+#EXTINF:-1 tvg-ID="dazn.de" tvg-name="|DE| DAZN 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="SPORT",|DE| DAZN 1 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/10005
+#EXTINF:-1 tvg-ID="daznbar1.de" tvg-name="|DE|DAZN 1 Bar ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="SPORT",|DE|DAZN 1 Bar ᵁᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/78462
+#EXTINF:-1 tvg-ID="dazn.de" tvg-name="|DE| DAZN 2 BAR ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="SPORT",|DE| DAZN 2 BAR ᵁᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/44865
+#EXTINF:-1 tvg-ID="dazn.de" tvg-name="|DE| DAZN 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="SPORT",|DE| DAZN 2 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/10006
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="USA: ESPN" tvg-logo="http://puddintap.click/ico/IPTVLogo/espn.png" group-title="SPORT",USA: ESPN
 http://visitmy.collegefan.org:80/dillin/4852719360/815000
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="USA: ESPN 2" tvg-logo="https://puddintap.click/ico/USA/ESPN2.png" group-title="SPORT",USA: ESPN 2
@@ -2685,19 +2786,19 @@ https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRn
 #EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="SPORT",BeIN Sports
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="" group-title="SPORT",CA: TLN
+#EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
 http://visitmy.collegefan.org:80/dillin/4852719360/761495
-#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="" group-title="SPORT",CA: TLN
+#EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
 http://visitmy.collegefan.org:80/Damien123/9567314082/761495
-#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="" group-title="SPORT",CA: TLN
+#EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
 http://visitmy.collegefan.org:80/heins21/4230598761/761495
-#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="" group-title="SPORT",CA: TLN
+#EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
 http://visitmy.collegefan.org:80/Barry23/6741582903/761495
-#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="" group-title="SPORT",CA: TLN
+#EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
 http://visitmy.collegefan.org:80/GregDeg/0642815379/761495
-#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="" group-title="SPORT",CA: TLN
+#EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
 http://visitmy.collegefan.org:80/MJALLEN/2586741093/761495
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TLN.png" group-title="SPORT",CND| TLN
+#EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CND| TLN
 http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:55:82:8C&stream=1458846&extension=ts&play_token=J7OZoFvI7o
 #EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",TLN
 https://freelivtv.xyz/stream4k/stream.php?id=477006
@@ -4140,114 +4241,57 @@ https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bb
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Vari",=== Vari ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Vari",TF1
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Vari",TF1 (backup)
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Vari",TF1 (backup)
-https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="Vari",France 2
-https://list.iptvcat.com/my_list/s/f5551bd4b7dbddf26bc1f39ba2bdfe5b.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="Vari",GULLI
-https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="Vari",GULLI
-https://lbcdn.6cloud.fr/resource/m6web/l/gulli_hls_sd_short_q2hyb21h.m3u8?groups[]=m6web-live-gulli_ext
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="Vari",M6 [drm-keycrypted]
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5037.png" group-title="Vari",|FR| TF1 HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/269
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="|FR| France 2 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5052.png" group-title="Vari",|FR| France 2 HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/274
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="|FR| France 3 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="Vari",|FR| France 3 HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/275
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name="|FR| France 4 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5054.png" group-title="Vari",|FR| France 4 HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/276
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name="|FR| France 5 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5096.png" group-title="Vari",|FR| France 5 HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/277
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5038.png" group-title="Vari",|FR| M6 HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/270
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="|FR| 6TER HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5089.png" group-title="Vari",|FR| 6TER HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/11035
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name="|FR| W9 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5055.png" group-title="Vari",|FR| W9 ᵁᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/148464
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="|FR| NRJ 12 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5056.png" group-title="Vari",|FR| NRJ 12 HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/321
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name="|FR| TFX HD" tvg-logo="http://138.199.27.237:8080/FRANCE/TFX.png" group-title="Vari",|FR| TFX HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/4546
+#EXTINF:-1 tvg-ID="c8.fr" tvg-name="|FR| C8 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5093.png" group-title="Vari",|FR| C8 HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/272
+#EXTINF:-1 tvg-ID="cstar.fr" tvg-name="|FR| CStar HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5094.png" group-title="Vari",|FR| CStar HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/316
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="|FR| TMC HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5103.png" group-title="Vari",|FR| TMC HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/281
+#EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name="|FR| TF1 SIERES HD" tvg-logo="http://138.199.27.237:8080/FRANCE/TF1HDFILMSERIES.png" group-title="Vari",|FR| TF1 SERIES HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/285
+#EXTINF:-1 tvg-ID="rmcstory.fr" tvg-name="|FR| RMC Story HD" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSTORY.png" group-title="Vari",|FR| RMC Story HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/10171
+#EXTINF:-1 tvg-ID="rtl9.fr" tvg-name="|FR| RTL 9 HD" tvg-logo="http://138.199.27.237:8080/FRANCE/RTL9.png" group-title="Vari",|FR| RTL 9 HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/273
+#EXTINF:-1 tvg-ID="ab1.fr" tvg-name="|FR| AB1 HD" tvg-logo="http://138.199.27.237:8080/FRANCE/AB1HD.png" group-title="Vari",|FR| AB1 HD
+http://royalibox.com:80/02092021iptv/pwqopprrct/280
 
+#EXTINF:-1 tvg-ID="la1.es" tvg-name="|ES| La 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/SPAIN/LA1.png" group-title="Vari",|ES| La 1 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/653
+#EXTINF:-1 tvg-ID="la2.es" tvg-name="|ES| La 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/SPAIN/LA2.png" group-title="Vari",|ES| La 2 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/65
+#EXTINF:-1 tvg-ID="antena3.es" tvg-name="|ES| Antena 3 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/SPAIN/ANTENA3HD.png" group-title="Vari",|ES| Antena 3 ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/652
+#EXTINF:-1 tvg-ID="cuatro.es" tvg-name="|ES| CUATRO ᴴᴰ" tvg-logo="http://138.199.27.237:8080/SPAIN/CUATROHD.png" group-title="Vari",|ES| CUATRO ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/3846
+#EXTINF:-1 tvg-ID="telecinco.es" tvg-name="|ES| Telecinco ᴴᴰ" tvg-logo="http://138.199.27.237:8080/SPAIN/TELECINCOHD.png" group-title="Vari",|ES| Telecinco ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/677
+#EXTINF:-1 tvg-ID="lasexta.es" tvg-name="|ES| La Sexta ᴴᴰ" tvg-logo="http://138.199.27.237:8080/SPAIN/LASEXTA6.png" group-title="Vari",|ES| La Sexta ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/655
 
-#EXTINF:-1 tvg-id="TF1.fr"" group-title="Vari",TF1 (720p) [Geo-blocked]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr"" group-title="Vari",TF1 Séries Films (720p) [Geo-blocked]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
-#EXTINF:-1 tvg-id="TFX.fr"" group-title="Vari",TFX (720p) [Geo-blocked]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
-#EXTINF:-1 tvg-id="France2.fr"" group-title="Vari",France 2 (1080p) [Geo-blocked]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
-#EXTINF:-1 tvg-id="France3.fr"" group-title="Vari",France 3 (1080p) [Geo-blocked]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
-#EXTINF:-1 tvg-id="France4.fr"" group-title="Vari",France 4 (1080p) [Geo-blocked]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8
-#EXTINF:-1 tvg-id="France5.fr"" group-title="Vari",France 5 (1080p) [Geo-blocked]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
-#EXTINF:-1 tvg-id="TiVi5Monde.fr"" group-title="Vari",TiVi5 Monde [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
-#EXTINF:-1 tvg-id="TMC.fr"" group-title="Vari",TMC (720p) [Geo-blocked]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
-#EXTINF:-1 tvg-id="RTS2.ch@SD"" group-title="Vari",RTS 2 (1080p)
-https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
-#EXTINF:-1 tvg-id="RTS1.ch@SD"" group-title="Vari",RTS 1 (1080p)
-https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
-#EXTINF:-1 tvg-id="RTS2.ch@SD"" group-title="Vari",RTS 2 (1080p)
-https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
-#EXTINF:-1 tvg-id="RTS1.ch@SD"" group-title="Vari",RTS 1 (1080p)
-https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Vari",ARD Das Erste
-https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
-#EXTINF:-1 tvg-id="DasErste.de"" group-title="Vari",Das Erste (1080p) [Geo-blocked]
-https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 tvg-id="ZDF.de"" group-title="Vari",ZDF (720p) [Geo-blocked]
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-
-
-
-#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",CARAC TV 1
-https://edge11.vedge.infomaniak.com/livecast/ik:event/chunklist_w265470790_DVR.m3u8
-#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",CARAC TV 2
-https://edge17.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist_w1449050382_b3000000.m3u8
-#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",CARAC TV 3
-https://edge13.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist_w337012339_b3000000.m3u8
-#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",CARAC TV 4
-https://edge19.vedge.infomaniak.com/livecast/ik:compack_media_1/chunklist_w1458474290_b3000000.m3u8
-#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",Travel Channel
-https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
-#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",Travel Channel (BD)
-https://varun-iptv.netlify.app/m3u/TRAVEL_Channel.m3u8
-#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",TVE
-http://45.167.3.81:45000/play/a05k/index.m3u8
-#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",TVE
-http://200.59.188.3:8000/play/a05n
-#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",TVE 24 H
-https://d3pfmk89wc0vm9.cloudfront.net/24H_ES.m3u8
-#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",TVE 24 H (backup)
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
-#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",TVE 24h
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_576.m3u8
-#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",TVE CLAN
-https://d3nnqrdb77sy13.cloudfront.net/Clan_ES.m3u8
-#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",Tve Internacional Europa HD (geobloqued)
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
-#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",TVE LA 1
-http://nortxpnyy.top:8080/19173211418728/21734542347426/5622
-#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",TVE LA 2
-http://nortxpnyy.top:8080/19173211418728/21734542347426/5623
-#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",TVE Star HD (1080p)
-https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",TVE TeleDeporte
-https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8
-#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",TVES
-http://200.59.188.3:8000/play/a08n
-#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",TVFANB
-http://200.59.188.3:8000/play/a08y
-#EXTINF:-1 tvg-id="" tvg-name="ES | Antena 3 Int" tvg-logo="" group-title="Vari",Antena 3 (720p)
-http://185.189.225.150:85/Antena3HD/index.m3u8
-#EXTINF:-1 tvg-id="Telecinco.es"" group-title="Vari",Telecinco (720p)
-http://185.189.225.150:85/TeleCincoHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Vari",3 | ANTENA 3 ᴴᴰ 1 |
-http://185.189.225.150:85/Antena3HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Vari",3.1 | ANTENA 3 ᴴᴰ 2 |
-http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/11826
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Vari",3.2 | ANTENA 3 ᴴᴰ 3 |
-http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/20878
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Vari",6 | LA SEXTA HD |
-http://185.189.225.150:85/LaSexta/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Vari",CUATRO
-https://gitlab.com/movrey/movrel/-/raw/main/cuatro.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Vari",TELECINCO
-https://gitlab.com/movrey/movrel/-/raw/main/telecinco.m3u8
-#EXTINF:-1 group-title="Vari" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",🇪🇸 ➾ TVE LA1
-https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
-http://novared.pro:80/play/KVa--GAXrAHqP0ZP5ipeLQ2TmFuqNrbelkFdKKuC0XthMUpxfAssrOwxJ7YX8nnz/ts
-#EXTINF:-1 tvg-logo="https://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png" group-title="Vari",Canal 4 Tenerife
-https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
+#EXTINF:-1 tvg-ID="kabel1.de" tvg-name="|DE| ORF Eins" tvg-logo="http://138.199.27.237:8080/GERMANY/ORF.png" group-title="Vari",|DE| ORF Eins
+http://royalibox.com:80/02092021iptv/pwqopprrct/12589
+#EXTINF:-1 tvg-ID="orf2.de" tvg-name="|DE| ORF 2K ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/ORF.png" group-title="Vari",|DE| ORF 2K ᴴᴰ
+http://royalibox.com:80/02092021iptv/pwqopprrct/90513
+#EXTINF:-1 tvg-ID="ktv.de" tvg-name="|DE| ORF III" tvg-logo="http://138.199.27.237:8080/GERMANY/ORF.png" group-title="Vari",|DE| ORF III
+http://royalibox.com:80/02092021iptv/pwqopprrct/12591
