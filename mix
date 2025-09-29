@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 28/09/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 29/09/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Rai",=== Rai ===
@@ -261,11 +261,6 @@ http://15h5n3f4k344s2v2h4p4.onlus.online:80/live/StiXWLi1eX/TcKfK314nF/199638.ts
 #EXTINF:-1 tvg-id="RSI La 2 HD" tvg-name="RSI LA 2 HD" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title="Svizzera,RSI LA 2 HD
 http://15h5n3f4k344s2v2h4p4.onlus.online:80/live/StiXWLi1eX/TcKfK314nF/199639.ts
 
-#EXTINF:-1 tvg-id="RSI LA1 HD" tvg-name="RSI LA 1 HD" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la%201/la1-hd.png" group-title="Svizzera",RSI LA 1
-https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd 
-#EXTINF:-1 tvg-id="RSI La 2 HD" tvg-name="RSI LA 2 HD" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title=" Svizzera,RSI LA 2
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
-
 #EXTINF:-1 tvg-ID="la7.it" tvg-name="|IT| RSI LA1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/1344.png" group-title="Svizzera",|IT| RSI LA1 ᴴᴰ
 http://royalibox.com:80/02092021iptv/pwqopprrct/9558
 #EXTINF:-1 tvg-ID="la5.it" tvg-name="|IT| RSI LA2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/1345.png" group-title="Svizzera",|IT| RSI LA2 ᴴᴰ
@@ -275,6 +270,10 @@ http://royalibox.com:80/02092021iptv/pwqopprrct/43951
 #EXTINF:-1 tvg-ID="" tvg-name="|FR| RTS 2 HD" tvg-logo="http://138.199.27.237:8080/FRANCE/RTS2.png" group-title="Svizzera",|FR| RTS 2 HD
 http://royalibox.com:80/02092021iptv/pwqopprrct/43952
 
+#EXTINF:-1 tvg-id="RSI LA 1" tvg-name="RSI LA 1" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la%201/la1-hd.png" group-title="Svizzera",RSI LA 1 mpd
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd 
+#EXTINF:-1 tvg-id="RSI La 2" tvg-name="RSI LA 2" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title=" Svizzera,RSI LA 2 mpd
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 
 #EXTINF:-1 tvg-id="RTS1.ch@SD"" group-title="Svizzera",RTS 1 (1080p)
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
@@ -480,9 +479,7 @@ http://thevdm.xyz:25461/JillChristiansen/Christiansen/128017
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20240925T141635SQUARE.png" tvg-chno="53" group-title="Documentari",BBC Earth
 https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-name="Rai Storia" tvg-id="RaiStoria.it" tvg-logo="" tvg-chno="54" group-title="Rai" catchup="default",Rai Storia HD
-#EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
-https://raistoria1-dash-live.akamaized.net/dash/live/663959/raistoria1/manifest.mpd
+
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/wildearth.png" group-title="Documentari",WildEarth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Documentari",All Nature
@@ -501,24 +498,6 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Real Time" tvg-id="RealTime.it" tvg-logo="" tvg-chno="31" group-title="Documentari",Real Time
-https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
-#EXTINF:-1 tvg-name="Gambero Rosso" tvg-id="GamberoRosso.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/21/Gambero_Rosso.png/260px-Gambero_Rosso.png" tvg-chno="32" group-title="Documentari",Gambero Rosso
-https://2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/playlist.m3u8
-#EXTINF:-1 tvg-name="Food Network" tvg-id="foodnetwork.it" tvg-logo="" tvg-chno="33" group-title="Documentari",Food Network
-https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
-#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.it" tvg-logo="" tvg-chno="52" group-title="Documentari",DMAX
-https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
-#EXTINF:-1 tvg-name="HGTV" tvg-id="HGTV.it" tvg-logo="" tvg-chno="56" group-title="Documentari",HGTV - Home&Garden
-https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
-#EXTINF:-1 tvg-name="Motor Trend" channel-id="motor trend" tvg-id="MotorTrend.it" tvg-logo="" tvg-chno="59" group-title="Documentari",MotorTrend
-https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
-#EXTINF:-1 channel-id="IT3000282Q-it" tvg-name="Motor1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000282Q_20250811T173011SQUARE.png" group-title="Documentari", Motor1
-https://amg00614-amg00614c1-amgplt0007.playout.now3.amagi.tv/playlist/amg00614-amg00614c1-amgplt0007/playlist.m3u8
-#EXTINF:-1 channel-id="IT800002CE" tvg-name="Motoretrò" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800002CE_20250520T045026SQUARE.png" group-title="Documentari", Motoretrò
-https://amg14891-amg14891c2-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c2-amgplt0165/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Documentari",FF Motorsport
-https://host1.momentotv.live:28443/cmaf/ffmotorsport/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-chno="65" group-title="Documentari",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-name="Italian Fishing TV" tvg-id="" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/8488cf6a-bb6a-4df1-adf4-d66ff4b621ca-italian-fishing-tv-1643371244-quality100.png" group-title="Documentari",Italian Fishing TV
@@ -585,6 +564,28 @@ http://iptv.prosto.tv:7000/ch316/video.m3u8?secret=191yc7ul
 http://iptv.prosto.tv:7000/ch312/video.m3u8?secret=191yc7ul
 #EXTINF:-1 group-title="Documentari" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",Stream CITY 4K
 http://iptv.prosto.tv:7000/ch321/video.m3u8?secret=191yc7ul
+#EXTINF:-1 tvg-name="Real Time" tvg-id="RealTime.it" tvg-logo="" tvg-chno="31" group-title="Documentari",Real Time
+https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
+#EXTINF:-1 tvg-name="Gambero Rosso" tvg-id="GamberoRosso.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/21/Gambero_Rosso.png/260px-Gambero_Rosso.png" tvg-chno="32" group-title="Documentari",Gambero Rosso
+https://2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/playlist.m3u8
+#EXTINF:-1 tvg-name="Food Network" tvg-id="foodnetwork.it" tvg-logo="" tvg-chno="33" group-title="Documentari",Food Network
+https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.it" tvg-logo="" tvg-chno="52" group-title="Documentari",DMAX
+https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
+#EXTINF:-1 tvg-name="HGTV" tvg-id="HGTV.it" tvg-logo="" tvg-chno="56" group-title="Documentari",HGTV - Home&Garden
+https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
+#EXTINF:-1 tvg-name="Motor Trend" channel-id="motor trend" tvg-id="MotorTrend.it" tvg-logo="" tvg-chno="59" group-title="Documentari",MotorTrend
+https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
+#EXTINF:-1 channel-id="IT3000282Q-it" tvg-name="Motor1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000282Q_20250811T173011SQUARE.png" group-title="Documentari", Motor1
+https://amg00614-amg00614c1-amgplt0007.playout.now3.amagi.tv/playlist/amg00614-amg00614c1-amgplt0007/playlist.m3u8
+#EXTINF:-1 channel-id="IT800002CE" tvg-name="Motoretrò" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800002CE_20250520T045026SQUARE.png" group-title="Documentari", Motoretrò
+https://amg14891-amg14891c2-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c2-amgplt0165/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Documentari",FF Motorsport
+https://host1.momentotv.live:28443/cmaf/ffmotorsport/playlist.m3u8
+#EXTINF:-1 tvg-name="Rai Storia" tvg-id="RaiStoria.it" tvg-logo="" tvg-chno="54" group-title="Rai" catchup="default",Rai Storia HD
+#EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
+https://raistoria1-dash-live.akamaized.net/dash/live/663959/raistoria1/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/icon.png" group-title="Lombardia",=== Lombardia ===
 http://patbuweb.com/iptv/e2liste/startend.avi
