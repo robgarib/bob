@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 29/09/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 01/10/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Rai",=== Rai ===
@@ -258,7 +258,7 @@ http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-id="RSI LA1 HD" tvg-name="RSI LA 1 HD" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la%201/la1-hd.png" group-title="Svizzera",RSI LA 1 HD
 http://15h5n3f4k344s2v2h4p4.onlus.online:80/live/StiXWLi1eX/TcKfK314nF/199638.ts
-#EXTINF:-1 tvg-id="RSI La 2 HD" tvg-name="RSI LA 2 HD" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title="Svizzera,RSI LA 2 HD
+#EXTINF:-1 tvg-id="RSI La 2 HD" tvg-name="RSI LA 2 HD" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title="Svizzera",RSI LA 2 HD
 http://15h5n3f4k344s2v2h4p4.onlus.online:80/live/StiXWLi1eX/TcKfK314nF/199639.ts
 
 #EXTINF:-1 tvg-ID="la7.it" tvg-name="|IT| RSI LA1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/1344.png" group-title="Svizzera",|IT| RSI LA1 ᴴᴰ
@@ -270,9 +270,12 @@ http://royalibox.com:80/02092021iptv/pwqopprrct/43951
 #EXTINF:-1 tvg-ID="" tvg-name="|FR| RTS 2 HD" tvg-logo="http://138.199.27.237:8080/FRANCE/RTS2.png" group-title="Svizzera",|FR| RTS 2 HD
 http://royalibox.com:80/02092021iptv/pwqopprrct/43952
 
+
+
+
 #EXTINF:-1 tvg-id="RSI LA 1" tvg-name="RSI LA 1" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la%201/la1-hd.png" group-title="Svizzera",RSI LA 1 mpd
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd 
-#EXTINF:-1 tvg-id="RSI La 2" tvg-name="RSI LA 2" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title=" Svizzera,RSI LA 2 mpd
+#EXTINF:-1 tvg-id="RSI La 2" tvg-name="RSI LA 2" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title=" Svizzera",RSI LA 2 mpd
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 
 #EXTINF:-1 tvg-id="RTS1.ch@SD"" group-title="Svizzera",RTS 1 (1080p)
@@ -564,6 +567,7 @@ http://iptv.prosto.tv:7000/ch316/video.m3u8?secret=191yc7ul
 http://iptv.prosto.tv:7000/ch312/video.m3u8?secret=191yc7ul
 #EXTINF:-1 group-title="Documentari" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",Stream CITY 4K
 http://iptv.prosto.tv:7000/ch321/video.m3u8?secret=191yc7ul
+
 #EXTINF:-1 tvg-name="Real Time" tvg-id="RealTime.it" tvg-logo="" tvg-chno="31" group-title="Documentari",Real Time
 https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
 #EXTINF:-1 tvg-name="Gambero Rosso" tvg-id="GamberoRosso.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/21/Gambero_Rosso.png/260px-Gambero_Rosso.png" tvg-chno="32" group-title="Documentari",Gambero Rosso
@@ -582,7 +586,7 @@ https://amg00614-amg00614c1-amgplt0007.playout.now3.amagi.tv/playlist/amg00614-a
 https://amg14891-amg14891c2-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c2-amgplt0165/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Documentari",FF Motorsport
 https://host1.momentotv.live:28443/cmaf/ffmotorsport/playlist.m3u8
-#EXTINF:-1 tvg-name="Rai Storia" tvg-id="RaiStoria.it" tvg-logo="" tvg-chno="54" group-title="Rai" catchup="default",Rai Storia HD
+#EXTINF:-1 tvg-name="Rai Storia" tvg-id="RaiStoria.it" tvg-logo="" tvg-chno="54" group-title="Documentari" catchup="default",Rai Storia HD
 #EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
 https://raistoria1-dash-live.akamaized.net/dash/live/663959/raistoria1/manifest.mpd
 
