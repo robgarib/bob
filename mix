@@ -535,19 +535,19 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe
 #EXTINF:-1 tvg-name="Docurama" tvg-logo="https://i.imgur.com/bNg8mze.png" tvg-id="Docurama.us" group-title="Documentari",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
-#EXTINF:-1 tvg-name="Real Time" tvg-id="RealTime.it" tvg-logo="" tvg-chno="31" group-title="Documentari",Real Time
+#EXTINF:-1 " group-title="Documentari",Real Time
 https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
-#EXTINF:-1 tvg-name="Gambero Rosso" tvg-id="GamberoRosso.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/21/Gambero_Rosso.png/260px-Gambero_Rosso.png" tvg-chno="32" group-title="Documentari",Gambero Rosso
+#EXTINF:-1 " group-title="Documentari",Gambero Rosso
 https://2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/playlist.m3u8
-#EXTINF:-1 tvg-name="Food Network" tvg-id="foodnetwork.it" tvg-logo="" tvg-chno="33" group-title="Documentari",Food Network
+#EXTINF:-1 " group-title="Documentari",Food Network
 https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
-#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.it" tvg-logo="" tvg-chno="52" group-title="Documentari",DMAX
+#EXTINF:-1 " group-title="Documentari",DMAX
 https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
-#EXTINF:-1 tvg-name="HGTV" tvg-id="HGTV.it" tvg-logo="" tvg-chno="56" group-title="Documentari",HGTV - Home&Garden
+#EXTINF:-1 " group-title="Documentari",HGTV - Home&Garden
 https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
-#EXTINF:-1 tvg-name="Motor Trend" channel-id="motor trend" tvg-id="MotorTrend.it" tvg-logo="" tvg-chno="59" group-title="Documentari",MotorTrend
+#EXTINF:-1 " group-title="Documentari",MotorTrend
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
-#EXTINF:-1 channel-id="IT3000282Q-it" tvg-name="Motor1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000282Q_20250811T173011SQUARE.png" group-title="Documentari", Motor1
+#EXTINF:-1 " group-title="Documentari", Motor1
 https://amg00614-amg00614c1-amgplt0007.playout.now3.amagi.tv/playlist/amg00614-amg00614c1-amgplt0007/playlist.m3u8
 
 #EXTINF:-1 tvg-id="loupe 4k (us)" tvg-name="Loupe 4k (US)" tvg-logo="http://tv.10dailythings.com/images/channels/US/loupe-4k/normal.png" group-title="Documentari",Loupe 4k (US)
@@ -578,7 +578,7 @@ http://iptv.prosto.tv:7000/ch312/video.m3u8?secret=191yc7ul
 #EXTINF:-1 group-title="Documentari" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",Stream CITY 4K
 http://iptv.prosto.tv:7000/ch321/video.m3u8?secret=191yc7ul
 
-#EXTINF:-1 tvg-name="Rai Storia" tvg-id="RaiStoria.it" tvg-logo="" tvg-chno="54" group-title="Documentari" catchup="default",Rai Storia HD
+#EXTINF:-1 tvg-name="Rai Storia" tvg-id="RaiStoria.it" tvg-logo="" tvg-chno="54" group-title="Documentari",Rai Storia HD
 #EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
 https://raistoria1-dash-live.akamaized.net/dash/live/663959/raistoria1/manifest.mpd
 
