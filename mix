@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 05/10/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 06/10/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Rai",=== Rai ===
@@ -188,7 +188,7 @@ https://live02-col.msf.cdn.mediaset.net/live/ch-b4/b4-clr.isml/index.m3u8
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la7.png" group-title="La 7",La7
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
-#EXTINF:-1 tvg-chno="29" tvg-id="la7 d" tvg-name="La7 D" tvg-logo="http://odmsto.com/uploads/tv_image/sm/la7d.png" group-title="La 7",La7 D
+#EXTINF:-1 tvg-chno="29" tvg-id="la7 d" tvg-name="La7 D" tvg-logo="http://odmsto.com/uploads/tv_image/sm/la7d.png" group-title="La 7",La7 Cinema
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 
 
@@ -234,7 +234,7 @@ https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/playlist.m3u8
 #EXTINF:-1 tvg-name="Food Network" tvg-id="foodnetwork.it" tvg-logo="" tvg-chno="33" group-title="Discovery",Food Network
 https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
-#EXTINF:-1 tvg-name="Warner TV" tvg-id="WarnerTV.it" channel-id="WarnerTV.it" tvg-logo="" tvg-chno="37" group-title="Discovery",Warner TV
+#EXTINF:-1 tvg-name="Warner TV" tvg-id="WarnerTV.it" channel-id="WarnerTV.it" tvg-logo="" tvg-chno="37" group-title="Discovery",Discovery Channel
 https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
 #EXTINF:-1 tvg-name="Giallo" tvg-id="Giallo.it" tvg-logo="" tvg-chno="38" group-title="Discovery",Giallo
 https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
@@ -306,7 +306,7 @@ https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 #EXTINF:-1 tvg-name="Nove" tvg-id=""tvg-logo="" group-title="Estero", Nove
 https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
-#EXTINF:-1 tvg-name="La 7d" tvg-id=""tvg-logo="" group-title="Estero", La 7d
+#EXTINF:-1 tvg-name="La 7d" tvg-id=""tvg-logo="" group-title="Estero", La 7 Cinema
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 #EXTINF:-1 tvg-name="DMAX" tvg-id=""tvg-logo="" group-title="Estero", DMAX
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
@@ -395,7 +395,7 @@ https://stream1.aswifi.it/italiachannel/stream/index.m3u8
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la7.png" group-title="Altri Canali Nazionali",La7
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la7d.png" group-title="Altri Canali Nazionali",La7d 
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la7d.png" group-title="Altri Canali Nazionali",La7 Cinema 
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la-fornace-tv.jpg" group-title="Altri Canali Nazionali",La Fornace Tv
 https://tivusto.org/sh/lafornacetv
@@ -515,6 +515,9 @@ https://videosolutions-wedobigstories-rakuten.amagi.tv/playlist1080p.m3u8
 https://amg02512-nexodigital-amg02512c1-wedotv-eu-871.playouts.now.amagi.tv/playlist/amg02512-nexodigital-houseofdocs-wedotveu/playlist.m3u8
 #EXTINF:-1 channel-id="samsung-ITBC4700003GR" tvg-id="ITBC4700003GR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700003GR_20230412T042555SQUARE.png_20230412042556.png" group-title="Documentari",Love the Planet
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetitsamsung-samsungit/playlist.m3u8
+#EXTINF:-1 group-title="Documentari" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",Rai Storia HD
+#EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
+https://raistoria1-dash-live.akamaized.net/dash/live/663959/raistoria1/manifest.mpd
 #EXTINF:-1 channel-id="pluto-65253fdf3fd33c00080214a3" tvg-id="PlutoTvStoria.it" tvg-logo="https://images.pluto.tv/channels/65253fdf3fd33c00080214a3/colorLogoPNG.png" group-title="Documentari",Pluto TV Storia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65253fdf3fd33c00080214a3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-63c923944207be0007fd0887" tvg-id="PlutoTvViaggi.it" tvg-name="Pluto Tv Viaggi" tvg-logo="https://images.pluto.tv/channels/63c923944207be0007fd0887/colorLogoPNG.png" group-title="Documentari",Pluto Tv Viaggi
@@ -535,6 +538,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe
 #EXTINF:-1 tvg-name="Docurama" tvg-logo="https://i.imgur.com/bNg8mze.png" tvg-id="Docurama.us" group-title="Documentari",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
+
+#EXTINF:-1 tvg-name="Focus" tvg-id="Focus.it" tvg-logo="" tvg-chno="35" group-title="Documentari",Focus HD
+#EXTVLCOPT:http-user-agent=RTILabSDK/2.11.4 (Linux;Android 14) AndroidXMedia3/1.5.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
+#EXTINF:-1 channel-id="IT9000113W" tvg-id="IT9000113W" tvg-chno="4060" tvg-name="DMAX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000113W_20250408T021437SQUARE.png" group-title="Documentari",Discovery Channel
+https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
 #EXTINF:-1 channel-id="IT9000113W" tvg-id="IT9000113W" tvg-chno="4060" tvg-name="DMAX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000113W_20250408T021437SQUARE.png" group-title="Documentari", DMAX
 https://jmp2.uk/stvp-IT9000113W
 #EXTINF:-1 channel-id="IT900007I0" tvg-id="IT900007I0" tvg-chno="4069" tvg-name="Real time" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900007I0_20250408T021507SQUARE.png" group-title="Documentari", Real time
@@ -595,11 +604,6 @@ http://iptv.prosto.tv:7000/ch316/video.m3u8?secret=191yc7ul
 http://iptv.prosto.tv:7000/ch312/video.m3u8?secret=191yc7ul
 #EXTINF:-1 group-title="Documentari" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",Stream CITY 4K
 http://iptv.prosto.tv:7000/ch321/video.m3u8?secret=191yc7ul
-
-#EXTINF:-1 tvg-name="Rai Storia" tvg-id="RaiStoria.it" tvg-logo="" tvg-chno="54" group-title="Documentari",Rai Storia HD
-#EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
-https://raistoria1-dash-live.akamaized.net/dash/live/663959/raistoria1/manifest.mpd
-
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/icon.png" group-title="Lombardia",=== Lombardia ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -4054,7 +4058,8 @@ https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XITE" tvg-logo="https://i.imgur.com/VaDrfKr.png" group-title="UK-USA",XITE
 https://xite-samsung-de.amagi.tv/playlist.m3u8 
 
-
+#EXTINF:-1 group-title="UK-USA" tvg-id="PBSAmerica.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PBS_America_logo.png",PBS America
+#https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="abcwabc.us" tvg-name="ABC 7 NEW YORK HD" tvg-logo="http://stmgroup.xyz/logo/abcnewyork.png" group-title="UK-USA", ABC HD
 https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
 #EXTINF:-1 tvg-id="andtv.us" tvg-name="CBS 4 NEW YORK" tvg-logo="http://img.new.livestream.com/accounts/00000000001c33d5/f8f37a42-ff42-4631-a807-4809f3e302b4.png" group-title="UK-USA", CBS HD
@@ -4209,4 +4214,56 @@ https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bb
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Vari",=== Vari ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
-
+#EXTINF:-1 group-title="Vari" tvg-id="TVE24h.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",TVE 24h
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 group-title="Vari" tvg-id="LA1.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La1.png",La 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 group-title="Vari" tvg-id="LA2.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La2.png",La 2
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:-1 group-title="Vari" tvg-id="GaliciaTVEuropa.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVG.png",TV Galicia
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 group-title="Vari" tvg-id="Telemadrid.es" tvg-logo="",TeleMadrid
+https://new-international-23-secure2.akamaized.net/index.m3u8
+#EXTINF:-1 group-title="Vari" tvg-id="TV3cat.es" tvg-logo="",TV3 Catalunya
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF:-1 group-title="Vari" tvg-id="Canal324.es" tvg-logo="",Canal 324
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 group-title="Vari" tvg-id="CanalMalaga.es" tvg-logo="",Canal Málaga
+http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="Vari" tvg-id="AragonTV.es" tvg-logo="",Aragón TV
+http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 group-title="Vari" tvg-id="ETB1.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-1.png",ETB 1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
+#EXTINF:-1 group-title="Vari" tvg-id="ETB2.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-2.png",ETB 2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
+#EXTINF:-1 group-title="Vari" tvg-id="ETBBasque.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/EITB-EUS.png",EITB Basque
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+#EXTINF:-1 group-title="Vari" tvg-id="CanalExtremadura.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Extremadura.png",Canal Extremadura
+https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Vari" tvg-id="CubavisionInternacional.cu" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cubavisión-Internacional.png",Cubavisión Internacional
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+#EXTINF:-1 group-title="Vari" tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 group-title="Vari" tvg-id="Sky24Meteo.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-TG24.png",Sky TG24
+https://youtube.com/watch?v=HVB_Wx5T16g
+#EXTINF:-1 group-title="Vari" tvg-id="RaiNews24.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rai-News-24.png",Rai News 24
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+#EXTINF:-1 group-title="Vari" tvg-id="Telesur.ve" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png",teleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 group-title="Vari" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 group-title="Vari" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 group-title="Vari" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 group-title="Vari" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDI1IDg6OTo0NSBBTSZoYXNoX3ZhbHVlPW1PT3VDemwwQmE5bzlaYnU1ZW1lU0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03MGRhMTY4YS1lYTViLTRhMDYtYmZkZi1mYzQyZDc1ZDg1NTQ=/
+#EXTINF:-1 group-title="Vari" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
+#EXTINF:-1 group-title="Vari" tvg-id="RTPInternacional.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacional.png",RTP Internacional
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
