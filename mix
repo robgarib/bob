@@ -461,129 +461,129 @@ https://well-tv.it/hls/stream.m3u8
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/xcapital-tv.png" group-title="Altri Canali Nazionali",XCapital Tv 
 https://xcapital.aswifi.it/xcapital/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Documentari",=== Documentari ===
+#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="DOC",=== DOC ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Documentari",Travel XP
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="DOC",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Documentari",Travel XP (DE)
+#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="DOC",Travel XP (DE)
 https://travelxp-travelxp-2-de.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Documentari",Travel XP (EU)
+#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="DOC",Travel XP (EU)
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Documentari",Travel XP (FR)
+#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="DOC",Travel XP (FR)
 https://travelxp-travelxp-4-fr.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP 4K" tvg-logo="" group-title="Documentari",Travel XP 4K
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP 4K" tvg-logo="" group-title="DOC",Travel XP 4K
 http://thevdm.xyz:25461/JillChristiansen/Christiansen/128017
-#EXTINF:-1 group-title="Documentari" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",TRAVEL XP 4K
+#EXTINF:-1 group-title="DOC" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",TRAVEL XP 4K
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20240925T141635SQUARE.png" tvg-chno="53" group-title="Documentari",BBC Earth
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20240925T141635SQUARE.png" tvg-chno="53" group-title="DOC",BBC Earth
 https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/wildearth.png" group-title="Documentari",WildEarth
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/wildearth.png" group-title="DOC",WildEarth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Documentari",All Nature
+#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="DOC",All Nature
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="Top Gear" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2400001AE_20241022T043908SQUARE.png" group-title="Documentari",BBC Top Gear Italia
+#EXTINF:-1 tvg-name="Top Gear" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2400001AE_20241022T043908SQUARE.png" group-title="DOC",BBC Top Gear Italia
 https://amg00793-amg00793c12-samsung-it-4051.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearitalysamsungit-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Documentari",Top Gear Spagna
+#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="DOC",Top Gear Spagna
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" group-title="Documentari" ,Key TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" group-title="DOC" ,Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-#EXTINF:-1 nome-tvg-"Red Bull TV" tvg-id "Red Bull TV" logo tvg "https://i.imgur.com/TvmeXd.png" group-title="Documentari", Red Bull TV 
+#EXTINF:-1 nome-tvg-"Red Bull TV" tvg-id "Red Bull TV" logo tvg "https://i.imgur.com/TvmeXd.png" group-title="DOC", Red Bull TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="Documentari",Canal 10 Cancun
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="DOC",Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="Documentari",CANAL 10 CHETUMAL
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="DOC",CANAL 10 CHETUMAL
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" tvg-chno="65" group-title="Documentari",RedBull TV
+#EXTINF:-1 tvg-logo="" tvg-chno="65" group-title="DOC",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-name="Italian Fishing TV" tvg-id="" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/8488cf6a-bb6a-4df1-adf4-d66ff4b621ca-italian-fishing-tv-1643371244-quality100.png" group-title="Documentari",Italian Fishing TV
+#EXTINF:-1 tvg-name="Italian Fishing TV" tvg-id="" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/8488cf6a-bb6a-4df1-adf4-d66ff4b621ca-italian-fishing-tv-1643371244-quality100.png" group-title="DOC",Italian Fishing TV
 https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=0&ads.app_domain=0&ads.app_name=0&ads.consent=0&ads.ssai_vendor=SSSLIVE
 
-#EXTINF:-1 group-title="Documentari",BBC Travel
+#EXTINF:-1 group-title="DOC",BBC Travel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4519e6873180007d3cddb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-60802b37709d6b0007b0c549" tvg-id="PlutoTvNatura.it" tvg-name="Tv Natura" tvg-logo="https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG.png" group-title="Documentari",Pluto TV Natura
+#EXTINF:-1 channel-id="pluto-60802b37709d6b0007b0c549" tvg-id="PlutoTvNatura.it" tvg-name="Tv Natura" tvg-logo="https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG.png" group-title="DOC",Pluto TV Natura
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?deviceId=0&deviceModel=web&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=0&deviceDNT=true
-#EXTINF:-1 channel-id="pluto-608aa8a5709d6b0007b132fe" tvg-id="PlutoTvDocumentari.it" tvg-name="Tv Documentari" tvg-logo="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png" group-title="Documentari",Pluto Tv Documentari
+#EXTINF:-1 channel-id="pluto-608aa8a5709d6b0007b132fe" tvg-id="PlutoTvDocumentari.it" tvg-name="Tv Documentari" tvg-logo="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png" group-title="DOC",Pluto Tv Documentari
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceId=0&deviceModel=web&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=0&deviceDNT=true
-#EXTINF:-1 channel-id="samsung-ITBD300001GI" tvg-id="ITBD300001GI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD300001GI_20230208T013156SQUARE.png_20230208013157.png" group-title="Documentari",Move - Italian Active Lives
+#EXTINF:-1 channel-id="samsung-ITBD300001GI" tvg-id="ITBD300001GI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD300001GI_20230208T013156SQUARE.png_20230208013157.png" group-title="DOC",Move - Italian Active Lives
 https://d3i87cms5m5yjq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-75fzs486ayykg/mov.m3u8
-#EXTINF:-1 channel-id="samsung-ITBC35000016T" tvg-id="RakutenWedoBigStories.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC35000016T_20230208T013151SQUARE.png_20230208013152.png" group-title="Documentari",Wedo big stories (Grandi Documentari)
+#EXTINF:-1 channel-id="samsung-ITBC35000016T" tvg-id="RakutenWedoBigStories.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC35000016T_20230208T013151SQUARE.png_20230208013152.png" group-title="DOC",Wedo big stories (Grandi Documentari)
 https://videosolutions-wedobigstories-rakuten.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 channel-id="samsung-ITBD1100001B7" tvg-id="RakutenHouseOfDocs.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100001B7_20230412T042554SQUARE.png_20230412042554.png" group-title="Documentari",House of Docs
+#EXTINF:-1 channel-id="samsung-ITBD1100001B7" tvg-id="RakutenHouseOfDocs.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100001B7_20230412T042554SQUARE.png_20230412042554.png" group-title="DOC",House of Docs
 https://amg02512-nexodigital-amg02512c1-wedotv-eu-871.playouts.now.amagi.tv/playlist/amg02512-nexodigital-houseofdocs-wedotveu/playlist.m3u8
-#EXTINF:-1 channel-id="samsung-ITBC4700003GR" tvg-id="ITBC4700003GR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700003GR_20230412T042555SQUARE.png_20230412042556.png" group-title="Documentari",Love the Planet
+#EXTINF:-1 channel-id="samsung-ITBC4700003GR" tvg-id="ITBC4700003GR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700003GR_20230412T042555SQUARE.png_20230412042556.png" group-title="DOC",Love the Planet
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetitsamsung-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="Documentari" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",Rai Storia HD
+#EXTINF:-1 group-title="DOC" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",Rai Storia HD
 #EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
 https://raistoria1-dash-live.akamaized.net/dash/live/663959/raistoria1/manifest.mpd
-#EXTINF:-1 channel-id="pluto-65253fdf3fd33c00080214a3" tvg-id="PlutoTvStoria.it" tvg-logo="https://images.pluto.tv/channels/65253fdf3fd33c00080214a3/colorLogoPNG.png" group-title="Documentari",Pluto TV Storia
+#EXTINF:-1 channel-id="pluto-65253fdf3fd33c00080214a3" tvg-id="PlutoTvStoria.it" tvg-logo="https://images.pluto.tv/channels/65253fdf3fd33c00080214a3/colorLogoPNG.png" group-title="DOC",Pluto TV Storia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65253fdf3fd33c00080214a3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-63c923944207be0007fd0887" tvg-id="PlutoTvViaggi.it" tvg-name="Pluto Tv Viaggi" tvg-logo="https://images.pluto.tv/channels/63c923944207be0007fd0887/colorLogoPNG.png" group-title="Documentari",Pluto Tv Viaggi
+#EXTINF:-1 channel-id="pluto-63c923944207be0007fd0887" tvg-id="PlutoTvViaggi.it" tvg-name="Pluto Tv Viaggi" tvg-logo="https://images.pluto.tv/channels/63c923944207be0007fd0887/colorLogoPNG.png" group-title="DOC",Pluto Tv Viaggi
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63c923944207be0007fd0887/master.m3u8?deviceId=0&deviceModel=web&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=0&deviceDNT=true
 
-#EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://i.imgur.com/N3xiz4m.png" tvg-id="BBCFood.us" group-title="Documentari",BBC Food
+#EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://i.imgur.com/N3xiz4m.png" tvg-id="BBCFood.us" group-title="DOC",BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="BBC Home" tvg-logo="https://i.imgur.com/Ii8DX1x.png" tvg-id="BBCHome.us" group-title="Documentari",BBC Home
+#EXTINF:-1 tvg-name="BBC Home" tvg-logo="https://i.imgur.com/Ii8DX1x.png" tvg-id="BBCHome.us" group-title="DOC",BBC Home
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Docurama" tvg-logo="https://i.imgur.com/bNg8mze.png" tvg-id="Docurama.us" group-title="Documentari",Docurama
+#EXTINF:-1 tvg-name="Docurama" tvg-logo="https://i.imgur.com/bNg8mze.png" tvg-id="Docurama.us" group-title="DOC",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
-#EXTINF:-1 " group-title="Documentari",Real Time
+#EXTINF:-1 " group-title="DOC",Real Time
 https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
-#EXTINF:-1 " group-title="Documentari",Food Network
+#EXTINF:-1 " group-title="DOC",Food Network
 https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
-#EXTINF:-1 " group-title="Documentari",Focus Ⓖ
+#EXTINF:-1 " group-title="DOC",Focus Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
-#EXTINF:-1 " group-title="Documentari",Discovery Channel
+#EXTINF:-1 " group-title="DOC",Discovery Channel
 https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
-#EXTINF:-1 " group-title="Documentari",DMAX
+#EXTINF:-1 " group-title="DOC",DMAX
 https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
-#EXTINF:-1 " group-title="Documentari",Rai Storia Ⓖ
+#EXTINF:-1 " group-title="DOC",Rai Storia Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 " group-title="Documentari",HGTV – Home & Garden Tv
+#EXTINF:-1 " group-title="DOC",HGTV – Home & Garden Tv
 https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
-#EXTINF:-1 " group-title="Documentari",Motor Trend
+#EXTINF:-1 " group-title="DOC",Motor Trend
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 
 
 
-#EXTINF:-1 channel-id="IT500011RG" tvg-id="IT500011RG" tvg-chno="4516" tvg-name="Gambero Rosso" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20250805T005557SQUARE.png" group-title="Documentari", Gambero Rosso
+#EXTINF:-1 channel-id="IT500011RG" tvg-id="IT500011RG" tvg-chno="4516" tvg-name="Gambero Rosso" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20250805T005557SQUARE.png" group-title="DOC", Gambero Rosso
 https://jmp2.uk/stvp-IT500011RG
-#EXTINF:-1 channel-id="IT3900003FE" tvg-id="IT3900003FE" tvg-chno="4513" tvg-name="Hell's Kitchen" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3900003FE_20250211T014001SQUARE.png" group-title="Documentari", Hell's Kitchen
+#EXTINF:-1 channel-id="IT3900003FE" tvg-id="IT3900003FE" tvg-chno="4513" tvg-name="Hell's Kitchen" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3900003FE_20250211T014001SQUARE.png" group-title="DOC", Hell's Kitchen
 https://jmp2.uk/stvp-IT3900003FE
-#EXTINF:-1 channel-id="IT600001L6" tvg-id="IT600001L6" tvg-chno="4619" tvg-name="Italian Fishing TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT600001L6_20241022T051638SQUARE.png" group-title="Documentari", Italian Fishing TV
+#EXTINF:-1 channel-id="IT600001L6" tvg-id="IT600001L6" tvg-chno="4619" tvg-name="Italian Fishing TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT600001L6_20241022T051638SQUARE.png" group-title="DOC", Italian Fishing TV
 https://jmp2.uk/stvp-IT600001L6
-#EXTINF:-1 channel-id="IT3000282Q" tvg-id="IT3000282Q" tvg-chno="4660" tvg-name="Motor1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000282Q_20250811T173011SQUARE.png" group-title="Documentari", Motor1
+#EXTINF:-1 channel-id="IT3000282Q" tvg-id="IT3000282Q" tvg-chno="4660" tvg-name="Motor1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000282Q_20250811T173011SQUARE.png" group-title="DOC", Motor1
 https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 channel-id="IT800002CE" tvg-id="IT800002CE" tvg-chno="4662" tvg-name="Motoretrò" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800002CE_20250520T045026SQUARE.png" group-title="Documentari", Motoretrò
+#EXTINF:-1 channel-id="IT800002CE" tvg-id="IT800002CE" tvg-chno="4662" tvg-name="Motoretrò" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800002CE_20250520T045026SQUARE.png" group-title="DOC", Motoretrò
 https://jmp2.uk/stvp-IT800002CE
-#EXTINF:-1 channel-id="IT1600005VM" tvg-id="IT1600005VM" tvg-chno="4663" tvg-name="Rally.TV FAST+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1600005VM_20250729T045605SQUARE.png" group-title="Documentari", Rally.TV FAST+
+#EXTINF:-1 channel-id="IT1600005VM" tvg-id="IT1600005VM" tvg-chno="4663" tvg-name="Rally.TV FAST+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1600005VM_20250729T045605SQUARE.png" group-title="DOC", Rally.TV FAST+
 https://jmp2.uk/stvp-IT1600005VM
-#EXTINF:-1 channel-id="ITBD31000021A" tvg-id="ITBD31000021A" tvg-chno="4623" tvg-name="Sailing Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD31000021A_20241022T043819SQUARE.png" group-title="Documentari", Sailing Channel
+#EXTINF:-1 channel-id="ITBD31000021A" tvg-id="ITBD31000021A" tvg-chno="4623" tvg-name="Sailing Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD31000021A_20241022T043819SQUARE.png" group-title="DOC", Sailing Channel
 https://jmp2.uk/stvp-ITBD31000021A
-#EXTINF:-1 channel-id="ITBA3300024IU" tvg-id="ITBA3300024IU" tvg-chno="4003" tvg-name="Shark Zone" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20250819T032259SQUARE.png" group-title="Documentari", Shark Zone
+#EXTINF:-1 channel-id="ITBA3300024IU" tvg-id="ITBA3300024IU" tvg-chno="4003" tvg-name="Shark Zone" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20250819T032259SQUARE.png" group-title="DOC", Shark Zone
 https://jmp2.uk/stvp-ITBA3300024IU
-#EXTINF:-1 channel-id="IT1200001Q8" tvg-id="IT1200001Q8" tvg-chno="4299" tvg-name="Storie Criminali" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1200001Q8_20241022T043854SQUARE.png" group-title="Documentari", Storie Criminali
-https://jmp2.uk/stvp-IT1200001Q8
-#EXTINF:-1 channel-id="ITBD10000040W" tvg-id="ITBD10000040W" tvg-chno="4673" tvg-name="The Boat Show" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD10000040W_20241022T043904SQUARE.png" group-title="Documentari", The Boat Show
+#EXTINF:-1 channel-id="ITBD10000040W" tvg-id="ITBD10000040W" tvg-chno="4673" tvg-name="The Boat Show" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD10000040W_20241022T043904SQUARE.png" group-title="DOC", The Boat Show
 https://jmp2.uk/stvp-ITBD10000040W
-#EXTINF:-1 channel-id="IT2400001AE" tvg-id="IT2400001AE" tvg-chno="4658" tvg-name="Top Gear" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2400001AE_20241022T043908SQUARE.png" group-title="Documentari", Top Gear
+#EXTINF:-1 channel-id="IT2400001AE" tvg-id="IT2400001AE" tvg-chno="4658" tvg-name="Top Gear" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2400001AE_20241022T043908SQUARE.png" group-title="DOC", Top Gear
 https://jmp2.uk/stvp-IT2400001AE
+#EXTINF:-1 channel-id="ITBD10000040W" tvg-id="ITBD10000040W" tvg-chno="4673" tvg-name="The Boat Show" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD10000040W_20241022T043904SQUARE.png" group-title="DOC",LOVE NATURE HD
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3879
 
 
-#EXTINF:-1 " group-title="Documentari",Red Bull TV UHD
+#EXTINF:-1 " group-title="DOC",Red Bull TV UHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?982608228290.m3u8
-#EXTINF:-1 group-title="Documentari" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/DW-TV.png",DW-TV 4K
+#EXTINF:-1 group-title="DOC" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/DW-TV.png",DW-TV 4K
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 group-title="Documentari" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",Akwarium 4K
+#EXTINF:-1 group-title="DOC" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",Akwarium 4K
 http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
-#EXTINF:-1 group-title="Documentari" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",ANIMALS 4K
+#EXTINF:-1 group-title="DOC" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",ANIMALS 4K
 http://iptv.prosto.tv:7000/ch316/video.m3u8?secret=191yc7ul
-#EXTINF:-1 group-title="Documentari" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",NEWS 4K
+#EXTINF:-1 group-title="DOC" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",NEWS 4K
 http://iptv.prosto.tv:7000/ch312/video.m3u8?secret=191yc7ul
-#EXTINF:-1 group-title="Documentari" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",Stream CITY 4K
+#EXTINF:-1 group-title="DOC" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png",Stream CITY 4K
 http://iptv.prosto.tv:7000/ch321/video.m3u8?secret=191yc7ul
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/icon.png" group-title="Lombardia",=== Lombardia ===
@@ -977,7 +977,7 @@ https://jmp2.uk/sam-ITBA33000374G.m3u8
 https://jmp2.uk/sam-IT500006GE.m3u8
 #EXTINF:-1 channel-id="IT9000023T" tvg-id="IT9000023T" tvg-chno="4414" tvg-name="80 Anni - 2a Guerra Mondiale" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000023T_20250610T011151SQUARE.png" group-title="Samsung Channels", 80 Anni - 2a Guerra Mondiale
 https://jmp2.uk/sam-IT9000023T.m3u8
-#EXTINF:-1 channel-id="ITBD4100007LO" tvg-id="ITBD4100007LO" tvg-chno="4515" tvg-name="A Tavola" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100007LO_20241022T051525SQUARE.png" group-title="Samsung Channels & Viaggi", A Tavola
+#EXTINF:-1 channel-id="ITBD4100007LO" tvg-id="ITBD4100007LO" tvg-chno="4515" tvg-name="A Tavola" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100007LO_20241022T051525SQUARE.png" group-title="Samsung Channels", A Tavola
 https://jmp2.uk/sam-ITBD4100007LO.m3u8
 #EXTINF:-1 channel-id="ITBC400001LX" tvg-id="ITBC400001LX" tvg-chno="4949" tvg-name="Action Movie Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC400001LX_20250107T022411SQUARE.png" group-title="Samsung Channels", Action Movie Channel
 https://jmp2.uk/sam-ITBC400001LX.m3u8
@@ -1005,7 +1005,7 @@ https://jmp2.uk/sam-IT3200002L5.m3u8
 https://jmp2.uk/sam-IT800001SW.m3u8
 #EXTINF:-1 channel-id="ITBA3300025F5" tvg-id="ITBA3300025F5" tvg-chno="4571" tvg-name="Bloomberg TV+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300025F5_20241022T051249SQUARE.png" group-title="Samsung Channels", Bloomberg TV+
 https://jmp2.uk/sam-ITBA3300025F5.m3u8
-#EXTINF:-1 channel-id="ITBC400003Y7" tvg-id="ITBC400003Y7" tvg-chno="4527" tvg-name="Brindiamo!" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC400003Y7_20241022T043955SQUARE.png" group-title="Samsung Channels & Viaggi", Brindiamo!
+#EXTINF:-1 channel-id="ITBC400003Y7" tvg-id="ITBC400003Y7" tvg-chno="4527" tvg-name="Brindiamo!" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC400003Y7_20241022T043955SQUARE.png" group-title="Samsung Channels", Brindiamo!
 https://jmp2.uk/sam-ITBC400003Y7.m3u8
 #EXTINF:-1 channel-id="ITBD600001CL" tvg-id="ITBD600001CL" tvg-chno="4880" tvg-name="Brividy Cinema" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD600001CL_20241022T051541SQUARE.png" group-title="Samsung Channels", Brividy Cinema
 https://jmp2.uk/sam-ITBD600001CL.m3u8
@@ -1077,13 +1077,13 @@ https://jmp2.uk/sam-IT2600003FM.m3u8
 https://jmp2.uk/sam-IT2600002F6.m3u8
 #EXTINF:-1 channel-id="IT2200001FW" tvg-id="IT2200001FW" tvg-chno="4223" tvg-name="Fireplace Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2200001FW_20250729T045559SQUARE.png" group-title="Samsung Channels", Fireplace Vibes
 https://jmp2.uk/sam-IT2200001FW.m3u8
-#EXTINF:-1 channel-id="IT90001094" tvg-id="IT90001094" tvg-chno="4521" tvg-name="Foodnetwork" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT90001094_20250408T021440SQUARE.png" group-title="Samsung Channels & Viaggi", Foodnetwork
+#EXTINF:-1 channel-id="IT90001094" tvg-id="IT90001094" tvg-chno="4521" tvg-name="Foodnetwork" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT90001094_20250408T021440SQUARE.png" group-title="Samsung Channels", Foodnetwork
 https://jmp2.uk/sam-IT90001094.m3u8
 #EXTINF:-1 channel-id="ITBD1100002WX" tvg-id="ITBD1100002WX" tvg-chno="4563" tvg-name="FRANCE 24 FAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100002WX_20241022T051609SQUARE.png" group-title="Samsung Channels", FRANCE 24 FAST
 https://jmp2.uk/sam-ITBD1100002WX.m3u8
 #EXTINF:-1 channel-id="IT900005HF" tvg-id="IT900005HF" tvg-chno="4798" tvg-name="Frisbee" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900005HF_20250408T021443SQUARE.png" group-title="Samsung Channels", Frisbee
 https://jmp2.uk/sam-IT900005HF.m3u8
-#EXTINF:-1 channel-id="IT500011RG" tvg-id="IT500011RG" tvg-chno="4516" tvg-name="Gambero Rosso" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20250805T005557SQUARE.png" group-title="Samsung Channels & Viaggi", Gambero Rosso
+#EXTINF:-1 channel-id="IT500011RG" tvg-id="IT500011RG" tvg-chno="4516" tvg-name="Gambero Rosso" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20250805T005557SQUARE.png" group-title="Samsung Channels", Gambero Rosso
 https://jmp2.uk/sam-IT500011RG.m3u8
 #EXTINF:-1 channel-id="IT9000081B" tvg-id="IT9000081B" tvg-chno="4291" tvg-name="Giallo" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000081B_20250408T021446SQUARE.png" group-title="Samsung Channels", Giallo
 https://jmp2.uk/sam-IT9000081B.m3u8
@@ -1101,9 +1101,9 @@ https://jmp2.uk/sam-ITBD10000019E.m3u8
 https://jmp2.uk/sam-IT500007X2.m3u8
 #EXTINF:-1 channel-id="ITBD4100001MG" tvg-id="ITBD4100001MG" tvg-chno="4237" tvg-name="Hannibal - La serie completa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100001MG_20250715T004410SQUARE.png" group-title="Samsung Channels", Hannibal - La serie completa
 https://jmp2.uk/sam-ITBD4100001MG.m3u8
-#EXTINF:-1 channel-id="IT3900003FE" tvg-id="IT3900003FE" tvg-chno="4513" tvg-name="Hell's Kitchen" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3900003FE_20250211T014001SQUARE.png" group-title="Samsung Channels & Viaggi", Hell's Kitchen
+#EXTINF:-1 channel-id="IT3900003FE" tvg-id="IT3900003FE" tvg-chno="4513" tvg-name="Hell's Kitchen" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3900003FE_20250211T014001SQUARE.png" group-title="Samsung Channels", Hell's Kitchen
 https://jmp2.uk/sam-IT3900003FE.m3u8
-#EXTINF:-1 channel-id="IT900003FU" tvg-id="IT900003FU" tvg-chno="4525" tvg-name="HGTV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900003FU_20250408T021452SQUARE.png" group-title="Samsung Channels & Viaggi", HGTV
+#EXTINF:-1 channel-id="IT900003FU" tvg-id="IT900003FU" tvg-chno="4525" tvg-name="HGTV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900003FU_20250408T021452SQUARE.png" group-title="Samsung Channels", HGTV
 https://jmp2.uk/sam-IT900003FU.m3u8
 #EXTINF:-1 channel-id="ITBC11000108G" tvg-id="ITBC11000108G" tvg-chno="4748" tvg-name="Hip Hop TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000108G_20241022T051632SQUARE.png" group-title="Samsung Channels", Hip Hop TV
 https://jmp2.uk/sam-ITBC11000108G.m3u8
@@ -1147,7 +1147,7 @@ https://jmp2.uk/sam-ITBC4000028E.m3u8
 https://jmp2.uk/sam-IT9000060Q.m3u8
 #EXTINF:-1 channel-id="ITAJ4500022GD" tvg-id="ITAJ4500022GD" tvg-chno="4171" tvg-name="People Are Awesome" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ4500022GD_20241022T051445SQUARE.png" group-title="Samsung Channels", People Are Awesome
 https://jmp2.uk/sam-ITAJ4500022GD.m3u8
-#EXTINF:-1 channel-id="IT2200009F9" tvg-id="IT2200009F9" tvg-chno="4003" tvg-name="Per Caso TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2200009F9_20250902T003825SQUARE.png" group-title="Samsung Channels & Viaggi", Per Caso TV
+#EXTINF:-1 channel-id="IT2200009F9" tvg-id="IT2200009F9" tvg-chno="4003" tvg-name="Per Caso TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2200009F9_20250902T003825SQUARE.png" group-title="Samsung Channels", Per Caso TV
 https://jmp2.uk/sam-IT2200009F9.m3u8
 #EXTINF:-1 channel-id="ITAJ38000055E" tvg-id="ITAJ38000055E" tvg-chno="4876" tvg-name="Pluto TV Samsung Channels" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ38000055E_20241022T051450SQUARE.png" group-title="Samsung Channels", Pluto TV Samsung Channels
 https://jmp2.uk/sam-ITAJ38000055E.m3u8
@@ -1263,7 +1263,7 @@ https://jmp2.uk/sam-ITBD1900010JL.m3u8
 https://jmp2.uk/sam-ITBC210000200.m3u8
 #EXTINF:-1 channel-id="ITBC2100001G9" tvg-id="ITBC2100001G9" tvg-chno="4682" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC2100001G9_20241022T043927SQUARE.png" group-title="Samsung Channels", Vevo Pop
 https://jmp2.uk/sam-ITBC2100001G9.m3u8
-#EXTINF:-1 channel-id="IT12000029J" tvg-id="IT12000029J" tvg-chno="4517" tvg-name="Viaggi & Sapori" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT12000029J_20241105T025401SQUARE.png" group-title="Samsung Channels & Viaggi", Viaggi & Sapori
+#EXTINF:-1 channel-id="IT12000029J" tvg-id="IT12000029J" tvg-chno="4517" tvg-name="Viaggi & Sapori" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT12000029J_20241105T025401SQUARE.png" group-title="Samsung Channels", Viaggi & Sapori
 https://jmp2.uk/sam-IT12000029J.m3u8
 #EXTINF:-1 channel-id="IT34000016N" tvg-id="IT34000016N" tvg-chno="4819" tvg-name="Video Game Heroes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT34000016N_20250326T013226SQUARE.png" group-title="Samsung Channels", Video Game Heroes
 https://jmp2.uk/sam-IT34000016N.m3u8
@@ -2585,41 +2585,58 @@ http://1tv41.icu:8080/dU0VBK/801942/167743
 http://1tv41.icu:8080/dU0VBK/801942/167744
 #EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",PT: SPORT TV 4 FHD
 http://1tv41.icu:8080/dU0VBK/801942/167745
+#EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",PT Eleven Sports 1 FHD 
+http://1tv41.icu:8080/dU0VBK/801942/35264
 #EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",PT: ELEVEN SPORTS 3 HD
 http://1tv41.icu:8080/dU0VBK/801942/167748
 #EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",PT: ELEVEN SPORTS 4 HD
 http://1tv41.icu:8080/dU0VBK/801942/167749
 #EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",PT: ELEVEN SPORTS 5 HD
 http://1tv41.icu:8080/dU0VBK/801942/167750
-
-#EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",TNT SPORT 1 FHD
-https://freelivtv.xyz/stream4k/stream.php?id=8941
-#EXTINF:-1 tvg-id="8942" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8940.png" group-title="SPORT",TNT SPORT 1 HD
-https://freelivtv.xyz/stream4k/stream.php?id=8942
-#EXTINF:-1 tvg-id="8944" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8942.png" group-title="SPORT",TNT SPORT 10
-https://freelivtv.xyz/stream4k/stream.php?id=8944
-#EXTINF:-1 tvg-id="8945" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8943.png" group-title="SPORT",TNT SPORT 2 FHD
-https://freelivtv.xyz/stream4k/stream.php?id=8945
-#EXTINF:-1 tvg-id="8946" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8944.png" group-title="SPORT",TNT SPORT 2 HD
-https://freelivtv.xyz/stream4k/stream.php?id=8946
-#EXTINF:-1 tvg-id="8948" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8946.png" group-title="SPORT",TNT SPORT 3 FHD
-https://freelivtv.xyz/stream4k/stream.php?id=8948
-#EXTINF:-1 tvg-id="8949" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8947.png" group-title="SPORT",TNT SPORT 3 HD
-https://freelivtv.xyz/stream4k/stream.php?id=8949
-#EXTINF:-1 tvg-id="8951" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8949.png" group-title="SPORT",TNT SPORT 4 FHD
-https://freelivtv.xyz/stream4k/stream.php?id=8951
-#EXTINF:-1 tvg-id="8952" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8950.png" group-title="SPORT",TNT SPORT 4 HD
-https://freelivtv.xyz/stream4k/stream.php?id=8952
-#EXTINF:-1 tvg-id="8954" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8952.png" group-title="SPORT",TNT SPORT 5
-https://freelivtv.xyz/stream4k/stream.php?id=8954
-#EXTINF:-1 tvg-id="8955" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8953.png" group-title="SPORT",TNT SPORT 6
-https://freelivtv.xyz/stream4k/stream.php?id=8955
-#EXTINF:-1 tvg-id="8956" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8954.png" group-title="SPORT",TNT SPORT 7
-https://freelivtv.xyz/stream4k/stream.php?id=8956
-#EXTINF:-1 tvg-id="8957" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8955.png" group-title="SPORT",TNT SPORT 8
-https://freelivtv.xyz/stream4k/stream.php?id=8957
-#EXTINF:-1 tvg-id="8958" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8956.png" group-title="SPORT",TNT SPORT 9
-https://freelivtv.xyz/stream4k/stream.php?id=8958
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",[PT] ELEVEN SPORTS 1 HD
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3279
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",[PT] ELEVEN SPORTS 2 HD
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3280
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",[PT] ELEVEN SPORTS 3 HD
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3281
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",[PT] ELEVEN SPORTS 4 HD
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3282
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",Arena Sport 1 (Serb)
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/1465
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",Arena Sport 2 (Serb)
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/1466
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",Arena Sport 3 (Serb
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/1467
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",Arena Sport 4 (Serb
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/1468
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",Arena Sport 5 (Serb)
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/1469
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",PT: Sport TV 
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2165
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",PT: Sport TV 1 HD 
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2166
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",PT: Sport TV 2 HD 
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2167
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",PT: Sport TV 3 HD 
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2168
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",PT: Sport TV 4 HD 
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2169
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",PT:  Sport TV 5 HD 
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2170
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",DE: DAZN 1  FHD
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/1242
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",DE: DAZN 1 FHD
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/1243
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",DE: DAZN 2  FHD
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/1244
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",DE: DAZN 2 FHD
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/1245
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",UK: BT SPORT 1
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/838
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",UK: BT SPORT 2
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/839
+#EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",UK: BT SPORT 3
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/840
 
 #EXTINF:-1 tvg-id="784" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/784.png" group-title="SPORT",ELEVEN SPORTS 1 | PORTUGESE
 https://freelivtv.xyz/stream4k/stream.php?id=784
@@ -3985,7 +4002,11 @@ https://tvpass.org/live/yes-network/hd
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="UK-USA",=== UK-USA ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
-
+#EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",UK-BBC One
+http://1tv41.icu:8080/dU0VBK/801942/53649
+#EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",UK-BBC One Scotland
+http://1tv41.icu:8080/dU0VBK/801942/53755
+#EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA", BBC TWO HD
 #EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",BBC ONE FHD
 https://freelivtv.xyz/stream4k/stream.php?id=8428
 #EXTINF:-1 tvg-id="8429" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8427.png" group-title="UK-USA",BBC ONE HD
