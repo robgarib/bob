@@ -501,8 +501,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-name="Italian Fishing TV" tvg-id="" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/8488cf6a-bb6a-4df1-adf4-d66ff4b621ca-italian-fishing-tv-1643371244-quality100.png" group-title="DOC",Italian Fishing TV
 https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=0&ads.app_domain=0&ads.app_name=0&ads.consent=0&ads.ssai_vendor=SSSLIVE
 
-#EXTINF:-1 group-title="DOC",BBC Travel
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4519e6873180007d3cddb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-60802b37709d6b0007b0c549" tvg-id="PlutoTvNatura.it" tvg-name="Tv Natura" tvg-logo="https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG.png" group-title="DOC",Pluto TV Natura
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?deviceId=0&deviceModel=web&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=0&deviceDNT=true
 #EXTINF:-1 channel-id="pluto-608aa8a5709d6b0007b132fe" tvg-id="PlutoTvDocumentari.it" tvg-name="Tv Documentari" tvg-logo="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png" group-title="DOC",Pluto Tv Documentari
@@ -523,12 +521,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65253fdf3fd33c00080214
 #EXTINF:-1 channel-id="pluto-63c923944207be0007fd0887" tvg-id="PlutoTvViaggi.it" tvg-name="Pluto Tv Viaggi" tvg-logo="https://images.pluto.tv/channels/63c923944207be0007fd0887/colorLogoPNG.png" group-title="DOC",Pluto Tv Viaggi
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63c923944207be0007fd0887/master.m3u8?deviceId=0&deviceModel=web&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=0&deviceDNT=true
 
-#EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://i.imgur.com/N3xiz4m.png" tvg-id="BBCFood.us" group-title="DOC",BBC Food
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="BBC Home" tvg-logo="https://i.imgur.com/Ii8DX1x.png" tvg-id="BBCHome.us" group-title="DOC",BBC Home
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Docurama" tvg-logo="https://i.imgur.com/bNg8mze.png" tvg-id="Docurama.us" group-title="DOC",Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
 #EXTINF:-1 " group-title="DOC",Real Time
 https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
@@ -548,9 +540,8 @@ https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 
 
-
-#EXTINF:-1 channel-id="IT500011RG" tvg-id="IT500011RG" tvg-chno="4516" tvg-name="Gambero Rosso" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20250805T005557SQUARE.png" group-title="DOC", Gambero Rosso
-https://jmp2.uk/stvp-IT500011RG
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/gambero-rosso.png" group-title="DOC",Gambero Rosso
+https://streamcdnf31-2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/chunklist.m3u8
 #EXTINF:-1 channel-id="IT3900003FE" tvg-id="IT3900003FE" tvg-chno="4513" tvg-name="Hell's Kitchen" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3900003FE_20250211T014001SQUARE.png" group-title="DOC", Hell's Kitchen
 https://jmp2.uk/stvp-IT3900003FE
 #EXTINF:-1 channel-id="IT600001L6" tvg-id="IT600001L6" tvg-chno="4619" tvg-name="Italian Fishing TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT600001L6_20241022T051638SQUARE.png" group-title="DOC", Italian Fishing TV
@@ -582,12 +573,20 @@ https://fl7.moveonjoy.com/LOVE_NATURE/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" group-title="DOC",Love Nature (1080p)
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 
+#EXTINF:-1 group-title="DOC",BBC Travel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4519e6873180007d3cddb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="BBCEarth.uk@US" group-title="DOC",BBC Earth
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=73fe2b3e-3885-4bd2-874c-cc5f2153e555
 #EXTINF:-1 tvg-id="BBCFood.us" group-title="DOC",BBC Food
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c628f2e9-ff30-4bd0-9ff6-99fb1649f628
 #EXTINF:-1 tvg-id="BBCHomeGarden.us" group-title="DOC",BBC Home & Garden
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=844b6663-bad2-462b-9aef-d0f33d5dfaa0
+#EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://i.imgur.com/N3xiz4m.png" tvg-id="BBCFood.us" group-title="DOC",BBC Food
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="BBC Home" tvg-logo="https://i.imgur.com/Ii8DX1x.png" tvg-id="BBCHome.us" group-title="DOC",BBC Home
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Docurama" tvg-logo="https://i.imgur.com/bNg8mze.png" tvg-id="Docurama.us" group-title="DOC",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
 #EXTINF:-1 " group-title="DOC",Red Bull TV UHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?982608228290.m3u8
