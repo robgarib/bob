@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 07/10/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 08/10/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 
 EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Rai",=== Rai ===
@@ -571,7 +571,23 @@ https://jmp2.uk/stvp-ITBD10000040W
 https://jmp2.uk/stvp-IT2400001AE
 #EXTINF:-1 channel-id="ITBD10000040W" tvg-id="ITBD10000040W" tvg-chno="4673" tvg-name="The Boat Show" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD10000040W_20241022T043904SQUARE.png" group-title="DOC",LOVE NATURE HD
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3879
+#EXTINF:-1 tvg-id="PBSNature.us" group-title="DOC",PBS Nature
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/640a64bd73e013000893d4e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f23-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c1a2f62c-0e00-4ba7-b555-34d14d59fee4
+#EXTINF:-1 tvg-id="NationalGeographic.us@East" group-title="DOC",National Geographic East
+https://fl7.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.us@East" group-title="DOC",National Geographic Wild East
+https://fl7.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" group-title="DOC",Love Nature
+https://fl7.moveonjoy.com/LOVE_NATURE/index.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" group-title="DOC",Love Nature (1080p)
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BBCEarth.uk@US" group-title="DOC",BBC Earth
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=73fe2b3e-3885-4bd2-874c-cc5f2153e555
+#EXTINF:-1 tvg-id="BBCFood.us" group-title="DOC",BBC Food
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c628f2e9-ff30-4bd0-9ff6-99fb1649f628
+#EXTINF:-1 tvg-id="BBCHomeGarden.us" group-title="DOC",BBC Home & Garden
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=844b6663-bad2-462b-9aef-d0f33d5dfaa0
 
 #EXTINF:-1 " group-title="DOC",Red Bull TV UHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?982608228290.m3u8
@@ -4002,6 +4018,8 @@ https://tvpass.org/live/yes-network/hd
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="UK-USA",=== UK-USA ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
+#EXTINF:-1 tvg-id="BBCAmerica.us@East" group-title="UK-USA",BBC America East
+https://fl7.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",UK-BBC One
 http://1tv41.icu:8080/dU0VBK/801942/53649
 #EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",UK-BBC One Scotland
