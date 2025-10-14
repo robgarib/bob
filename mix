@@ -1,68 +1,56 @@
 #EXTM3U
 #EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 14/10/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
-
-EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Rai",=== Rai ===
+#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 http://patbuweb.com/iptv/e2liste/startend.avi
-#EXTINF:-1 tvg-name="Rai 1" tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/317px-Rai_1_-_Logo_2016.svg.png" tvg-chno="1" channel-number="1" group-title="Rai" catchup="default",Rai 1 HD
-#EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
-https://raiuno1-dash-live.akamaized.net/dash/live/652296/raiuno1/manifest.mpd
-#EXTINF:-1 tvg-name="Rai 2" tvg-id="Rai2.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/320px-Rai_2_-_Logo_2016.svg.png" tvg-chno="2" channel-number="2" group-title="Rai" catchup="default",Rai 2 HD
-#EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
-https://raidue1-dash-live.akamaized.net/dash/live/662448/raidue1/manifest.mpd
-#EXTINF:-1 tvg-name="Rai 3" tvg-id="Rai3.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/320px-Rai_3_-_Logo_2016.svg.png" tvg-chno="3" channel-number="3" group-title="Rai" catchup="default",Rai 3 HD
-#EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
-https://raitre1-dash-live.akamaized.net/dash/live/663957/raitre1/manifest.mpd
-#EXTINF:-1 tvg-name="Rai 4" tvg-id="rai4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/320px-Rai_4_-_Logo_2016.svg.png" tvg-chno="21" channel-number="21" group-title="Rai" catchup="default",Rai 4 HD
-#EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
-https://raiquattro1-dash-live.akamaized.net/dash/live/663977/raiquattro1/manifest.mpd
-#EXTINF:-1 tvg-name="Rai 5" tvg-id="rai5.it" tvg-logo="" tvg-chno="23" channel-number="23" group-title="Rai" catchup="default",Rai 5 HD
-#EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
-https://raicinque1-dash-live.akamaized.net/dash/live/664003/raicinque1/manifest.mpd
-#EXTINF:-1 tvg-name="Rai Movie" tvg-id="raimovie.it" tvg-logo="" tvg-chno="24" group-title="Rai" catchup="default",Rai Movie HD
-#EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
-https://raimovie1-dash-live.akamaized.net/dash/live/663983/raimovie1/manifest.mpd
-#EXTINF:-1 tvg-name="Rai Premium" tvg-id="raipremium.it" tvg-logo="" tvg-chno="25" group-title="Rai" catchup="default",Rai Premium HD
-#EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
-https://raipremium1-dash-live.akamaized.net/dash/live/663979/raipremium1/manifest.mpd
-#EXTINF:-1 tvg-name="Rai Gulp" tvg-id="RaiGulp.it" tvg-logo="" tvg-chno="42" group-title="Rai" catchup="default",Rai Gulp HD
-#EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
-https://raigulp1-dash-live.akamaized.net/dash/live/663985/raigulp1/manifest.mpd
-#EXTINF:-1 tvg-name="Rai Yoyo" tvg-id="RaiYoyo.it" tvg-logo="" tvg-chno="43" group-title="Rai" catchup="default",Rai YoYo HD
-#EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
-https://raiyoyo1-dash-live.akamaized.net/dash/live/663949/raiyoyo1/manifest.mpd
-#EXTINF:-1 tvg-name="Rai News 24" tvg-id="rai news 24" tvg-logo="" tvg-chno="48" group-title="Rai",RaiNews 24
-#EXTVLCOPT:http-user-agent=rainet/4.0.8 (Linux;Android 14) ExoPlayerLib/2.18.0
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7
-#EXTINF:-1 tvg-name="Rai Storia" tvg-id="RaiStoria.it" tvg-logo="" tvg-chno="54" group-title="Rai" catchup="default",Rai Storia HD
-#EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
-https://raistoria1-dash-live.akamaized.net/dash/live/663959/raistoria1/manifest.mpd
-#EXTINF:-1 tvg-name="Rai Scuola" tvg-id="RaiScuola.it" tvg-logo="" tvg-chno="57" group-title="Rai" catchup="default",Rai Scuola HD
-https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
-#EXTINF:-1 tvg-name="Rai Sport" tvg-id="raisport" tvg-logo="" tvg-chno="58" group-title="Rai",Rai Sport HD
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
-https://raitre1-dash-live.akamaized.net/dash/live/663957/raitre1/manifest.mpd
-#EXTINF:-1 tvg-name="Rai 1" tvg-id="Rai1.it" tvg-logo="" tvg-chno="501" channel-number="501" group-title="Rai",Rai 1 (1080 hls)
-#EXTVLCOPT:http-user-agent=rainet/4.0.8
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-name="Rai 1" tvg-id="Rai1.it" tvg-logo="" tvg-chno="" channel-number="" group-title="Rai",Rai 1 (900 hls)
-#EXTVLCOPT:http-user-agent=rainet/4.0.8
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayandroidtv
-#EXTINF:-1 tvg-name="Rai 2" tvg-id="Rai2.it" tvg-logo="" tvg-chno="502" channel-number="502" group-title="Rai",Rai 2 (1080 hls)
-#EXTVLCOPT:http-user-agent=rainet/4.0.8
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-name="Rai 2" tvg-id="Rai2.it" tvg-logo="" tvg-chno="" channel-number="" group-title="Rai" user-agent="raiplayandroidtv",Rai 2 (900 hls)
-#EXTVLCOPT:http-user-agent=rainet/4.0.8 (Linux;Android 14) ExoPlayerLib/2.18.0
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayandroidtv
-#EXTINF:-1 tvg-name="Rai 3" tvg-id="Rai3.it" tvg-logo="" tvg-chno="503" channel-number="503" group-title="Rai",Rai 3 (900 dash)
-#EXTVLCOPT:http-user-agent=rainet/4.0.8 (Linux;Android 14) ExoPlayerLib/2.18.0
-https://raitre2-dash-live.akamaized.net/dash/live/663956/raitre2/manifest.mpd
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="Canali RAI",Rai 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="Canali RAI",Rai 1 test
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png" group-title="Canali RAI",Rai 2 
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-3-kwvj7ve82k1u.png" group-title="Canali RAI",Rai 3
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4-lbz08s5luj9v.png" group-title="Canali RAI",Rai 4
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="Canali RAI",Rai 4K
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-5-au136o25p81j.png" group-title="Canali RAI",Rai 5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-gulp-db8wx0eccr3u.png" group-title="Canali RAI",Rai Gulp
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-movie-pfi6w4ycsdmh.png" group-title="Canali RAI",Rai Movie
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-radio-2-5jrwma08rz0s.jpg" group-title="Canali RAI",Rai Radio 2
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-scuola-dbrhdmlaxwxg.png" group-title="Canali RAI",Rai Scuola
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-storia-uwdoqlac5rgy.png" group-title="Canali RAI",Rai Storia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-yoyo-hi2h5j83aalt.png" group-title="Canali RAI",Rai Yoyo
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-premium-gdf9izugt6ty.png" group-title="Canali RAI",Rai Premium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/raiplay-1.png" group-title="Canali RAI",RaiPlay 1 
+https://tivusto.org/sh/raiplay1
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/raiplay-2.png" group-title="Canali RAI",RaiPlay 2
+https://tivusto.org/sh/raiplay2
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/raiplay-3.png" group-title="Canali RAI",RaiPlay 3
+https://tivusto.org/sh/raiplay3
+#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Mediaset",=== Mediaset ===
+http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-name="Rete 4" tvg-id="rete4" tvg-logo="" tvg-chno="504" channel-number="504" group-title="Mediaset",Rete 4 (hls)
 #EXTVLCOPT:http-user-agent=RTILabSDK/2.11.4 (Linux;Android 14) AndroidXMedia3/1.5.1
 https://live02-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
@@ -4438,12 +4426,6 @@ https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
 #EXTINF:-1 tvg-id="rtlzwei.de" tvg-logo=""group-title="Vari",RTLZWEI
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
-#EXTINF:-1 tvg-id="prosieben.de" tvg-logo=""group-title="Vari",Pro7 ?
-https://viamotionhsi.netplus.ch/live/eds/pro7/browser-dash/pro7.mpd
-#EXTINF:-1 tvg-id="sat1.de" tvg-logo=""group-title="Vari",SAT.1 ?
-https://viamotionhsi.netplus.ch/live/eds/sat1/browser-dash/sat1.mpd
-#EXTINF:-1 tvg-id="kabel1.de" tvg-logo=""group-title="Vari", Kabel 1 ?
-https://viamotionhsi.netplus.ch/live/eds/kabel1/browser-dash/kabel1.mpd
 #EXTINF:-1 tvg-id="3sat.de" tvg-logo=""group-title="Vari", 3sat HD
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
 #EXTINF:-1 tvg-id="swr.de" tvg-logo=""group-title="Vari", SWR HD
