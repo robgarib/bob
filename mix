@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 14/10/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 15/10/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -49,6 +49,7 @@ https://tivusto.org/sh/raiplay1
 https://tivusto.org/sh/raiplay2
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/raiplay-3.png" group-title="Canali RAI",RaiPlay 3
 https://tivusto.org/sh/raiplay3
+
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Mediaset",=== Mediaset ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-name="Rete 4" tvg-id="rete4" tvg-logo="" tvg-chno="504" channel-number="504" group-title="Mediaset",Rete 4 (hls)
@@ -63,52 +64,6 @@ https://live02-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Mediaset 20 HD" tvg-id="20Mediaset.it" tvg-logo="" tvg-chno="520" channel-number="520" group-title="Mediaset",Mediaset 20 (hls)
 #EXTVLCOPT:http-user-agent=RTILabSDK/2.11.4 (Linux;Android 14) AndroidXMedia3/1.5.1
 https://live02-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
-#EXTINF:-1 tvg-name="Rai 4" tvg-id="rai4" tvg-logo="" tvg-chno="521" group-title="Rai",Rai 4
-https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
-#EXTINF:-1 tvg-name="Rai News 24 HD" tvg-id="RaiNews24.it" tvg-logo="" tvg-chno="548" group-title="Rai",RaiNews 24 (dash)
-#EXTVLCOPT:http-user-agent=rainet/4.0.8 (Linux;Android 14) ExoPlayerLib/2.18.0
-https://rainews1-dash-live.akamaized.net/dash/live/663981/rainews1/manifest.mpd
-#EXTINF:-1 tvg-name="Rai 3" tvg-id="rai3" tvg-logo="" group-title="Rai",Rai 3 (hls)
-#EXTVLCOPT:http-user-agent=rainet/4.0.8 (Linux;Android 14) ExoPlayerLib/2.18.0
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-name="Rai 3 Lombardia" tvg-id="" tvg-logo="" group-title="Rai",Rai 3 Lombardia SD
-#EXTVLCOPT:http-user-agent=rainet/4.0.8 (Linux;Android 14) ExoPlayerLib/2.18.0
-https://tgrlombardia-dash-live.akamaized.net/dash/live/2025589/tgrlombardia/manifest.mpd
-#EXTINF:-1 tvg-name="RaiPlay 3 (eventi)" tvg-id="" tvg-logo="" group-title="Rai",RaiPlay 3 (solo eventi)
-#EXTVLCOPT:http-user-agent=rainet/4.0.8 (Linux;Android 14) ExoPlayerLib/2.18.0
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4761993&output=7
-#EXTINF:-1 tvg-name="RaiPlay 2 (eventi)" tvg-id="" tvg-logo="" group-title="Rai",RaiPlay 2 (solo eventi)
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay2/hls/playlist_mo.m3u8
-#EXTINF:-1 tvg-name="RaiPlay (eventi)" tvg-id="" tvg-logo="" group-title="Rai",RaiPlay (solo eventi)
-#EXTVLCOPT:http-user-agent=rainet/4.0.8 (Linux;Android 14) ExoPlayerLib/2.18.0
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4761838&output=7&forceUserAgent=hbbtv
-#EXTINF:-1 tvg-name="Rai generico" tvg-id="" tvg-logo="" group-title="Rai",Rai generic3 SD
-#EXTVLCOPT:http-user-agent=rainet/4.0.8 (Linux;Android 14) ExoPlayerLib/2.18.0 #https://raigeneric3-dash-live.akamaized.net/dash/live/663989/raigeneric3/manifest.mpd
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raigeneric3/hls/playlist_mo.m3u8
-#EXTINF:-1 tvg-name="RaiPlaySport 1" tvg-id="" tvg-logo="https://www.raiplay.it/dl/img/2024/04/30/1714492163377_Canale3x.png" group-title="Rai",RaiPlaySport 1
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay4/hls/raiplay4_2400/chunklist.m3u8
-#EXTINF:-1 tvg-name="RaiPlaySport 2" tvg-id="" tvg-logo="https://www.raiplay.it/dl/img/2024/04/30/1714492217998_Canale%20non-optimized3x.png" group-title="Rai",RaiPlaySport 2
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay5/hls/raiplay5_2400/chunklist.m3u8
-#EXTINF:-1 tvg-name="RaiPlaySport 3" tvg-id="" tvg-logo="https://www.raiplay.it/dl/img/2024/04/30/1714492239159_Canale3x.png" group-title="Rai",RaiPlaySport 3
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay6/hls/raiplay6_2400/chunklist.m3u8
-#EXTINF:-1 tvg-name="Rai test2" tvg-id="" tvg-logo="" group-title="Rai", Rai test2
-#EXTVLCOPT:http-user-agent=rainet/4.0.8 (Linux;Android 14) ExoPlayerLib/2.18.0
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24268&output=7
-#EXTINF:-1 tvg-name="Rai test2" tvg-id="" tvg-logo="" group-title="Rai", Rai test2
-#EXTVLCOPT:http-user-agent=rainet/4.0.8 (Linux;Android 14) ExoPlayerLib/2.18.0
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/test2/dash/manifest.mpd
-#EXTINF:-1 tvg-name="Rai 4K" channel-id="rai 4k" tvg-id="Rai4K.it" tvg-logo="" channel-number="" group-title="Rai", Rai 4K (hls)
-#EXTVLCOPT:http-user-agent=rainet/4.0.8 (Linux;Android 14) ExoPlayerLib/2.18.0
-https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai4K.it" tvg-name="Rai 4K" group-title="Rai",Rai 4K HDR (dash)
-https://raievent10-dash-live.akamaized.net/dash/live/664000/raievent10/manifest.mpd
-
-EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Mediaset",=== Mediaset ===
-http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-name="Rete 4" tvg-id="Rete4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/244px-Rete_4_-_Logo_2018.svg.png" tvg-chno="4" channel-number="4" group-title="Mediaset",Rete 4 HD
 #EXTVLCOPT:http-user-agent=RTILabSDK/2.11.4 (Linux;Android 14) AndroidXMedia3/1.5.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
