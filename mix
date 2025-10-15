@@ -4236,6 +4236,24 @@ https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bb
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Vari",=== Vari ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="Vari",TVE LA 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="Vari",TVE LA 1
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg" group-title="Vari",TVE LA 2
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png" group-title="Vari",ANTENA 3
+http://176.65.146.237:8401/play/a0ae/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png" group-title="Vari",CUATRO
+http://176.65.146.237:8401/play/a09s/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gMg1nb/t5es.png" group-title="Vari",TELECINCO
+http://176.65.146.237:8401/play/a09r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6JF4BK4/l6es.png" group-title="Vari",LA SEXTA
+http://176.65.146.237:8401/play/a0af/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Vari" tvg-id="TVE24h.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",TVE 24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 group-title="Vari" tvg-id="LA1.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La1.png",La 1
@@ -4397,8 +4415,8 @@ https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-dash/kikahd.mpd
 https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
 #EXTINF:-1 tvg-id="eurosport1.de" tvg-logo=""group-title="Vari",eurosport1 D
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
-#EXTINF:-1 tvg-id="7maxx.de" tvg-logo=""group-title="Vari",7MAXX ?
-https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-dash/prosiebenmaxx.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GcZR4DM/daserste.png"group-title="Vari",DAS ERSTE DE
+http://daserstedash.akamaized.net/dash/live/2103597/daserste/dvbt2/manifest.mpd
 #EXTINF:-1 tvg-id="tele5.de" tvg-logo=""group-title="Vari",tele5 D
 https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
 #EXTINF:-1 tvg-id="alpha.de" tvg-logo=""group-title="Vari",ARD alpha
