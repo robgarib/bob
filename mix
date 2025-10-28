@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 26/10/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 28/10/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -2787,7 +2787,8 @@ http://visitmy.collegefan.org:80/MJALLEN/2586741093/761495
 http://visitmy.collegefan.org:80/Olga24/3614431693/761495
 #EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CND| TLN
 http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:55:82:8C&stream=1458846&extension=ts&play_token=J7OZoFvI7o
-
+#EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",TLN
+http://sofadad.co.uk:80/12345/12345/204529
 
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="SPORT",SPT| DAZN 1 HD CANADA
 http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:55:82:8C&stream=1316808&extension=ts&play_token=89ETiofW7M
@@ -2840,80 +2841,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="SPORT ACE",=== SPORT ACE ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
 =========SPAGNOLI===========
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",,Test Channel 1
-http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",GOL TV 1080
-http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",LaLiga TV Bar España HD
-http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",LaLiga TV Bar España HD
-http://127.0.0.1:6878/ace/getstream?id=512aeadf50d91603d15b32f1e408166536ec4ac9
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M. LaLiga UHD
-http://127.0.0.1:6878/ace/getstream?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M. LaLiga 2 1080
-http://127.0.0.1:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M. LaLiga 2 720
-http://127.0.0.1:6878/ace/getstream?id=80126b240f3e4e004754fd8f8103e857ab2556a0
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M. LaLiga 3 1080
-http://127.0.0.1:6878/ace/getstream?id=4c4844564313e39a888f593511f299f5ba3cf929
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M. LaLiga 4 1080
-http://127.0.0.1:6878/ace/getstream?id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M. LaLiga 5 1080
-http://127.0.0.1:6878/ace/getstream?id=535394f62a810bc5aeb25be75ea5ff7d03e070b2
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M. LaLiga 6 1080
-http://127.0.0.1:6878/ace/getstream?id=c896d37778f9e43549a788fc22206a655895b51b
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN LaLİga 1080 MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN LaLiga 2 1080 MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN LaLiga 2 720 MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=0950c37fe1ea817fc561c611ae943d58505f7a79
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN LaLiga 3 1080 MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=8c71f0e0a5476e10950fc827f9d2a507340aba74
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",,DAZN LaLiga 4 1080 MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=2792a8a5f4a3f53cd72dec377a2639cd12a6973e
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN LaLiga 5 1080 MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",LaLiga HyperMotion 1080
-http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",LaLiga HyperMotion 720
-http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",LaLiga HyperMotion 2 1080
-http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",LaLiga HyperMotion 2 720
-http://127.0.0.1:6878/ace/getstream?id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",LaLiga HyperMotion 3
-http://127.0.0.1:6878/ace/getstream?id=b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",LaLiga HyperMotion 4
-http://127.0.0.1:6878/ace/getstream?id=2cacf21476b036e319bcb7c7e747766e6ccc082e
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",LaLiga HyperMotion 5
-http://127.0.0.1:6878/ace/getstream?id=a1146358aa50c99c887108b17f62f9264186a16a
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",LaLiga HyperMotion 6
-http://127.0.0.1:6878/ace/getstream?id=7a9bb1b9cccb759c44ed84f3c1283922e6854670
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",LaLiga HyperMotion 7
-http://127.0.0.1:6878/ace/getstream?id=446e73a22582921393b020ed08b768ad8e14d754
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",LaLiga HyperMotion 8
-http://127.0.0.1:6878/ace/getstream?id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN F1 Multicamara
-http://127.0.0.1:6878/ace/getstream?id=968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN F1 UHD
-http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN F1 1080
-http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN F1 1080
-http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN F1 720
-http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Dazn liga F1
-http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Dazn liga F2
-http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Dazn liga F3
-http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Dazn liga F4
-http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN F1 HD
-http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN 1
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN 2
@@ -2922,116 +2849,47 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN 4
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Movistar laliga
-http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Movistar laliga
-http://127.0.0.1:6878/ace/getstream?id=1c761eb280cdf43748275e58942914620b0551d4
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN 1 La Liga
+http://127.0.0.1:6878/ace/getstream?id=520950d296c952e1864a08e15af9f89f1ab514ec
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN 2 La Liga
+http://127.0.0.1:6878/ace/getstream?id=ae16a8f004b1287ee1f53263ab265f72bba0daf5
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M La Liga
+http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M La Liga 2
+http://127.0.0.1:6878/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df8042ec
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M La Liga 3
+http://127.0.0.1:6878/ace/getstream?id=7ad14386deef2f45ffe17d30a631dbf79b6a1a87
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M.L. Campeones 1080 MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M.L. Campeones 1080 MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M.L. Campeones 1080
-http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M.L. Campeones 720
-http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M.L. Campeones 3 1080
-http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M.L. Campeones 3 720
-http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M.L. Campeones 4 1080
-http://127.0.0.1:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M.L. Campeones 5 1080
-http://127.0.0.1:6878/ace/getstream?id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M.L. Campeones 6 1080
-http://127.0.0.1:6878/ace/getstream?id=64a9353032efa2acb093d0bb86481f20f482d47e
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M.L. Campeones 7 1080
-http://127.0.0.1:6878/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M.L. Campeones 8 1080
-http://127.0.0.1:6878/ace/getstream?id=6c445141445b06d7b4328d80e2dd936bd0ca52ca
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M.L. Campeones 9 SD
-http://127.0.0.1:6878/ace/getstream?id=7244379f8f6382d40afec871fb8e4219a803840b
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M.L. Campeones 10 SD
-http://127.0.0.1:6878/ace/getstream?id=d42e1b592b840ea34394fd3e1b1d3a4d0f399213
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M.L. Campeones 12 SD
-http://127.0.0.1:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M.L. Campeones 13 SD
-http://127.0.0.1:6878/ace/getstream?id=60296c246e3596f334903fefd48cfaa724a5053b
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M. Liga de Campeones
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M. Deportes 720
-http://127.0.0.1:6878/ace/getstream?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M. Golf 1080
-http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M. Golf2 1080
-http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
+##EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M.L. CAMPEONES 2 1080    
+http://127.0.0.1:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M.L. Campeones 3 1080
+http://127.0.0.1:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",MOVISTAR DEPORTES FHD
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",MOVISTAR DEPORTES 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",MOVISTAR DEPORTES 3 FHD
+http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",MOVISTAR DEPORTES 4 FHD
+http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",MOVISTAR DEPORTES 5 FHD
+http://127.0.0.1:6878/ace/getstream?id=2d19e39c92f7d8ce90b271d8aaf6f42e733eedc2
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",MOVISTAR DEPORTES 6 FHD
+http://127.0.0.1:6878/ace/getstream?id=e4124b2143ed75e5ce902bed61be08cc5e5c3c03
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",EuroSport 1 1080
-http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",EuroSport 2 1080
-http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",tdp 1080
-http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Tennis Channel
 http://127.0.0.1:6878/ace/getstream?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",beIN SPORTS ñ
-http://127.0.0.1:6878/ace/getstream?id=41af6926a6010b68ba2540975761436bb077748f
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Barça 720
-http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M. Golf HD
-http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M. Deportes HD
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Liga 1080 
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5 
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Liga 1080 
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f 
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Liga 720  
-http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8 
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Dazn liga 1080  
-http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a 
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Dazn liga 720 
-http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914 
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M.L. Campeones 720 
-http://127.0.0.1:6878/ace/getstream?id=90beb42e9e276854348bc91a9ff3c3e46c617495 
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M.L. CAMPEONES 2 1080    
-http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393  
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M.L. CAMPEONES 2 720   
-http://127.0.0.1:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9 
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN 1 1080 
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639 
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN 1 720 
-http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f 
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN 2 1080 
-http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc 
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN 2 720 
-http://127.0.0.1:6878/ace/getstream?id=7aa402bab9fff43258fbcf401881a39475f30aaf 
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN 3 1080 
-http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97 
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN 4 1080 
-http://127.0.0.1:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd 
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M. Deportes 1080 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112 
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M. Deportes 720 
-http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa 
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M. Deportes 2 1080 
-http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917 
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M. Deportes 3 1080 
-http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a 
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M. Deportes 4 1080 
-http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5 
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M. Deportes 5 1080 
-http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3 
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M. Deportes 6 1080 
-http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce 
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",M. Deportes 7 1080 
-http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78 
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Vamos 1080 
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122 
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Vamos 720 
-http://127.0.0.1:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0 
+http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae 
+
 =========RUSSIA===========
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Match TV
 e79http://127.0.0.1:6878/ace/getstream?id=f7ded1296ab7736c1df409df553e7a2d6040c
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Match TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",,Match TV FHD
 http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",MATCH! HD
 http://127.0.0.1:6878/ace/getstream?id=97d5f2a9232a1ccbf8f81c270a0050ca601618fd
@@ -3057,16 +2915,12 @@ http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 http://127.0.0.1:6878/ace/getstream?id=2733312fe2524de84ed72ec85d1ed403660b2d4d
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",VIASAT SPORT HD
 http://127.0.0.1:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Eurosport 1 HD
-http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Telekanal Futbol HD
 http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",BELARUS 5
-http://127.0.0.1:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DIEMA SPORT
 http://127.0.0.1:6878/ace/getstream?id=8c6a3a49e43b6d05ac93b83fe4a41660caffae01
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Setanta Sport 
-http://127.0.0.1:6878/ace/getstream?id=0528a1cecd81efd3ec72f49bd32fa847bc924abf
+http://127.0.0.1:6878/ace/getstream?id=c584dd8c6bb963fa78e6f79d2e3c6a15493f8241
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Setanta Sport 1 
 http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Setanta Sport 2
@@ -3146,7 +3000,13 @@ http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",TNT Sports 4 [UK]
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",󠁧󠁢󠁥󠁮󠁧U+E007F Sky Sports Football 
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",BT Sport 1
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",BT Sport 2
+http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",BT Sport 3
+http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Sky Sports Football 
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",󠁧󠁢󠁥󠁮󠁧Sky Sports Main Event 
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
@@ -3156,7 +3016,7 @@ http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Premier Sports 1
 http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",󠁧󠁢󠁥󠁮󠁧U+E007F Premier Sports 2
+##EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Premier Sports 2
 http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
 ==========FRANCIA=============
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",beIN Sports France 1 HD
@@ -3174,6 +3034,12 @@ http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
 http://127.0.0.1:6878/ace/getstream?id=a97cafedefe189d63e52eadc5c9bbc351b01540a
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",ESPN 4
 http://127.0.0.1:6878/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Ziggo Sport 1 
+http://127.0.0.1:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Ziggo Sport 2 
+http://127.0.0.1:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Ziggo Sport 6
+http://127.0.0.1:6878/ace/getstream?id=9231f38e71a85ad24b4c11a5e360992e30c916ed
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Ziggo Sport Golf [BE] 
 http://127.0.0.1:6878/ace/getstream?id=035e34b791335962ca817f42fd14300382af3797
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Ziggo Sport Racing [BE] 
@@ -3182,7 +3048,7 @@ http://127.0.0.1:6878/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45
 http://127.0.0.1:6878/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Ziggo Sport Voetbal [BE] 
 http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91
-==========GERMANIA=============
+==========GERMANIA===========
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",RTL+ SPORT EVENT 1
 http://127.0.0.1:6878/ace/getstream?id=a7319ebd54cb1db9a9db1574929ca8d305a323d3
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",RTL+ SPORT EVENT 2
@@ -3195,17 +3061,17 @@ http://127.0.0.1:6878/ace/getstream?id=784da1ced871f6d3f6bf25f29664bfd39f6130a6
 http://127.0.0.1:6878/ace/getstream?id=81284e9a279ee23cbc4a7400bd9531f127d20fe5
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",RTL+ SPORT EVENT 6
 http://127.0.0.1:6878/ace/getstream?id=c065ab169f75ced1d34fbcab6b84a5fa4ca73e30
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Sky Sport 1 Austria HD
+##EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Sky Sport 1 Austria HD
 http://127.0.0.1:6878/ace/getstream?id=eec3f8107e008cec3679f76e078deeefd1348a3e
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Sport 2 Austria HD
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",SkySport 2 Austria HD
 http://127.0.0.1:6878/ace/getstream?id=ce4ae0c3491acd4272340029139ba25642e2516b
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Sky Sport 3 Austria HD
 http://127.0.0.1:6878/ace/getstream?id=a435581e6cba56972e48cf4519d1b2af735eec2f
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Sky Sport 4 Austria HD
 http://127.0.0.1:6878/ace/getstream?id=e6cce13cb4005ec3c7d77db47865385927a7ab7e
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN 1 Bar HD
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN 1 Bar DE HD
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN 2 Bar HD
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",DAZN 2 DE Bar HD
 http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Magenta Sport 1 HD
 http://127.0.0.1:6878/ace/getstream?id=501141c649a2b78c4965cbf3257224181cc55072
@@ -3225,7 +3091,7 @@ http://127.0.0.1:6878/ace/getstream?id=ac839cda9709255c21a98af455731f037e77a9e4
 http://127.0.0.1:6878/ace/getstream?id=11c5823d4196a90b509f03df1fe78e13cfbbb175
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Magenta Sport 9 HD
 http://127.0.0.1:6878/ace/getstream?id=86495fe134ff065d5217497babe6be33f81d37d1
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",,Magenta Sport 10 HD
+#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Magenta Sport 10 HD
 http://127.0.0.1:6878/ace/getstream?id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",Magenta Sport 11 HD
 http://127.0.0.1:6878/ace/getstream?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
@@ -3267,14 +3133,20 @@ http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
 http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",FOX Sports 2 HD
 http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",NBA 1
-http://127.0.0.1:6878/ace/getstream?id=e2973f7d40c438a5ef429ae944a9b4e403e9eaed
-#EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",NBA 2
-http://127.0.0.1:6878/ace/getstream?id=e5d02cb0607d5888b25169ebd23c1bca952b12d3
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",NBA TV
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 tvg-id="" tvg-name="ace" tvg-logo="" group-title="SPORT ACE",NHL
 http://127.0.0.1:6878/ace/getstream?id=2fab201db52297f9bfbe7c44d6109369cdb29620
+
+
+
+
+
+
+
+
+
+
 
 
 
