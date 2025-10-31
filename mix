@@ -427,6 +427,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 https://travelxp-travelxp-4-fr.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="DOC",Travel XP (DE)
 https://travelxp-travelxp-2-de.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="602" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="DOC",US: Travel Channel FHD
+http://fastream.xyz:8080/955169505tv/kkc9dm/23893
 #EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20240925T141635SQUARE.png" tvg-chno="53" group-title="DOC",BBC Earth
 https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="DOC",BBC Travel
@@ -2786,6 +2788,8 @@ http://visitmy.collegefan.org:80/GregDeg/0642815379/761495
 http://visitmy.collegefan.org:80/MJALLEN/2586741093/761495
 #EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
 http://visitmy.collegefan.org:80/Olga24/3614431693/761495
+#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
+http://visitmy.collegefan.org:80/dm1541/7061542983/761495
 #EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CND| TLN
 http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:55:82:8C&stream=1458846&extension=ts&play_token=J7OZoFvI7o
 
