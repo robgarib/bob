@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 06/11/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 13/11/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 https://patbuweb.com/iptv/e2liste/startend.avi
@@ -2853,6 +2853,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1358/lg/2b0c5b/LG-Logo-PNG-100x100_v1.png" group-title="SPORT",FUBO Sports
 https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="US: FUBO SPORTS NETWORK" tvg-name="USA: FUBO SPORTS" tvg-logo="https://puddintap.click/ico/new/USA/USA_FUBO_SPORTS.png" group-title="SPORT",USA: FUBO SPORTS
 #EXTINF:-1 audio-track="2" group-title="SPORT" tvg-logo="",blue ZOOM F
 #EXTVLCOPT:audio-track=2
 https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
@@ -2880,7 +2881,6 @@ http://visitmy.collegefan.org:80/Olga24/3614431693/761495
 http://visitmy.collegefan.org:80/dm1541/7061542983/761495
 #EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CND| TLN
 http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:55:82:8C&stream=1458846&extension=ts&play_token=J7OZoFvI7o
-
 
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="SPORT",SPT| DAZN 1 HD CANADA
 http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:55:82:8C&stream=1316808&extension=ts&play_token=89ETiofW7M
