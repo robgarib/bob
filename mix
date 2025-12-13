@@ -2844,18 +2844,38 @@ http://visitmy.collegefan.org:80/johnshandrick/5432169708/761495
 http://visitmy.collegefan.org:80/piedmont20/7013459286/761495
 #EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png"" group-title="SPORT",CANADA: TLN
 http://zerotwo.access.ly:2096/Olga24/3614431693/761495
+#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png"" group-title="SPORT",CANADA: TLN
+http://zerotwo.access.ly:2096/ZGSGtV/8735146029/761495
+#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png"" group-title="SPORT",CANADA: TLN
+http://zerotwo.access.ly:2096/lowtech/14runityhQ/761495
+#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png"" group-title="SPORT",CANADA: TLN
+http://zerotwo.access.ly:2096/RonSmith23/9235167084/761495
+#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png"" group-title="SPORT",CANADA: TLN
+http://zerotwo.access.ly:2096/piedmont20/7013459286/761495
+#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png"" group-title="SPORT",CANADA: TLN
+http://zerotwo.access.ly:2096/TimW2022/1036725849/761495
+#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png"" group-title="SPORT",CANADA: TLN
+http://zerotwo.access.ly:2096/heins21/4230598761/761495
+#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png"" group-title="SPORT",CANADA: TLN
+http://zerotwo.access.ly:2096/bama1/7908346251/761495
 #EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CND| TLN
 http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:55:82:8C&stream=1458846&extension=ts&play_token=J7OZoFvI7o
 
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="SPORT",SPT| DAZN 1 HD CANADA
-http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:55:82:8C&stream=1316808&extension=ts&play_token=89ETiofW7M
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="SPORT",SPT| DAZN CANADA EVENT 1 (LIVE)
-http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:55:82:8C&stream=1379229&extension=ts&play_token=OYgAtpu186
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="SPORT",SPT| DAZN CANADA EVENT 2 (LIVE)
-http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:55:82:8C&stream=1379230&extension=ts&play_token=Uqkc1ekgRH
 
-
-
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="https://puddintap.click/ico/USA/CBSSpNet.png" group-title="SPORT",USA: CBS SPORTS NETWORK
+http://zerotwo.access.ly:2096/lowtech/14runityhQ/815026
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="https://puddintap.click/ico/USA/CBSSpNet.png" group-title="SPORT",USA: CBS SPORTS NETWORK
+http://zerotwo.access.ly:2096/RonSmith23/9235167084/815026
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="https://puddintap.click/ico/USA/CBSSpNet.png" group-title="SPORT",USA: CBS SPORTS NETWORK
+http://zerotwo.access.ly:2096/piedmont20/7013459286/815026
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="https://puddintap.click/ico/USA/CBSSpNet.png" group-title="SPORT",USA: CBS SPORTS NETWORK
+http://zerotwo.access.ly:2096/TimW2022/1036725849/815026
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="https://puddintap.click/ico/USA/CBSSpNet.png" group-title="SPORT",USA: CBS SPORTS NETWORK
+http://zerotwo.access.ly:2096/heins21/4230598761/815026
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="https://puddintap.click/ico/USA/CBSSpNet.png" group-title="SPORT",USA: CBS SPORTS NETWORK
+http://zerotwo.access.ly:2096/bama1/7908346251/815026
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="https://puddintap.click/ico/USA/CBSSpNet.png" group-title="SPORT",USA: CBS SPORTS NETWORK
+http://zerotwo.access.ly:2096/ZGSGtV/8735146029/815026
 #EXTINF:-1 tvg-id="855" tvg-logo="https://imgx.fubo.tv/station_logos/cbs_sn_c.png" group-title="SPORT",CBS SPORTS NETWORK | US
 http://zerotwo.access.ly:2096/Olga24/3614431693/815026
 #EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA SD" group-title="SPORT",CBS Sports Network USA SD
