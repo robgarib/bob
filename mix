@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 03/12/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 13/12/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 https://patbuweb.com/iptv/e2liste/startend.avi
@@ -148,6 +148,8 @@ https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="SKY",=== SKY ===
 http://patbuweb.com/iptv/e2liste/startend.avi
+#EXTINF:-1 tvg-id="Tv 8 UHD" tvg-name="TV8 HD" tvg-logo="https://topita.logosmig.fyi/rossiQ/tv8hd.png" group-title="SKY",TV8 HD
+http://yellow.imig.cc:80/eZFbjqaw/buGTHwC/402677
 #EXTINF:-1 tvg-chno="8" tvg-id="tv8" tvg-name="Tv8" tvg-logo="https://pbs.twimg.com/profile_images/1074677376217427968/C9GfHiLI.jpg" group-title="SKY",Tv8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 #EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="SKY",TV8
@@ -221,10 +223,9 @@ https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 
 
 #EXTINF:-1 tvg-id="RSI LA1 HD" tvg-name="RSI LA 1 HD" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la%201/la1-hd.png" group-title="Svizzera",RSI LA 1 HD
-http://15h5n3f4k344s2v2h4p4.onlus.online:80/live/StiXWLi1eX/TcKfK314nF/199638.ts
+http://yellow.imig.cc:80/eZFbjqaw/buGTHwC/402564
 #EXTINF:-1 tvg-id="RSI La 2 HD" tvg-name="RSI LA 2 HD" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title="Svizzera",RSI LA 2 HD
-http://15h5n3f4k344s2v2h4p4.onlus.online:80/live/StiXWLi1eX/TcKfK314nF/199639.ts
-
+http://yellow.imig.cc:80/eZFbjqaw/buGTHwC/402561
 
 
 #EXTINF:-1 tvg-id="RTS1.ch@SD"" group-title="Svizzera",RTS 1 (stream mdp)
@@ -2543,12 +2544,12 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Turkmenistan Sport
 https://alpha.tv.online.tm/legacyhls/ch004.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Persiana Sport
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Persiana Sport 1
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://gg.hls2.xyz/live/Persiana%20Sports/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Persiana Sport
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Persiana Sport 1
 https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Persiana Sport
+#EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Persiana Sport 1
 https://ss.90minlive.online/live/Persiana%20Sports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",Persiana Sport 2
 https://ss.90minlive.online/live/Persiana%20Sports2/playlist.m3u8
@@ -2567,32 +2568,36 @@ https://gg.hls2.xyz/live/IR%20-%20Varzish%20TV/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://ss.90minlive.online/var/var/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Inter FHD" tvg-logo="https://miglior.miweb.cc/copertinenuove/dazn_sat_25/interfhd.png" group-title="SPORT",Inter FHD
+http://yellow.imig.cc:80/eZFbjqaw/buGTHwC/548281
+#EXTINF:-1 tvg-id="" tvg-name="Monza FHD" tvg-logo="https://miglior.miweb.cc/copertinenuove/dazn_sat_25/monzafhd.png" group-title="SPORT",Monza FHD
+http://yellow.imig.cc:80/eZFbjqaw/buGTHwC/548271
 #EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",IT: ZONA DAZN HD
-http://pgeffordgef.top:8080/17172728844622/aksfmgd32hng/62257
+http://yellow.imig.cc:80/eZFbjqaw/buGTHwC/624906
 #EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",IT: DAZN | 1 HD
-http://pgeffordgef.top:8080/17172728844622/aksfmgd32hng/62118
+http://yellow.imig.cc:80/eZFbjqaw/buGTHwC/624907
 #EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",IT: EUROSPORT 1 HD
-http://pgeffordgef.top:8080/17172728844622/aksfmgd32hng/62199
+http://yellow.imig.cc:80/eZFbjqaw/buGTHwC/548216
 #EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",IT: EUROSPORT 2 HD
-http://pgeffordgef.top:8080/17172728844622/aksfmgd32hng/62202
+http://yellow.imig.cc:80/eZFbjqaw/buGTHwC/548215
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Business Quality" tvg-logo="https://logosmig.fyi/rossi/sport/sportBusiness.png" group-title="SPORT",Sky Sport Business Quality
+http://yellow.imig.cc:80/eZFbjqaw/buGTHwC/624903
 #EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",IT: SKY SPORT 24 HD
-http://pgeffordgef.top:8080/17172728844622/aksfmgd32hng/62218
+http://yellow.imig.cc:80/eZFbjqaw/buGTHwC/548093
+#EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",IT: SKY SPORT MIX HD
+http://yellow.imig.cc:80/eZFbjqaw/buGTHwC/647887
+#EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",IT: SKY SPORT MAX HD
+http://yellow.imig.cc:80/eZFbjqaw/buGTHwC/548125
 #EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",IT: SKY SPORT ARENA HD
-http://pgeffordgef.top:8080/17172728844622/aksfmgd32hng/62221
+http://yellow.imig.cc:80/eZFbjqaw/buGTHwC/548113
 #EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",IT: SKY SPORT CALCIO HD
-http://pgeffordgef.top:8080/17172728844622/aksfmgd32hng/62224
+http://yellow.imig.cc:80/eZFbjqaw/buGTHwC/650231
 #EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",IT: SKY SPORT F1 HD
-http://pgeffordgef.top:8080/17172728844622/aksfmgd32hng/62227
-#EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",IT: SKY SPORT GOLF HD
-http://pgeffordgef.top:8080/17172728844622/aksfmgd32hng/62229
+http://yellow.imig.cc:80/eZFbjqaw/buGTHwC/548102
 #EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",IT: SKY SPORT MOTOGP HD
-http://pgeffordgef.top:8080/17172728844622/aksfmgd32hng/62231
-#EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",IT: SKY SPORT NBA HD
-http://pgeffordgef.top:8080/17172728844622/aksfmgd32hng/62234
-#EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",IT: SKY SPORT TENNIS HD
-http://pgeffordgef.top:8080/17172728844622/aksfmgd32hng/62237
+http://yellow.imig.cc:80/eZFbjqaw/buGTHwC/548117
 #EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",IT: SKY SPORT UNO HD
-http://pgeffordgef.top:8080/17172728844622/aksfmgd32hng/62240
+http://yellow.imig.cc:80/eZFbjqaw/buGTHwC/548109
 
 #EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",CA TSN 1 (E)
 http://cord-cutter.net:8080/QKg04k/211983/57292
