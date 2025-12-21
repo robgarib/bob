@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 20/12/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 21/12/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 https://patbuweb.com/iptv/e2liste/startend.avi
@@ -2432,8 +2432,22 @@ https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
 #EXTINF:-1 channel-id="samsung-ITBC4700002CO" tvg-id="ITBC4700002CO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20230412T042559SQUARE.png_20230412042559.png" group-title="SPORT",Solocalcio (SamsungTV)
 https://italiansport-solocalcio-samsung.amagi.tv/hls/amagi_hls_data_sportital-solocalcio-samsung-italy/CDN/playlist.m3u8
+#EXTINF:-1 channel-id="pluto-63a0e33a45264d000850ed7e" tvg-id="63a0e33a45264d000850ed7e" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="SPORT",CBS SPORTS GOLAZO NETWORK HD
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=0&appVersion=0&clientModelNumber=1.0.0&country=IT&deviceDNT=false&deviceId=0&deviceLat=45.4640&deviceLon=9.1919&serverSideAds=false&marketingRegion=IT&masterJWTPassthrough=true&includeExtendedEvents=true&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-63a0e33a45264d000850ed7e" tvg-id="63a0e33a45264d000850ed7e" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="SPORT",Golazo! Network (Serie A)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=0&appVersion=0&clientModelNumber=1.0.0&country=IT&deviceDNT=false&deviceId=0&deviceLat=45.4640&deviceLon=9.1919&serverSideAds=false&marketingRegion=IT&masterJWTPassthrough=true&includeExtendedEvents=true&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/CBS_SPORTS_HD.png" group-title="SPORT",SPT| CBS SPORTS HD
+http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:55:82:8C&stream=73468&extension=ts&play_token=OFCv5sVBuW
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="https://puddintap.click/ico/USA/CBSSpNet.png" group-title="SPORT",USA: CBS SPORTS NETWORK
+http://zerotwo.access.ly:2096/bama1/7908346251/815026
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/q8BENJg.png",CBS Sports HQ
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
+#EXTINF:-1 tvg-chno="2460" tvg-id="CBS Sports HQ" tvg-name="CBS Sports HQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="PlutoTV" group-title="SPORT",CBS Sports HQ
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=2460&deviceId=5e9f2c05172a0f0007db4786&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png"" group-title="SPORT",CANADA: TLN
+http://zerotwo.access.ly:2096/bama1/7908346251/761495
+#EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CND| TLN
+http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:55:82:8C&stream=1458846&extension=ts&play_token=J7OZoFvI7o
 #EXTINF:-1 tvg-name="Plus TV" tvg-id="MsChannel.it" tvg-logo="https://channels.zappr.stream/logos/plustvsport.png" group-title="SPORT", Plus TV Sport
 https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb82.sdp/chunks.m3u8
 #EXTINF:-1 tvg-name="Plus TV Motori" tvg-id="MsMotor.it" tvg-logo="https://channels.zappr.stream/logos/plustvmotori.png" group-title="SPORT", Plus TV Motori
@@ -2568,123 +2582,6 @@ https://gg.hls2.xyz/live/IR%20-%20Varzish%20TV/playlist.m3u8
 https://ss.90minlive.online/var/var/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bar Business (Solo Eventi)" tvg-logo="http://picon.koolmedia.live/images/skysportBusiness.png" group-title="SPORT",Sky Sport Bar Business (Solo Eventi)
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/687396
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Channel FHD" tvg-logo="http://picon.koolmedia.live/images/9b83d052aa497851a3e55bbd2bedf35d.png" group-title="SPORT",Dazn Channel FHD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/462218
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Channel HD" tvg-logo="http://picon.koolmedia.live/images/9b83d052aa497851a3e55bbd2bedf35d.png" group-title="SPORT",Dazn Channel HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/675970
-#EXTINF:-1 tvg-id="dazn.seriea.inter" tvg-name="Inter FHD" tvg-logo="http://service.fullapple.me:80/images/7ec8336709bf8a8d71d0ffff69127903.png" group-title="SPORT",Inter FHD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/449912
-#EXTINF:-1 tvg-id="" tvg-name="Monza FHD" tvg-logo="http://service.fullapple.me:80/images/5594ee48915bf23efcc344101631c85e.png" group-title="SPORT",Monza FHD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/449927
-#EXTINF:-1 tvg-id="" tvg-name="Zona Dazn STAR FHD" tvg-logo="http://picon.koolmedia.live/images/9b83d052aa497851a3e55bbd2bedf35d.png" group-title="SPORT",Zona Dazn STAR FHD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/260113
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Zona Gol Serie A HD" tvg-logo="http://picon.koolmedia.live/images/9b83d052aa497851a3e55bbd2bedf35d.png" group-title="SPORT",Dazn Zona Gol Serie A HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/355867
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Calcio 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="SPORT",DAZN Calcio 1 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/676789
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Calcio 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="SPORT",DAZN Calcio 2 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/676788
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Calcio 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="SPORT",DAZN Calcio 3 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/676787
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Zona Goal Serie B HD" tvg-logo="http://picon.koolmedia.live/images/1_0_1_0_0_0_0_0_0_12.png" group-title="SPORT",Dazn Zona Goal Serie B HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/253380
-#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24 HD" tvg-logo="http://picon.koolmedia.live/images/ccec66c13fc661737e9bb8c24b4c32c7.png" group-title="SPORT",Sky Sport 24 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/187
-#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_2B0F_1838_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport Uno HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/190
-#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_1C29_1838_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport Calcio HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/452291
-#EXTINF:-1 tvg-id="SkySportMax.it" tvg-name="Sky Sport Max HD" tvg-logo="http://picon.koolmedia.live/images/sky-sport-max-it.png" group-title="SPORT",Sky Sport Max HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/427501
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Mix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/512px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="SPORT",Sky Sport Mix HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/670926
-#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_2B10_1900_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport Arena HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/184
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Legend HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Legend_-_Logo_2025.svg/512px-Sky_Sport_Legend_-_Logo_2025.svg.png" group-title="SPORT",Sky Sport Legend HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/670920
-#EXTINF:-1 tvg-id="SkySportTennis.it" tvg-name="Sky Sport Tennis HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_DE7_15E0_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport Tennis HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/173
-#EXTINF:-1 tvg-id="SkySportAction.it" tvg-name="Sky Sport Action HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_1E58_2198_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport Action HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/212636
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_2506_170C_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport F1 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/181
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGp HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_250B_170C_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport MotoGp HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/359766
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="Sky Sport Basket HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_1E54_15E0_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport Basket HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/171
-#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="Eurosport 1 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_1_3311_190_13E_820000_0_0_0.png" group-title="SPORT",Eurosport 1 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/59
-#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="Eurosport 2 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_1036_206C_FBFF_820000_0_0_0.png" group-title="SPORT",Eurosport 2 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/58
-#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24 HD" tvg-logo="http://picon.koolmedia.live/images/ccec66c13fc661737e9bb8c24b4c32c7.png" group-title="SPORT",Sky Sport 24 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/452139
-#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_2B0F_1838_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport Uno HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/452140
-#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_1C29_1838_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport Calcio HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/239559
-#EXTINF:-1 tvg-id="SkySportMax.it" tvg-name="Sky Sport Max HD" tvg-logo="http://picon.koolmedia.live/images/sky-sport-max-it.png" group-title="SPORT",Sky Sport Max HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/452176
-#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_2B10_1900_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport Arena HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/452137
-#EXTINF:-1 tvg-id="SkySportTennis.it" tvg-name="Sky Sport Tennis HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_DE7_15E0_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport Tennis HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/452134
-#EXTINF:-1 tvg-id="SkySportAction.it" tvg-name="Sky Sport Golf HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_1E58_2198_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport Golf HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/452150
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_2506_170C_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport F1 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/452135
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGp HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_250B_170C_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport MotoGp HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/452171
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="Sky Sport Basket HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_1E54_15E0_FBFF_820000_0_0_0.png" group-title="SPORT",Sky Sport Basket HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/452133
-#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="Eurosport 1 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_1_3311_190_13E_820000_0_0_0.png" group-title="SPORT",Eurosport 1 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/452129
-#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="Eurosport 2 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_1036_206C_FBFF_820000_0_0_0.png" group-title="SPORT",Eurosport 2 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/452128
-
-
-#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/zcs7DB9.jpg" group-title="SPORT",AL: Super Sport 1 ᶠᴴᴰ
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/391215
-#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/evpF3gX.jpg" group-title="SPORT",AL: Super Sport 2 ᶠᴴᴰ
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/391213
-#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/zZl8yPj.jpg" group-title="SPORT",AL: Super Sport 3 ᶠᴴᴰ
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/391211
-#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 4 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/NmEa03G.jpg" group-title="SPORT",AL: Super Sport 4 ᶠᴴᴰ
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/391209
-#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 5 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/9ipWUKh.jpg" group-title="SPORT",AL: Super Sport 5 ᶠᴴᴰ
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/391207
-#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 6 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/Kdns3Di.jpg" group-title="SPORT",AL: Super Sport 6 ᶠᴴᴰ
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/391205
-
-#EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Sport 1 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/EJcSPXg.jpg" group-title="SPORT",DE: Dazn Sport 1 ᶠᴴᴰ
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/391128
-#EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Sport 2 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/BmjcLqD.jpg" group-title="SPORT",DE: Dazn Sport 2 ᶠᴴᴰ
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/391127
-
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 1 HD" tvg-logo="" group-title="SPORT",UK: TNT SPORTS 1 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/454327
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 10 HD" tvg-logo="" group-title="SPORT",UK: TNT SPORTS 10 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/454326
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 2 HD" tvg-logo="" group-title="SPORT",UK: TNT SPORTS 2 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/454325
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 3 HD" tvg-logo="" group-title="SPORT",UK: TNT SPORTS 3 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/454324
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 4 HD" tvg-logo="" group-title="SPORT",UK: TNT SPORTS 4 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/454323
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 5 HD" tvg-logo="" group-title="SPORT",UK: TNT SPORTS 5 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/454322
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 6 HD" tvg-logo="" group-title="SPORT",UK: TNT SPORTS 6 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/454321
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 7 HD" tvg-logo="" group-title="SPORT",UK: TNT SPORTS 7 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/454320
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 8 HD" tvg-logo="" group-title="SPORT",UK: TNT SPORTS 8 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/454319
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 9 HD" tvg-logo="" group-title="SPORT",UK: TNT SPORTS 9 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/454318
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 10 HD" tvg-logo="" group-title="SPORT",UK: TNT SPORTS 10 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/454326
 
 
 #EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",CA TSN 1 (E)
@@ -2709,34 +2606,7 @@ http://cord-cutter.net:8080/QKg04k/211983/57467
 http://cord-cutter.net:8080/QKg04k/211983/16131
 #EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",CA TSN 5 
 http://cord-cutter.net:8080/QKg04k/211983/57295
-#EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",CA Sportsnet 360 HD
-http://xxip25.top:8080/1yNyea/123956/2219
-#EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",CA Sportsnet 360 (HD)
-http://xxip25.top:8080/1yNyea/123956/57299
-#EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",CA Sportsnet East HD (F)
-http://xxip25.top:8080/1yNyea/123956/57298
-#EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",CA Sportsnet One (FHD)
-http://xxip25.top:8080/1yNyea/123956/57297
-#EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",CA Sportsnet One (HD)
-http://xxip25.top:8080/1yNyea/123956/47379
-#EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",CA: Sportsnet Ontario
-http://xxip25.top:8080/1yNyea/123956/57463
-#EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",CA Sportsnet Ontario HD
-http://xxip25.top:8080/1yNyea/123956/57296
-#EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",CA Sportsnet Ontario (FHD)
-http://xxip25.top:8080/1yNyea/123956/11649
-#EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",CA Sportsnet Pacific (FHD)
-http://xxip25.top:8080/1yNyea/123956/9860
-#EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",CA Sportsnet Pacific HD
-http://xxip25.top:8080/1yNyea/123956/47387
-#EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",CA Sportsnet West (FHD)
-http://xxip25.top:8080/1yNyea/123956/20975
-#EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",CA: SPORTSNET WEST
-http://xxip25.top:8080/1yNyea/123956/57300
-#EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",CA Sportsnet World HD
-http://xxip25.top:8080/1yNyea/123956/75675
-#EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",CA-FR | TVA SPORTS 1
-http://xxip25.top:8080/1yNyea/123956/57498
+
 
 #EXTINF:-1 tvg-id="8941" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8939.png" group-title="SPORT",PT: SPORT TV 1 FHD
 http://cord-cutter.net:8080/QKg04k/211983/167742
@@ -2849,52 +2719,37 @@ https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mp
 https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
 #EXTINF:-1 group-title="SPORT" tvg-id="TVE24h.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",Teledeporte ES
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="USA: ESPN" tvg-logo="http://puddintap.click/ico/IPTVLogo/espn.png" group-title="SPORT",USA: ESPN
-http://visitmy.collegefan.org:80/dillin/4852719360/815000
+http://zerotwo.access.ly:2096/piedmont20/7013459286/787949
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="USA: ESPN 2" tvg-logo="https://puddintap.click/ico/USA/ESPN2.png" group-title="SPORT",USA: ESPN 2
-http://visitmy.collegefan.org:80/dillin/4852719360/815001
+http://zerotwo.access.ly:2096/piedmont20/7013459286/775901
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",USA: ESPN DEPORTES
-http://visitmy.collegefan.org:80/dillin/4852719360/815002
+http://zerotwo.access.ly:2096/bama1/7908346251/815002
 #EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="USA: ESPN NEWS" tvg-logo="https://puddintap.click/ico/USA/ESPNews.png" group-title="SPORT",USA: ESPN NEWS
-http://visitmy.collegefan.org:80/dillin/4852719360/815003
+http://zerotwo.access.ly:2096/bama1/7908346251/815003
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="USA: ESPN U" tvg-logo="https://puddintap.click/ico/USA/ESPNU.png" group-title="SPORT",USA: ESPN U
-http://visitmy.collegefan.org:80/dillin/4852719360/815004
-#EXTINF:-1 tvg-id="espn" tvg-name="ESPN SD" group-title="SPORT",ESPN SD
-https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="espn" tvg-name="ESPN HD" group-title="SPORT",ESPN HD
-https://tvpass.org/live/ESPN/hd
-#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes SD" group-title="SPORT",ESPN Deportes SD
-https://tvpass.org/live/espn-deportes/sd
-#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes HD" group-title="SPORT",ESPN Deportes HD
-https://tvpass.org/live/espn-deportes/hd
-#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News SD" group-title="SPORT",ESPN News SD
-https://tvpass.org/live/ESPNews/sd
+http://zerotwo.access.ly:2096/bama1/7908346251/815004
+
 #EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News HD" group-title="SPORT",ESPN News HD
-https://tvpass.org/live/ESPNews/hd
-#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U SD" group-title="SPORT",ESPN U SD
-https://tvpass.org/live/ESPNU/sd
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U HD" group-title="SPORT",ESPN U HD
-https://tvpass.org/live/ESPNU/hd
-#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 SD" group-title="SPORT",ESPN2 SD
-https://tvpass.org/live/ESPN2/sd
+http://zerotwo.access.ly:2096/bama1/7908346251/815004
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 HD" group-title="SPORT",ESPN2 HD
-https://tvpass.org/live/ESPN2/hd
-#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 SD" group-title="SPORT",Fox Sports 1 SD
-https://tvpass.org/live/FoxSports1/sd
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD" group-title="SPORT",Fox Sports 1 HD
-https://tvpass.org/live/FoxSports1/hd
-#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 SD" group-title="SPORT",Fox Sports 2 SD
-https://tvpass.org/live/FoxSports2/sd
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD" group-title="SPORT",Fox Sports 2 HD
-https://tvpass.org/live/FoxSports2/hd
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="USA: FOX DEPORTES" tvg-logo="" group-title="SPORT",USA: FOX DEPORTES
-http://visitmy.collegefan.org:80/dillin/4852719360/815034
+http://zerotwo.access.ly:2096/bama1/7908346251/815034
 #EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="USA: FOX SOCCER PLUS" tvg-logo="" group-title="SPORT",USA: FOX SOCCER PLUS
-http://visitmy.collegefan.org:80/dillin/4852719360/815035
+http://zerotwo.access.ly:2096/bama1/7908346251/815035
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="USA: FOX SPORTS 1" tvg-logo="" group-title="SPORT",USA: FOX SPORTS 1
-http://visitmy.collegefan.org:80/dillin/4852719360/815036
+http://zerotwo.access.ly:2096/bama1/7908346251/815036
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="USA: FOX SPORTS 2" tvg-logo="" group-title="SPORT",USA: FOX SPORTS 2
-http://visitmy.collegefan.org:80/dillin/4852719360/815037
+http://zerotwo.access.ly:2096/bama1/7908346251/815037
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993008/600x200.png?type=white_cropped" group-title="SPORT",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008&ads.asnw=169843&ads.afid=380753925&ads.sfid=17667876&ads.csid=lgchannels_us_nbcusports_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3929&ads.xumo_contentName=NBCUSports&ads.xumo_providerId=3929&ads.xumo_providerName=NBCUSports&ads.channelId=99993008&ads._fw_ifa_type=dpid
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1358/lg/2b0c5b/LG-Logo-PNG-100x100_v1.png" group-title="SPORT",Fubo Sports
@@ -2910,26 +2765,7 @@ https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
 #EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="SPORT",BeIN Sports
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
-http://visitmy.collegefan.org:80/dillin/4852719360/761495
-#EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
-http://visitmy.collegefan.org:80/Damien123/9567314082/761495
-#EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
-http://visitmy.collegefan.org:80/heins21/4230598761/761495
-#EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
-http://visitmy.collegefan.org:80/Barry23/6741582903/761495
-#EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
-http://visitmy.collegefan.org:80/GregDeg/0642815379/761495
-#EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
-http://visitmy.collegefan.org:80/MJALLEN/2586741093/761495
-#EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
-http://visitmy.collegefan.org:80/Olga24/3614431693/761495
-#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
-http://visitmy.collegefan.org:80/dm1541/7061542983/761495
-#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
-http://visitmy.collegefan.org:80/johnshandrick/5432169708/761495
-#EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
-http://visitmy.collegefan.org:80/piedmont20/7013459286/761495
+
 #EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png"" group-title="SPORT",CANADA: TLN
 http://zerotwo.access.ly:2096/Olga24/3614431693/761495
 #EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png"" group-title="SPORT",CANADA: TLN
@@ -2966,13 +2802,9 @@ http://zerotwo.access.ly:2096/bama1/7908346251/815026
 http://zerotwo.access.ly:2096/ZGSGtV/8735146029/815026
 #EXTINF:-1 tvg-id="855" tvg-logo="https://imgx.fubo.tv/station_logos/cbs_sn_c.png" group-title="SPORT",CBS SPORTS NETWORK | US
 http://zerotwo.access.ly:2096/Olga24/3614431693/815026
-#EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA SD" group-title="SPORT",CBS Sports Network USA SD
-https://tvpass.org/live/CBSSportsNetworkUSA/sd
-#EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA HD" group-title="SPORT",CBS Sports Network USA HD
-https://tvpass.org/live/CBSSportsNetworkUSA/hd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/CBS_SPORTS_HD.png" group-title="SPORT",SPT| CBS SPORTS HD
+http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:55:82:8C&stream=73468&extension=ts&play_token=OFCv5sVBuW
 
-#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="https://puddintap.click/ico/USA/CBSSpNet.png" group-title="SPORT",USA: CBS SPORTS NETWORK
-http://visitmy.collegefan.org:80/dillin/4852719360/81502
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="(L) CBSSN" tvg-logo="https://imgx.fubo.tv/station_logos/cbs_sn_c.png" group-title="SPORT",CBS Sports Network
 http://thevdm.xyz:25461/JillChristiansen/Christiansen/44012
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/A8CnA8g.png",CBS Sports Network USA
@@ -2980,12 +2812,11 @@ http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS SPORTS" tvg-logo="https://i.ibb.co/GV6hpqS/cbs-sports-network-us.png" group-title="SPORT",CBS SPORTS
 http://thevdm.xyz:25461/JillChristiansen/Christiansen/77788
 
-#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS SPORTS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/CBS_Sports_Network_Logo.png" group-title="SPORT",CBS Sports HQ
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
+
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/q8BENJg.png",CBS Sports HQ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/iptvlogos/CBS_SPORTS_HD.png" group-title="SPORT",SPT| CBS SPORTS HD
-http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:55:82:8C&stream=73468&extension=ts&play_token=OFCv5sVBuW
+#EXTINF:-1 tvg-chno="2460" tvg-id="CBS Sports HQ" tvg-name="CBS Sports HQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="PlutoTV" group-title="SPORT",CBS Sports HQ
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=2460&deviceId=5e9f2c05172a0f0007db4786&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 
 #EXTINF:-1 channel-id="pluto-63a0e33a45264d000850ed7e" tvg-id="63a0e33a45264d000850ed7e" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="SPORT",CBS SPORTS GOLAZO NETWORK HD
@@ -3000,8 +2831,13 @@ http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7e/ma
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291880-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=38bc0031-c914-4d68-b55f-12d8ef870e44
 #EXTINF:-1 channel-id="pluto-63a0e33a45264d000850ed7e" tvg-id="63a0e33a45264d000850ed7e" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="SPORT",Golazo Network
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
+#EXTINF:-1 tvg-chno="2510" tvg-id="Golazo Network" tvg-name="Golazo Network" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="PlutoTV" group-title="SPORT",Golazo Network
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=2510&deviceId=63a0e33a45264d000850ed7e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png"" group-title="SPORT",UEFA Champions League
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65ea8b928145cb0008509426/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
+
+
+
 
 
 
