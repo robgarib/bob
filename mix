@@ -153,7 +153,11 @@ http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/8942
 #EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://topita.logosmig.fyi/rossiQ/tv8hd.png" group-title="SKY",TV8
 http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/26767
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="26" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png" group-title="SKY",Cielo
-http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/176149.ts
+http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/32878.ts
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="SKY",Cielo HD
+http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/26759
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="SKY",Sky TG24
+http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/26759
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="SKY",Sky TG24
 http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/89398.ts
 #EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="SKY",TV8
@@ -166,13 +170,9 @@ http://188.12.112.110:4000/play/a04c
 http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/27072
 #EXTINF:-1 tvg-id="" tvg-name="Sky TG 24" " group-title="SKY",Sky TG 24
 https://www.mytivu.it/Application/Channels/SkyTG24.php
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="SKY",Sky TG24
-http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/26759
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="SKY",Sky TG24
 http://188.12.112.110:4000/play/a04e
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="SKY",Cielo HD
-http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/26759
-#EXTINF:-1 tvg-id="" tvg-name="Cielo" " group-title="SKY",Cielo
+http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/32878.ts#EXTINF:-1 tvg-id="" tvg-name="Cielo" " group-title="SKY",Cielo
 https://www.mytivu.it/Application/Channels/Cielo.php
 #EXTINF:-1 tvg-chno="26" tvg-id="cielo" tvg-name="Cielo" tvg-logo="https://static.sky.it/static_clientlibs/skycielo/clientlibs/clientlib-site/resources/images/facebook.jpg" group-title="SKY",Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
@@ -2703,7 +2703,7 @@ http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/150034
 http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/159040.ts
 #EXTINF:-1 tvg-id="" tvg-name="Monza HD" tvg-logo="" group-title="SPORT",Monza HD
 http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/149885
-#EXTINF:-1 tvg-id="Monza.it" tvg-name="Monza HD" tvg-logo="http://b-live.visione.vip//piconsblk/SCUDETTI/monzahd.png" group-title="SPORT✦",Monza HD
+#EXTINF:-1 tvg-id="Monza.it" tvg-name="Monza HD" tvg-logo="http://b-live.visione.vip//piconsblk/SCUDETTI/monzahd.png" group-title="SPORT",Monza HD
 http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/159030.ts
 #EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="EuroSport 1 HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysport2022/eurosport.png" group-title="SPORT",EuroSport 1 HD
 http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/26857
