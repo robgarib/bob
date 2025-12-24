@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 22/12/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 24/12/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 https://patbuweb.com/iptv/e2liste/startend.avi
@@ -148,16 +148,14 @@ https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="SKY",=== SKY ===
 http://patbuweb.com/iptv/e2liste/startend.avi
-#EXTINF:-1 tvg-id="Tv 8 UHD" tvg-name="TV8 HD" tvg-logo="https://topita.logosmig.fyi/rossiQ/tv8hd.png" group-title="SKY",TV8 HD
-http://ze328w.chriskool.com:80/omba_Vatersalvo/pga89r6k/251
 #EXTINF:-1 tvg-chno="8" tvg-id="tv8" tvg-name="Tv8" tvg-logo="https://pbs.twimg.com/profile_images/1074677376217427968/C9GfHiLI.jpg" group-title="SKY",Tv8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
-#EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="SKY",TV8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/89424.ts
+#EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://topita.logosmig.fyi/rossiQ/tv8hd.png" group-title="SKY",TV8
+http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/26767
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="26" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png" group-title="SKY",Cielo
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/176149.ts
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="SKY",Sky TG24
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/89398.ts
 #EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="SKY",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="SKY",TV8 
@@ -165,15 +163,15 @@ https://www.mytivu.it/Application/Channels/TV8.php
 #EXTINF:-1 tvg-id="" tvg-name="TV8" " group-title="SKY",TV8 HD
 http://188.12.112.110:4000/play/a04c
 #EXTINF:-1 tvg-chno="50" tvg-id="sky tg24" tvg-name="Sky TG24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sky_TG24_-_Logo_2018.svg/1280px-Sky_TG24_-_Logo_2018.svg.png" group-title="SKY",Sky TG24
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/27072
 #EXTINF:-1 tvg-id="" tvg-name="Sky TG 24" " group-title="SKY",Sky TG 24
 https://www.mytivu.it/Application/Channels/SkyTG24.php
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="SKY",Sky TG24
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04dhdnea=st=1639498341~exp=1702463400~acl=/*~hmac=c3c4c2de19ff0df4b4bb20587ce59af5232eadab2995f445b7506525413805dd
+http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/26759
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="SKY",Sky TG24
 http://188.12.112.110:4000/play/a04e
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="SKY",Cielo HD
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?
+http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/26759
 #EXTINF:-1 tvg-id="" tvg-name="Cielo" " group-title="SKY",Cielo
 https://www.mytivu.it/Application/Channels/Cielo.php
 #EXTINF:-1 tvg-chno="26" tvg-id="cielo" tvg-name="Cielo" tvg-logo="https://static.sky.it/static_clientlibs/skycielo/clientlibs/clientlib-site/resources/images/facebook.jpg" group-title="SKY",Cielo
@@ -2685,6 +2683,39 @@ http://zerotwo.access.ly:2096/orv3cc/cbr47cbr47/761338
 #EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 1" tvg-logo="" group-title="SPORT",UK: BT SPORT 1
 http://zerotwo.access.ly:2096/orv3cc/cbr47cbr47/761339
 
+#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN FHD" tvg-logo="" group-title="SPORT",IT| ZONA DAZN FHD
+http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/83648
+#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN 2 FHD" tvg-logo="" group-title="SPORT",IT| ZONA DAZN 2 FHD
+http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/83652
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/dazn1hd.png" group-title="SPORT",DAZN 1 HD
+http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/232982.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/dazn1hd.png" group-title="SPORT",DAZN 1 HD
+http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/232983.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZONA SERIE A HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/zonaserieahd.png" group-title="SPORT",ZONA SERIE A HD
+http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/232984.ts
+#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysport2022/calcioraw.png" group-title="SPORT",Sky Sport Calcio HD
+http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/26877
+#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio FHD" tvg-logo="http://b-live.visione.vip/piconsblk/SPORT/sportcalciofhd.png" group-title="SPORT",Sky Sport Calcio FHD
+http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/89334.ts
+#EXTINF:-1 tvg-id="" tvg-name="Inter HD" tvg-logo="" group-title="SPORT",Inter HD
+http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/150034
+#EXTINF:-1 tvg-id="Inter.it" tvg-name="Inter HD" tvg-logo="http://b-live.visione.vip//piconsblk/SCUDETTI/interhd.png" group-title="SPORT",Inter HD
+http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/159040.ts
+#EXTINF:-1 tvg-id="" tvg-name="Monza HD" tvg-logo="" group-title="SPORT",Monza HD
+http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/149885
+#EXTINF:-1 tvg-id="Monza.it" tvg-name="Monza HD" tvg-logo="http://b-live.visione.vip//piconsblk/SCUDETTI/monzahd.png" group-title="SPORT✦",Monza HD
+http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/159030.ts
+#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="EuroSport 1 HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysport2022/eurosport.png" group-title="SPORT",EuroSport 1 HD
+http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/26857
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EuroSport 2 HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysport2022/eurosport.png" group-title="SPORT",EuroSport 2 HD
+http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/26858
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="http://b-live.visione.vip/piconsblk/ALTRISPORT/eurosport1hd.png" group-title="SPORT",Eurosport 1 HD
+http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/33942.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD" tvg-logo="http://b-live.visione.vip/piconsblk/ALTRISPORT/eurosport2hd.png" group-title="SPORT",Eurosport 2 HD
+http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/33946.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pesca HD" tvg-logo="http://b-live.visione.vip/piconsblk/ALTRISPORT/pescahd.png" group-title="SPORT",Pesca HD
+http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/33953.ts
+
 
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",TVR Sport FHD
 http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/59935
@@ -2790,7 +2821,7 @@ https://tvpass.org/live/ESPNU/sd
 https://tvpass.org/live/ESPNU/hd
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 SD" group-title="SPORT",ESPN2 SD
 https://tvpass.org/live/ESPN2/sd
-#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 HD" group-title="Live",ESPN2 HD
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 HD" group-title="SPORT",ESPN2 HD
 https://tvpass.org/live/ESPN2/hd
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 SD" group-title="SPORT",Fox Sports 1 SD
 https://tvpass.org/live/FoxSports1/sd
