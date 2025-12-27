@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 24/12/25---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 27/12/25---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 https://patbuweb.com/iptv/e2liste/startend.avi
@@ -2683,6 +2683,23 @@ http://zerotwo.access.ly:2096/orv3cc/cbr47cbr47/761338
 #EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 1" tvg-logo="" group-title="SPORT",UK: BT SPORT 1
 http://zerotwo.access.ly:2096/orv3cc/cbr47cbr47/761339
 
+
+#EXTINF:-1 tvg-id="" tvg-name="ZONA SERIE A HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/zonaserieahd.png" group-title="SPORT",DAZN BAR 214 FHD
+http://cdn.circoloco90eventi.xyz:80/Matpes24/123mat/435460
+#EXTINF:-1 tvg-id="" tvg-name="ZONA SERIE A HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/zonaserieahd.png" group-title="SPORT",Sky Calcio Bar A1 FHD
+http://cdn.circoloco90eventi.xyz:80/Matpes24/123mat/435456
+#EXTINF:-1 tvg-id="" tvg-name="ZONA SERIE A HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/zonaserieahd.png" group-title="SPORT",Sky Calcio Bar A1 HD
+http://cdn.circoloco90eventi.xyz:80/Matpes24/123mat/435457
+#EXTINF:-1 tvg-id="" tvg-name="ZONA SERIE A HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/zonaserieahd.png" group-title="SPORT",Sky Calcio Bar A1 SD
+http://cdn.circoloco90eventi.xyz:80/Matpes24/123mat/435458
+#EXTINF:-1 tvg-id="" tvg-name="ZONA SERIE A HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/zonaserieahd.png" group-title="SPORT",Sky Calcio Bar A2 FHD
+http://cdn.circoloco90eventi.xyz:80/Matpes24/123mat/435462
+#EXTINF:-1 tvg-id="" tvg-name="ZONA SERIE A HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/zonaserieahd.png" group-title="SPORT",Sky Calcio Bar A2 HD
+http://cdn.circoloco90eventi.xyz:80/Matpes24/123mat/435463
+#EXTINF:-1 tvg-id="" tvg-name="ZONA SERIE A HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/zonaserieahd.png" group-title="SPORT",Sky Calcio Bar A2 SD
+http://cdn.circoloco90eventi.xyz:80/Matpes24/123mat/435464
+#EXTINF:-1 tvg-id="" tvg-name="ZONA SERIE A HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/zonaserieahd.png" group-title="SPORT",Sky Calcio Bar A3 HD
+http://cdn.circoloco90eventi.xyz:80/Matpes24/123mat/435459
 #EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN FHD" tvg-logo="" group-title="SPORT",IT| ZONA DAZN FHD
 http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/83648
 #EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN 2 FHD" tvg-logo="" group-title="SPORT",IT| ZONA DAZN 2 FHD
@@ -2698,11 +2715,11 @@ http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/26877
 #EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio FHD" tvg-logo="http://b-live.visione.vip/piconsblk/SPORT/sportcalciofhd.png" group-title="SPORT",Sky Sport Calcio FHD
 http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/89334.ts
 #EXTINF:-1 tvg-id="" tvg-name="Inter HD" tvg-logo="" group-title="SPORT",Inter HD
-http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/150034
+http://cdn.circoloco90eventi.xyz:80/Matpes24/123mat/548280
 #EXTINF:-1 tvg-id="Inter.it" tvg-name="Inter HD" tvg-logo="http://b-live.visione.vip//piconsblk/SCUDETTI/interhd.png" group-title="SPORT",Inter HD
 http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/159040.ts
 #EXTINF:-1 tvg-id="" tvg-name="Monza HD" tvg-logo="" group-title="SPORT",Monza HD
-http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/149885
+http://cdn.circoloco90eventi.xyz:80/Matpes24/123mat/548270
 #EXTINF:-1 tvg-id="Monza.it" tvg-name="Monza HD" tvg-logo="http://b-live.visione.vip//piconsblk/SCUDETTI/monzahd.png" group-title="SPORT",Monza HD
 http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/159030.ts
 #EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="EuroSport 1 HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysport2022/eurosport.png" group-title="SPORT",EuroSport 1 HD
