@@ -3988,7 +3988,8 @@ https://tvpass.org/live/yes-network/hd
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="UK-USA",=== UK-USA ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
 
-
+#EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",US BBC America
+http://1tv41.icu:8080/ufBu62/935118/20194
 #EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",BBC ONE
 http://1tv41.icu:8080/dU0VBK/801942/53649
 #EXTINF:-1 tvg-id="bbctwo.uk" tvg-logo="" group-title="UK-USA",BBC TWO HD 
@@ -3999,8 +4000,8 @@ https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
 #EXTINF:-1 tvg-id="bbcnews.uk" tvg-logo="" group-title="UK-USA",BBC NEWS HD
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
-#EXTINF:-1 tvg-id="itv1.uk" tvg-logo="" group-title="UK-USA",itv1 HD ?
-https://viamotionhsi.netplus.ch/live/eds/itv1/browser-dash/itv1.mpd
+#EXTINF:-1 tvg-id="itv1.uk" tvg-logo="" group-title="UK-USA",itv1 HD 
+http://1tv41.icu:8080/ufBu62/935118/53651
 #EXTINF:-1 tvg-id="itv2.uk" tvg-logo="" group-title="UK-USA",itv2 HD
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 #EXTINF:-1 tvg-id="itv3.uk" tvg-logo="" group-title="UK-USA",itv3 HD
@@ -4028,62 +4029,9 @@ https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 https://viamotionhsi.netplus.ch/live/eds/bbc1/browser-dash/bbc1.mpd
 #EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",UK-BBC One
 http://1tv41.icu:8080/dU0VBK/801942/53649
-#EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA", BBC TWO HD
-#EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",BBC ONE FHD
-https://freelivtv.xyz/stream4k/stream.php?id=8428
-#EXTINF:-1 tvg-id="8429" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8427.png" group-title="UK-USA",BBC ONE HD
-https://freelivtv.xyz/stream4k/stream.php?id=8429
-#EXTINF:-1 tvg-id="8466" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8464.png" group-title="UK-USA",BBC TWO HD
-https://freelivtv.xyz/stream4k/stream.php?id=8466
-#EXTINF:-1 tvg-id="8464" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8462.jpg" group-title="UK-USA",BBC THREE HD
-https://freelivtv.xyz/stream4k/stream.php?id=8464
-#EXTINF:-1 tvg-id="8608" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8606.png" group-title="UK-USA",ITV 3 FHD
-https://freelivtv.xyz/stream4k/stream.php?id=8608
-#EXTINF:-1 tvg-id="8613" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8611.png" group-title="UK-USA",ITV FHD
-https://freelivtv.xyz/stream4k/stream.php?id=8613
-#EXTINF:-1 tvg-id="8615" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8613.png" group-title="UK-USA",ITV HD
-https://freelivtv.xyz/stream4k/stream.php?id=8615
-#EXTINF:-1 tvg-id="8623" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8621.png" group-title="UK-USA",ITV2 FHD
-https://freelivtv.xyz/stream4k/stream.php?id=8623
-#EXTINF:-1 tvg-id="8624" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8622.png" group-title="UK-USA",ITV2 HD
-https://freelivtv.xyz/stream4k/stream.php?id=8624
-#EXTINF:-1 tvg-id="8627" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8625.png" group-title="UK-USA",ITV3 HD
-https://freelivtv.xyz/stream4k/stream.php?id=8627
-#EXTINF:-1 tvg-id="8629" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8627.png" group-title="UK-USA",ITV3+1
-https://freelivtv.xyz/stream4k/stream.php?id=8629
-#EXTINF:-1 tvg-id="8630" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8628.png" group-title="UK-USA",ITV4 FHD
-https://freelivtv.xyz/stream4k/stream.php?id=8630
-#EXTINF:-1 tvg-id="8631" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8629.png" group-title="UK-USA",ITV4 HD
-https://freelivtv.xyz/stream4k/stream.php?id=8631
-#EXTINF:-1 tvg-id="8633" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8631.png" group-title="UK-USA",ITV4+1
-https://freelivtv.xyz/stream4k/stream.php?id=8633
-
-#EXTINF:-1 group-title="UK-USA" tvg-logo="http://hasbahca.net/TVLogo/world/BBC World News.png",BBC One
-https://list.iptvcat.com/my_list/s/847abe5b4bf9ced5c87c680f15774fb5.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="UK-USA",BBC One (720p)
-https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
 #EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="UK-USA",BBC Two HD (720p)
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
-#EXTINF:-1 tvg-id="bbc.one.gb" tvg-name="UK-BBC One" tvg-logo="" group-title="UK-USA",UK-BBC One
-http://1tv41.icu:8080/30065823/63154294/53649
-#EXTINF:-1 tvg-id="bbc1scotland.uk" tvg-name="UK-BBC One Scotland" tvg-logo="" group-title="UK-USA",UK-BBC One Scotland
-http://1tv41.icu:8080/30065823/63154294/53755
-#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC TWO HD" tvg-logo="" group-title="UK-USA",UK: BBC TWO HD
-http://1tv41.icu:8080/30065823/63154294/53650
-#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK-ITV" tvg-logo="" group-title="UK-USA",UK-ITV
-http://1tv41.icu:8080/30065823/63154294/53651
-#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK ITV2 HD " tvg-logo="" group-title="UK-USA",UK ITV2 HD 
-http://1tv41.icu:8080/30065823/63154294/53671
-#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK-ITV 3" tvg-logo="" group-title="UK-USA",UK-ITV 3
-http://1tv41.icu:8080/30065823/63154294/53665
-#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK-ITV 4" tvg-logo="" group-title="UK-USA",UK-ITV 4
-http://1tv41.icu:8080/30065823/63154294/53666
-#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK: Channel 4" tvg-logo="" group-title="UK-USA",UK: Channel 4
-http://1tv41.icu:8080/30065823/63154294/99138
-#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK-Channel 5" tvg-logo="" group-title="UK-USA",UK-Channel 5
-http://1tv41.icu:8080/30065823/63154294/53653
-#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US CBS Sports Network HD " tvg-logo="https://juicetv.app/channellogo/cbs.png" group-title="UK-USA",US CBS Sports Network HD 
-http://1tv41.icu:8080/30065823/63154294/10454
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Wonder" tvg-logo="https://i.imgur.com/450pJvs.png" group-title="UK-USA",Wonder
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8 
