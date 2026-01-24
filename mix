@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 13/01/26---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 24/01/26---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 https://patbuweb.com/iptv/e2liste/startend.avi
@@ -3987,11 +3987,10 @@ https://tvpass.org/live/yes-network/hd
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="UK-USA",=== UK-USA ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
-#EXTINF:-1 tvg-id="BBCAmerica.us@East" group-title="UK-USA",BBC America East
-https://fl7.moveonjoy.com/BBC_AMERICA/index.m3u8
 
-#EXTINF:-1 tvg-id="bbc1.uk" tvg-logo="" group-title="UK-USA",BBC ONE HD ?
-https://viamotionhsi.netplus.ch/live/eds/bbc1/browser-dash/bbc1.mpd
+
+#EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",BBC ONE
+http://1tv41.icu:8080/dU0VBK/801942/53649
 #EXTINF:-1 tvg-id="bbctwo.uk" tvg-logo="" group-title="UK-USA",BBC TWO HD 
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 #EXTINF:-1 tvg-id="bbccbbc.uk" tvg-logo="" group-title="UK-USA",BBC CBBC HD
@@ -4025,10 +4024,10 @@ https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 #EXTINF:-1 tvg-id="more4.uk" tvg-logo="" group-title="UK-USA",More4
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-logo="" group-title="UK-USA",BBC ONE HD ?
+https://viamotionhsi.netplus.ch/live/eds/bbc1/browser-dash/bbc1.mpd
 #EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",UK-BBC One
 http://1tv41.icu:8080/dU0VBK/801942/53649
-#EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",UK-BBC One Scotland
-http://1tv41.icu:8080/dU0VBK/801942/53755
 #EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA", BBC TWO HD
 #EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",BBC ONE FHD
 https://freelivtv.xyz/stream4k/stream.php?id=8428
