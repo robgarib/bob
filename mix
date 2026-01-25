@@ -3987,11 +3987,7 @@ https://tvpass.org/live/yes-network/hd
 
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="UK-USA",=== UK-USA ===
 http://patbuweb.com/iptv/e2liste/startend.avi 
-
-#EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",US BBC America
-http://1tv41.icu:8080/ufBu62/935118/20194
-#EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-
-BBC_Two_logo_2021.svg.png" group-title="UK-USA",UK-BBC One
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-logo="" group-title="UK-USA",UK-BBC One
 http://1tv41.icu:8080/ufBu62/935118/53649
 #EXTINF:-1 tvg-id="bbctwo.uk" tvg-logo="" group-title="UK-USA",BBC TWO HD 
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
@@ -3999,6 +3995,8 @@ https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 #EXTINF:-1 tvg-id="bbccbbc.uk" tvg-logo="" group-title="UK-USA",BBC CBeebies HD 
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
+#EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",US BBC America
+http://1tv41.icu:8080/ufBu62/935118/20194
 #EXTINF:-1 tvg-id="bbcnews.uk" tvg-logo="" group-title="UK-USA",BBC NEWS HD
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
 #EXTINF:-1 tvg-id="itv1.uk" tvg-logo="" group-title="UK-USA",itv1 HD 
@@ -4034,11 +4032,9 @@ https://viamotionhsi.netplus.ch/live/eds/bbc1/browser-dash/bbc1.mpd
 http://1tv41.icu:8080/dU0VBK/801942/53649
 #EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",UK-BBC One
 http://1tv41.icu:8080/ufBu62/935118/20194
-#EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-
-BBC_Two_logo_2021.svg.png" group-title="UK-USA",UK-BBC One
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-logo="" group-title="UK-USA",UK-BBC One
 http://1tv41.icu:8080/ufBu62/935118/53649
-#EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-
-BBC_Two_logo_2021.svg.png" group-title="UK-USA",UK-BBC One Scotland
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-logo="" group-title="UK-USA",UK-BBC One Scotland
 http://1tv41.icu:8080/ufBu62/935118/53755
 #EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-
 BBC_Two_logo_2021.svg.png" group-title="UK-USA",UK: BBC TWO HD
