@@ -238,6 +238,8 @@ https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
 #EXTINF:-1 tvg-id="RTS2.ch@SD"" group-title="Svizzera",RTS 2 (Stream 2)
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
+#EXTINF:-1 tvg-id="Couleur3.ch@SD"" group-title="Svizzera",Couleur 3 (720p)
+https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="" group-title="Svizzera",SRF1 (stream mdp)
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="" group-title="Svizzera",SRF2 (stream mdp)
@@ -3989,6 +3991,8 @@ https://tvpass.org/live/yes-network/hd
 http://patbuweb.com/iptv/e2liste/startend.avi 
 #EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",BBC ONE
 http://1tv41.icu:8080/ufBu62/935118/53649
+#EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",BBC ONE
+http://1tv41.icu:8080/dU0VBK/801942/53649
 #EXTINF:-1 tvg-id="bbctwo.uk" tvg-logo="" group-title="UK-USA",BBC TWO HD 
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 #EXTINF:-1 tvg-id="bbccbbc.uk" tvg-logo="" group-title="UK-USA",BBC CBBC HD
@@ -4017,16 +4021,15 @@ https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-dash/cnbc.mpd
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
 #EXTINF:-1 tvg-id="channel4.uk" tvg-logo="" group-title="UK-USA",channel4 HD
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
-#EXTINF:-1 tvg-id="channel5.uk" tvg-logo="",channel5 HD
-https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 #EXTINF:-1 tvg-id="film4.uk" tvg-logo="" group-title="UK-USA",FILM4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 #EXTINF:-1 tvg-id="more4.uk" tvg-logo="" group-title="UK-USA",More4
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
+#EXTINF:-1 tvg-id="Channel5.uk@HD"" group-title="UK-USA",Channel 5 HD
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
-
-#EXTINF:-1 tvg-id="bbc1.uk" tvg-logo="" group-title="UK-USA",BBC ONE HD ?
-https://viamotionhsi.netplus.ch/live/eds/bbc1/browser-dash/bbc1.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@YorkshireLincolnshire"" group-title="UK-USA",BBC One Yorkshire & Lincolnshire (1080p)
+http://92.114.85.72:8000/play/a0mp
 #EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",BBC ONE
 http://1tv41.icu:8080/dU0VBK/801942/53649
 #EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",BBC America
@@ -4051,6 +4054,8 @@ http://1tv41.icu:8080/ufBu62/935118/53665
 http://1tv41.icu:8080/ufBu62/935118/53666
 #EXTINF:-1 tvg-id="" tvg-name="Wonder" tvg-logo="https://i.imgur.com/450pJvs.png" group-title="UK-USA",Wonder
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8 
+#EXTINF:-1 tvg-id="SonyMax.uk@SD"" group-title="UK-USA",Sony Max (576p)
+http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/SONYMAX/index.m3u8
 
 
 #EXTINF:-1 group-title="UK-USA" tvg-id="PBSAmerica.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PBS_America_logo.png",PBS America
@@ -4192,16 +4197,6 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" group-title="UK-USA",BBC News (720p)
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBCUHD1.uk" group-title="UK-USA",BBC UHD 1 (2160p) [Geo-blocked] [Not 24/7]
-https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd
-#EXTINF:-1 tvg-id="BBCUHD2.uk" group-title="UK-USA",BBC UHD 2 (2160p) [Geo-blocked] [Not 24/7]
-https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_02/iptv_uhd_v1.mpd
-#EXTINF:-1 tvg-id="BBCUHD3.uk" group-title="UK-USA",BBC UHD 3 (2160p) [Geo-blocked] [Not 24/7]
-https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_03/iptv_uhd_v1.mpd
-#EXTINF:-1 tvg-id="BBCUHD4.uk" group-title="UK-USA",BBC UHD 4 (2160p) [Geo-blocked] [Not 24/7]
-https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_04/iptv_uhd_v1.mpd
-#EXTINF:-1 tvg-id="BBCUHD5.uk" group-title="UK-USA",BBC UHD 5 (2160p) [Geo-blocked] [Not 24/7]
-https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd
 #EXTINF:-1 tvg-id="BBCAlba.uk" group-title="UK-USA",BBC Alba (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd
 
@@ -4296,6 +4291,8 @@ https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
 https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 #EXTINF:-1,group-title="Vari",carac4
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Carac5.ch@HD""group-title="Vari",Carac 5 (1080p)
+https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
 
 #EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://picserve.netplus.ch/channels/rts1hd.png"group-title="Vari",RTS 1 HD 1080p
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
@@ -4359,6 +4356,10 @@ https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-dash/rmcdecouvert
 https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-dash/planeteplus.mpd
 #EXTINF:-1 tvg-id="animaux.fr" tvg-logo="https://picserve.netplus.ch/channels/animaux.png"group-title="Vari",ANIMAUX HD 720p
 https://viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd
+#EXTINF:-1 tvg-id="LaTrois.be@SD""group-title="Vari",La Trois
+http://103.184.64.85:12000/stream/allchannel/rtbflatrois/master.m3u8
+#EXTINF:-1 tvg-id="LaUne.be@SD""group-title="Vari",La Une (1080p)
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-logo=""group-title="Vari",SRF1 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
@@ -4371,7 +4372,12 @@ https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
 #EXTINF:-1 tvg-id="orf2.at" tvg-logo=""group-title="Vari",ORF2 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 
-
+#EXTINF:-1 tvg-id="ORF1.at@SD""group-title="Vari",ORF 1
+https://dash2.antik.sk/live/test_orf_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="ORF2.at@SD""group-title="Vari",ORF 2
+https://dash4.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="ORFIII.at@HD""group-title="Vari",ORF III HD (720p)
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GcZR4DM/daserste.png"group-title="Vari",DAS ERSTE DE
 http://daserstedash.akamaized.net/dash/live/2103597/daserste/dvbt2/manifest.mpd
 #EXTINF:-1 tvg-id="zdf.de" tvg-logo=""group-title="Vari",ZDF HD 720p
@@ -4388,6 +4394,10 @@ https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-dash/swrbw.mpd
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 #EXTINF:-1 tvg-id="tele5.de" tvg-logo=""group-title="Vari",tele5 D
 https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
+#EXTINF:-1 tvg-id="kabeleins.de@SD""group-title="Vari",kabel eins
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="ProSieben.de@SD""group-title="Vari",ProSieben (1080p)
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="vox.de" tvg-logo=""group-title="Vari",VOX
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
 #EXTINF:-1 tvg-id="kika.de" tvg-logo=""group-title="Vari",KIKA HD
