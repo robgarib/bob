@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 24/01/26---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 25/01/26---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 https://patbuweb.com/iptv/e2liste/startend.avi
@@ -3990,8 +3990,9 @@ http://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",US BBC America
 http://1tv41.icu:8080/ufBu62/935118/20194
-#EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",BBC ONE
-http://1tv41.icu:8080/dU0VBK/801942/53649
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-
+BBC_Two_logo_2021.svg.png" group-title="UK-USA",UK-BBC One
+http://1tv41.icu:8080/ufBu62/935118/53649
 #EXTINF:-1 tvg-id="bbctwo.uk" tvg-logo="" group-title="UK-USA",BBC TWO HD 
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 #EXTINF:-1 tvg-id="bbccbbc.uk" tvg-logo="" group-title="UK-USA",BBC CBBC HD
@@ -4024,19 +4025,38 @@ https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 #EXTINF:-1 tvg-id="more4.uk" tvg-logo="" group-title="UK-USA",More4
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
+#EXTINF:-1 tvg-id="channel4.uk" tvg-logo="" group-title="UK-USA",UK-Channel 5
+http://1tv41.icu:8080/ufBu62/935118/53653
 
 #EXTINF:-1 tvg-id="bbc1.uk" tvg-logo="" group-title="UK-USA",BBC ONE HD ?
 https://viamotionhsi.netplus.ch/live/eds/bbc1/browser-dash/bbc1.mpd
+#EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",BBC ONE
+http://1tv41.icu:8080/dU0VBK/801942/53649
 #EXTINF:-1 tvg-id="8428" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="UK-USA",UK-BBC One
 http://1tv41.icu:8080/dU0VBK/801942/53649
-#EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="UK-USA",BBC Two HD (720p)
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-
+BBC_Two_logo_2021.svg.png" group-title="UK-USA",UK-BBC One
+http://1tv41.icu:8080/ufBu62/935118/53649
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-
+BBC_Two_logo_2021.svg.png" group-title="UK-USA",UK-BBC One Scotland
+http://1tv41.icu:8080/ufBu62/935118/53755
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-
+BBC_Two_logo_2021.svg.png" group-title="UK-USA",UK: BBC TWO HD
+http://1tv41.icu:8080/ufBu62/935118/53650
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-
+BBC_Two_logo_2021.svg.png" group-title="UK-USA",BBC Two HD (720p)
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
-
-
+#EXTINF:-1 tvg-id="itv2.uk" tvg-logo="" group-title="UK-USA",UK-ITV
+http://1tv41.icu:8080/ufBu62/935118/53651
+#EXTINF:-1 tvg-id="itv2.uk" tvg-logo="" group-title="UK-USA"UK ITV2 HD 
+http://1tv41.icu:8080/ufBu62/935118/53671
+#EXTINF:-1 tvg-id="itv2.uk" tvg-logo="" group-title="UK-USA"UK-ITV 3
+http://1tv41.icu:8080/ufBu62/935118/53665
+#EXTINF:-1 tvg-id="itv2.uk" tvg-logo="" group-title="UK-USA"UK-ITV 4
+http://1tv41.icu:8080/ufBu62/935118/53666
 #EXTINF:-1 tvg-id="" tvg-name="Wonder" tvg-logo="https://i.imgur.com/450pJvs.png" group-title="UK-USA",Wonder
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="XITE" tvg-logo="https://i.imgur.com/VaDrfKr.png" group-title="UK-USA",XITE
-https://xite-samsung-de.amagi.tv/playlist.m3u8 
+
 
 #EXTINF:-1 group-title="UK-USA" tvg-id="PBSAmerica.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PBS_America_logo.png",PBS America
 #https://pbs-samsunguk.amagi.tv/playlist.m3u8
