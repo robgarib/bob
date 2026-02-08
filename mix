@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 07/02/26---[/COLOR]
+#EXTINF:-1 group-title="FULLMIX",[COLOR lime]---LAST UPDATE 08/02/26---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI ===
 https://patbuweb.com/iptv/e2liste/startend.avi
@@ -2650,54 +2650,47 @@ http://zerotwo.access.ly:2096/orv3cc/cbr47cbr47/761338
 http://zerotwo.access.ly:2096/orv3cc/cbr47cbr47/761339
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ZONA SERIE A HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/zonaserieahd.png" group-title="SPORT",DAZN BAR 214 FHD
-http://cdn.circoloco90eventi.xyz:80/Matpes24/123mat/435460
-#EXTINF:-1 tvg-id="" tvg-name="ZONA SERIE A HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/zonaserieahd.png" group-title="SPORT",Sky Calcio Bar A1 FHD
-http://cdn.circoloco90eventi.xyz:80/Matpes24/123mat/435456
-#EXTINF:-1 tvg-id="" tvg-name="ZONA SERIE A HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/zonaserieahd.png" group-title="SPORT",Sky Calcio Bar A1 HD
-http://cdn.circoloco90eventi.xyz:80/Matpes24/123mat/435457
-#EXTINF:-1 tvg-id="" tvg-name="ZONA SERIE A HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/zonaserieahd.png" group-title="SPORT",Sky Calcio Bar A1 SD
-http://cdn.circoloco90eventi.xyz:80/Matpes24/123mat/435458
-#EXTINF:-1 tvg-id="" tvg-name="ZONA SERIE A HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/zonaserieahd.png" group-title="SPORT",Sky Calcio Bar A2 FHD
-http://cdn.circoloco90eventi.xyz:80/Matpes24/123mat/435462
-#EXTINF:-1 tvg-id="" tvg-name="ZONA SERIE A HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/zonaserieahd.png" group-title="SPORT",Sky Calcio Bar A2 HD
-http://cdn.circoloco90eventi.xyz:80/Matpes24/123mat/435463
-#EXTINF:-1 tvg-id="" tvg-name="ZONA SERIE A HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/zonaserieahd.png" group-title="SPORT",Sky Calcio Bar A2 SD
-http://cdn.circoloco90eventi.xyz:80/Matpes24/123mat/435464
-#EXTINF:-1 tvg-id="" tvg-name="ZONA SERIE A HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/zonaserieahd.png" group-title="SPORT",Sky Calcio Bar A3 HD
-http://cdn.circoloco90eventi.xyz:80/Matpes24/123mat/435459
-#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN FHD" tvg-logo="" group-title="SPORT",IT| ZONA DAZN FHD
-http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/83648
-#EXTINF:-1 tvg-id="" tvg-name="IT| ZONA DAZN 2 FHD" tvg-logo="" group-title="SPORT",IT| ZONA DAZN 2 FHD
-http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/83652
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/dazn1hd.png" group-title="SPORT",DAZN 1 HD
-http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/232982.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/dazn1hd.png" group-title="SPORT",DAZN 1 HD
-http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/232983.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZONA SERIE A HD" tvg-logo="http://b-live.visione.vip/piconsblk/DAZN/zonaserieahd.png" group-title="SPORT",ZONA SERIE A HD
-http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/232984.ts
-#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysport2022/calcioraw.png" group-title="SPORT",Sky Sport Calcio HD
-http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/26877
-#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio FHD" tvg-logo="http://b-live.visione.vip/piconsblk/SPORT/sportcalciofhd.png" group-title="SPORT",Sky Sport Calcio FHD
-http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/89334.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter HD" tvg-logo="" group-title="SPORT",Inter HD
-http://cdn.circoloco90eventi.xyz:80/Matpes24/123mat/548280
-#EXTINF:-1 tvg-id="Inter.it" tvg-name="Inter HD" tvg-logo="http://b-live.visione.vip//piconsblk/SCUDETTI/interhd.png" group-title="SPORT",Inter HD
-http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/159040.ts
-#EXTINF:-1 tvg-id="" tvg-name="Monza HD" tvg-logo="" group-title="SPORT",Monza HD
-http://cdn.circoloco90eventi.xyz:80/Matpes24/123mat/548270
-#EXTINF:-1 tvg-id="Monza.it" tvg-name="Monza HD" tvg-logo="http://b-live.visione.vip//piconsblk/SCUDETTI/monzahd.png" group-title="SPORT",Monza HD
-http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/159030.ts
-#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="EuroSport 1 HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysport2022/eurosport.png" group-title="SPORT",EuroSport 1 HD
-http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/26857
-#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EuroSport 2 HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysport2022/eurosport.png" group-title="SPORT",EuroSport 2 HD
-http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/26858
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="http://b-live.visione.vip/piconsblk/ALTRISPORT/eurosport1hd.png" group-title="SPORT",Eurosport 1 HD
-http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/33942.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD" tvg-logo="http://b-live.visione.vip/piconsblk/ALTRISPORT/eurosport2hd.png" group-title="SPORT",Eurosport 2 HD
-http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/33946.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pesca HD" tvg-logo="http://b-live.visione.vip/piconsblk/ALTRISPORT/pescahd.png" group-title="SPORT",Pesca HD
-http://q5m4k4i3y2a483y2h4n4.team.look-pvt.com:80/live/Riccardo10/mDlE59A7nD/33953.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SERIE A 1 HD" tvg-logo="https://i.imgur.com/zwarI17.png" group-title="SPORT",ZONA DAZN SERIE A 1 HD
+http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/103988
+#EXTINF:-1 tvg-id="" tvg-name="DAZN DIRETTA GOL SERIE A HD" tvg-logo="https://i.imgur.com/Yie2ubo.png" group-title="SPORT",DAZN DIRETTA GOL SERIE A HD
+http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/53978
+#EXTINF:-1 tvg-id="" tvg-name="DAZN DIRETTA GOL SERIE B HD" tvg-logo="https://i.imgur.com/ohc6nrK.png" group-title="SPORT",DAZN DIRETTA GOL SERIE B HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://i.imgur.com/njVJJyf.png" group-title="SPORT",DAZN 1 HD
+http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/106812
+#EXTINF:-1 tvg-id="" tvg-name="Serie A Inter HD" tvg-logo="https://i.imgur.com/Tu2zKdq.png" group-title="SPORT",Serie A Inter HD
+http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/158843
+#EXTINF:-1 tvg-id="" tvg-name="Serie B Monza HD" tvg-logo="https://i.imgur.com/iSpyJQh.png" group-title="SPORT",Serie B Monza HD
+http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/158951
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME BAR HD" tvg-logo="https://i.imgur.com/cbxTWad.png" group-title="SPORT",AMAZON PRIME BAR HD
+http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/135606
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24 HD" tvg-logo="https://i.ibb.co/mrp4v4p/sport-24.png" group-title="SPORT",SKY SPORT 24 HD
+http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/4931
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT BAR UNO HD" tvg-logo="https://i.imgur.com/txNYeDy.png" group-title="SPORT",SKY SPORT BAR UNO HD
+http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/135973
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BAR DUE HD" tvg-logo="https://i.imgur.com/QvD6yAY.png" group-title="SPORT",SKY SPORT BAR DUE HD
+http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/135975
+#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="SKY SPORT CALCIO HD" tvg-logo="https://i.imgur.com/wCySXYV.png" group-title="SPORT",SKY SPORT CALCIO HD
+http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/2210
+#EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="SKY SPORT UNO HD" tvg-logo="https://i.ibb.co/WD3cTyd/sport-uno.png" group-title="SPORT",SKY SPORT UNO HD
+http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/62555
+SPORT",SKY SPORT ARENA HD
+http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/28195
+#EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="SKY SPORT F1 HD" tvg-logo="https://i.imgur.com/O82yk94.png" group-title="SPORT",SKY SPORT F1 HD
+http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/58417
+#EXTINF:-1 tvg-id="Sky Sport MotoGP" tvg-name="SKY SPORT MOTOGP HD" tvg-logo="https://i.imgur.com/eWNqmhW.png" group-title="SPORT",SKY SPORT MOTOGP HD
+http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/379
+#EXTINF:-1 tvg-id="SkySportMax.it" tvg-name="SKY SPORT MAX HD" tvg-logo="https://i.imgur.com/DIGSdpm.png" group-title="SPORT",SKY SPORT MAX HD
+http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/20384
+#EXTINF:-1 tvg-id="SkySportMix.it" tvg-name="sky sport mix hd" tvg-logo="https://i.imgur.com/13qy4UU.png" group-title="SPORT",sky sport mix hd
+http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/152119
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="EUROSPORT 1 FULL HD" tvg-logo="https://i.imgur.com/kZtRYN4.png" group-title="SPORT",EUROSPORT 1 FULL HD
+http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/21406
+#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="EUROSPORT 1 HD" tvg-logo="https://i.imgur.com/kZtRYN4.png" group-title="SPORT",EUROSPORT 1 HD
+http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/86154
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2 FULL HD" tvg-logo="https://i.imgur.com/iQpbkek.png" group-title="SPORT",EUROSPORT 2 FULL HD
+http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/96117
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2 HD" tvg-logo="https://i.imgur.com/iQpbkek.png" group-title="SPORT",EUROSPORT 2 HD
+http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/91402
 
 
 #EXTINF:-1 tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" tvg-shift="0" group-title="SPORT",TVR Sport FHD
@@ -2950,6 +2943,7 @@ http://zerotwo.access.ly:2096/heins21/4230598761/761495
 #EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png"" group-title="SPORT",CANADA: TLN
 http://zerotwo.access.ly:2096/bama1/7908346251/761495
 #EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png"" group-title="SPORT",CANADA: TLN
+#EXTINF:-1 tvg-id="CA: TLN SOCCER" tvg-name="CA: TLN" tvg-logo="" group-title="CANADA",CA: TLN
 http://zerotwo.access.ly:2096/live/Gerobie2121/3654078129/761495.m3u8
 #EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CND| TLN
 http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:55:82:8C&stream=1458846&extension=ts&play_token=J7OZoFvI7o
