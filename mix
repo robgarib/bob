@@ -2655,6 +2655,7 @@ http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/103988
 #EXTINF:-1 tvg-id="" tvg-name="DAZN DIRETTA GOL SERIE A HD" tvg-logo="https://i.imgur.com/Yie2ubo.png" group-title="SPORT",DAZN DIRETTA GOL SERIE A HD
 http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/53978
 #EXTINF:-1 tvg-id="" tvg-name="DAZN DIRETTA GOL SERIE B HD" tvg-logo="https://i.imgur.com/ohc6nrK.png" group-title="SPORT",DAZN DIRETTA GOL SERIE B HD
+http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/65942
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://i.imgur.com/njVJJyf.png" group-title="SPORT",DAZN 1 HD
 http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/106812
 #EXTINF:-1 tvg-id="" tvg-name="Serie A Inter HD" tvg-logo="https://i.imgur.com/Tu2zKdq.png" group-title="SPORT",Serie A Inter HD
@@ -2943,7 +2944,7 @@ http://zerotwo.access.ly:2096/heins21/4230598761/761495
 #EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png"" group-title="SPORT",CANADA: TLN
 http://zerotwo.access.ly:2096/bama1/7908346251/761495
 #EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png"" group-title="SPORT",CANADA: TLN
-#EXTINF:-1 tvg-id="CA: TLN SOCCER" tvg-name="CA: TLN" tvg-logo="" group-title="CANADA",CA: TLN
+#EXTINF:-1 tvg-id="CA: TLN SOCCER" tvg-name="CA: TLN" tvg-logo="" group-title="SPORT",CA: TLN
 http://zerotwo.access.ly:2096/live/Gerobie2121/3654078129/761495.m3u8
 #EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CND| TLN
 http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:55:82:8C&stream=1458846&extension=ts&play_token=J7OZoFvI7o
