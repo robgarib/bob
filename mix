@@ -2946,6 +2946,7 @@ http://zerotwo.access.ly:2096/heins21/4230598761/761495
 #EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png"" group-title="SPORT",CANADA: TLN
 http://zerotwo.access.ly:2096/bama1/7908346251/761495
 #EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png"" group-title="SPORT",CANADA: TLN
+http://zerotwo.access.ly:2096/DougB2023/6501492738/761495
 #EXTINF:-1 tvg-id="TLN.ca" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png"" group-title="SPORT",CANADA: TLN
 http://zerotwo.access.ly:2096/live/Gerobie2121/3654078129/761495.m3u8
 #EXTINF:-1 tvg-id="477006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CND| TLN
@@ -2955,7 +2956,8 @@ http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:55:82:8C&stream=1458846&
 https://tvpass.org/live/CBSSportsNetworkUSA/sd
 #EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA HD" group-title="SPORT",CBS Sports Network USA HD VPN USA
 https://tvpass.org/live/CBSSportsNetworkUSA/hd
-
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US CBS Sports Network HD " tvg-logo="https://juicetv.app/channellogo/cbs.png" group-title="SPORT",US CBS Sports Network HD 
+http://tv14s.xyz:8080/5198074934/wiljosmail@gmail.com/10454
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="https://puddintap.click/ico/USA/CBSSpNet.png" group-title="SPORT",USA: CBS SPORTS NETWORK
 http://zerotwo.access.ly:2096/lowtech/14runityhQ/815026
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="https://puddintap.click/ico/USA/CBSSpNet.png" group-title="SPORT",USA: CBS SPORTS NETWORK
